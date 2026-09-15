@@ -1,0 +1,92 @@
+# Brave New Hive
+
+> A marketing pedia for brands in the age of AI. The Hive is where the knowledge is kept. brave-new.com is where it gets used.
+
+Published by Brave New (https://brave-new.com). Every entry is dated, sourced and signed by the Brave New team.
+
+## Principles
+
+- [The 4 Ps of marketing](https://bravenewhive.com/principles/4-ps-of-marketing/): Product, price, place, promotion. E. Jerome McCarthy set the frame out in Basic Marketing in 1960, and it is still the first thing most marketers learn.
+- [Positioning in marketing](https://bravenewhive.com/principles/positioning-in-marketing/): Al Ries and Jack Trout argued in 1972 that a brand is a position in the prospect's mind, not a list of features. The book followed in 1981.
+- [Market segmentation](https://bravenewhive.com/principles/market-segmentation/): Wendell Smith's 1956 paper in the Journal of Marketing separated product differentiation from market segmentation. Marketing has been splitting audiences ever since.
+- [Unique selling proposition (USP)](https://bravenewhive.com/principles/unique-selling-proposition/): Rosser Reeves, Reality in Advertising, 1961. Every ad must make a proposition the competition cannot or does not make, and it must be strong enough to move people.
+- [Mental availability and physical availability](https://bravenewhive.com/principles/mental-and-physical-availability/): Byron Sharp's How Brands Grow (2010) argued brands grow by being easy to think of and easy to buy, not by deepening loyalty among a few.
+- [The Long and the Short of It](https://bravenewhive.com/principles/the-long-and-the-short-of-it/): Les Binet and Peter Field, IPA, 2013. Brand building and sales activation work on different timescales, and the mix most often cited is roughly 60 to 40.
+- [AIDA](https://bravenewhive.com/principles/aida/): Attention, interest, desire, action. The sequence is usually attributed to the American advertising writer E. St. Elmo Lewis in the late 1890s.
+- [Brand equity](https://bravenewhive.com/principles/brand-equity/): David Aaker's Managing Brand Equity (1991) and Kevin Lane Keller's customer-based brand equity (1993) gave the value of a name a structure you can measure.
+
+## History of advertising
+
+- [1841. Who invented the advertising agency](https://bravenewhive.com/history-of-advertising/1841-who-invented-the-advertising-agency/): Volney B. Palmer opened what is generally regarded as the first advertising agency in the United States, in Philadelphia, selling newspaper space on commission.
+- [1922. The first paid radio commercial](https://bravenewhive.com/history-of-advertising/1922-the-first-radio-commercial/): On 28 August 1922, WEAF in New York aired a ten-minute talk paid for by the Queensboro Corporation to sell apartments in Jackson Heights.
+- [1941. The first television commercial](https://bravenewhive.com/history-of-advertising/1941-the-first-television-commercial/): On 1 July 1941, a Bulova watch spot ran on WNBT New York before a Dodgers and Phillies game. It showed a clock face and a short line of copy.
+- [1960. The 4 Ps of marketing are published](https://bravenewhive.com/history-of-advertising/1960-the-four-ps/): E. Jerome McCarthy's Basic Marketing gave marketing its first widely taught framework.
+- [1972. The Positioning Era Cometh](https://bravenewhive.com/history-of-advertising/1972-the-positioning-era/): Ries and Trout's series in Advertising Age moved the battleground from the product to the prospect's mind.
+- [1994. The first banner ad](https://bravenewhive.com/history-of-advertising/1994-the-first-banner-ad/): On 27 October 1994, HotWired ran a banner for AT&T. Digital advertising began as a rectangle at the top of a page.
+- [2000. Google launches AdWords](https://bravenewhive.com/history-of-advertising/2000-google-adwords/): In October 2000, Google opened self-service search advertising. The ad was matched to the search query. Intent became something a marketer could buy.
+- [2022. ChatGPT is released](https://bravenewhive.com/history-of-advertising/2022-chatgpt/): OpenAI released ChatGPT on 30 November 2022. Within months, a growing share of buyers were asking a model for a recommendation instead of reading a results page.
+
+## Branding
+
+- [The Coke and Pepsi brain study (the Pepsi paradox)](https://bravenewhive.com/branding/the-coke-pepsi-study/): McClure and colleagues, Neuron, 2004. Told which cola they were drinking, people's stated preference and their brain activity both changed. The brand did the work the taste did not.
+- [System 1 and System 2 thinking in marketing](https://bravenewhive.com/branding/system-1-and-system-2/): Daniel Kahneman, Thinking, Fast and Slow, 2011. Most decisions, including most purchases, run on the fast, automatic system, and the slow one mostly rationalises afterwards.
+- [The somatic marker hypothesis](https://bravenewhive.com/branding/somatic-markers/): Antonio Damasio, Descartes' Error, 1994. Emotion is part of the machinery of choosing, not noise laid over reason. Patients who lost it could not decide.
+- [Where the word came from](https://bravenewhive.com/branding/where-the-word-came-from/): The term neuromarketing is commonly credited to Ale Smidts of Erasmus University in Rotterdam, in 2002.
+- [Processing fluency in marketing](https://bravenewhive.com/branding/processing-fluency-in-marketing/): Things that are easy to read, see and say are judged more true and more likeable. Reber, Schwarz and Winkielman set the effect out in 2004.
+- [Loss aversion in marketing](https://bravenewhive.com/branding/loss-aversion-in-marketing/): Kahneman and Tversky's prospect theory, 1979. Losses weigh roughly twice as much as gains of the same size. Most urgency in marketing borrows from this.
+
+## AI marketing
+
+- [What is AI marketing?](https://bravenewhive.com/ai-marketing/what-is-ai-marketing/): AI marketing is the use of AI systems in marketing work: to research buyers, generate and test creative, target and bid, and to earn a place in the answers AI assistants give when buyers ask for a recommendation.
+- [What is generative engine optimization (GEO)?](https://bravenewhive.com/ai-marketing/what-is-generative-engine-optimization/): Generative engine optimization, or GEO, is the practice of writing and structuring content so that generative engines cite it in the answers they produce. The term comes from a 2023 research paper by Pranjal Aggarwal and colleagues.
+- [What is answer engine optimization (AEO)?](https://bravenewhive.com/ai-marketing/what-is-answer-engine-optimization/): Answer engine optimization, or AEO, is the practice of preparing content so that it is used in a direct answer rather than a list of links. In practice it means answering one question per page, plainly and early.
+- [What is AI SEO?](https://bravenewhive.com/ai-marketing/what-is-ai-seo/): AI SEO means two things: using AI tools to do SEO work faster, and optimising a site so that AI search features and assistants surface it. The second is the one that decides whether a brand appears in an answer.
+- [What is a retrievable brand?](https://bravenewhive.com/ai-marketing/what-is-a-retrievable-brand/): A retrievable brand is one that AI assistants and search engines can find, name and describe correctly when a buyer asks. It is built from clear definitions, named frameworks, sourced facts and one consistent description repeated everywhere.
+- [How do AI models choose which brands to recommend?](https://bravenewhive.com/ai-marketing/how-ai-models-choose-brands/): Models answer from what they were trained on and what they can retrieve at the moment of the question. A brand gets named when it is described the same way across many independent sources and is easy to quote.
+- [How do I get my company mentioned in ChatGPT and Perplexity answers?](https://bravenewhive.com/ai-marketing/get-mentioned-in-chatgpt-and-perplexity/): Publish a plain definition of what you do, keep that description identical everywhere it appears, earn coverage on the sources the engines already cite, and make your pages easy to read, date and attribute. Then check the answers monthly.
+- [What is llms.txt?](https://bravenewhive.com/ai-marketing/what-is-llms-txt/): llms.txt is a plain text file placed at the root of a website that gives AI systems a short, curated summary of the site and links to its most useful pages. Jeremy Howard of Answer.AI proposed it in 2024.
+- [Why does brand consistency matter for AI search?](https://bravenewhive.com/ai-marketing/why-brand-consistency-matters-for-ai-search/): Because a model reads every version of your company that exists online and averages them. Three different descriptions produce a vague answer or no answer. One description, repeated exactly, produces a sentence the model can quote.
+
+## Reputation
+
+- [Brand versus reputation: what is the difference?](https://bravenewhive.com/reputation/brand-versus-reputation/): A brand is what a company says and shows about itself. A reputation is what others conclude from what it does. One is authored, the other is earned, and in a buying meeting the second one decides.
+- [The Edelman Trust Barometer](https://bravenewhive.com/reputation/the-edelman-trust-barometer/): An annual survey of trust in business, government, media and NGOs, published by Edelman every year since 2001. It is the most cited public measure of institutional trust.
+- [1982. The Tylenol case](https://bravenewhive.com/reputation/the-tylenol-case-1982/): After seven people in the Chicago area died from cyanide-laced Tylenol capsules, Johnson & Johnson recalled the product nationwide and introduced tamper-evident packaging. It remains the reference case in crisis communications.
+- [What is trust architecture?](https://bravenewhive.com/reputation/trust-architecture/): Trust architecture is the deliberate arrangement of proof around a company so that a buyer, a journalist or a model can verify its claims without asking. At Brave New it is the name of that discipline.
+- [What is reputation risk?](https://bravenewhive.com/reputation/reputation-risk/): Reputation risk is the chance that an event, a decision or a disclosure changes what stakeholders believe about a company, and with it the company's ability to sell, hire, borrow or be regulated on the same terms.
+
+## Readings
+
+- [How Brands Grow. Byron Sharp (2010)](https://bravenewhive.com/readings/how-brands-grow-byron-sharp/): The evidence-based case that brands grow by reaching more buyers, not by deepening loyalty. Built on decades of purchase data from the Ehrenberg-Bass Institute.
+- [Ogilvy on Advertising. David Ogilvy (1983)](https://bravenewhive.com/readings/ogilvy-on-advertising/): The working manual of the man who built Ogilvy & Mather, on headlines, layouts, research and the difference between advertising that wins awards and advertising that sells.
+- [Positioning: The Battle for Your Mind. Al Ries and Jack Trout (1981)](https://bravenewhive.com/readings/positioning-ries-and-trout/): The book that moved the battleground from the product to the prospect's mind. Own a word, or a place relative to the leader, before someone else does.
+- [Thinking, Fast and Slow. Daniel Kahneman (2011)](https://bravenewhive.com/readings/thinking-fast-and-slow-kahneman/): Kahneman's summary of forty years of research with Amos Tversky on how judgement works in practice: two systems, one fast and automatic, one slow and lazy.
+- [The Long and the Short of It. Les Binet and Peter Field (2013)](https://bravenewhive.com/readings/the-long-and-the-short-of-it-binet-field/): The IPA study of what produced measurable business effects across hundreds of campaigns: brand building and sales activation work on different timescales and need different creative.
+- [Alchemy. Rory Sutherland (2019)](https://bravenewhive.com/readings/alchemy-rory-sutherland/): Sutherland's argument that the most valuable ideas in business do not survive a spreadsheet, because people do not choose the way economics assumes they do.
+- [Influence. Robert Cialdini (1984)](https://bravenewhive.com/readings/influence-cialdini/): Cialdini's six principles of persuasion, reciprocity, commitment, social proof, authority, liking and scarcity, each traced to the research and the compliance professionals who use it.
+
+## Research
+
+- [How the AI search vocabulary moved in a year](https://bravenewhive.com/research/how-the-ai-search-vocabulary-moved/): Three terms for the same worry, tracked month by month. AI marketing spiked and settled, generative engine optimization drifted down from its peak, and answer engine optimization held flat at a lower level.
+- [How AI engines answer marketing questions: a citation study](https://bravenewhive.com/research/how-ai-engines-answer-marketing-questions/): We asked a live AI engine eight marketing questions and checked every source it named. For six of the eight it never searched, and 21 of the 52 sources it listed do not exist.
+- [What people search for in marketing: the demand map](https://bravenewhive.com/research/what-people-search-for-in-marketing/): US monthly search volumes for the topics a marketing reference site might cover. The concept names win, the author names do not, and two categories we planned barely exist as searches.
+
+## Movies and songs
+
+- [This Note's for You. Neil Young (1988)](https://bravenewhive.com/songs/this-notes-for-you/): A refusal to sell songs to sponsors, with a title that parodies a beer slogan. MTV initially declined to air the video, then gave it Video of the Year in 1989.
+- [Thank You for Smoking (2005)](https://bravenewhive.com/movies-about-advertising/thank-you-for-smoking/): Jason Reitman's satire follows a tobacco lobbyist who can argue any side. A film about spin, and about the difference between persuasion and truth.
+- [Sell Out. Reel Big Fish (1996)](https://bravenewhive.com/songs/sell-out/): A ska-punk band signs to a major label and writes a hit about signing to a major label. The commercial bargain, sung from inside it.
+- [The Founder (2016)](https://bravenewhive.com/movies-about-advertising/the-founder/): Ray Kroc turns a single hamburger stand into McDonald's. The product was the brothers'. The brand, the system and the name became his.
+- [Art & Copy (2009)](https://bravenewhive.com/movies-about-advertising/art-and-copy/): Doug Pray's documentary on the creative revolution in advertising, with Lee Clow, George Lois, Mary Wells Lawrence, Hal Riney and others on the work that defined the trade.
+- [Television, the Drug of the Nation. The Disposable Heroes of Hiphoprisy (1992)](https://bravenewhive.com/songs/television-the-drug-of-the-nation/): Michael Franti's spoken-word indictment of broadcast media, consumption and attention, written before the feed replaced the channel.
+- [The Greatest Movie Ever Sold (2011)](https://bravenewhive.com/movies-about-advertising/the-greatest-movie-ever-sold/): Morgan Spurlock makes a documentary about product placement, funded entirely by product placement. The pitch meetings are the film.
+- [Money. Pink Floyd (1973)](https://bravenewhive.com/songs/money/): Cash registers as percussion, a 7/4 riff, and a lyric about the economy of wanting. From The Dark Side of the Moon.
+- [The Century of the Self (2002)](https://bravenewhive.com/movies-about-advertising/the-century-of-the-self/): Adam Curtis's four-part BBC series on Edward Bernays and how ideas from psychoanalysis were used to shape public relations, advertising and consumer culture.
+- [Material Girl. Madonna (1984)](https://bravenewhive.com/songs/material-girl/): Consumer desire as identity, delivered as pop. The video restages Marilyn Monroe's Diamonds Are a Girl's Best Friend.
+- [How to Get Ahead in Advertising (1989)](https://bravenewhive.com/movies-about-advertising/how-to-get-ahead-in-advertising/): Bruce Robinson's comedy about an ad executive whose crisis of conscience grows into a talking boil that wants his job.
+- [Advertising Space. Robbie Williams (2005)](https://bravenewhive.com/songs/advertising-space/): A ballad about Elvis Presley and what fame does to a person once the image becomes inventory.
+- [The Joneses (2009)](https://bravenewhive.com/movies-about-advertising/the-joneses/): A perfect family moves into a wealthy suburb. They are not a family. They are a stealth marketing unit, and everything they own is for sale.
+- [Don't Believe the Hype. Public Enemy (1988)](https://bravenewhive.com/songs/dont-believe-the-hype/): A song about manufactured media narratives and who gets to write them. From It Takes a Nation of Millions to Hold Us Back.
+- [Mad Men (2007 to 2015)](https://bravenewhive.com/movies-about-advertising/mad-men/): Seven seasons of Madison Avenue in the 1960s. The Carousel pitch in the first season is still the best short explanation of what a brand sells.
+- [Radio Radio. Elvis Costello and the Attractions (1978)](https://bravenewhive.com/songs/radio-radio/): A protest against commercial radio and the control of what gets heard. Costello famously switched to it mid-performance on Saturday Night Live in 1977.
+- [Putney Swope (1969)](https://bravenewhive.com/movies-about-advertising/putney-swope/): Robert Downey Sr.'s satire: the token Black executive at a Madison Avenue agency is accidentally elected chairman and turns the place upside down.
