@@ -71,22 +71,25 @@ Published by Brave New (https://brave-new.com). Every entry is dated, sourced an
 - [How AI engines answer marketing questions: a citation study](https://bravenewhive.com/research/how-ai-engines-answer-marketing-questions/): We asked a live AI engine eight marketing questions and checked every source it named. For six of the eight it never searched, and 21 of the 52 sources it listed do not exist.
 - [What people search for in marketing: the demand map](https://bravenewhive.com/research/what-people-search-for-in-marketing/): US monthly search volumes for the topics a marketing reference site might cover. The concept names win, the author names do not, and two categories we planned barely exist as searches.
 
-## Movies and songs
+## Movies about advertising
 
-- [This Note's for You. Neil Young (1988)](https://bravenewhive.com/songs/this-notes-for-you/): A refusal to sell songs to sponsors, with a title that parodies a beer slogan. MTV initially declined to air the video, then gave it Video of the Year in 1989.
 - [Thank You for Smoking (2005)](https://bravenewhive.com/movies-about-advertising/thank-you-for-smoking/): Jason Reitman's satire follows a tobacco lobbyist who can argue any side. A film about spin, and about the difference between persuasion and truth.
-- [Sell Out. Reel Big Fish (1996)](https://bravenewhive.com/songs/sell-out/): A ska-punk band signs to a major label and writes a hit about signing to a major label. The commercial bargain, sung from inside it.
 - [The Founder (2016)](https://bravenewhive.com/movies-about-advertising/the-founder/): Ray Kroc turns a single hamburger stand into McDonald's. The product was the brothers'. The brand, the system and the name became his.
 - [Art & Copy (2009)](https://bravenewhive.com/movies-about-advertising/art-and-copy/): Doug Pray's documentary on the creative revolution in advertising, with Lee Clow, George Lois, Mary Wells Lawrence, Hal Riney and others on the work that defined the trade.
-- [Television, the Drug of the Nation. The Disposable Heroes of Hiphoprisy (1992)](https://bravenewhive.com/songs/television-the-drug-of-the-nation/): Michael Franti's spoken-word indictment of broadcast media, consumption and attention, written before the feed replaced the channel.
 - [The Greatest Movie Ever Sold (2011)](https://bravenewhive.com/movies-about-advertising/the-greatest-movie-ever-sold/): Morgan Spurlock makes a documentary about product placement, funded entirely by product placement. The pitch meetings are the film.
-- [Money. Pink Floyd (1973)](https://bravenewhive.com/songs/money/): Cash registers as percussion, a 7/4 riff, and a lyric about the economy of wanting. From The Dark Side of the Moon.
 - [The Century of the Self (2002)](https://bravenewhive.com/movies-about-advertising/the-century-of-the-self/): Adam Curtis's four-part BBC series on Edward Bernays and how ideas from psychoanalysis were used to shape public relations, advertising and consumer culture.
-- [Material Girl. Madonna (1984)](https://bravenewhive.com/songs/material-girl/): Consumer desire as identity, delivered as pop. The video restages Marilyn Monroe's Diamonds Are a Girl's Best Friend.
 - [How to Get Ahead in Advertising (1989)](https://bravenewhive.com/movies-about-advertising/how-to-get-ahead-in-advertising/): Bruce Robinson's comedy about an ad executive whose crisis of conscience grows into a talking boil that wants his job.
-- [Advertising Space. Robbie Williams (2005)](https://bravenewhive.com/songs/advertising-space/): A ballad about Elvis Presley and what fame does to a person once the image becomes inventory.
 - [The Joneses (2009)](https://bravenewhive.com/movies-about-advertising/the-joneses/): A perfect family moves into a wealthy suburb. They are not a family. They are a stealth marketing unit, and everything they own is for sale.
-- [Don't Believe the Hype. Public Enemy (1988)](https://bravenewhive.com/songs/dont-believe-the-hype/): A song about manufactured media narratives and who gets to write them. From It Takes a Nation of Millions to Hold Us Back.
 - [Mad Men (2007 to 2015)](https://bravenewhive.com/movies-about-advertising/mad-men/): Seven seasons of Madison Avenue in the 1960s. The Carousel pitch in the first season is still the best short explanation of what a brand sells.
-- [Radio Radio. Elvis Costello and the Attractions (1978)](https://bravenewhive.com/songs/radio-radio/): A protest against commercial radio and the control of what gets heard. Costello famously switched to it mid-performance on Saturday Night Live in 1977.
 - [Putney Swope (1969)](https://bravenewhive.com/movies-about-advertising/putney-swope/): Robert Downey Sr.'s satire: the token Black executive at a Madison Avenue agency is accidentally elected chairman and turns the place upside down.
+
+## Songs
+
+- [This Note's for You. Neil Young (1988)](https://bravenewhive.com/songs/this-notes-for-you/): A refusal to sell songs to sponsors, with a title that parodies a beer slogan. MTV initially declined to air the video, then gave it Video of the Year in 1989.
+- [Sell Out. Reel Big Fish (1996)](https://bravenewhive.com/songs/sell-out/): A ska-punk band signs to a major label and writes a hit about signing to a major label. The commercial bargain, sung from inside it.
+- [Television, the Drug of the Nation. The Disposable Heroes of Hiphoprisy (1992)](https://bravenewhive.com/songs/television-the-drug-of-the-nation/): Michael Franti's spoken-word indictment of broadcast media, consumption and attention, written before the feed replaced the channel.
+- [Money. Pink Floyd (1973)](https://bravenewhive.com/songs/money/): Cash registers as percussion, a 7/4 riff, and a lyric about the economy of wanting. From The Dark Side of the Moon.
+- [Material Girl. Madonna (1984)](https://bravenewhive.com/songs/material-girl/): Consumer desire as identity, delivered as pop. The video restages Marilyn Monroe's Diamonds Are a Girl's Best Friend.
+- [Advertising Space. Robbie Williams (2005)](https://bravenewhive.com/songs/advertising-space/): A ballad about Elvis Presley and what fame does to a person once the image becomes inventory.
+- [Don't Believe the Hype. Public Enemy (1988)](https://bravenewhive.com/songs/dont-believe-the-hype/): A song about manufactured media narratives and who gets to write them. From It Takes a Nation of Millions to Hold Us Back.
+- [Radio Radio. Elvis Costello and the Attractions (1978)](https://bravenewhive.com/songs/radio-radio/): A protest against commercial radio and the control of what gets heard. Costello famously switched to it mid-performance on Saturday Night Live in 1977.

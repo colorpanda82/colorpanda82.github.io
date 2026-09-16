@@ -1,0 +1,7 @@
+# Netlify redirects. Every page is a directory with an index.html and every canonical
+# URL ends in a slash (astro.config: trailingSlash 'always'), so the two ways a reader
+# or a crawler can spell it wrong both land on the canonical one.
+/index.html            /       301
+/*/index.html          /:splat/  301
+
+# The 404 page is served for anything else by Netlify's convention (dist/404.html).

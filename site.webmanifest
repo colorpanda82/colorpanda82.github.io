@@ -1,0 +1,14 @@
+{
+  "name": "Brave New Hive",
+  "short_name": "Hive",
+  "description": "A marketing pedia for brands in the age of AI.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#faf8fa",
+  "theme_color": "#0E1830",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

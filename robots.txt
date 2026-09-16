@@ -1,4 +1,47 @@
+# Brave New Hive is written to be read by people and by machines. Every crawler,
+# including the AI ones, is welcome on the same terms as a reader (see /terms/): quote
+# and link, do not republish whole entries as your own. Named explicitly so the welcome
+# is a decision and not a default.
 User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
 Allow: /
 
 Sitemap: https://bravenewhive.com/sitemap-index.xml

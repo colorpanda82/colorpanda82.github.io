@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-copy-link]`);if(e&&navigator.clipboard){e.hidden=!1;let t=e.querySelector(`.copied`);e.addEventListener(`click`,async()=>{try{await navigator.clipboard.writeText(e.dataset.copyLink??location.href),t&&(t.textContent=`Copied`,setTimeout(()=>t.textContent=``,1600))}catch{}})}
