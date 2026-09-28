@@ -2,18 +2,18 @@
 
 > A marketing pedia for brands in the age of AI. The Hive is where the knowledge is kept. brave-new.com is where it gets used.
 
-Published by Brave New (https://brave-new.com). Every entry is dated, sourced and signed by the Brave New team.
+Published by Brave New. Every entry is dated, sourced and signed by Anne Becheru.
 
 ## Principles
 
-- [The 4 Ps of marketing](https://bravenewhive.com/principles/4-ps-of-marketing/): Product, price, place, promotion. E. Jerome McCarthy set the frame out in Basic Marketing in 1960, and it is still the first thing most marketers learn.
-- [Positioning in marketing](https://bravenewhive.com/principles/positioning-in-marketing/): Al Ries and Jack Trout argued in 1972 that a brand is a position in the prospect's mind, not a list of features. The book followed in 1981.
-- [Market segmentation](https://bravenewhive.com/principles/market-segmentation/): Wendell Smith's 1956 paper in the Journal of Marketing separated product differentiation from market segmentation. Marketing has been splitting audiences ever since.
-- [Unique selling proposition (USP)](https://bravenewhive.com/principles/unique-selling-proposition/): Rosser Reeves, Reality in Advertising, 1961. Every ad must make a proposition the competition cannot or does not make, and it must be strong enough to move people.
-- [Mental availability and physical availability](https://bravenewhive.com/principles/mental-and-physical-availability/): Byron Sharp's How Brands Grow (2010) argued brands grow by being easy to think of and easy to buy, not by deepening loyalty among a few.
-- [The Long and the Short of It](https://bravenewhive.com/principles/the-long-and-the-short-of-it/): Les Binet and Peter Field, IPA, 2013. Brand building and sales activation work on different timescales, and the mix most often cited is roughly 60 to 40.
-- [AIDA](https://bravenewhive.com/principles/aida/): Attention, interest, desire, action. The sequence is usually attributed to the American advertising writer E. St. Elmo Lewis in the late 1890s.
-- [Brand equity](https://bravenewhive.com/principles/brand-equity/): David Aaker's Managing Brand Equity (1991) and Kevin Lane Keller's customer-based brand equity (1993) gave the value of a name a structure you can measure.
+- [The 4 Ps of marketing](https://bravenewhive.com/principles/4-ps-of-marketing/): The marketing mix says a marketer's job is to set four controllable variables: product, price, place and promotion. It is a classification, not a theory, and has never been tested as one.
+- [Positioning in marketing](https://bravenewhive.com/principles/positioning-in-marketing/): Positioning, as Ries and Trout set it out in 1972, claims that a brand wins by occupying one clear slot in the prospect's memory. The memory half holds up.
+- [Market segmentation](https://bravenewhive.com/principles/market-segmentation/): Market segmentation claims a market is not one demand curve but several, and that a firm does better serving some of them well than all of them adequately. The evidence supports that claim for categories: buyers differ in what they want and how much they use.
+- [Unique selling proposition (USP)](https://bravenewhive.com/principles/unique-selling-proposition/): Rosser Reeves set out the unique selling proposition in 1961 as a three-part rule: every advertisement must offer a specific benefit, competitors must not claim it, and it must be strong enough to pull new buyers. His evidence was agency data.
+- [Mental availability and physical availability](https://bravenewhive.com/principles/mental-and-physical-availability/): Sharp's claim is that brands grow by being easy to think of and easy to buy, because loyalty follows market share rather than causing it. The second half is well tested: double jeopardy holds in 32 differentiated replications, in cars, business banking, aircraft and packaged goods.
+- [The Long and the Short of It](https://bravenewhive.com/principles/the-long-and-the-short-of-it/): Binet and Field claim that advertising works in two modes on two clocks: activation sells now and fades, brand building sells later and compounds, so budgets should lean long, at roughly 60:40. The evidence is 996 award entries in which volume arrives within months, pricing power takes years, and efficiency peaks at 30 to 50 percent activation.
+- [AIDA](https://bravenewhive.com/principles/aida/): AIDA claims that a buyer passes through attention, interest, desire and action in that order, and that a message should push them along it. The attribution to E. St. Elmo Lewis in 1898 rests on one uncited sentence in a 1925 textbook; the four steps first appear in salesmanship magazines of 1903 and 1904 under other names.
+- [Brand equity](https://bravenewhive.com/principles/brand-equity/): Brand equity is the claim that a name adds value beyond what the product does, and that this value can be built, measured and banked. Aaker (1991) listed the assets; Keller (1993) located them in the customer's memory.
 
 ## History of advertising
 
@@ -67,8 +67,8 @@ Published by Brave New (https://brave-new.com). Every entry is dated, sourced an
 
 ## Research
 
-- [How the AI search vocabulary moved in a year](https://bravenewhive.com/research/how-the-ai-search-vocabulary-moved/): Three terms for the same worry, tracked month by month. AI marketing spiked and settled, generative engine optimization drifted down from its peak, and answer engine optimization held flat at a lower level.
 - [How AI engines answer marketing questions: a citation study](https://bravenewhive.com/research/how-ai-engines-answer-marketing-questions/): We asked a live AI engine eight marketing questions and checked every source it named. For six of the eight it never searched, and 21 of the 52 sources it listed do not exist.
+- [How the AI search vocabulary moved in a year](https://bravenewhive.com/research/how-the-ai-search-vocabulary-moved/): Three terms for the same worry, tracked month by month. AI marketing spiked and settled, generative engine optimization drifted down from its peak, and answer engine optimization held flat at a lower level.
 - [What people search for in marketing: the demand map](https://bravenewhive.com/research/what-people-search-for-in-marketing/): US monthly search volumes for the topics a marketing reference site might cover. The concept names win, the author names do not, and two categories we planned barely exist as searches.
 
 ## Movies about advertising

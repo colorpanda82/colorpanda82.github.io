@@ -2,7 +2,7 @@
 
 > A marketing pedia for brands in the age of AI. The Hive is where the knowledge is kept. brave-new.com is where it gets used.
 
-Full text of every entry. Published by Brave New (https://brave-new.com). Every entry is dated, sourced and signed by the Brave New team.
+Full text of every entry. Published by Brave New. Every entry is dated, sourced and signed by Anne Becheru.
 
 ## 01 Principles
 
@@ -11,90 +11,1150 @@ The handful of ideas most marketing still rests on, each with the person and the
 ### The 4 Ps of marketing
 
 Source: https://bravenewhive.com/principles/4-ps-of-marketing/
-Date: 2026-09-08. Read: 3 min.
+Date: 2026-09-08. Read: 10 min.
 
-Product, price, place, promotion. E. Jerome McCarthy set the frame out in Basic Marketing in 1960, and it is still the first thing most marketers learn.
+The marketing mix says a marketer's job is to set four controllable variables: product, price, place and promotion. It is a classification, not a theory, and has never been tested as one. What has been tested is the weight of each element. Across 70 French brands, product and distribution moved long-run sales at roughly ten times the elasticity of advertising and discounting [11]. Practitioners run the mix backwards: they lead promotion and leave price and place to others [15]. Own the whole list or stop calling it a mix.
 
-E. Jerome McCarthy published Basic Marketing: A Managerial Approach in 1960. The book reduced the marketing mix to four decisions: what you sell, what you charge, where it can be bought, and how people hear about it.
+## Origin
 
-The frame is old and it shows. It says nothing about what the brand means in the buyer's head, which is where the next entries pick up.
+The idea has three authors and the wrong one gets the credit.
+
+In 1948 James Culliton, in a Harvard research bulletin on manufacturers' marketing costs, described the marketing executive as a "mixer of ingredients" [2]. His colleague Neil Borden built a concept round the phrase: if the executive was a mixer of ingredients, "what he designed was a 'marketing mix'" [1, p. 4]. Borden used the idea in teaching and consulting before he wrote it up in the Journal of Advertising Research in 1964, where his "Elements of the Marketing Mix of Manufacturers" ran to twelve items: product planning, pricing, branding, channels of distribution, personal selling, advertising, promotions, packaging, display, servicing, physical handling, and fact finding and analysis [1, pp. 4 to 5]. He added, in the same breath, "I realize others might build a different list" [1, p. 4].
+
+One of the others was E. Jerome McCarthy, whose Basic Marketing: A Managerial Approach (Richard D. Irwin, 1960) cut the mix to four groups of decisions and gave them the alliteration that made them teachable: product, place, promotion, price [3]. "Four P's" appears on twenty pages of the 1960 edition [3].
+
+The problem McCarthy was solving was pedagogical. Borden's twelve elements were a case teacher's checklist; McCarthy needed a structure students could carry into an exam. Four boxes did that. Be precise about what kind of thing the 4 Ps are: not a finding about buyers, not a theory of how marketing works, but a way of sorting the decisions a firm controls. That is what the critics attacked, and it is why the framework cannot be falsified in the ordinary sense.
+
+## What the evidence shows
+
+There are two bodies of evidence. One is about adoption. The other is about effect.
+
+**Adoption.** The framework spread through textbooks. By the 14th edition of Marketing Management (2012), Kotler and Keller were presenting McCarthy's four groups and proposing an updated set, people, processes, programs and performance, alongside them [22].
+
+Booms and Bitner extended it to seven for services in 1981, adding people, process and physical evidence [4]. Kotler added two in 1986 for markets where a firm must win entry before it can compete: "executives must add two more", he wrote, "power and public relations" [5]. Rafiq and Ahmed's 1995 survey of UK and European marketing academics reported "a high degree of dissatisfaction with 4Ps" and "a high degree of acceptance" of the seven-P version [9].
+
+The most useful adoption data is in The CMO Survey. In February 2018, 362 senior US marketers (98.3 per cent VP level or above) were asked which activities marketing leads in their company. Marketing led brand in 91.4 per cent of firms and advertising in 81.7 per cent; pricing in 25.8 per cent and distribution in 10.2 per cent [15, Table 9.1]. Of the four Ps, marketing departments own one.
+
+**Effect.** The mix as a classification has never been tested empirically, because a classification makes no prediction. The elements have been measured, over and over.
+
+The cleanest single study is Ataman, van Heerde and Mela (2010): a dynamic linear transfer function model on five years of advertising and scanner data for 70 brands in 25 categories in France, estimating the total (short-run plus long-run) sales elasticity of each element. Product 1.37, distribution 0.74, advertising 0.13, discounting 0.04 [11]. Discounting's long-run effects were one third of its short-run effects; for the other three, long-run effects were more than four times short-run [11].
+
+The meta-analyses point the same way. Bijmolt, van Heerde and Pieters (2005): 1,851 price elasticities from 81 studies, mean minus 2.62 [12]. Sethuraman, Tellis and Briesch (2011): 751 short-term and 402 long-term advertising elasticities from 56 studies, means 0.12 and 0.24, declining over time [13]. Albers, Mantrala and Sridhar (2010): 506 personal-selling elasticities from 75 articles, mean 0.34 [14]. Different studies, different data, so the comparison is indicative. But the order is stable: price moves sales far more per percentage point than any form of promotion, and promotion is the element marketers most often control [15].
+
+McKinsey's arithmetic on the income statement of a typical S&P 1500 company puts the same order in profit terms: a price rise of 1 per cent, volume held, lifts operating profit by 8 per cent, nearly 50 per cent more than a 1 per cent cut in variable costs and more than three times a 1 per cent rise in volume [28]. Price is the lever with the most leverage and the one marketing holds least often.
+
+## The challenge
+
+The critique has three strands, and only one of them is empirical.
+
+**The framework is producer-centred.** Grönroos (1994), in Management Decision, argued that "the simplicity of the marketing mix paradigm, with its Four P model, has become a straitjacket, fostering toolbox thinking rather than an awareness that marketing is a multi-faceted social process" [8]. His evidence was the services and industrial marketing literature, where the buyer takes part in production and the relationship, not the transaction, is the unit of analysis. Lauterborn made the same point for a trade audience in 1990: "It's time to retire McCarthy's famous Four P's," replacing product, price, place and promotion with consumer wants and needs, cost to satisfy, convenience to buy, and communication [6]. Lauterborn's is a renaming, not a finding; he offered no data.
+
+**The classification is badly built.** Van Waterschoot and Van den Bulte (1992), in the Journal of Marketing, tested McCarthy's four categories against Hunt's criteria for a classification and found them wanting: not mutually exclusive, not collectively exhaustive, and sales promotion defined negatively, as whatever is left over [7]. A logical test, not an empirical one, but the closest the literature comes to testing the framework itself. Constantinides (2006) reviewed the critique across six marketing fields and found two limitations common to all: "the model's internal orientation and lack of personalisation" [10].
+
+**The mix says nothing about how buyers behave.** This is the Ehrenberg-Bass position, a different kind of objection. Sharp's [How Brands Grow](/readings/how-brands-grow-byron-sharp/) (2010) rests, in the institute's own description, on "scientific laws about buying and brand performance" that hold across categories regardless of what any firm does with its mix [16]. Place becomes physical availability, "the brand being easy to find and buy": presence, prominence and portfolio [17]. Promotion becomes the building of mental availability through distinctive assets [18]. An institute web page says its researchers "scrutinised the marketing mix, or the 4Ps model" and that such models "now lack the empirical support necessary to address the complexities of modern marketing" [26].
+
+What is contested. Grönroos would replace the mix; van Waterschoot and Van den Bulte would repair it; Rafiq and Ahmed say the seven-P version already has. Ehrenberg-Bass does not argue about the boxes; it argues the boxes are the wrong place to start. None of this has been settled by data, because the disagreement is about what marketing is for.
+
+## Where practitioners get it wrong
+
+**Running the mix as a promotion plan.** The CMO Survey table is the misapplication in one place. If marketing leads advertising in four firms out of five and distribution in one in ten [15], the mix is not being managed as a mix. It is the fourth P with the other three set elsewhere. Every "marketing plan" that is a media plan with a product paragraph at the front is this error. The pattern has not moved. In every edition of the survey from March 2023 to 2026, marketing was primarily responsible for advertising in 83 to 92 per cent of companies, new products in 29 to 33 per cent, pricing in 25 to 31 per cent and distribution in 4 to 8 per cent [23, 24, 29, 30].
+
+**Spending where the elasticity is lowest.** Ataman and colleagues found the two elements with the smallest long-run effects, advertising and discounting, were the two that had dominated the prior literature [11]. Binet and Field's IPA work makes the same point inside promotion: the optimum split they report between brand building and activation is 60:40, and the pull in most organisations is towards activation [19, 20]. Discounting has long-run effects one third the size of its short-run effects [11]. It looks like it works because the measurement window is short. Gartner's 2025 CMO Spend Survey shows where the money goes. Paid media is the largest line in the marketing budget at 30.6 per cent, digital channels take 61.1 per cent of total marketing spend, and the three largest digital lines are paid search, display and social advertising [25, 27]. Every one of them is the fourth P.
+
+**Treating the four boxes as four equal boxes.** McCarthy's structure has no weights. Nothing in it says product matters more than price. The evidence does [11, 12, 13], and a plan that spends a page on each P is ignoring it. This is the "toolbox thinking" Grönroos warned about [8]: the boxes get filled because they are there.
+
+Cialdini enters here, and only here. His seven principles, reciprocation, liking, social proof, authority, scarcity, commitment and consistency, and unity, are mechanisms of the fourth P [21, chapters 2 to 8]. They tell you how a promotion persuades, not whether promotion was the right lever. A marketer who has read Influence and not Ataman will pull the wrong one with great skill.
+
+**Our own observation.** A residential developer with a fifteen-year portfolio briefed us for media: five projects, one new launch, a market that had just turned cautious. The problem was not the fourth P. For the established capital-city project demand existed, and the job was to capture it at a stable cost per enquiry. For the new coastal launch nobody was searching, because the thing had no name yet, so before any media ran we built a forty-eight-term keyword architecture in four intent groups. The launch scaled more than ninefold in a quarter while the established project held its cost per result. The developer brand, the one asset that should have carried all five projects, was the least communicated of the lot.
+
+## What to do with it
+
+1. Write down who in your company sets each of the four Ps. If marketing sets fewer than three, call your plan a communications plan, not a marketing mix. 2. Before any promotion budget is approved, list the distribution and product changes considered and rejected, with reasons. Ataman's elasticities [11] put the burden of proof on the advertiser. 3. Measure every price promotion over at least twelve months and report the long-run effect next to the short-run one. No long-run number, no evaluation. 4. Replace "place" in your plan with the three physical-availability questions: where does buying happen, are we easy to find there, and do we have a buyable product for that occasion [17]. 5. Split the promotion line into brand and activation and report the ratio quarterly. Below 60:40 in favour of brand with no stated reason is the finding [19, 20]. 6. Delete the word "mix" from any plan that does not show the four elements with a weight next to each. Unweighted, it is a list. 7. When a colleague proposes another P, ask which decision it would change. Booms and Bitner's three did, for service firms [4]. Most later additions did not.
+
+Figure: Marketing leads promotion in most US companies, price in a quarter and place in one in ten. The four activities marketing most often leads are all forms of the fourth P; pricing and distribution, the two elements with the largest measured effects on sales, are led by marketing in a minority of firms.. Source: The CMO Survey, Highlights and Insights Report, February 2018, Deloitte, Duke Fuqua and AMA, n=362, Table 9.1, p. 75. Redrawn by Brave New Media.. Unit: % of companies.
+
+| Item | % of companies |
+|---|---|
+| Brand | 91.4 |
+| Advertising | 81.7 |
+| Promotion | 69.4 |
+| Positioning | 66.1 |
+| New products | 33.3 |
+| Sales | 27.4 |
+| Pricing | 25.8 |
+| Distribution | 10.2 |
+
+Figure: Product and distribution moved long-run sales at ten times the elasticity of advertising and discounting. The two elements marketing departments most often control, advertising and price promotion, are the two with the smallest total effect on sales in this dataset.. Source: Ataman, van Heerde and Mela, The Long-Term Effect of Marketing Strategy on Brand Sales, Journal of Marketing Research 47(5), 2010, n=70 brands in 25 categories, France. Redrawn by Brave New Media.. Unit: total sales elasticity.
+
+| Item | total sales elasticity |
+|---|---|
+| Product | 1.37 |
+| Distribution | 0.74 |
+| Advertising | 0.13 |
+| Discounting | 0.04 |
+
+Figure: On a typical S&P 1500 income statement, a 1 per cent price rise lifts operating profit 8 per cent, three times what a 1 per cent volume rise does. Price is the lever with the most leverage on profit and the one marketing departments hold least often. McKinsey states the price figure and the two ratios; the cost and volume bars are the arithmetic of the same income statement.. Source: McKinsey, The power of pricing, The McKinsey Quarterly 2003 Number 1, Exhibit 1, typical S&P 1500 company (Compustat). Price effect as published; cost and volume effects computed from the exhibit's income statement. Redrawn by Brave New Media.. Unit: % change in operating profit.
+
+| Item | % change in operating profit |
+|---|---|
+| Price (+1%, volume held) | 8.0 |
+| Variable costs (-1%) | 5.5 |
+| Volume (+1%) | 2.5 |
+| Fixed costs (-1%) | 1.5 |
+
+Figure: In every CMO Survey edition since 2018, marketing has been responsible for advertising in more than four firms in five and for distribution in fewer than one in ten. Eight years and five editions: promotion stays with marketing, product and price sit with marketing in a quarter to a third of firms, place almost never. The 2018 question asked which activities marketing 'leads'; from 2023 it asks what marketing is 'primarily responsible for'.. Source: The CMO Survey, Highlights and Insights Reports, Feb 2018 (n=362, Table 9.1), March 2023 (n=314, p. 42), Spring 2024 (n=292, p. 51), 2025 (n=281, p. 33), 2026 (n=308, p. 42). Deloitte, Duke Fuqua and AMA. Redrawn by Brave New Media.. Unit: % of companies.
+
+| Edition | Advertising (promotion) | New products (product) | Pricing (price) | Distribution (place) |
+|---|---|---|---|---|
+| Feb 2018 | 81.7 | 33.3 | 25.8 | 10.2 |
+| Mar 2023 | 92.3 | 31.1 | 30.6 | 6.8 |
+| Spring 2024 | 83.1 | 31.1 | 25.1 | 4.1 |
+| 2025 | 85.6 | 28.8 | 25.8 | 7.2 |
+| 2026 | 86.9 | 32.9 | 28.2 | 7.5 |
+
+Figure: Paid search, display and social advertising are the three largest digital lines in the marketing budget, and digital is six dollars in ten of the total. Where the money goes is the fourth P: the largest budget line is paid media, the largest digital lines are paid search, display and social advertising. No line in the marketing budget buys a product change, a price change or a distribution change.. Source: Gartner, 2025 CMO Spend Survey, press releases 12 May and 2 June 2025, n=402 CMOs and marketing leaders, Figure 1. Redrawn by Brave New Media.. Unit: % of total digital marketing spend.
+
+| Item | % of total digital marketing spend |
+|---|---|
+| Paid search | 13.9 |
+| Digital display advertising | 12.5 |
+| Social advertising | 12.2 |
+| Email marketing | 7.4 |
+
+Sources:
+
+1. Borden, N. H. (1964). The Concept of the Marketing Mix. Journal of Advertising Research, 4(2), 2 to 7. https://doi.org/10.1080/00218499.1964.12519724 (Text read from the 1984 Journal of Advertising Research Classics reprint, Vol. II, September 1984.)
+2. Culliton, J. W. (1948). The Management of Marketing Costs. Boston: Division of Research, Graduate School of Business Administration, Harvard University. Cited and quoted in Borden (1964), p. 4.
+3. McCarthy, E. J. (1960). Basic Marketing: A Managerial Approach. Homewood, Ill.: Richard D. Irwin. 770 pp. https://books.google.com/books?id=uhPUAAAAMAAJ
+4. Booms, B. H. and Bitner, M. J. (1981). Marketing Strategies and Organization Structures for Service Firms. In Donnelly, J. H. and George, W. R. (eds), Marketing of Services, pp. 47 to 51. Chicago: American Marketing Association.
+5. Kotler, P. (1986). Megamarketing. Harvard Business Review, March 1986. https://hbr.org/1986/03/megamarketing
+6. Lauterborn, B. (1990). New marketing litany: Four P's passé; C-words take over. Advertising Age, 61(41), 1 October 1990, p. 26.
+7. van Waterschoot, W. and Van den Bulte, C. (1992). The 4P Classification of the Marketing Mix Revisited. Journal of Marketing, 56(4), 83 to 93. https://doi.org/10.1177/002224299205600407
+8. Grönroos, C. (1994). From Marketing Mix to Relationship Marketing. Management Decision, 32(2), 4 to 20. https://doi.org/10.1108/00251749410054774
+9. Rafiq, M. and Ahmed, P. K. (1995). Using the 7Ps as a generic marketing mix: an exploratory survey of UK and European marketing academics. Marketing Intelligence and Planning, 13(9), 4 to 15. https://doi.org/10.1108/02634509510097793
+10. Constantinides, E. (2006). The Marketing Mix Revisited: Towards the 21st Century Marketing. Journal of Marketing Management, 22(3 to 4), 407 to 438. https://doi.org/10.1362/026725706776861190
+11. Ataman, M. B., van Heerde, H. J. and Mela, C. F. (2010). The Long-Term Effect of Marketing Strategy on Brand Sales. Journal of Marketing Research, 47(5), 866 to 882. https://doi.org/10.1509/jmkr.47.5.866
+12. Bijmolt, T. H. A., van Heerde, H. J. and Pieters, R. G. M. (2005). New Empirical Generalizations on the Determinants of Price Elasticity. Journal of Marketing Research, 42(2), 141 to 156. https://doi.org/10.1509/jmkr.42.2.141.62296
+13. Sethuraman, R., Tellis, G. J. and Briesch, R. A. (2011). How Well Does Advertising Work? Generalizations from Meta-Analysis of Brand Advertising Elasticities. Journal of Marketing Research, 48(3), 457 to 471. https://doi.org/10.1509/jmkr.48.3.457
+14. Albers, S., Mantrala, M. K. and Sridhar, S. (2010). Personal Selling Elasticities: A Meta-Analysis. Journal of Marketing Research, 47(5), 840 to 853. https://doi.org/10.1509/jmkr.47.5.840
+15. Moorman, C. (2018). The CMO Survey: Highlights and Insights Report, February 2018. Duke University Fuqua School of Business, Deloitte and the American Marketing Association. Table 9.1, "Percentage of companies in which marketing leads activity", p. 75. Survey in field 9 to 30 January 2018, n = 362, 98.3 per cent VP level or above. https://cmosurvey.org/wp-content/uploads/2018/02/The_CMO_Survey-Highights_and_Insights_Report-Feb-2018.pdf
+16. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Melbourne: Oxford University Press. Publisher description via the Ehrenberg-Bass Institute: https://marketingscience.info/learn-with-us/books
+17. Nenycz-Thiel, M. and Romaniuk, J. (2025). Easy to Find: Being Where B2B Buying Happens. Ehrenberg-Bass Institute for Marketing Science with the LinkedIn B2B Institute, November 2025. https://marketingscience.info/news-and-insights/easy-to-find-being-where-b2b-buying-happens
+18. Romaniuk, J. (2018). Building Distinctive Brand Assets. Melbourne: Oxford University Press.
+19. Binet, L. and Field, P. (2013). The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies. London: Institute of Practitioners in Advertising. https://ipa.co.uk/knowledge/publications-reports/the-long-and-the-short-of-it-balancing-short-and-long-term-marketing-strategies
+20. Hoad, A. (2023). The next chapter for 'The Long and The Short of It'. IPA blog, 13 September 2023. https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
+21. Cialdini, R. B. (2021). Influence, New and Expanded: The Psychology of Persuasion. New York: HarperCollins. Chapters 2 to 8.
+22. Kotler, P. and Keller, K. L. (2012). Marketing Management, 14th ed. Upper Saddle River, NJ: Pearson Prentice Hall. Chapter 1.
+23. Moorman, C. (2026). The CMO Survey: Highlights and Insights Report, 2026 (35th edition). Duke University Fuqua School of Business, Deloitte and the American Marketing Association. "What is marketing primarily responsible for in your company?", p. 42. Survey in field 7 to 29 January 2026, n = 308, 97 per cent VP level or above. https://cmosurvey.org/wp-content/uploads/2026/04/The_CMO_Survey-Highlights_and_Insights_Report-2026.pdf
+24. Moorman, C. (2023). The CMO Survey: Highlights and Insights Report, March 2023. Duke University Fuqua School of Business, Deloitte and the American Marketing Association. "What is marketing primarily responsible for in your company?", p. 42. Survey in field 10 to 31 January 2023, n = 314, 97 per cent VP level or above. https://cmosurvey.org/wp-content/uploads/2023/03/The_CMO_Survey-Highlights_and_Insights_Report-March_2023.pdf
+25. Gartner (2025). Gartner 2025 CMO Spend Survey Reveals Marketing Budgets Have Flatlined at 7.7% of Overall Company Revenue. Press release, Stamford, 12 May 2025. Survey of 402 CMOs and marketing leaders in North America, the United Kingdom and Europe, February to March 2025. https://www.gartner.com/en/newsroom/press-releases/2025-05-12-gartner-2025-cmo-spend-survey-reveals-marketing-budgets-have-flatlined-at-seven-percent-of-overall-company-revenue
+26. Ehrenberg-Bass Institute for Marketing Science (undated web page). The Ehrenberg-Bass Institute's Scientific Marketing Findings. https://marketingscience.info/the-ehrenberg-bass-institutes-scientific-marketing-findings/
+27. Gartner (2025). Gartner Survey Finds Digital Channels Account for 61.1% of Total Marketing Spend. Press release, Denver, 2 June 2025, Figure 1. Same survey as [25], n = 402. https://www.gartner.com/en/newsroom/press-releases/2025-06-02-gartner-survey-finds-digital-channels-account-for-61-point-1-percent-of-total-marketing-spend
+28. Marn, M. V., Roegner, E. V. and Zawada, C. C. (2003). The power of pricing. The McKinsey Quarterly, 2003 Number 1, 27 to 35. Exhibit 1, "The power of one", typical economics of an S&P 1500 company; source Compustat and McKinsey analysis. https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-power-of-pricing
+29. Moorman, C. (2024). The CMO Survey: Highlights and Insights Report, Spring 2024. Duke University Fuqua School of Business, Deloitte and the American Marketing Association. "What is marketing primarily responsible for in your company?", p. 51. n = 292, 94 per cent VP level or above. https://cmosurvey.org/wp-content/uploads/2024/04/The_CMO_Survey-Highlights-and-Insights-Report-Spring_2024.pdf
+30. Moorman, C. (2025). The CMO Survey: Highlights and Insights Report, 2025. Duke University Fuqua School of Business, Deloitte and the American Marketing Association. "What is marketing primarily responsible for in your company?", p. 33. n = 281, 99 per cent VP level or above. https://cmosurvey.org/cmosurvey_results/The_CMO_Survey-Highlights_and_Insights_Report-2025.pdf
 
 ### Positioning in marketing
 
 Source: https://bravenewhive.com/principles/positioning-in-marketing/
-Date: 2026-09-05. Read: 4 min.
+Date: 2026-09-05. Read: 10 min.
 
-Al Ries and Jack Trout argued in 1972 that a brand is a position in the prospect's mind, not a list of features. The book followed in 1981.
+Positioning, as Ries and Trout set it out in 1972, claims that a brand wins by occupying one clear slot in the prospect's memory [2][3]. The memory half holds up. The difference half does not. Across 17 categories in two countries, only 17% of a brand's own buyers called it different or unique, and they kept buying anyway [8]. Practitioners should stop testing whether buyers believe the difference, start measuring whether they can recognise the brand, and put the budget behind reach and consistency.
 
-Ries and Trout first published the idea as a series of articles in Advertising Age in 1972, then as Positioning: The Battle for Your Mind in 1981.
+## Origin
 
-The claim is simple. The mind is crowded, it accepts only what fits what it already knows, and the job is to own a word before a competitor does. Most positioning statements still describe the company rather than the space it wants to hold.
+Jack Trout published the first article to use the term in June 1969, in Industrial Marketing, under the title "'Positioning' is a game people play in today's me-too market place" [1]. Its argument: a company can spend millions on great advertising and still fail if it ignores what already sits in the buyer's head [1]. Three years later Trout and Al Ries wrote the three-part series "The [Positioning Era Cometh](/history-of-advertising/1972-the-positioning-era/)" for Advertising Age (24 April, 1 May and 8 May 1972) [2]; the book, Positioning: The Battle for Your Mind, followed from McGraw-Hill in 1981 [3].
+
+The 1972 text names the problem: the creative party of the 1960s was over and "the wreckage is still washing up on the beach" (Corfam, Gablinger's beer, Look magazine) [2]. Their answer, in their own words: the new era "stresses the need to create a 'position' in the prospect's mind" [2].
+
+They were not alone. The same series quotes an Ogilvy advertisement of the period: "The results of your campaign depend less on how we write your advertising than on how your product is positioned" [2]. Ries and Trout gave the idea a theory: the overcommunicated society, the ladder in the mind, positioning against the leader as Avis did [1][2].
+
+Two things to hold onto. It is a theory of communication, not of product: the 1969 article says the competitor's image "is just as important as your own. Sometimes more important" [1]. And it came from agency casework, not from a dataset. The textbook version is broader. Kotler and Keller made positioning the third step of segmentation, targeting and positioning, with a chapter titled "Crafting the Brand Positioning" [4]. Aaker folded it into brand identity, as the part that is actively communicated [5]. Keller, Sternthal and Tybout added the frame of reference, points of parity and points of difference [6][7].
+
+## What the evidence shows
+
+Here is the awkward part. Positioning as Ries and Trout wrote it has never been tested as a proposition. It is a theorist's claim built on cases: Avis, and 7-Up's Un-Cola, which the 1972 series says lifted sales "something like 10%" in its first year [2]. There is no controlled study we can cite that shows brands with a sharper position grow faster.
+
+What has been tested is the claim underneath it: that buyers hold a perceived, valued difference in mind and buy because of it. The best direct test is Romaniuk, Sharp and Ehrenberg (2007) [8]. Method: telephone surveys in seven Australian categories (skincare, spirits, cars, beer, fast food, banking, supermarkets), with "different" and "unique" hidden at random among other attributes, plus Young & Rubicam Brand Asset Valuator data from ten UK categories collected in 1999 [8]. Only current users of each brand were counted.
+
+Headline finding: across all 17 markets, an average of 11% of a brand's own users said it was different, 10% said it was unique, and 17% said either [8, Table 2]. Spirits and skincare, chosen for being image-led and heavily advertised, scored highest at 36% and 30%.
+
+Two checks matter. Respondents were not apathetic: 54% named at least one brand in the category as different or unique, and 76% did so in soft drinks, while only 19% of Coca-Cola's users said it of Coca-Cola [8]. And brands with an obvious functional difference did score. Aldi, which does not stock national brands, got 67% for different from its own shoppers; Subway got 50% for unique against burger, pizza and chicken rivals [8]. Buyers can see difference when it is large. They mostly do not see it.
+
+Business buyers are no sharper. A Gartner survey of more than 1,100 B2B customers in December 2020 found that 64% could not tell one B2B brand's digital experience from another's, and 76% did nothing different after engaging suppliers through websites, tools and content [16].
+
+Apple is the authors' test case. In 1999, with coloured iMacs against beige boxes and its own operating system, 23% of Apple users called it different or unique. 77% did not [8, Table 5].
+
+A second, older finding sits underneath this one. Bird, Channon and Ehrenberg (1970) showed that the share of people who attach an image attribute to a brand depends on how recently they used it [10]. Romaniuk, Bogomolova and Dall'Olmo Riley re-tested it in 2012 across new categories, countries and online data, and found the generalisation "still holds, both qualitatively and, to a large extent, quantitatively" [11]. The 2007 differentiation data show the same shape: users were roughly twice as likely as non-users to call a brand different [8, Table 4].
+
+This is why an image tracker will always tell a big brand it is well positioned. Usage produces image responses, almost regardless of the attribute.
+
+The third body of evidence is about what advertising does when it works. Binet and Field's analyses of the IPA Databank (880 cases in 2007 [12], 996 cases in 2013 [13]) find that campaigns which build fame, meaning the brand gets talked about, convert share of voice into growth most efficiently. On IPA cases from 2004 to 2016, rational campaigns returned a share-of-voice efficiency of 0.2, emotional campaigns 1.0, fame campaigns 1.3 [14]. Their reading of positioning's job matches Ehrenberg-Bass's: get the brand into more heads, rather than argue the point of difference to a few.
+
+## The challenge
+
+The strongest published critique comes from the same 2007 paper. Romaniuk, Sharp and Ehrenberg conclude that "marketers do not need to convince buyers that the brand is different in order to get them to buy" and that "such a task is probably near impossible" [8]. They put distinctiveness in differentiation's place: unique brand associations (colour, logo, tagline, character, advertising style) whose only job is to make the brand easy to notice and identify. The criteria are uniqueness and prevalence: linked to one brand only, and known to most buyers [8]. Sharp's [How Brands Grow](/readings/how-brands-grow-byron-sharp/) (2010) put it more bluntly: "Rather than striving for meaningful, perceived differentiation, marketers should seek meaningless distinctiveness. Branding lasts, differentiation doesn't" [9].
+
+Read carefully, the two camps disagree less than the slogans suggest.
+
+Where they agree: the contest happens in memory, not in the product. Ries and Trout said so in 1972 [2]; Romaniuk and colleagues say distinctive elements "create, refresh or reinforce consumer memory structures" [8]. Both insist the position, or the asset, must belong to one brand only. Both prize consistency over decades; the 2007 paper's example is the Nike swoosh, shown beside the name for years before it could stand alone [8].
+
+Where they disagree: whether the thing in memory has to be a valued difference. Ries and Trout's position is a reason to prefer: Avis over Hertz, Un-Cola over cola. Ehrenberg-Bass says the memory structure need carry no meaning at all. It is a handle for retrieval, and buyers who cannot name anything different about the brand buy it regardless [8].
+
+Kantar's own data lands between the camps. Its Blueprint for Brand Growth, built on 6.5 billion data points across 21,000 brands, decomposes demand into three drivers: salience explains 42%, meaning 38%, difference 20%. The same deck puts perceived relative difference at 50% of what justifies a brand's price [17]. Difference does little to get a brand bought and a great deal to get it paid for.
+
+Where it is contested: Keller's camp holds that points of difference still matter once points of parity are met, and warns that "points of differentiation alone are not enough to sustain a brand against competitors" [6]. The 2007 paper cites that warning with approval [8]. The open question is whether the exceptions (Aldi, Subway and the small premium brands that scored higher [8]) show that real functional difference pays, or only that buyers can report a difference when it is large. Romaniuk and colleagues write that their data "does not totally negate" a causal link between perceived differentiation and performance, only that any gain looks temporary or quickly matched [8].
+
+Ask buyers directly and the parity list is long. In Edelman's 2025 survey of 15,042 people in 15 countries, 88% called best quality, good value and "I trust it" important or a deal breaker for the brands they buy, and the next five attributes sat within eight points of them [18].
+
+Cialdini did not address positioning by name. The nearest mechanism in Influence is the contrast principle in chapter 1: a second item is judged against the first, which is why an estate agent shows a run-down "setup" house before the real one [15]. It explains why "We're only No. 2" works as a claim: it borrows the leader's size as the contrast. It says nothing about owning a word, and we will not stretch it.
+
+## Where practitioners get it wrong
+
+The positioning statement that never leaves the deck. It is written once, approved, and then handed to a campaign with a new look every year. The 2007 paper's complaint is exactly this: consistency of message gets discussed, consistency of "the visual, verbal or style of branding elements" does not, and "most of the attention from marketers is on aspects that are new and fresh" [8]. The buyer never sees the position. They see six unconnected campaigns.
+
+Reading the perceptual map as proof. Mapping techniques "highlight small differences, almost regardless of magnitude" [8]. Because usage drives image responses [10][11], the map mostly shows who has more users. A big brand looks well positioned on every axis. A small brand looks lost. Neither reading tells you what to say.
+
+Manufacturing a difference the category cannot see. If your direct measure of "different" sits near the category norm of about 17% [8], and there is no Aldi-sized functional fact behind the claim, spend will move that number very little. The money does more work on reach, fame and a recognisable asset [8][14].
+
+**Our own observation.** For a national membership platform for specialist physicians practising outside insurance, the temptation was a fresh angle every week; the subject is rich enough for it. We locked the assets instead: one belief line, one rhetorical device, one shape of invitation, the founders' actual faces, the same visual codes everywhere. Adopters then grew around 50% a month for three consecutive months with no paid acquisition behind it. The rate flatters a small base and will come down. The point holds: repetition built the memory, and the position never moved.
+
+## What to do with it
+
+1. Write the position in three lines: the frame of reference, the points of parity you must match, and one point of difference [6]. If any line is blank, the document is not finished. 2. Test the difference before spending on it. Ask current buyers, in a pick-any survey with "different" and "unique" buried among other attributes, whether the brand is either. Compare the result with the 17% average across 17 markets [8]. At or below that norm, stop trying to move it. 3. Pick two or three distinctive assets (a colour, a shape, a phrase, a character) and measure each with buyers on uniqueness and prevalence [8]. If fewer than half of your buyers link the asset to you alone, it is not yet an asset. 4. Freeze those assets for five years. Judge every new campaign on one question: would someone who saw the last one know this is the same brand? 5. Split every image tracker by usage before reading it [10][11]. Never present an all-respondent image score as evidence of position. 6. Put the budget behind reach and fame, not persuasion of the difference. Fame campaigns converted share of voice to growth at 1.3 against 0.2 for rational ones [14]. Keep share of voice at or above share of market [13]. 7. Position against the leader only when the contrast is true and checkable. Avis was second and said so [1]. If your claim depends on the buyer not knowing who leads, it is comparative advertising, not a position.
+
+Figure: In 17 markets, only 17% of a brand's own buyers call it different or unique. Even in spirits and skincare, the two categories chosen for being the most image-driven, fewer than four in ten users see their own brand as different or unique.. Source: Romaniuk, Sharp and Ehrenberg, Evidence concerning the importance of perceived brand differentiation, 2007, n= per category in Appendix 1, Table 2. Redrawn by Brave New Media.. Unit: % of current brand users.
+
+| Item | % of current brand users |
+|---|---|
+| Spirits (Aus) | 36 |
+| Supermarkets (Aus) | 31 |
+| Skincare (Aus) | 30 |
+| Ice cream (UK) | 20 |
+| Fast food (Aus) | 20 |
+| Banking (Aus) | 18 |
+| Condiments (UK) | 17 |
+| Soft drinks (UK) | 16 |
+| Fruit and veg drinks (UK) | 16 |
+| Ready sauces (UK) | 14 |
+| Computers (UK) | 14 |
+| Soups (UK) | 12 |
+| Yoghurt (UK) | 11 |
+| Cars (Aus) | 11 |
+| Cars (UK) | 11 |
+| Water (UK) | 10 |
+| Electronics (UK) | 8 |
+| Average, 17 markets | 17 |
+
+Figure: Two in three B2B buyers cannot tell one supplier's digital experience from another's. Ehrenberg-Bass measured consumers. Gartner measured business buyers reading websites, tools and content, and found the same blindness: most could not see a difference and most did nothing about what they saw.. Source: Gartner, press release "Gartner Says B2B Sales Organizations Need to Give Customers a Seller-Assisted Digital Buying Experience", 17 May 2021, n=more than 1,100 B2B customers surveyed December 2020. Redrawn by Brave New Media.. Unit: % of surveyed B2B customers.
+
+| Item | % of surveyed B2B customers |
+|---|---|
+| Cannot tell one B2B brand's digital experience from another's | 64 |
+| Did nothing different after engaging suppliers digitally | 76 |
+
+Figure: Fame campaigns turn share of voice into growth six times more efficiently than rational ones. The IPA cases reward campaigns that get the brand talked about over campaigns that argue its point of difference, which is the same direction the Ehrenberg-Bass differentiation data point.. Source: IPA, Binet and Field, Marketing Effectiveness in the Digital Era, 2017, IPA Databank cases 2004 to 2016. Redrawn by Brave New Media.. Unit: share-of-voice efficiency index.
+
+| Item | share-of-voice efficiency index |
+|---|---|
+| Rational | 0.2 |
+| Emotional | 1.0 |
+| Fame | 1.3 |
+
+Figure: In Kantar's growth model, being different explains 20% of demand; being salient explains 42%. Kantar sells the case for difference and its own decomposition still puts it last of the three drivers of demand. Where difference earns its keep is price: the same deck says perceived relative difference accounts for 50% of what justifies a brand's price.. Source: Kantar, The Blueprint for Brand Growth, MASB presentation, 2025, 6.5 billion data points on 21,000 brands in 540 categories and 54 markets, slide 5. Redrawn by Brave New Media.. Unit: % of Demand Power explained.
+
+| Item | % of Demand Power explained |
+|---|---|
+| Salient | 42 |
+| Meaningful | 38 |
+| Different | 20 |
+
+Figure: Buyers rank trust level with quality and value as a deal breaker, all at 88%. Quality, value and trust tie at the top and the next five sit within eight points of them. Every attribute here is a point of parity in Keller's terms, so a position that claims any one of them claims nothing the buyer does not already expect of every brand.. Source: Edelman, 2025 Edelman Trust Barometer Special Report: Brand Trust, From We to Me, 2025, n=15,042 in 15 countries, page 13. Redrawn by Brave New Media.. Unit: % of respondents.
+
+| Item | % of respondents |
+|---|---|
+| Offers the best quality | 88 |
+| Good value for the money | 88 |
+| I trust it | 88 |
+| High quality customer service | 85 |
+| Has a good reputation | 85 |
+| Convenient to find, buy and use | 84 |
+| I love it | 82 |
+| I trust the company that owns the brand | 80 |
+
+Sources:
+
+1. Trout, J., 1969. "Positioning" is a game people play in today's me-too market place. Industrial Marketing, June 1969, pp. 51-55. Full text reproduced at https://innismaggiore.com/jack-trout-original-positioning-article-industrial-marketing-1969/
+2. Ries, A. and Trout, J., 1972. The Positioning Era Cometh. Advertising Age, three-part series, 24 April, 1 May and 8 May 1972, Crain Communications, Chicago. Original text reprinted at https://www.alries.com/positioning-articles
+3. Ries, A. and Trout, J., 1981. Positioning: The Battle for Your Mind. McGraw-Hill, New York. 20th anniversary edition 2001, ISBN 978-0-07-137358-6.
+4. Kotler, P. and Keller, K.L., 2009. Marketing Management, 13th edition. Pearson Prentice Hall, Upper Saddle River. Chapter 10, Crafting the Brand Positioning. Table of contents: https://catdir.loc.gov/catdir/toc/ecip087/2008000337.html
+5. Aaker, D.A., 1996. Building Strong Brands. Free Press, New York.
+6. Keller, K.L., Sternthal, B. and Tybout, A., 2002. Three Questions You Need to Ask About Your Brand. Harvard Business Review, 80(9), pp. 80-86. https://hbr.org/2002/09/three-questions-you-need-to-ask-about-your-brand
+7. Keller, K.L., 2003. Strategic Brand Management: Building, Measuring, and Managing Brand Equity, 2nd edition. Prentice Hall, Upper Saddle River.
+8. Romaniuk, J., Sharp, B. and Ehrenberg, A., 2007. Evidence concerning the importance of perceived brand differentiation. Australasian Marketing Journal, 15(2), pp. 42-54. https://doi.org/10.1016/S1441-3582(07)70042-3 (open copy: https://byronsharp.wordpress.com/wp-content/uploads/2008/04/different1.pdf)
+9. Sharp, B., 2010. How Brands Grow: What Marketers Don't Know. Oxford University Press, Melbourne. Chapter 8, Differentiation versus Distinctiveness. Quotation as reproduced by the Ehrenberg-Bass Institute: http://marketingscience.info/differentiation-versus-distinctiveness
+10. Bird, M., Channon, C. and Ehrenberg, A.S.C., 1970. Brand Image and Brand Usage. Journal of Marketing Research, 7(3), pp. 307-314. https://doi.org/10.1177/002224377000700304
+11. Romaniuk, J., Bogomolova, S. and Dall'Olmo Riley, F., 2012. Brand Image and Brand Usage: Is a Forty-Year-Old Empirical Generalization Still Useful? Journal of Advertising Research, 52(2), pp. 243-251. https://doi.org/10.2501/JAR-52-2-243-251
+12. Binet, L. and Field, P., 2007. Marketing in the Era of Accountability. IPA and WARC, London. 880 cases from the IPA Databank. https://ipa.co.uk/knowledge/publications-reports/marketing-in-the-era-of-accountability
+13. Binet, L. and Field, P., 2013. The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies. IPA, London. Case counts and share-of-voice finding as presented in Binet, L., Advertising effectiveness: the long and the short of it (presentation), https://www.newisnew.lt/wp-content/uploads/2016/07/1.-Les-Binet.pdf
+14. Binet, L., 2017. Marketing Effectiveness in the Digital Era (presentation of Binet and Field, Media in Focus, IPA 2017; IPA Databank cases 2004 to 2016). https://www.aktv.cz/wp-content/uploads/2018/10/Marketing-Effectiveness-in-the-Digital-Era_Les-Binet.pdf
+15. Cialdini, R.B., 1984 (new and expanded edition 2021). Influence: The Psychology of Persuasion. Harper Business, New York. Chapter 1, Weapons of Influence, contrast principle.
+16. Gartner, 17 May 2021. Gartner Says B2B Sales Organizations Need to Give Customers a Seller-Assisted Digital Buying Experience. Press release, reporting a Gartner survey of more than 1,100 B2B customers, December 2020. https://www.gartner.com/en/newsroom/press-releases/gartner-says-b2b-sales-organizations-need-to-give-customers-a-se
+17. Kantar, 2025. The Blueprint for Brand Growth. Presentation by Marc Glovsky, Kantar Brand Practice, to the Marketing Accountability Standards Board; 6.5 billion attitudinal and purchase data points, 21,000 brands, 540 categories, 54 markets, 10 years. Slides 3, 4, 5, 14 and 17. https://themasb.org/wp-content/uploads/2025/03/K2.-Kantar-Blueprint-for-Brand-Growth-Glovsky.pdf. Kantar's own summary of the framework: https://www.kantar.com/campaigns/blueprint-for-brand-growth
+18. Edelman, 2025. 2025 Edelman Trust Barometer Special Report: Brand Trust, From We to Me. Online survey of 15,042 respondents in 15 countries, fieldwork 24 April to 5 May 2025. Page 13, "Trust Equal to Cost and Quality As Purchase Consideration". https://www.edelman.com/sites/g/files/aatuss191/files/2025-06/2025%20Edelman%20Trust%20Barometer%20Special%20Report%20Brand%20Trust,%20From%20We%20to%20Me_FINAL_0.pdf
 
 ### Market segmentation
 
 Source: https://bravenewhive.com/principles/market-segmentation/
-Date: 2026-09-01. Read: 3 min.
+Date: 2026-09-01. Read: 9 min.
 
-Wendell Smith's 1956 paper in the Journal of Marketing separated product differentiation from market segmentation. Marketing has been splitting audiences ever since.
+Market segmentation claims a market is not one demand curve but several, and that a firm does better serving some of them well than all of them adequately [1]. The evidence supports that claim for categories: buyers differ in what they want and how much they use. It does not support it for brands. Across decades of panel data, competing brands are bought by the same kinds of people [8][10][11], and campaigns that address the whole market outperform tightly targeted ones [13]. Segment the category to shape the offer. Market the brand to everyone who buys the category.
 
-Wendell R. Smith published Product Differentiation and Market Segmentation as Alternative Marketing Strategies in the Journal of Marketing in 1956.
+## Origin
 
-The idea: a market is not one demand curve but several, so a company can serve a slice on its own terms rather than the whole on average terms. The hard part is choosing what to leave out.
+Wendell R. Smith set the idea out in July 1956, in the Journal of Marketing, volume 21, number 1, pages 3 to 8 [1]. The title says what he was doing: "Product Differentiation and Market Segmentation as Alternative Marketing Strategies". American firms in the mid 1950s faced imperfect competition and a market that no longer behaved like one homogeneous mass. Smith's contribution was to name two ways of responding, and to argue they were different strategies rather than the same thing under two labels. The distinction was still muddled thirty years later: Dickson and Ginter opened their 1987 paper by noting "considerable misunderstanding about their meaning and use" [5].
+
+His definition, on page 6: segmentation means "viewing a heterogeneous market as a number of smaller homogeneous markets" [1][2].
+
+The idea entered the mainstream in two steps. Daniel Yankelovich's 1964 Harvard Business Review article argued that demographics had lost predictive power and that segmentation should also consider "buyer attitudes, motivations, values, patterns of usage, aesthetic preferences, and degree of susceptibility", across ten consumer and industrial markets [3]. Yoram Wind's 1978 review in the Journal of Marketing Research codified the method: problem definition, research design, data collection, analysis, interpretation and implementation [4]. That is a review of how to segment, not a test of whether segments predict brand choice.
+
+The paper is six pages long and is still cited every year, seventy years on.
+
+Philip Kotler's Marketing Management, first published in 1967 [6], turned the idea into the sequence every marketing graduate learns: segment, target, position. Kotler and Keller's current editions list four bases for consumer segmentation, geographic, demographic, psychographic and behavioural. David Aaker's Strategic Market Management places segmentation inside customer analysis, the first question a strategist asks about a market [7]. Robert Cialdini did not address segmentation. Influence describes principles of compliance that operate across people and offers no view on whether different segments need different principles [15].
+
+## What the evidence shows
+
+The record is uneven. Segmentation is one of the most used tools in marketing and one of the least tested at the level that matters to a brand owner. The literature from Yankelovich to Wind is methodological [3][4]. It tells you how to find segments. It rarely asks whether the segments a brand targets contain different people from the ones it does not.
+
+Two things are well supported.
+
+First, categories are heterogeneous. Buyers differ in usage rate, occasion and need, and Smith's point about "divergent demand" [2] stands. Nobody in the debate below disputes it.
+
+Second, breadth of targeting predicts business results. Les Binet and Peter Field analysed the IPA Effectiveness Databank, which at the time held 996 campaigns entered for the IPA Effectiveness Awards from 1980 to 2010, covering more than 700 brands in over 80 categories [13]. Campaigns that targeted the whole market reported on average 1.8 very large business effects and 6.7 very large effects in total. Campaigns aimed at new customers reported 1.7 and 5.4. Campaigns aimed at existing customers reported 0.6 and 2.4 [13, Figure 18].
+
+Efficiency moves the same way, only more sharply. Measured as annualised market share growth per ten points of excess share of voice, whole-market campaigns scored 2.6, new-customer campaigns 0.3 and existing-customer campaigns 0.2 [13, Figure 21]. Binet and Field's own summary: "the benefits of broad reach considerably outweigh the benefits of tight targeting: a finding that directly contradicts much of the current orthodoxy" [13].
+
+The loyalty finding is the sharpest. Only 12 percent of IPA campaigns that set out to increase loyalty achieved a very large loyalty effect, against 47 percent of acquisition campaigns that achieved very large penetration growth [13]. Their 2017 update, Media in Focus, re-ran the analysis on 2008 to 2016 cases and found the same ordering for annual market share growth: campaigns addressing both new and existing customers grew share fastest, new-customer campaigns next, existing-customer campaigns least [14, Figure 14]. By 2014 to 2016, pure loyalty campaigns had fallen to 3 percent of IPA entries [14].
+
+One caveat is ours, not theirs. The Databank is built from award entries. Whole-market campaigns may also be the ones with the biggest brands behind them. The share-of-voice measure controls for spend, but the cases are not a random sample of marketing activity.
+
+## The challenge
+
+The strongest published critique comes from the Ehrenberg-Bass Institute, and it is narrower than it is usually reported. It does not say segments do not exist. It says brands do not own them.
+
+Hammond, Ehrenberg and Goodhardt put it to the test in 1996 in the European Journal of Marketing. Using consumer panel data across more than 20 grocery categories in several countries, they found "little brand segmentation": the profiles of competing brands' buyers differed little on the usual socio-demographic measures, and brands in the same category "tend to be bought by similar kinds of people" [8]. They also noted that "few, if any, examples of marked brand segmentation are cited in the literature" [8]. Kennedy and Ehrenberg gave the finding its blunt title in 2001, "There is no brand segmentation", in Marketing Research [9].
+
+The finding has been re-tested rather than left alone. Uncles, Kennedy, Nenycz-Thiel, Singh and Kwok re-examined it in 2012 with newer data, extending the scope to brands in emerging markets, private labels, variants and composite segments, and reported that "despite attempts by marketers to differentiate brands and provide customized features for distinct target audiences", user profiles of directly competing brands seldom differ [10]. Anesbury, Winchester and Kennedy added the time dimension in 2017: profiles seldom differ between brands and seldom change over years [11].
+
+Byron Sharp gave the finding a chapter title in [How Brands Grow](/readings/how-brands-grow-byron-sharp/), "Our buyers are different", and a second chapter on competition, "Who do you really compete with?" [12]. His examples run from Ford and Chevrolet owners in the 1950s to UK car owners in the 1990s, whose agreement with attitude statements barely moved across brands [12]. The institute's later B2B work, on infrastructure-as-a-service, business intelligence and CRM software, claims the same law holds there: "the only meaningful difference in the customer base is its size, not its composition" [16]. The institute's business intelligence data, published with the LinkedIn B2B Institute, show what that means in practice: 80 percent of Amplitude's customers also use Google, and on average 68 percent of any brand's customers also buy AWS, so the buyers a small brand calls its own are mostly the big brands' buyers too [19].
+
+What is contested, and by whom. Segmentation's defenders hold that the Ehrenberg-Bass tests use the wrong variables: demographics and broad attitudes were never the bases a good segmentation would use, and needs- or occasion-based segments would show differences these tests cannot see. Uncles and colleagues acknowledge "potential boundary conditions" in their abstract [10]. The Ehrenberg-Bass reply is that whatever the basis, the brands end up with the same buyers, so the segment describes the category, not the brand. The literature has not resolved this. The two sides measure different things: who the brand wanted, and who the brand got.
+
+## Where practitioners get it wrong
+
+Three misapplications recur.
+
+Personas become media plans. A segmentation built to sharpen the offer is handed to the media team, who buy only the audience the persona describes. The persona was a design tool. Used as an exclusion rule, it cuts reach, the variable Binet and Field found matters most [13]. The narrowing also fails on its own terms: in Nielsen's benchmark of more than 44,000 digital campaigns, about half of the impressions aimed at a broad age and gender group reached it, and only about a fifth of those aimed at one gender in a narrow age range did [17].
+
+"Our buyer is different." Brand teams compare their buyer to a stereotype of the competitor's buyer rather than to the category's buyer. When the comparison is run on the same variables, on panel data, the difference is usually within a few percentage points [8][10]. The belief survives because nobody runs the comparison.
+
+Loyalty first. Budgets tilt toward existing customers because they are cheaper to reach and easier to measure. The Databank says these campaigns produce the smallest effects and the lowest efficiency of any targeting choice [13][14].
+
+**Our own observation.** A European supply chain services group asked us to open two markets where the category itself was unfamiliar. We ran one message identically in both, so the variable was the market and not the copy. Two countries, different languages, different competitors, different maturity, and category search presence landed within a point of each other inside sixty days. The consistency was the finding, not the level. Had those buyers needed two segment-specific arguments, the numbers would have said so. They did not.
+
+Buyers do ask to be understood: in Salesforce's 2022 survey of 13,020 consumers and 3,916 business buyers, 73 percent expected companies to understand their unique needs, up from 66 percent in 2020, while 56 percent said most companies still treat them as a number, which is a case for segmenting the offer and the service rather than the audience [18].
+
+## What to do with it
+
+1. Segment the category on behaviour first: usage frequency, occasion and need, from purchase or usage data. Record each segment's size as a share of category buyers. A segmentation document with no sizes is a persona deck. 2. Run the user-profile test once a year. Put your brand's buyer profile next to the category's on the same five to ten variables. If no variable differs by more than a few percentage points, remove the phrase "our target customer" from the brief and replace it with "category buyers". 3. Write the reach target as a share of all category buyers, with a number, in every brand-building brief. A brief with no reach figure is a brief that will be narrowed by default. 4. Split the budget by task. Brand building goes to the whole category through broad-reach media. Activation goes tightly targeted to people in market now, the line Binet and Field draw in Figure 01 of Media in Focus [14]. Keep the two on separate lines in the plan so one cannot absorb the other. 5. Use segments to change the offer: variants, price points, pack sizes, distribution. Do not use them to decide who is not allowed to see the advertising. 6. Re-check profiles every two to three years and expect them to be stable [11]. A profile that moves a lot is a measurement problem before it is a strategy result. 7. Report penetration before loyalty in every quarterly review, and report both against the category, not against last quarter.
+
+Figure: Campaigns that address the whole market report nearly three times the effects of campaigns aimed at existing customers. The step from existing customers to new customers is the big one; adding existing customers back in, to reach the whole market, adds a little more.. Source: IPA, Binet and Field, The Long and the Short of It, 2013, n=996 campaigns, 1980 to 2010, Figure 18. Redrawn by Brave New Media.. Unit: very large effects per campaign.
+
+| Campaign target | Very large business effects | Very large effects, total |
+|---|---|---|
+| Existing customers | 0.6 | 2.4 |
+| New customers | 1.7 | 5.4 |
+| Whole market | 1.8 | 6.7 |
+
+Figure: Whole-market campaigns are roughly nine times as efficient per point of share of voice as customer-only campaigns. Effectiveness rises step by step with reach (Chart 1), but efficiency jumps only when the campaign stops choosing between new and existing buyers.. Source: IPA, Binet and Field, The Long and the Short of It, 2013, n=996 campaigns, 1980 to 2010, Figure 21. Redrawn by Brave New Media.. Unit: annualised ESOV efficiency.
+
+| Campaign target | Annualised ESOV efficiency |
+|---|---|
+| Existing customers | 0.2 |
+| New customers | 0.3 |
+| Whole market | 2.6 |
+
+Figure: Business intelligence brands share their customers in proportion to size: 68 percent of any brand's customers also buy AWS, 14 percent also buy Amplitude. The sharing column follows the penetration column down the table. A small brand's "target customer" is mostly a customer of the big brands already, which is the duplication of purchase law showing up in B2B software.. Source: LinkedIn B2B Institute with Ehrenberg-Bass Institute, How B2B Tech Brands Grow, 2024, n=293 IT decision makers, Figure 4, p. 29. Redrawn by Brave New Media.. Unit: percent of IT decision makers.
+
+| Brand | Penetration, percent | Average sharing, percent |
+|---|---|---|
+| Amazon (AWS) | 62 | 68 |
+| Microsoft Azure | 49 | 52 |
+| Google (GCP) | 46 | 61 |
+| IBM | 46 | 59 |
+| Oracle Analytics | 22 | 34 |
+| SAS | 17 | 25 |
+| Microstrategy | 11 | 26 |
+| SAP BI suite | 10 | 21 |
+| Tableau | 6 | 15 |
+| Amplitude | 5 | 14 |
+| Mixpanel | 5 | 14 |
+
+Figure: The narrower the target, the more impressions miss it: about half reach a broad audience, about a fifth reach a narrow one. A persona handed to the media team as a buying rule does not even buy the persona: the tighter the demographic, the larger the share of paid impressions that land on someone else.. Source: Nielsen, Digital Ad Ratings Benchmarks and Findings, 2016, n=more than 44,000 campaigns in 17 countries, Q2 2016, press release of 15 December 2016. Redrawn by Brave New Media.. Unit: percent of impressions on target.
+
+| Target definition | Desktop | Mobile |
+|---|---|---|
+| Broad audience | 53 | 52 |
+| One gender, medium age range (spanning 16 to 30 years) | 28 | 33 |
+| One gender, narrow age range (under 16 years) | 20 | 22 |
+
+Figure: More customers expect to be understood than in 2020, and a majority still say most companies treat them as a number. Buyers ask to be understood, which is the case for segmenting the offer and the service. Only 56 percent expect every offer to be personalised, and 56 percent still feel treated as a number, so the demand is for relevance, not for narrower advertising.. Source: Salesforce, State of the Connected Customer, 5th edition, 2022, n=13,020 consumers and 3,916 business buyers in 29 countries, p. 10. Redrawn by Brave New Media.. Unit: percent of customers who agree.
+
+| Statement | 2020 | 2022 |
+|---|---|---|
+| The experience a company provides is as important as its product or services | 80 | 88 |
+| I expect companies to understand my unique needs and expectations | 66 | 73 |
+| I expect companies to anticipate my needs | 56 | 62 |
+| I feel an emotional connection to the brands I buy from the most | 53 | 62 |
+| I expect offers to always be personalized | 52 | 56 |
+| Most companies treat me as a number | 65 | 56 |
+
+Sources:
+
+1. Smith, W. R., 1956, "Product Differentiation and Market Segmentation as Alternative Marketing Strategies", Journal of Marketing, vol. 21, no. 1, pp. 3 to 8. https://doi.org/10.1177/002224295602100102
+2. Dolnicar, S., Grün, B. and Leisch, F., 2018, Market Segmentation Analysis: Understanding It, Doing It, and Making It Useful, Springer (open access), chapter 2, quoting Smith 1956, p. 6. https://doi.org/10.1007/978-981-10-8818-6
+3. Yankelovich, D., 1964, "New Criteria for Market Segmentation", Harvard Business Review, March 1964. https://hbr.org/1964/03/new-criteria-for-market-segmentation
+4. Wind, Y., 1978, "Issues and Advances in Segmentation Research", Journal of Marketing Research, vol. 15, no. 3, pp. 317 to 337. https://doi.org/10.1177/002224377801500302
+5. Dickson, P. R. and Ginter, J. L., 1987, "Market Segmentation, Product Differentiation, and Marketing Strategy", Journal of Marketing, vol. 51, no. 2, pp. 1 to 10. https://doi.org/10.1177/002224298705100201
+6. Kotler, P., 1967, Marketing Management: Analysis, Planning, and Control, Prentice-Hall (first edition). Later editions with K. L. Keller, Pearson.
+7. Aaker, D. A. and McLoughlin, D., 2007, Strategic Market Management, European edition, Wiley, chapter 3, "External and Customer Analysis". Library of Congress record 2006036925.
+8. Hammond, K., Ehrenberg, A. S. C. and Goodhardt, G. J., 1996, "Market segmentation for competitive brands", European Journal of Marketing, vol. 30, no. 12, pp. 39 to 49. https://doi.org/10.1108/03090569610153291
+9. Kennedy, R. and Ehrenberg, A., 2001, "There is no brand segmentation", Marketing Research, vol. 13, no. 1, pp. 4 to 7.
+10. Uncles, M., Kennedy, R., Nenycz-Thiel, M., Singh, J. and Kwok, S., 2012, "In 25 Years, Across 50 Categories, User Profiles for Directly Competing Brands Seldom Differ", Journal of Advertising Research, vol. 52, no. 2, pp. 252 to 261. https://doi.org/10.2501/JAR-52-2-252-261
+11. Anesbury, Z., Winchester, M. and Kennedy, R., 2017, "Brand user profiles seldom change and seldom differ", Marketing Letters, vol. 28, no. 4, pp. 523 to 535. https://doi.org/10.1007/s11002-017-9437-2
+12. Sharp, B., 2010, How Brands Grow: What Marketers Don't Know, Oxford University Press, chapters 5 ("Our buyers are different") and 6 ("Who do you really compete with?").
+13. Binet, L. and Field, P., 2013, The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies, IPA, Figures 18 and 21, IPA Databank, 996 campaigns, 1980 to 2010. https://ipa.co.uk/knowledge/publications-reports/the-long-and-the-short-of-it-balancing-short-and-long-term-marketing-strategies/
+14. Binet, L. and Field, P., 2017, Media in Focus: Marketing Effectiveness in the Digital Era, IPA, section 4 and Figures 01, 14 and 15, IPA Databank, 1998 to 2016 cases. https://ipa.co.uk/knowledge/publications-reports/media-in-focus-marketing-effectiveness-in-the-digital-era/
+15. Cialdini, R. B., 2021, Influence, New and Expanded: The Psychology of Persuasion, Harper Business.
+16. Ehrenberg-Bass Institute, "The law of brand user profiles: the sharpest nail in the coffin of hyper-targeting", republished Marketing Week column on B2B Institute and Ehrenberg-Bass research, circa 2021. http://marketingscience.info/the-law-of-brand-user-profiles-the-sharpest-nail-in-the-coffin-of-hyper-targeting
+17. Nielsen, 2016, "Nearly half of online campaigns miss target audience", press release, London, 15 December 2016, on the Nielsen Digital Ad Ratings Benchmarks and Findings report, more than 44,000 campaigns across 17 countries, Q2 2016, about 3,400 UK campaigns April to June 2016. https://www.nielsen.com/news-center/2016/nearly-half-of-online-campaigns-miss-target-audience/
+18. Salesforce Research, 2022, State of the Connected Customer, 5th edition, 13,020 consumers and 3,916 business buyers in 29 countries, surveyed 8 December 2021 to 1 February 2022, p. 10, "Expectations for Personalization Climb". https://www.salesforce.com/content/dam/web/en_ie/www/PDF/state-of-connected-customer-fifth-ed-comp.pdf
+19. Yueh, D., 2024, How B2B Tech Brands Grow, The B2B Institute at LinkedIn, foreword by N. Hartnett, Ehrenberg-Bass Institute, first published March 2024, Figure 4, p. 29, data from Ehrenberg-Bass Institute, "Investigation into Marketing Laws of Growth: Business Intelligence Software", n=293 IT decision makers. https://business.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/lms-b2b-institute/b2b-inst-22/all/how-b2b-tech-brands-grow.pdf
 
 ### Unique selling proposition (USP)
 
 Source: https://bravenewhive.com/principles/unique-selling-proposition/
-Date: 2026-08-27. Read: 3 min.
+Date: 2026-08-27. Read: 11 min.
 
-Rosser Reeves, Reality in Advertising, 1961. Every ad must make a proposition the competition cannot or does not make, and it must be strong enough to move people.
+Rosser Reeves set out the unique selling proposition in 1961 as a three-part rule: every advertisement must offer a specific benefit, competitors must not claim it, and it must be strong enough to pull new buyers [1]. His evidence was agency data. Published work since points the other way: buyers of most brands do not see them as different [4], rational-claim campaigns report very large profit effects less often than emotional ones [5], and the industry's own effectiveness data put the work on creative quality and trust rather than on the claim [8, 11, 12]. Keep the discipline of one clear claim. Drop the belief that uniqueness sells.
 
-Rosser Reeves of Ted Bates & Company codified the USP in Reality in Advertising (1961). Three conditions: the ad proposes a specific benefit, the proposition is one competitors do not offer, and it is strong enough to pull new customers.
+## Origin
 
-Reeves wrote for a world of repetition on three television networks. The discipline of one claim, stated plainly, survived the medium.
+Reeves, chairman of Ted Bates & Company, published Reality in Advertising with Alfred A. Knopf in 1961. He wrote that the theory "originated at Ted Bates & Company in the early 1940's" [1, ch. 13]. The problem was waste. Bates had been splitting the population into people who remembered a campaign and people who did not, then measuring how many in each group used the product [1, ch. 3]. Penetration: the share of the population who remember your current advertising. Usage pull: the difference in product usage between those who remember it and those who do not [1, ch. 3].
+
+The definition comes in chapter 13, "The Copy Leverage", where he complains that U.S.P. had become "perhaps the most misused series of letters in advertising" and gives it three parts [1, ch. 13]. First: "Each advertisement must make a proposition to the consumer." Second, the proposition must be one "that the competition either cannot, or does not, offer". Third, it "must be so strong that it can move the mass millions, i.e., pull over new customers to your product" [1, ch. 13]. He shows condition two failing alone with a toothpaste that advertised "it comes out like a ribbon and lies flat on your brush": unique, and useless [1, ch. 13].
+
+The USP is not a slogan, and Reeves says so. It is a product claim chosen because the Bates data said such claims produced the most usage pull. So that data is the first question.
+
+## What the evidence shows
+
+Reeves' own evidence. The Bates studies covered "seventy-eight of the biggest package-goods advertisers in the United States", with budgets from $400,000 to $17,500,000 a year [1, chs. 3 and 4]. Penetration ran from 1% to 78% of the population [1, ch. 4]. His summary statistic: companies applying his principles achieved penetration 15.4% above the competing-brand average and usage pull 16.2% above, which he multiplies into a 34% advantage [1, ch. 6].
+
+Treat these numbers as what they are: agency data on the agency's own clients, never published in a journal, with no sampling detail, no confidence intervals, anonymous brands and no replication. One more problem, our reading rather than a published one. People who already use a product are more likely to remember its advertising, so part of the gap between rememberers and non-rememberers is caused by usage rather than causing it. Reeves reports a correlation and calls it pull.
+
+The peer-reviewed record supports something narrower. Ehrenberg's 1974 paper in the Journal of Advertising Research reviewed the buying-behaviour evidence for frequently bought goods and found no evidence that advertising "actually works by any strong form of persuasion" [2]. His sequence is awareness, trial, reinforcement: "for frequently bought products, repeat buying is the main determinant of sales volume and here advertising must be reinforcing rather than persuasive" [2]. That answers Reeves' third condition directly. Reeves needs a claim strong enough to move new buyers. Ehrenberg's data say most volume comes from existing buyers being reminded.
+
+The one part of Reeves that later evidence supports is staying with a campaign. He called too-frequent change "the multi-million dollar error" and reported a dental cream campaign running twenty-two years while holding first place [1, ch. 8]. Ehrenberg's model predicts that outcome, for a different reason.
+
+The language has moved on without him. Romaniuk, Sharp and Ehrenberg summarise Kotler's Marketing Management as talking "of a meaningful perceived difference that provides buyers with their reason to purchase" [4, p. 43]. Kotler places the USP inside positioning, as one answer to how many benefits to promote, under a wider value proposition. Aaker's Building Strong Brands (1996) treats the functional benefit as one layer of a brand identity that also carries emotional and self-expressive benefits, and warns against fixing on product attributes [6]. Ries and Trout, in their 1972 Advertising Age series and 1981 book, moved the battleground from the product to the prospect's mind [7]. Their debt to Reeves is the single message; their departure is that it is built from perception, not a product claim.
+
+## The challenge
+
+Two published bodies of evidence cut against the USP, at different conditions.
+
+Romaniuk, Sharp and Ehrenberg (2007) went after the second condition, uniqueness. They asked current users whether the brand they buy is "different" or "unique", across seven Australian categories collected by telephone and ten UK categories from Young & Rubicam's 1999 Brand Asset Valuator survey, 17 markets in all [4, pp. 45-46]. Averaged across those markets, 11% of a brand's own users said it was different, 10% said unique and 17% said either [4, Table 2]. Brands with an obvious functional difference scored higher: Aldi, 67% for different [4, p. 46]. Apple, "often presented as a poster child for differentiation", still had 77% of its users not perceiving it as different or unique [4, p. 48]. The authors' conclusion: "less trying to find unique selling propositions and more trying to find unique identifying characteristics" [4, p. 52].
+
+It measures stated perception, not what drives choice, mostly for established brands [4, p. 49]. What it removes is Reeves' second-condition assumption: that buyers of a successful brand carry a perceived unique reason to buy it. Mostly they do not.
+
+Kantar reads the same question from the other side. Its BrandZ work with the Saïd Business School at Oxford modelled 872 brands from 2006 to 2022 and found perceived difference to be the leading brand factor in share-price outperformance, 35% of the brand effect against 0.6% for salience, and that Meaningful and Different together explain 94% of pricing power, salience 6% [10]. Read with Romaniuk: few buyers perceive a difference, but where they do, it is what lets the brand charge more. Neither result says a unique product claim is how that difference gets built. Kantar's own factor analysis puts 30% of difference on distinctive assets and the rest on positioning, product experience, service and advertising associations [10].
+
+Binet and Field went after the mechanism. Their 2013 IPA report The Long and the Short of It analysed 996 campaigns from 700 brands across 83 categories in the IPA Databank [5]. Campaigns coded as rational (a product or price message) reported very large effects on sales in 46% of cases, against 55% for emotional campaigns; on market share 28% against 31%; on loyalty 5% against 11%; on price sensitivity 2% against 5%; on new customers the two tied at 27% [5, Figures 44, 53, 54]. Very large profit growth was reported by 16% of rational campaigns, 25% of combined and 29% of emotional [5]. The gap grows with time: at one year 13% of emotional campaigns against 10% of rational; at two years 30% against 20%; at three years or more 43% against 23% [5].
+
+Two cautions. The IPA Databank is a set of award entries, so it over-represents campaigns that worked. And the rational versus emotional split is a coding of each campaign's dominant approach, not a controlled test. Binet and Field's own reading: rational messaging gives a big direct effect that decays quickly, emotional priming a smaller one that builds [5, slides 13 and 14].
+
+The industry's own attribution work puts the weight in the same place. Nielsen Catalina Solutions decomposed the sales lift of nearly 500 FMCG campaigns run in 2016 and the first quarter of 2017 and attributed 47% of it to the creative, 22% to reach, 15% to brand factors such as price and penetration, 9% to targeting, 5% to recency and 2% to context [8]. Cannes Lions and WARC found the same from the other end: across 3,786 effectiveness award cases from 2011 to 2019, campaigns that had also won creative awards averaged 4.5 WARC effectiveness points against 2.6 for those that had not [13]. What both measure is the quality of the execution, not the presence of a claim.
+
+Where the literature is split. Reeves and Ehrenberg agree that campaigns should not change often and that memory matters. They disagree on what memory does. Reeves: the remembered claim pulls new users. Ehrenberg: the remembered brand reassures existing ones. The Bates data cannot separate the two; it never distinguished new buyers from existing buyers who remembered the ad. Sharp and Romaniuk side with Ehrenberg, in chapter 8 of [How Brands Grow](/readings/how-brands-grow-byron-sharp/) [9]. Binet and Field sit between: rational claims work, for a while. Kantar's BrandZ data side with Reeves on whether difference pays and against him on how it is built [10]. No one has replicated Reeves' 34%.
+
+Cialdini did not address the USP. His work matters because it names what a single rational claim leaves out. Social proof (chapter 4), authority (chapter 5) and scarcity (chapter 6) in the 2021 edition of Influence move buyers without any claim that the product is unique [3]. A queue, a credential and "only three left" are propositions of a different kind, each with an experimental literature behind it.
+
+Edelman's 2019 brand-trust survey of 16,000 people in eight countries puts a number on what the claim leaves out. 81% said being able to trust the brand to do what is right was a deal breaker or a deciding factor in a purchase, in the same band as quality at 85%, convenience and value at 84% and ingredients at 82% [12]. The same survey found 13% had strong trust in a brand message after seeing it once and 87% after seeing it across six channels [12]. A proposition, however unique, is one message seen once.
+
+## Where practitioners get it wrong
+
+The slogan mistake. Reeves complained in 1961 that U.S.P. was being applied "to slogans, slick phrases, strange pictures, mere headlines" [1, ch. 13]. Sixty-five years later the output of a USP workshop is still a tagline, and a tagline the product cannot prove or disprove is not a proposition.
+
+The uniqueness hunt. Teams spend months on a feature no competitor has, then find buyers do not value it (Reeves' toothpaste ribbon [1, ch. 13]) or cannot perceive it (the 17% in Romaniuk, Sharp and Ehrenberg [4]). The search eats the money that distinctive assets, consistent creative and reach would have used.
+
+The forever-rational plan. Firms that take the USP literally build every campaign as a product claim and judge it on short-term response, where rational campaigns look best (very large direct effects: rational above combined above emotional [5, slide 32]) and where the three-year profit gap is invisible. The B2B Institute at LinkedIn and System1 rated 1,700 B2B ads on System1's five-star emotional-response scale: 76.7% scored one star, the level System1 associates with no market-share growth, and 0.5% scored four or five [11].
+
+**Our own observation.** In the fourth month of a residential developer engagement we stopped buying attention and went to earn it: a full editorial interview with the chief executive in a sector trade publication, secured in the annual editorial plan without paying for placement, on the seven things the market was anxious about, pricing, cost pressure, regulation, and whether developers deliver what they promise. No unique product claim anywhere in it. In a market asking whether a developer will still exist at handover, third-party endorsement did work that no proposition about the product could.
+
+## What to do with it
+
+1. Write the claim in Reeves' form first: "Buy this, and you will get this specific benefit." If no testable benefit finishes the sentence, there is no proposition, only a slogan [1, ch. 13]. 2. Test the benefit for importance, not uniqueness. Ask current buyers, unprompted, why they buy. If fewer than one in five name the benefit, uniqueness will not rescue it [4]. 3. Expect low differentiation scores. Fewer than 20% of users calling a brand "different" is the norm across 17 markets [4, Table 2]. Put the budget into distinctive assets: name, colour, shape, sound, character, used identically everywhere [4, p. 52]. 4. Keep the rational claim in activation and hold it to activation metrics. Judge brand advertising on three-year profit, where emotional campaigns lead 43% to 23% [5], and test the execution before the claim: creative carried 47% of sales lift in Nielsen's decomposition [8]. 5. Change the claim rarely and the execution often. Reeves' one finding that has held is the cost of switching campaigns [1, ch. 8]; Ehrenberg explains why [2]. 6. When the product has no unique benefit, use Cialdini's levers instead of inventing one: visible customer numbers, credentials, real limits on supply [3, chs. 4 to 6]. Never fake the scarcity. 7. If anyone quotes Reeves' 34%, ask for the sampling method; the book has none [1, ch. 6].
+
+Figure: Meaningful difference carries 94% of pricing power in Kantar BrandZ; salience carries 6%. Buyers rarely call a brand different, but the difference they do perceive is what lets it charge more; salience fills the shelf, not the margin.. Source: Kantar, Think Different: The DNA of breakthrough brand value growth, 2023, Kantar BrandZ with Saïd Business School Oxford, n=872 brands 2006 to 2022, figures in text. Redrawn by Brave New Media.. Unit: % of effect explained.
+
+| Item | % of effect explained |
+|---|---|
+| Pricing power: Meaningful and Different | 94 |
+| Pricing power: Salient | 6 |
+| Share-price outperformance, brand effect: Different | 35 |
+| Share-price outperformance, brand effect: Salient | 0.6 |
+
+Figure: Emotional campaigns report very large business effects more often than rational ones on four of five metrics. The rational claim ties on new customers, the one metric the USP was designed for, and loses on the four that compound.. Source: Binet and Field, The Long and the Short of It, IPA, 2013, n=996 campaigns, Figures 44, 53, 54. Redrawn by Brave New Media.. Unit: % of cases.
+
+| Metric | Rational campaigns | Emotional campaigns |
+|---|---|---|
+| Sales | 46 | 55 |
+| Market share | 28 | 31 |
+| Price sensitivity | 2 | 5 |
+| Loyalty | 5 | 11 |
+| New customers | 27 | 27 |
+
+Figure: Creative carried 47% of advertising's sales lift across nearly 500 FMCG campaigns; targeting carried 9%. Half of what advertising sells comes from the execution; the claim lives inside that half and is not the whole of it.. Source: Nielsen, When it comes to advertising effectiveness, what is key?, 2017, Nielsen Catalina Solutions, n=nearly 500 FMCG campaigns 2016 to Q1 2017, figure Percent sales contribution by advertising element. Redrawn by Brave New Media.. Unit: % of sales contribution.
+
+| Item | % of sales contribution |
+|---|---|
+| Creative | 47 |
+| Reach | 22 |
+| Brand | 15 |
+| Targeting | 9 |
+| Recency | 5 |
+| Context | 2 |
+
+Figure: 81% call brand trust a deal breaker or deciding factor when buying, in the same band as quality, value and convenience. Trust sits four points behind quality as a condition of purchase; the same survey found strong trust in a brand message rose from 13% after one viewing to 87% after six channels.. Source: Edelman, 2019 Edelman Trust Barometer Special Report: In Brands We Trust?, 2019, n=16,000 in eight countries, press release and executive summary. Redrawn by Brave New Media.. Unit: % of respondents.
+
+| Item | % of respondents |
+|---|---|
+| Quality | 85 |
+| Convenience | 84 |
+| Value | 84 |
+| Ingredients | 82 |
+| I can trust the brand to do what is right | 81 |
+
+Figure: 77% of 1,700 B2B ads scored one star, the level System1 links to zero share growth; 0.5% scored four or five. Three in four B2B ads produced the lowest emotional response System1 measures, the level it associates with no long-term share growth, and a B2B ad was 154 times more likely to score one star than four or five.. Source: LinkedIn B2B Institute and System1, Cashing In On Creativity, 2021, n=1,700 B2B ads in six categories, System1 star rating, p. 11. Redrawn by Brave New Media.. Unit: % of B2B ads.
+
+| System1 star rating | % of B2B ads | Share growth mapped to rating, points a year |
+|---|---|---|
+| 1 star | 76.7 | 0.0 |
+| 2 stars | 16.8 | 0.5 |
+| 3 stars | 6.0 | 1.0 |
+| 4 stars | 0.4 | 2.0 |
+| 5 stars | 0.1 | 3.0 |
+
+Sources:
+
+1. Reeves, R., 1961. Reality in Advertising. Alfred A. Knopf, New York. Chapters cited: 3 "Inside", 4 "The Penetrated People", 5 "The Pulled-over People", 6 "The Extra Edge", 8 "The Multi-Million Dollar Error", 13 "The Copy Leverage". Archive.org record https://archive.org/details/isbn_9780394442280 (lending copy); text read from the scanned PDF at https://jonduke.wordpress.com/wp-content/uploads/2018/10/reality-in-advertising.pdf
+2. Ehrenberg, A.S.C., 1974. Repetitive Advertising and the Consumer. Journal of Advertising Research 14(2), 25-34. Reprinted as a JAR Classic in Journal of Advertising Research 40(6), 2000, 39-48. https://doi.org/10.2501/JAR-40-6-39-48
+3. Cialdini, R.B., 2021. Influence, New and Expanded: The Psychology of Persuasion. HarperCollins, New York. Chapter 4 Social Proof, chapter 5 Authority, chapter 6 Scarcity.
+4. Romaniuk, J., Sharp, B. and Ehrenberg, A., 2007. Evidence concerning the importance of perceived brand differentiation. Australasian Marketing Journal 15(2), 42-54. https://doi.org/10.1016/S1441-3582(07)70042-3
+5. Binet, L. and Field, P., 2013. The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies. IPA, London. Figures 44, 53 and 54 as reproduced in IPA, Les and Peter: The Greatest Hits, https://ipa.co.uk/media/7163/les_and_peter_the_greatest_hits.pdf, and in the IPA and Thinkbox presentation deck, https://ipa.co.uk/media/5811/long_and_short_of_it_presentation_final.pdf
+6. Aaker, D.A., 1996. Building Strong Brands. Free Press, New York.
+7. Ries, A. and Trout, J., 1981. Positioning: The Battle for Your Mind. McGraw-Hill, New York. Preceded by "The Positioning Era Cometh", Advertising Age, April and May 1972, per https://ries.com/about/history-of-positioning
+8. Nielsen, 2017. When it comes to advertising effectiveness, what is key? Nielsen Insights, October 2017, reporting Nielsen Catalina Solutions' analysis of nearly 500 FMCG campaigns, 2016 to Q1 2017; figure "Percent sales contribution by advertising element". https://www.nielsen.com/insights/2017/when-it-comes-to-advertising-effectiveness-what-is-key/
+9. Sharp, B., 2010. How Brands Grow: What Marketers Don't Know. Oxford University Press, Melbourne. Chapter 8, "Differentiation vs. Distinctiveness".
+10. Boyd, D., 2023. Think Different: The DNA of breakthrough brand value growth. Kantar, 14 July 2023. Kantar BrandZ (21,000 brands, 52 markets, 4.2 million interviews) with the Saïd Business School, University of Oxford, share-price model of 872 brands 2006 to 2022; figures given in the text. https://www.kantar.com/inspiration/advertising-media/think-different-the-dna-of-breakthrough-brand-value-growth
+11. LinkedIn B2B Institute and System1, 2021. Cashing In On Creativity: How Better Ads Deliver Bigger Profits. First published June 2021, pp. 10 to 12, System1 star ratings of 1,700 B2B ads in six categories. https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/Cashing_In_Whitepaper_FINAL.pdf
+12. Edelman, 2019. 2019 Edelman Trust Barometer Special Report: In Brands We Trust? Survey of 16,000 respondents in eight countries, spring 2019. Figures from the Edelman press release "Only One-Third of Consumers Trust Most of the Brands They Buy", June 2019, https://www.edelman.com/news-awards/only-one-third-of-consumers-trust-most-of-the-brands-they-buy, and the executive summary, https://www.edelman.com/sites/g/files/aatuss191/files/2019-06/2019_edelman_trust_barometer_special_report_in_brands_we_trust_executive_summary.pdf
+13. Hurman, J. with Field, P., 2020. The Effectiveness Code. Cannes Lions and WARC. p. 92, WARC Global Effectiveness Award cases 2011 to 2019, n=3,786 (3,616 not creatively awarded, 170 creatively awarded). WARC page https://www.warc.com/en/article/the-effectiveness-code-63d75d4dfc3547f4b8a84f6f4d1bf6e2; PDF read at https://static1.squarespace.com/static/66480d906bd23f14f15ad31f/t/664936e7c55ddb3b0c45a604/1716074239153/The+Effectiveness+Code.pdf
 
 ### Mental availability and physical availability
 
 Source: https://bravenewhive.com/principles/mental-and-physical-availability/
-Date: 2026-08-22. Read: 4 min.
+Date: 2026-08-22. Read: 10 min.
 
-Byron Sharp's How Brands Grow (2010) argued brands grow by being easy to think of and easy to buy, not by deepening loyalty among a few.
+Sharp's claim is that brands grow by being easy to think of and easy to buy, because loyalty follows market share rather than causing it [1]. The second half is well tested: double jeopardy holds in 32 differentiated replications, in cars, business banking, aircraft and packaged goods [6][9][10]. The first half, that mental availability itself moves share, rests mostly on one institute. Practitioners should track penetration before any loyalty metric, stop expecting retention schemes to beat a law, and build memory links to buying situations rather than an awareness score.
 
-Byron Sharp and the Ehrenberg-Bass Institute published How Brands Grow in 2010. The evidence base is buying data across categories and decades.
+## Origin
 
-Mental availability is the chance a brand comes to mind in a buying situation. Physical availability is the ease of buying it when the moment comes. Distinctive assets, reach and consistency do most of the work. Duller than most marketers want, and what the data keeps giving.
+Byron Sharp published [How Brands Grow](/readings/how-brands-grow-byron-sharp/): What Marketers Don't Know with Oxford University Press in 2010 [1]. Chapter 12 carries the two terms. Mental availability is the probability that buyers "notice, recognize and/or think of a brand in buying situations" [1][2]. Physical availability is the ease of finding and buying it. The book's argument is that these two are what budgets should build. What "easy to buy" means has moved since 2010: in McKinsey's 2024 B2B Pulse survey of nearly 4,000 decision makers in 13 countries, buyers used an average of ten channels to interact with suppliers, up from five in 2016, and among sellers that offer e-commerce it now brings in 34% of revenue against 17% from in-person sales [30].
+
+The problem Sharp was solving was a decade of loyalty-first management. Reichheld and Sasser had told Harvard Business Review readers in 1990 that "companies can boost profits by almost 100% by retaining just 5% more of their customers" [18], and Aaker's Managing [Brand Equity](/principles/brand-equity/) (1991) had put brand loyalty first among five equity assets [20]. Sharp's answer: brands do not grow by deepening loyalty, they grow by adding buyers.
+
+The regularity underneath the book is double jeopardy, which William McPhee described in Formal Theories of Mass Behavior (1963) for actors, comic strips and radio presenters before anyone applied it to brands [5][9]. Ehrenberg, Goodhardt and Barwise formalised it for buying in the Journal of Marketing in 1990: "a small brand typically has far fewer buyers than a larger brand. In addition, its buyers tend to buy it less often" [6]. Uncles, Ehrenberg and Hammond (1995) tied the regularities together in the NBD-Dirichlet model [7]. Sharp's own step before the book was brand salience, defined with Jenni Romaniuk in 2004 as "the brand's propensity to be noticed or come to mind in buying situations" [8]. Mental availability is that idea renamed and widened. [How Brands Grow](/readings/how-brands-grow-byron-sharp/) Part 2 (2016) took the laws to emerging markets, services and luxury [3]; Romaniuk's Building Distinctive Brand Assets (2018) is the operating manual for the mental half [4].
+
+## What the evidence shows
+
+Ehrenberg, Goodhardt and Barwise (1990) reviewed the panel evidence, the theory and the known exceptions [6]. Graham, Bennett, Franke, Henfrey and Nagy-Hamada (2017) took the law into long-run continuous buying, emerging markets, capital purchasing and house-of-brands portfolios. Across 32 differentiated replications, some 35 years apart, they "find no boundary condition to the operation of the Double Jeopardy characteristic" [10].
+
+The B2B evidence is the part a Brave New reader will want. Romaniuk, Dawes and Faghidno (2021) published an Ehrenberg-Bass report with new survey data on UK business banking and US business insurance, plus a table of eight earlier B2B studies [9]. In banking, Barclays, used by 41% of firms surveyed, held 5.7 of 17 possible products per customer and 27% solely loyal customers; Metro, used by 11%, held 3.2 products and 3% [9]. The report does not state its sample size.
+
+The companion report in the same series asked 609 UK business banking buyers and 616 US business insurance buyers a second question, whether they would refuse to use each brand, and found the barrier to acquisition lies elsewhere: rejection averaged 11% across 22 UK banks and 7% across 17 US insurers, while the share of buyers unaware of a bank ran from 16% for Barclays to 80% for Handelsbanken [28]. A small B2B brand is small because most potential buyers do not know it, not because they have decided against it.
+
+The durable B2B case is aircraft. Bennett, Anesbury and Graham (2018) used 9,000 purchase records from 51 airlines over ten years: Boeing, bought by 86% of airlines, averaged 101 purchases per buyer; Embraer, bought by 16%, averaged 37 [9][31].
+
+Kim, Singh and Winer (2017) used A.C. Nielsen's US household panel, 2004 to 2009, and measured the share of each brand's dollar sales delivered by its top 20% of buyers across 238 brands in 22 categories, roughly 18,000 households [12]. The mean Pareto ratio was 0.73 with a standard deviation of 0.07; category averages ran from 0.64 for liquid detergent to 0.89 for cigarettes, and under Nielsen's narrower brand definition the mean fell to 0.65 [12]. They note the rule "is not precisely .80" [12].
+
+Sharp and Graham read similar data differently. On Kantar data for about 600 UK brands in 40 categories, the top 20% deliver around 40% of sales in a quarter, "over 50%" in a year and "just over 60%" over five years, and 80% of a brand's buyers make five purchases or fewer in five years [13]. Both figures sit well below 80; the gap is windows and brand definitions.
+
+The evidence for mental availability as a cause, rather than for double jeopardy as a pattern, is thinner. Romaniuk and Sharp (2004) set out the construct and a multi-cue measure [8]. Keller's customer-based [brand equity](/principles/brand-equity/) model (2001) had already put brand salience at the base of its pyramid: salience "influences the likelihood that the brand will be a member of the consideration set", with depth (ease of recall) and breadth (the range of situations in which the brand comes to mind) [21]. Breadth is mental availability under another name. Keller then builds meaning, feelings and resonance on top; Sharp treats salience plus distribution as the whole job.
+
+Binet and Field's meta-analysis of 996 IPA Databank campaigns (2013) lands on Sharp's side for reach and elsewhere for mechanism. Their fame campaigns turned excess share of voice into growth at an annualised efficiency of 1.4 against 0.3 for other campaigns [23]. Reach is common ground. The mechanism is not: Sharp's account is memory refreshed, Binet and Field's is emotional priming that builds over years [23].
+
+## The challenge
+
+Three serious critiques and one loud one.
+
+The first is the loyalty camp. Reichheld's numbers are claims from company casework, not panel findings; The Loyalty Effect (1996) says "even a small improvement in customer retention can double profits" [18][19]. Aaker's pyramid is a theorist's structure [20]. Neither has met double jeopardy on the same data and won.
+
+The second is the academic critique of the Dirichlet's generality, and it comes from inside the model. Fader and Schmittlein (1993) showed across product markets in Japan and the United States that high-share brands have significantly more loyalty than the Dirichlet predicts, and traced it to consumer segments created partly by distribution [14]. Jung, Gruca and Rego (2010) replicated this across US packaged goods and found excess loyalty positively related to market share in 86% of categories, a pattern some authors call triple jeopardy [15]. Scriven, Bound and Graham (2017) sorted the recurring deviations in 62 FMCG categories into three types and concluded that "brand performance remains close to Dirichlet prediction" [16]. The model bends, it does not break, and when it bends it favours the big brand.
+
+The third is scope. Sharp, Wright and Goodhardt (2002) themselves split repeat-purchase markets into repertoire markets, where the familiar patterns hold, and subscription markets such as insurance and banking, where most buyers use one brand at a time. The distinction "turns out to be an important boundary condition for some well-established generalisations", and their analysis "does not extend to markets for durable products" [11]. The B2B evidence since then is real but narrower than the FMCG base: two Ehrenberg-Bass surveys with unstated samples, one aircraft dataset, and eight older studies, six from before 2001 [9]. Double jeopardy travels. The full Dirichlet toolkit, and the claim that availability is the only lever worth funding, have been tested far less outside the supermarket. Formisano, Pauwels and Zarantonello (2020) put it this way: marketers should "not oversimplify Dirichlet evidences by thinking of availability as the only (costly) response to all marketing challenges" [17].
+
+The loud one is Mark Ritson's 2018 Marketing Week column: Sharp's claim that it is "impossible" to value brand perceptions "is not just mistaken, it is a rejection of true scientific method" [27]. It added no data.
+
+We could not confirm whether the 16th edition of Kotler, Keller and Chernev's Marketing Management (2021) covers double jeopardy or the Dirichlet at all [22]. Cialdini did not address mental availability. The availability heuristic the term echoes is Tversky and Kahneman's (1973), a rule about judging frequency from ease of recall [25]. The nearest Cialdini gets is Pre-Suasion (2016), chapters 2 and 3, on attention and the principle that "what's focal is causal"; that is attention in the moment of persuasion, not a brand's standing in memory across buying situations [24].
+
+## Where practitioners get it wrong
+
+Awareness is reported as mental availability. Sharp's 2011 note is blunt: recall and recognition scores are "flawed by the use of a single, a-situational, cue", usually the category name [2]. A brand can post high prompted awareness and still be absent from memory when a buyer needs a supplier for a specific job. The measure Romaniuk and Sharp propose uses one cue per buying situation [8].
+
+Small brands are given loyalty KPIs. Double jeopardy says a 10% penetration brand will show lower loyalty than a 40% brand for no reason other than size [6][9]. A retention target set at the leader's number is one the law forbids. The loyalty-programme test in this literature is Sharp and Sharp (1997), which benchmarked a programme's repeat-purchase patterns against Dirichlet norms [26].
+
+The 80/20 slide. Kim, Singh and Winer's mean is 0.73 over six years; Sharp and Graham's is around 0.40 in a quarter [12][13]. A plan that concentrates budget on the top fifth rests on a number the panel data does not produce.
+
+**Our own observation.** In one of the supply chain group's established markets the brand had gone years without consistent presence and had slipped out of the consideration set, with the operation intact and the alternatives long-standing. Nothing about the service had changed. Its availability in buyers' memory had. Rebuilding it was a matter of presence, a weekly publishing rhythm per market, and the clearest lesson of the year was that consistency of spend mattered more than size of spend. Fragmented allocation stopped campaigns before they could compound. The industry survey closest to that experience is Edelman and LinkedIn's 2024 study of 3,484 executives in seven countries: 75% said a piece of thought leadership had sent them to research a product or service they had not been considering, and 86% of decision-makers said they would invite a company that consistently publishes good thought leadership into an RFP [29]. Presence gets a brand into the room; nothing else in the survey does.
+
+## What to do with it
+
+1. Put penetration, the share of category buyers who bought you in the period, on the first line of every brand dashboard, with loyalty metrics beneath it [6][9]. 2. Before setting a retention or share-of-wallet target, tabulate the category by penetration as Romaniuk, Dawes and Faghidno describe, and set the target where the double jeopardy line predicts for your size [9]. 3. Replace the single-cue awareness question with a battery of buying situations, ask which brands come to mind for each, and report the share of situations in which you are named [8]. 4. Classify your category as repertoire or subscription before choosing metrics; use purchase frequency and share of requirements in the first, defection and tenure in the second [11]. 5. Test the Pareto ratio on your own customer file at one quarter, one year and three years, and stop using any figure you did not compute [12][13]. 6. List every place and moment a buyer could look for you, mark each yes or no, and fix the noes before spending on anything else in this article.
+
+Figure: Among B2B sellers with an online store, e-commerce now outsells the sales force two to one. Being easy to buy is no longer a question of distribution depth alone; buyers used an average of ten channels in 2024 against five in 2016, and the channel that needs no salesperson now carries the most revenue. The remainder is spread across email, mobile apps, e-procurement portals and online chat, which the report does not break out.. Source: McKinsey & Company, B2B Pulse Survey 2024, nearly 4,000 B2B decision makers, 34 sectors, 13 countries, Truth 3 and Exhibit 6. Redrawn by Brave New Media.. Unit: % of revenue.
+
+| Sales channel | % of revenue, 2024 |
+|---|---|
+| E-commerce (sellers that offer it) | 34 |
+| In-person sales | 17 |
+| Video conference | 12 |
+
+Figure: In UK business banking, the banks with the most customers also hold the most loyal ones. Read down the penetration column and the loyalty column falls with it; Nationwide and TSB are the deviations the report itself flags, and they are the exceptions, not the rule.. Source: Ehrenberg-Bass Institute for the LinkedIn B2B Institute, Romaniuk, Dawes and Faghidno, The Double Jeopardy Law in B2B shows the way to grow, 2021, n not stated, Table 1. Redrawn by Brave New Media.. Unit: % of the bank's customers solely loyal.
+
+| Bank | % of B2B customers (penetration) | % of its customers solely loyal |
+|---|---|---|
+| Barclays | 41 | 27 |
+| HSBC | 30 | 29 |
+| Natwest | 25 | 27 |
+| Lloyds | 25 | 34 |
+| Nationwide | 21 | 5 |
+| Santander | 19 | 24 |
+| Halifax | 16 | 8 |
+| RBS | 13 | 10 |
+| Metro | 11 | 3 |
+| TSB | 10 | 10 |
+
+Figure: Every UK business bank is unknown to more firms than refuse it; for the smallest, seven times more. Rejection sits near 10% whatever the bank's size; the number that moves with size is the share of buyers who have never heard of it. The barrier to acquisition is absence from memory, not a verdict against the brand.. Source: Ehrenberg-Bass Institute for the LinkedIn B2B Institute, Romaniuk, Brand Rejection in B2B, 2021, UK business banking, n=609, Table 5. Redrawn by Brave New Media.. Unit: % of business buyers unaware of the brand.
+
+| Bank | % unaware | % who would refuse |
+|---|---|---|
+| Barclays | 16 | 10 |
+| HSBC | 17 | 10 |
+| Lloyds Bank | 22 | 11 |
+| NatWest | 23 | 8 |
+| Santander | 29 | 11 |
+| Halifax | 34 | 8 |
+| RBS | 34 | 19 |
+| Metro Bank | 53 | 11 |
+| Yorkshire Bank | 54 | 7 |
+| Deutsche | 54 | 12 |
+| Standard Chartered | 62 | 10 |
+| Handelsbanken | 80 | 11 |
+
+Figure: The top fifth of a brand's buyers deliver 64% to 89% of its sales over six years, never 80% as a rule. The number moves with the category, the brand definition and the measure, which is the point: 80/20 is a slogan, not a constant, and Sharp and Graham's shorter windows on UK data give lower figures still.. Source: Kim, Singh and Winer, Marketing Letters, 2017, A.C. Nielsen US household panel 2004 to 2009, 238 brands, 22 categories, n about 18,000 households, Tables 2 and 3. Redrawn by Brave New Media.. Unit: % of brand sales.
+
+| Item | % of brand sales |
+|---|---|
+| Liquid detergent (lowest category mean) | 64 |
+| Mean, narrower brand definition | 65 |
+| Mean, volume definition | 72 |
+| Mean, 238 brands, dollar sales | 73 |
+| Cigarettes (highest category mean) | 89 |
+
+Figure: Three in four B2B decision-makers say a piece of thought leadership sent them to research a product they had not been considering. The survey measures what gets an unfamiliar supplier into consideration among buyers who were not looking; the drop from 75% researching to 23% buying is the gap between being thought of and being chosen, and the first has to happen before the second can.. Source: Edelman and LinkedIn, 2024 B2B Thought Leadership Impact Report, n=3,484 executives in seven countries, fielded 30 November to 14 December 2023, pages 9, 13, 14 and 17. Redrawn by Brave New Media.. Unit: % of respondents.
+
+| Outcome | % of respondents | Base |
+|---|---|---|
+| Would invite a consistent publisher into an RFP | 86 | Decision-makers |
+| Researched a product they were not considering because of a piece | 75 | Decision-makers and C-suite |
+| Questioned whether to keep a current supplier | 70 | C-suite |
+| More willing to pay a premium to the organisation that publishes | 60 | Decision-makers and C-suite |
+| Began buying from the producer | 23 | Those it sent to research a product |
+
+Sources:
+
+1. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford University Press, Melbourne. Chapter 12.
+2. Sharp, B. (2011). "Mental availability is not awareness, brand salience is not awareness." Marketing Science commentary, 26 March 2011. https://byronsharp.wordpress.com/2011/03/26/mental-availability-is-not-awareness-brand-salience-is-not-awareness/
+3. Sharp, B. and Romaniuk, J. (2016). How Brands Grow Part 2: Emerging Markets, Services, Durables, New and Luxury Brands. Oxford University Press.
+4. Romaniuk, J. (2018). Building Distinctive Brand Assets. Oxford University Press.
+5. McPhee, W. N. (1963). Formal Theories of Mass Behavior. Free Press of Glencoe, New York.
+6. Ehrenberg, A. S. C., Goodhardt, G. J. and Barwise, T. P. (1990). "Double Jeopardy Revisited." Journal of Marketing, 54(3), 82-91. https://doi.org/10.1177/002224299005400307
+7. Uncles, M., Ehrenberg, A. and Hammond, K. (1995). "Patterns of Buyer Behavior: Regularities, Models, and Extensions." Marketing Science, 14(3 supplement), G71-G78. https://doi.org/10.1287/mksc.14.3.g71
+8. Romaniuk, J. and Sharp, B. (2004). "Conceptualizing and measuring brand salience." Marketing Theory, 4(4), 327-342. https://doi.org/10.1177/1470593104047643
+9. Romaniuk, J., Dawes, J. and Faghidno, S. (2021). The Double Jeopardy Law in B2B shows the way to grow. Ehrenberg-Bass Institute report, May 2021. https://marketingscience.info/news-and-insights/the-double-jeopardy-law-in-b2b-shows-the-way-to-grow
+10. Graham, C., Bennett, D., Franke, K., Henfrey, C. L. and Nagy-Hamada, M. (2017). "Double Jeopardy: 50 Years On. Reviving a Forgotten Tool that Still Predicts Brand Loyalty." Australasian Marketing Journal, 25(4), 278-287. https://doi.org/10.1016/j.ausmj.2017.10.009
+11. Sharp, B., Wright, M. and Goodhardt, G. (2002). "Purchase Loyalty is Polarised into either Repertoire or Subscription Patterns." Australasian Marketing Journal, 10(3), 7-20. https://wwwdocs.fce.unsw.edu.au/marketing/amj_10_03_sharp.pdf
+12. Kim, B. J., Singh, V. and Winer, R. S. (2017). "The Pareto rule for frequently purchased packaged goods: an empirical generalization." Marketing Letters, 28, 491-507. https://doi.org/10.1007/s11002-017-9442-5
+13. Sharp, B. and Graham, C. (2018). "The value of Pareto's bottom 80%." Ehrenberg-Bass Institute. https://marketingscience.info/news-and-insights/value-paretos-bottom-80
+14. Fader, P. S. and Schmittlein, D. C. (1993). "Excess Behavioral Loyalty for High-Share Brands: Deviations from the Dirichlet Model for Repeat Purchasing." Journal of Marketing Research, 30(4), 478-493. https://doi.org/10.1177/002224379303000407
+15. Jung, S.-U., Gruca, T. S. and Rego, L. L. (2010). "Excess Loyalty in CPG Markets: A Comprehensive Examination." Journal of Empirical Generalisations in Marketing Science, 14(1). https://www.empgens.com/wp-content/uploads/2010/06/Excess-loyalty-in-CPG-markets.pdf
+16. Scriven, J., Bound, J. and Graham, C. (2017). "Making Sense of Common Dirichlet Deviations." Australasian Marketing Journal, 25(4). https://doi.org/10.1016/j.ausmj.2017.10.007
+17. Formisano, M., Pauwels, K. and Zarantonello, L. (2020). "A broader view on brands' growth and decline." International Journal of Market Research, 62(2). https://doi.org/10.1177/1470785319873253
+18. Reichheld, F. F. and Sasser, W. E. (1990). "Zero Defections: Quality Comes to Services." Harvard Business Review, September-October 1990, 68(5), 105-111. https://hbr.org/1990/09/zero-defections-quality-comes-to-services
+19. Reichheld, F. F. (1996). The Loyalty Effect: The Hidden Force Behind Growth, Profits, and Lasting Value. Harvard Business School Press. https://www.bain.com/insights/books/the-loyalty-effect/
+20. Aaker, D. A. (1991). Managing Brand Equity: Capitalizing on the Value of a Brand Name. Free Press, New York.
+21. Keller, K. L. (2001). Building Customer-Based Brand Equity: A Blueprint for Creating Strong Brands. Marketing Science Institute, Report 01-107. https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_Report_01-107.pdf
+22. Kotler, P., Keller, K. L. and Chernev, A. (2021). Marketing Management, 16th edition. Pearson.
+23. Binet, L. and Field, P. (2013). The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies. IPA, London. Presentation deck: https://ipa.co.uk/media/5811/long_and_short_of_it_presentation_final.pdf
+24. Cialdini, R. B. (2016). Pre-Suasion: A Revolutionary Way to Influence and Persuade. Simon & Schuster. Chapters 2 and 3.
+25. Tversky, A. and Kahneman, D. (1973). "Availability: A heuristic for judging frequency and probability." Cognitive Psychology, 5(2), 207-232. https://doi.org/10.1016/0010-0285(73)90033-9
+26. Sharp, B. and Sharp, A. (1997). "Loyalty programs and their impact on repeat-purchase loyalty patterns." International Journal of Research in Marketing, 14(5), 473-486. https://doi.org/10.1016/S0167-8116(97)00022-0
+27. Ritson, M. (2018). "Byron Sharp is wrong: of course brand perceptions influence sales." Marketing Week, 16 August 2018. https://www.marketingweek.com/mark-ritson-byron-sharp-brand-perceptions/
+28. Romaniuk, J. (2021). Brand Rejection in B2B: Incidence, Reasons and Implications. Ehrenberg-Bass Institute report for the LinkedIn B2B Institute, May 2021. UK business banking n=609, US business insurance n=616. https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/b2b-brand-rejection.pdf (also listed at https://marketingscience.info/open-access-knowledge/open-access-reports)
+29. Edelman and LinkedIn (2024). 2024 B2B Thought Leadership Impact Report: Reaching Beyond the Ready. n=3,484 management-level professionals in the United States, Canada, the United Kingdom, Germany, Singapore, Australia and India, fielded 30 November to 14 December 2023, margin of error plus or minus 2.8%. https://www.edelman.com/sites/g/files/aatuss191/files/2024-02/_2024%20Edelman-LinkedIn%20B2B%20Thought%20Leadership%20Impact%20Report%20Final.pdf
+30. Lun Plotkin, C., Stanley, J., Harrison, L. and Garcia de la Torre, V. (2024). "Five fundamental truths: How B2B winners keep growing." McKinsey & Company, B2B Pulse Survey 2024, nearly 4,000 B2B decision makers, 34 sectors, 13 countries. https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/five-fundamental-truths-how-b2b-winners-keep-growing
+31. Bennett, D., Anesbury, Z. and Graham, C. (2018). Study of aircraft purchasing, 9,000 purchase records from 51 commercial airlines over ten years, as cited and tabulated in [9].
 
 ### The Long and the Short of It
 
 Source: https://bravenewhive.com/principles/the-long-and-the-short-of-it/
-Date: 2026-08-18. Read: 4 min.
+Date: 2026-08-18. Read: 10 min.
 
-Les Binet and Peter Field, IPA, 2013. Brand building and sales activation work on different timescales, and the mix most often cited is roughly 60 to 40.
+Binet and Field claim that advertising works in two modes on two clocks: activation sells now and fades, brand building sells later and compounds, so budgets should lean long, at roughly 60:40 [1]. The evidence is 996 award entries in which volume arrives within months, pricing power takes years, and efficiency peaks at 30 to 50 percent activation [1]. The ratio ranges from 46:54 to 74:26 by context, and nobody has replicated it on independent data [5][6]. Keep the two-clock model. Drop the number as a target. Measure the long effect directly.
 
-Binet and Field analysed the IPA Effectiveness Databank and published The Long and the Short of It in 2013.
+## Origin
 
-Activation produces quick sales spikes that fade. Brand building works slowly and compounds. Campaigns doing both outperformed campaigns doing either alone. Everyone quotes the split. Fewer budgets show it.
+Les Binet and Peter Field published *The Long and the Short of It* through the IPA in 2013, funded by Thinkbox, the UK commercial television body [1, p7]. Their 2007 report *Marketing in the Era of Accountability* had noticed that campaigns scoring best on profit and share scored worst on short-term response, but lacked the data to pursue it [1, p18][2]. By 2013 the IPA Effectiveness Databank held 996 campaigns entered into the awards between 1980 and 2010, covering more than 700 brands in over 80 categories, and since 2008 entrants had been asked how long their campaign ran [1, p10-11].
+
+The problem was quarterly reporting and instant online metrics pushing marketers to judge everything on a short window that, the authors argued, hid most of the value [1, p7, p9]. The headline claim is stated with care: "the optimum balance of brand and activation expenditure is on average around 60:40" [1, p9]. The same sentence adds that this "may vary by category".
+
+## What the evidence shows
+
+Every number comes from IPA award entries (a confidential questionnaire since 1998, coded from the written cases before that), scored on a three-point scale, with only top-box ("very large") effects counted [1, p10-12]. Of the 996 cases, 760 had a coded duration, 690 reported business effects and 171 had the data for the efficiency metric [1, Table 2, p11].
+
+**Volume is fast, pricing is slow.** The share of cases reporting very large sales growth is 23 percent at three months and 36 percent at three years or more. The share reporting very large pricing effects is zero at three months and 3.1 percent at three years. Profit sits between: 4 percent at three months, 15 percent at three years [1, Figs 11-13, p19].
+
+**The 60:40 finding.** The authors sorted UK media into brand channels and activation channels and found UK spend divided 61:39 between them in 2011 [1, Fig 34, p37]. They then grouped cases by activation share of budget. Annualised efficiency (share growth per year per 10 points of extra share of voice) was 0.5 below 30 percent activation, 1.3 in the 30 to 50 percent band, and 0.5 above 50 percent [1, Fig 37, p39]. The count of very large effects peaked near 40 percent activation [1, Fig 38, p39]. Footnote 13 reads: "The volume of data for this analysis is limited, so the finding is somewhat tentative and it is not possible to explore how this varies by category" [1, p39].
+
+**Emotional work compounds.** Among rational campaigns, 10 percent reported very large profit growth at one year, 20 at two, 23 at three or more. Among emotional campaigns: 13, 30 and 43 percent [1, Fig 52, p53]. The curves cross at roughly six months; judged on a shorter window, rational work looks more profitable [1, p53].
+
+**The follow-ups narrowed the claim.** *Media in Focus* (2017) reran the media analysis on 497 for-profit cases from 1998 onwards, restated 60:40 as "typically optimal", and documented the drift: cases evaluated over less than six months rose from a long-run 8 percent to about 25 percent, and cases with activation objectives went from 47 percent before the financial crisis to 72 percent in the four years to 2016 [4, Fig 51]. *Effectiveness in Context* put the all-case optimum at 62:38, footnoted as "unlikely to be statistically significant from 60:40", then broke it by context [5, p7]. The optimum brand share runs from 55 percent (low online-research categories, offline brands) to 74 (high-research categories, online and subscription brands) [5, Figs 16, 19, 26, 32]. The B2B analysis, on fewer than 50 cases, found 46:54 [6].
+
+Outside the databank, two findings support the two-clock model without supporting any ratio. Lodish and colleagues tracked 55 in-market TV weight tests for two years after the test year: where year one showed a significant effect, the next two years added roughly double that effect again; where it showed nothing, nothing followed [9]. Thinkbox's *Profit Ability 2* (2024), an econometric meta-analysis of £1.8 billion of UK media spend across 141 brands, put profit return at £1.87 per pound within 13 weeks and £4.11 over 24 months, with 58 percent of profit arriving after week 13 [10, p4, Fig 16 p41]. The same report shows why the evaluation window decides the argument: on 13 weeks, generic search returns £2.29 per pound and linear TV £1.82; on 24 months, search reaches £3.52 and linear TV £5.94 [10, Figs 10-11, p29-31].
+
+## The challenge
+
+Three lines of attack, and they land differently.
+
+**Selection.** The databank is built from award entries. In 2018 Binet wrote that "these are not run-of-the-mill campaigns", that the team added cases judges had rejected as ineffective, and that even so "our sample would still be somewhat biased. All we could do was look at the differences between the good, the better and the best" [12]. *Effectiveness in Context* concedes "a biased sample of campaigns that tend to be successful" and adds that comparisons "with non-biased samples from other studies" suggest the results "are not greatly different" [5, footnote 2, p6]. The B2B report calls the bias "modest" [6]. That comparison has not been published. So: the bias is acknowledged, its size is asserted, and its effect on the ratio is unknown.
+
+**The average.** Sixty-forty was read off how UK media spend happened to split in 2011, then found to coincide with peak efficiency in a small sub-sample [1, p37-39]. The authors' own rule is not "spend 60:40"; it is "set brand SOV equal to activation SOV or (equivalently) to match their competitors' brand/activation split" [1, p39]. The number survived because, as Sharp put it, "people wanted a number" [11].
+
+**The Ehrenberg-Bass position.** Byron Sharp's most direct statement, at a summit in August 2022, reported by Mi3 and republished on the Institute's site: "they analysed a very weird data set, which is award submissions. If you wanted to solve this issue, you would never use that data" [11]. He also questioned the category itself: "people have no idea what activations really are" [11]. His own rules, in the same talk: brands need both, advertising builds the memory structures that make activation work, reach everybody, stay on air [11]. The root is Ehrenberg's 1974 argument that advertising is a weak force whose main job is "to reinforce feelings of satisfaction with brands already bought" [7]. That is not a rejection of the long effect. It is a rejection of the split as a spend category.
+
+We found no peer-reviewed Ehrenberg-Bass paper testing 60:40, and no replication of the ratio on non-award data. The rebuttal came from practitioners noting that the Institute's own 95:5 heuristic rests on a thought exercise, not a dataset [13]. Fair, and it does not rescue the ratio.
+
+Settled: advertising produces effects well beyond the campaign window, comparable to or larger than the immediate effect [9][10]; short-window metrics favour activation work and understate brand work [1, p53][4]. Not settled: whether any single ratio is optimal, whether 60:40 would emerge from a random sample of campaigns, and whether "brand" and "activation" are separable lines of spend or two effects of one exposure. Sharp's objection and Binet and Field's own "brand response" campaigns are closer than the noise suggests: both say the best work does both jobs at once [1, p9].
+
+Keller's 1993 definition of customer-based [brand equity](/principles/brand-equity/), "the differential effect of brand knowledge on consumer response to the marketing of the brand", is the clearest statement of what the long is meant to build [8]. Aaker's 1991 framing of equity as an asset attached to a name is the same idea. Kotler and Keller treat brand investment as a long-run asset in *Marketing Management*. Cialdini's *Pre-Suasion* (2016) concerns the moment before a message lands and does not address how to divide a budget across time; we do not stretch it here.
+
+## Where practitioners get it wrong
+
+**Treating 60:40 as a target for their own spend.** The operational rule is share-of-voice parity with the category, not a fixed split [1, p39]. A brand in an 80:20 category that copies 60:40 is under-investing in brand, by the authors' own formula.
+
+**Judging brand work on a six-month window.** The profit curves cross at about six months [1, p53]. A dashboard at that horizon concludes, correctly for the window and wrongly for the business, that activation wins. *Media in Focus* shows the trap: 65 percent of short-term cases reported very large activation effects against 33 percent of three-year cases; for very large share effects the figures were 3 and 38 percent [4].
+
+The pull toward the short window shows up in what marketers say they will do. Nielsen's 2025 survey of 1,400 marketers found European respondents naming revenue growth as their top priority over brand awareness by 59 to 37 percent, while North America split almost evenly [15]; a year earlier, 70 percent of nearly 2,000 marketers told Nielsen they would prioritise performance marketing over brand building, in the same survey in which they named long-term ROI as their top KPI [16].
+
+**Cutting brand where it matters most.** In high online-research categories (finance, cars, subscriptions) the databank optimum is 74 percent brand; actual allocation was about 55. In low-research categories the optimum was 55 and the actual 69 [5, p22]. Subscription brands put around 53 percent into brand against 63 for one-off purchase brands, when their optimum is higher [5, p35]. The authors call this the online fallacy [5, p22].
+
+The budget lines follow the same drift. In the Spring 2026 CMO Survey of 308 US marketing leaders, brand-building budgets were expected to grow 5.9 percent over the next 12 months against 10.4 percent for digital marketing, and 70.6 percent of leaders said their answer to pressure to prove marketing's value is to focus on short-term impact over long-run gains [17, p33, p41].
+
+**Our own observation.** For the physician platform the obvious plan was activation: a warm list, a founding offer, deadlines and reminders. We wrote it, then threw it out, because squeezing a warm list works briefly and then stops, and nothing in it grows the number of physicians who know the category exists. The rebuilt plan ran two speeds at once, category building alongside conversion. Three months later adopters were growing around 50% a month with no paid acquisition, and the base had more than doubled. Three months is three data points. It is still the closest thing we have seen to the long and the short working inside one budget.
+
+## What to do with it
+
+1. Estimate your category's brand:activation media split from public spend data and set your brand share of voice equal to your activation share of voice. That is the report's actual rule [1, p39]. 2. Before the budget year starts, classify every line of spend as brand or activation and record the rule. If a line cannot be classified, it counts as activation. 3. Report brand and activation effects on separate lines. A blended ROI never stands alone. 4. Set the evaluation window for brand work at 12 months minimum and hold one three-year metric: price elasticity, or market share from a source you do not control. 5. If you sell in a category people research online, or by subscription, start from a brand share above 60 and test downward. The databank optimum for those contexts is 74:26 [5]. 6. When pricing power is an objective, do not use price discounts as the activation mechanic. In the 2013 data, coupons and direct marketing reduced the chance of a pricing improvement; non-price consumer promotions increased it [1, Fig 14, p20]. 7. Once a year, buy an independent read of the long effect: a geographic holdout, or econometrics with a lag structure. If you cannot afford one, you cannot afford to argue about the ratio.
+
+Figure: Volume arrives in months; pricing power takes years. Sales effects are almost fully present by six months; profit doubles between one year and two, and pricing effects are still climbing at three years.. Source: Binet and Field, 2013, IPA Effectiveness Databank 1980 to 2010, Figures 11 to 13, p19, n=996 cases (760 with coded duration). Redrawn by Brave New Media.. Unit: % of cases.
+
+| Campaign duration | Very large sales growth | Very large profit growth | Very large price effects |
+|---|---|---|---|
+| 3 months | 23 | 4 | 0 |
+| 6 months | 28 | 8 | 1.7 |
+| 1 year | 33 | 9 | 1.8 |
+| 2 years | 34 | 14 | 2.9 |
+| 3 years+ | 36 | 15 | 3.1 |
+
+Figure: Efficiency more than doubles when activation takes 30 to 50 percent of budget. The whole 60:40 rule rests on three bars from a small subset; the middle bar is the finding, and the footnote is the caveat.. Source: Binet and Field, 2013, IPA Effectiveness Databank 1980 to 2010, Figure 37, p39, n=171 cases with efficiency data at most; the budget-split subset is smaller and the authors call the finding "somewhat tentative" (footnote 13). Redrawn by Brave New Media.. Unit: Share points per year per 10 points of extra share of voice.
+
+| Activation share of budget | Annualised ESOV efficiency |
+|---|---|
+| Under 30% | 0.5 |
+| 30 to 50% | 1.3 |
+| Over 50% | 0.5 |
+
+Figure: Search returns grow by half after week 13; linear TV returns more than triple. On a 13-week window generic search (£2.29) out-earns linear TV (£1.82). Over 24 months the order reverses, £3.52 against £5.94. Across all media 58 percent of profit arrives after week 13 (Figure 16, p41). The window picks the winner.. Source: Thinkbox, Profit Ability 2: The New Business Case for Advertising, 2024, econometrics by Ebiquity, EssenceMediacom, Gain Theory, Mindshare and Wavemaker UK, n=141 brands and £1.8bn of UK media spend across 10 media and 14 categories, Figure 10 data summary p29 and Figure 11 data summary p31. Redrawn by Brave New Media.. Unit: £ profit per £1 spent.
+
+| Channel | Profit ROI within 13 weeks (£ per £1) | Profit ROI over 24 months (£ per £1) | Multiplier |
+|---|---|---|---|
+| Generic PPC | 2.29 | 3.52 | 1.5 |
+| Online display | 1.5 | 2.34 | 1.6 |
+| Paid social | 1.62 | 3.2 | 2.0 |
+| Audio | 2.47 | 4.98 | 2.0 |
+| Cinema | 1.19 | 2.56 | 2.2 |
+| Online video | 1.76 | 3.86 | 2.2 |
+| Out of home | 1.19 | 2.78 | 2.3 |
+| Print | 2.74 | 6.36 | 2.3 |
+| BVOD | 1.66 | 4.25 | 2.6 |
+| Linear TV | 1.82 | 5.94 | 3.3 |
+| All advertising | 1.87 | 4.11 | 2.2 |
+
+Figure: European marketers put revenue growth 22 points ahead of brand awareness; North America is split even. The year before, 70 percent of the nearly 2,000 marketers in Nielsen's 2024 report said they would prioritise performance marketing over brand building, while naming long-term ROI as their top KPI. The two clocks are known; the short one still gets wound first.. Source: Nielsen, 2025 Annual Marketing Report, 2025, n=1,400 global marketers at manager level or above with budgets of at least $1m, surveyed 25 February to 6 March 2025; figures from Nielsen's press release of 20 May 2025. Redrawn by Brave New Media.. Unit: % of marketers.
+
+| Region | Brand awareness is the top priority (%) | Revenue growth is the top priority (%) |
+|---|---|---|
+| North America | 48 | 47 |
+| Asia-Pacific | 50 | 52 |
+| Europe | 37 | 59 |
+| Latin America | 41 | 46 |
+
+Figure: US marketing leaders expect brand-building budgets to grow at little more than half the rate of digital. The median expected change for brand building is 1 percent against 10 for digital. In the same survey, 70.6 percent of leaders said they respond to pressure to prove marketing's value by focusing on short-term impact over long-run gains (Topline p33, n=153).. Source: The CMO Survey (Deloitte, Duke Fuqua School of Business, American Marketing Association), Spring 2026, 35th edition, n=308 US marketing leaders, 138 to 154 answering each line, Topline Report p41 and Highlights and Insights Report p56. Redrawn by Brave New Media.. Unit: Expected change (mean %).
+
+| Budget area | Expected change next 12 months (mean %) |
+|---|---|
+| Digital marketing | 10.4 |
+| Overall marketing | 7.6 |
+| Brand building | 5.9 |
+| New product introductions | 5.9 |
+| Customer relationship management | 3.5 |
+| New service introductions | 3.2 |
+| Customer experience | 3.0 |
+| Traditional advertising | -1.5 |
+
+Sources:
+
+1. Binet, L. and Field, P., 2013, *The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies*, IPA, London. Full text read in the co-branded PDF edition: https://maynardpaton.com/wp-content/uploads/2019/12/SYS1-long-and-short-of-it.pdf. Presentation deck: https://ipa.co.uk/media/5811/long_and_short_of_it_presentation_final.pdf
+2. Binet, L. and Field, P., 2007, *Marketing in the Era of Accountability*, IPA/WARC. Journal summary: Journal of Direct, Data and Digital Marketing Practice, DOI 10.1057/palgrave.dddmp.4350090
+3. Binet, L. and Field, P., 2009, "Empirical Generalizations about Advertising Campaign Success", Journal of Advertising Research, 49(2), 130-133, DOI 10.2501/S0021849909090163
+4. Binet, L. and Field, P., 2017, *Media in Focus: Marketing Effectiveness in the Digital Era*, IPA, ISBN 978-0-85294-141-6. https://screenforce.nl/wp-content/uploads/2017/10/20171023-Media-in-focus-marketing-effectiveness-in-the-digital-era.pdf
+5. Binet, L. and Field, P., 2018 (free edition via Thinkbox, 24 October 2019), *Effectiveness in Context: A Manual for Brand Building*, IPA, ISBN 978-0-85294-145-4. https://downloads.ctfassets.net/ptzdhtf6t0jg/7hlC0oHJIdCqATrkrKINKT/246b2755a78a7872b8e75389aab5203f/Effectiveness_In_Context.pdf
+6. Binet, L. and Field, P., 2019, *The 5 Principles of Growth in B2B Marketing: Empirical Observations on B2B Effectiveness*, LinkedIn B2B Institute. https://business.linkedin.com/marketing-solutions/b2b-institute/marketing-as-growth
+7. Ehrenberg, A. S. C., 1974, "Repetitive Advertising and the Consumer", Journal of Advertising Research; reprinted as a JAR Classic, 2000, 40(6), 39-48, DOI 10.2501/jar-40-6-39-48
+8. Keller, K. L., 1993, "Conceptualizing, Measuring, and Managing Customer-Based Brand Equity", Journal of Marketing, 57(1), 1-22, DOI 10.1177/002224299305700101
+9. Lodish, L. M., Abraham, M. M., Livelsberger, J., Lubetkin, B., Richardson, B. and Stevens, M. E., 1995, "A Summary of Fifty-Five In-Market Experimental Estimates of the Long-Term Effect of TV Advertising", Marketing Science, 14(3 supplement), G133-G140, DOI 10.1287/mksc.14.3.G133
+10. Thinkbox, 2024, *Profit Ability 2: The New Business Case for Advertising*, econometric meta-analysis by Ebiquity, EssenceMediacom, Gain Theory, Mindshare and Wavemaker UK, 24 April 2024. Newsroom summary: https://www.thinkbox.tv/news-and-opinion/newsroom/profit-ability-2. Full report PDF: https://assets.ctfassets.net/ptzdhtf6t0jg/KkqtmmsDkxlGl0wlE72TF/178b9f6af6d3af215154e12455485e92/Profit_Ability_2_The_new_business_case_for_advertising_report.pdf
+11. Sharp, B., 2022, keynote at the Mi3-LinkedIn B2B Next Summit, August 2022, reported by Mi3 (23 August 2022) and republished by the Ehrenberg-Bass Institute. https://marketingscience.info/news-and-insights/prof-byron-sharp-skewers-binet-tells-marketers-to-sack-agencies-preaching-share-of-voice
+12. Binet, L., 2018, "Good, better, best and f*** the rest?", IPA blog, 8 June 2018. https://ipa.co.uk/blog/industry/good-better-best-and-f-the-rest/13978
+13. Hurman, J., 2022, "How brands shrink: Prof. Byron Sharp's takedown of Binet & Field 'perplexing'", Mi3, 7 September 2022. https://www.mi-3.com.au/07-09-2022/how-brands-shrink-prof-byron-sharps-takedown-binet-field-attention-metrics
+14. Sharp, B., 2010, *How Brands Grow*, Oxford University Press, p179, as quoted in [1, p24]
+15. Nielsen, 2025, *2025 Annual Marketing Report*, n=1,400 global marketers surveyed 25 February to 6 March 2025; figures from the press release of 20 May 2025. https://www.nielsen.com/news-center/2025/nielsen-releases-its-2025-annual-marketing-report-looking-at-the-power-of-data-driven-marketing
+16. Nielsen, 2024, *2024 Annual Marketing Report*, nearly 2,000 global marketers surveyed December 2023; figures from the press release of 25 April 2024. https://www.nielsen.com/news-center/2024/nielsen-releases-its-2024-annual-marketing-report-surveying-global-marketers-on-roi-strategies
+17. The CMO Survey (Deloitte, Duke University Fuqua School of Business, American Marketing Association), Spring 2026, 35th edition, n=308 US marketing leaders, fielded 7 to 29 January 2026. Topline Report: https://cmosurvey.org/wp-content/uploads/2026/03/The_CMO_Survey-Topline_Report-2026.pdf. Highlights and Insights Report: https://cmosurvey.org/wp-content/uploads/2026/04/The_CMO_Survey-Highlights_and_Insights_Report-2026.pdf
+18. Kotler, P. and Keller, K. L., *Marketing Management*, Pearson
+19. Aaker, D. A., 1991, *Managing Brand Equity: Capitalizing on the Value of a Brand Name*, Free Press
+20. Cialdini, R. B., 2016, *Pre-Suasion: A Revolutionary Way to Influence and Persuade*, Simon & Schuster, New York
 
 ### AIDA
 
 Source: https://bravenewhive.com/principles/aida/
-Date: 2026-08-12. Read: 2 min.
+Date: 2026-08-12. Read: 11 min.
 
-Attention, interest, desire, action. The sequence is usually attributed to the American advertising writer E. St. Elmo Lewis in the late 1890s.
+AIDA claims that a buyer passes through attention, interest, desire and action in that order, and that a message should push them along it. The attribution to E. St. Elmo Lewis in 1898 rests on one uncited sentence in a 1925 textbook; the four steps first appear in salesmanship magazines of 1903 and 1904 under other names [1][3]. AIDA itself has never been tested. Its descendants have: a review of 250 studies found little support for any fixed sequence [7], and a seven-year test of 178 brands found the think-first order fitted 7 per cent of brands where any single order fitted [11]. Use AIDA as a checklist for one piece of copy. Stop using it as a map of how buyers move.
 
-The model describes the steps a message has to move a person through before they buy. Attribution is messier than the acronym suggests. Lewis is the usual name, writing in the late 1890s, but the record does not settle cleanly on one author.
+## Origin
 
-It remains the skeleton under most funnels, landing pages and sales decks, whether or not the people using it know its name.
+The usual story is that Lewis, an American advertising man, set out three steps in 1898 and added a fourth later. It comes from Edward K. Strong's *The Psychology of Selling and Advertising* (McGraw-Hill, 1925), which says that in 1898 Lewis "used the slogan, 'Attract attention, maintain interest, create desire,'" in an advertising course in Philadelphia, took the idea from William James, and "later on" added "get action" [1, p. 9]. Strong repeats the claim on page 348. He gives no source either time.
+
+Strong was solving a training problem. America had become a buyer's market and selling had to be taught: his count of salesmanship books runs from one in 1869 to 267 in the 1910s [1, p. 8]. AIDA was a mnemonic for salesmen and copywriters, never a finding about buyers.
+
+The attribution has now been checked against Lewis's own writing. Akinori Iwamoto read every surviving Lewis article and book from 1897 to 1910, including the *Inland Printer* columns written as Musgrove, and found no text in which Lewis prints the slogan [3]. The nearest is 1899: an advertisement "will attract, interest and convince" [3, Table 1]. The only record of Lewis saying the four words is a 1910 report of a speech in which he describes hearing "a writer" say them [3, p. 13].
+
+The sequence was in print by then, under other names. Frank Dukesmith's magazine *Salesmanship* set out "securing attention," "arousing the interest," "creating desire," and "closing the sale" in June 1903 [3, Table 2]. Arthur Sheldon's correspondence school taught attention, interest, desire and "resolve to buy" from 1903 and, by 1910, attention, interest, desire, action [3, Tables 2 and 5]. The first orderly printing of all four AIDA words Iwamoto could find is Seth Brown, December 1904 [3, p. 3]. Barry and Howard's 1990 review, the standard academic history, repeats Strong's version [5, p. 123, as quoted in 3], and Kotler's *Marketing Management* has carried the Strong citation since 1972 [3, p. 2].
+
+Established: the acronym and the Lewis story entered the literature through Strong in 1925; the four steps were a salesmanship convention by 1904; Lewis wrote in threes. Not established: that Lewis originated anything in 1898.
+
+## What the evidence shows
+
+There is no empirical literature on AIDA as such. The tests exist for its descendant, the hierarchy of effects, so that is what can be reported.
+
+Lavidge and Steiner (1961) turned the slogan into a measurement proposal. Their four-page *Journal of Marketing* article lists six steps, awareness, knowledge, liking, preference, conviction and purchase, groups them into cognitive, affective and conative functions, and argues for measuring advertising at each step rather than by sales alone [6][11, p. 8]. It is a theorist's claim, not a finding: the article reports no test of the sequence. Palda (1966) coined "hierarchy of effects" and was the first to evaluate it [11, p. 2].
+
+The largest review is Vakratsas and Ambler (1999). They read more than 250 journal articles and books and concluded that "there is little support for any hierarchy, in the sense of temporal sequence, of effects" [7, abstract]. They proposed dropping the sequence and studying advertising in a space of affect, cognition and experience, with position set by context [7].
+
+The most direct test came twenty years later. Pauwels, Valenti, Srinivasan, Yildirim and Vanhuele modelled weekly data for 178 fast-moving consumer goods brands in 18 categories over seven years, with survey measures of cognition, affect and experience alongside sales [11]. Three results matter. A sequence does exist: for 94 per cent of brands an ordered model beat the simultaneous one, which fitted none of the 178 [11, p. 21]. The order is not AIDA's: among the 90 brands where one sequence was statistically best, affect came first in 42 per cent, and the think-feel-do order AIDA assumes fitted 6 brands, 7 per cent [11, Table 6]. And the last factor in whatever sequence operates explains 56 per cent of the sales variation attributable to the three, the first only 16 per cent [11, p. 25].
+
+Ehrenberg reached a similar shape by another route in 1974. His awareness, trial, reinforcement account holds that for established brands of frequently bought goods advertising's "main role is to reinforce feelings of satisfaction with brands already bought" [12]. The Ehrenberg-Bass Institute's position today, in Sharp's words: "The dominant way that advertising works is by refreshing, and occasionally building, memory structures that improve the chance of the brand being recalled and/or noticed in buying situations," and "most sales typically come from people who had not formed an intention" [13]. On this account there is no desire stage. There is memory, and there is the buying occasion.
+
+Industry survey data describe the same buyer. In the 2024 Edelman-LinkedIn study of 3,500 B2B decision makers, 75 per cent said one piece of thought leadership had led them to research a product or service they were not previously considering, and 70 per cent of C-suite respondents said one had made them question whether to keep a current supplier [19]. The content did not find an interest stage. It made one.
+
+Binet and Field's analysis of 996 IPA Effectiveness Awards cases separates the two mechanisms AIDA fuses [14, p. 10]. Rational messaging produces the bigger short-term sales effect and decays; emotional priming produces a smaller immediate effect that accumulates [15, slides 13 and 14]. Emotional campaigns reporting very large profit growth rise from 13 per cent at one year to 43 per cent at three years or more; rational campaigns from 10 to 23 per cent [14, Figure 52][15, slide 16]. "Feelings towards brands outlast memories of facts and figures about the brand" [14, p. 53].
+
+Cialdini addresses the first letter. *Pre-Suasion* argues that the factor most likely to determine a choice "is the one that has been elevated in attention (and thereby in privilege) at the moment of decision" [16, chapter 2 summary]. To get action "it's not necessary to alter a person's beliefs or attitudes or experiences," only "what's prominent in that person's mind at the moment of decision" [16, chapter 1]. The principles of *Influence* are likewise levers, not stages [17]. Attention, for Cialdini, is not the entrance to a corridor. It is the decision.
+
+## The challenge
+
+The empirical challenge is real but aimed at the family, not the member. Nobody has published a test of AIDA because there is nothing in it to test: four states and an asserted order, with no measures and no timing.
+
+The strongest published critique is Weilbacher's 2001 *Journal of Advertising Research* essay: hierarchy models do not describe what advertising does to people, do not describe how it works in markets, and while advertising is thought about in hierarchy terms its true effects will not be measured [8]. Barry replied in defence of the hierarchy as a guide for practice and research [9]. Weilbacher's rejoinder: "If a widely accepted theory has not been proven over the course of 100 years, isn't it time to say so?" [10, p. 49, as quoted in 11, p. 3].
+
+The positions are worth stating exactly. Vakratsas and Ambler: no temporal hierarchy is supported [7]. Pauwels and colleagues: a hierarchy is supported, it varies by brand and category, affect usually leads, and the fully simultaneous model fits no brand [11]. Ehrenberg and Sharp: the intermediate states are mostly beside the point, because advertising works on memory and most buying happens without prior intention [12][13]. Binet and Field: emotional and rational effects run on different clocks, so any single sequence is a category error [14]. Barry: the hierarchy remains useful as a planning device [9].
+
+Two things are not in dispute. No body of evidence supports a fixed attention-interest-desire-action order across brands. And every camp agrees that purchase feeds back into the first step, which a one-way sequence cannot represent [11, p. 2][12].
+
+## Where practitioners get it wrong
+
+**Reading it as a journey.** AIDA describes what one message should do. The funnel reads it as what one buyer does, over weeks, across channels, one stage at a time. The funnel is a practitioner convention with no author and no test. Stage-gated content, where a prospect is "moved" from awareness assets to consideration assets before seeing an offer, is built on it. Pauwels' data say the first factor explains 16 per cent of sales variation and the last 56 per cent [11, p. 25]; Sharp's say most buyers never formed an intention [13]. Gartner's survey of 750 B2B buyers found that buying groups spend 17 per cent of a purchase meeting any potential supplier and 45 per cent researching on their own, that a complex purchase involves six to ten decision makers, and that the six buying jobs are revisited in loops rather than completed in order [18].
+
+The channel side of the picture is the same. McKinsey's B2B Pulse counted the distinct channels a buyer uses across one purchase at five in 2016, 7.5 in 2019 and ten in December 2021, and in its April 2024 wave of 3,942 decision makers found between 30 and 37 per cent of time in each of in-person, remote and digital self-service at every one of four buying stages, whichever buyer type was asked [20]. No stage owns a channel, so a content plan that assigns channels to stages is assigning them to a fiction.
+
+**Reading it as a measurement plan.** Dashboards that report awareness, consideration, intent and purchase as a cascade assume the order they are meant to test. Attitude measures are unstable: the Ehrenberg-Bass Institute reports about a 50 per cent chance that a person states the same attitude to a brand in two surveys [13]. The leaks in such a cascade are partly measurement noise.
+
+**Reading attention as a hook for an argument.** The AIDA copy formula treats attention as the door and the rational case as the room. Binet and Field's rational campaigns win at six months and lose at three years [14, p. 53]. Cialdini's work says what is in mind at the moment of decision does the deciding [16]. The error is spending the creative budget on the argument and the media budget on the hook. HubSpot's survey of 1,400 sales professionals reports that 96 per cent of prospects have researched before their first conversation with a rep, and 88 per cent already know the company [22]; the hook has been and gone before the seller arrives.
+
+**Our own observation.** In the smallest of the supply chain group's four markets, prospects doubted the group had a genuine local presence, and sales spent the first ten minutes of every call proving it did. We filmed their own people at their own site in the local language, no studio, no script. Engagement ran more than three times that of produced static work, and it cost less to make. The commercial effect sat elsewhere: prospects arrived already past the first step. The sequence did not run attention, interest, desire. Proof removed a question, and the conversation started further in.
+
+## What to do with it
+
+1. Write AIDA into the brief as a copy checklist for a single asset, nowhere else. Check: the brief's journey section cites something other than AIDA. 2. Remove any gate that withholds an offer until a prospect has consumed earlier-stage content. Check: every prospect can reach the offer from any first touch. 3. Measure cognition, affect and experience in the same quarterly survey wave and record which moves first for your brand. Check: all three sit in one instrument. 4. Set reach targets on the category, not the CRM. Check: the media plan states a share of category buyers reached, including non-customers. 5. Run two evaluation clocks: activation copy at three to six months, brand priming at three years. Check: each campaign line carries its window. 6. Before writing any message, write one line on what the audience will be attending to at the moment of exposure. Check: the line is in the creative brief. 7. Stop citing Lewis 1898. Cite Strong 1925 for the acronym and Dukesmith, Sheldon and Brown 1903 to 1904 for the sequence. Check: the deck footnote.
+
+Figure: Where one sequence fits best, feeling comes first in 42 per cent of brands; the think-feel-do order fits 7 per cent. The order AIDA assumes, think then feel then act, was the best-fitting sequence for 6 of the 90 brands where any single order won.. Source: Pauwels, Valenti, Srinivasan, Yildirim and Vanhuele, 2020, MSI Working Paper 20-139, Table 6, n = 178 brands, 18 categories, 7 years. Redrawn by Brave New Media.. Unit: brands.
+
+| Item | brands |
+|---|---|
+| Feel, think, use (ACE) | 38 |
+| Think, use, feel (CEA) | 17 |
+| Feel, use, think (AEC) | 15 |
+| Use, think, feel (ECA) | 6 |
+| Think, feel, use (CAE, the AIDA order) | 6 |
+| Use, feel, think (EAC) | 4 |
+
+Figure: Three in four B2B decision makers researched a product they were not considering because of one piece of content. The buyers who moved had formed no intention to move: the content made the interest stage rather than finding it, which is the Ehrenberg-Bass reading, not AIDA's.. Source: Edelman and LinkedIn, 2024 B2B Thought Leadership Impact Report, 2024, n = 3,500 B2B decision makers and C-suite executives in seven countries, key findings as published by Edelman, 28 Feb 2024. Redrawn by Brave New Media.. Unit: per cent of respondents.
+
+| Item | per cent of respondents |
+|---|---|
+| Researched a product they were not previously considering | 75 |
+| Of those: realised they were missing a significant opportunity | 60 |
+| C-suite: questioned continuing with a current supplier | 70 |
+| Of those: ended or significantly reduced a supplier relationship | 25 |
+| Of those who researched: began buying from the publisher | 23 |
+
+Figure: B2B buying groups spend 17 per cent of a purchase with any supplier and 45 per cent researching on their own. The supplier is present for a sixth of the purchase and any one rep for 5 or 6 per cent of it; the corridor AIDA describes is walked, if at all, out of the marketer's sight.. Source: Gartner, B2B Buying Journey, 2019, n = 750 B2B buyers, infographic CM_611049. Redrawn by Brave New Media.. Unit: per cent of buying group's time.
+
+| Item | per cent of buying group's time |
+|---|---|
+| Researching independently online | 27 |
+| Meeting with the buying group | 22 |
+| Researching independently offline | 18 |
+| Meeting with potential suppliers | 17 |
+| Other | 16 |
+
+Figure: The channels a B2B buyer touches in one purchase doubled from five to ten in five years. A buyer who meets the brand in ten channels, a third of the time in each mode at every stage, is not moving down a corridor with one channel per step.. Source: McKinsey, Global B2B Pulse, The new B2B growth equation, 2022, Exhibit 4, n = 1,042 (2016), 1,420 (2019), 3,360 (Dec 2021). Redrawn by Brave New Media.. Unit: channels.
+
+| Item | channels |
+|---|---|
+| 2016 | 5 |
+| 2019 | 7.5 |
+| Dec 2021 | 10 |
+
+Figure: By the first sales conversation, 96 per cent of prospects have already done their own research. Attention and interest have happened before the seller is in the room; the message that meets the buyer there is not the one that hooked them.. Source: HubSpot, 2024 Sales Trends Report, 2023, n = 1,400+ sales professionals in seven countries, pp. 10 and 15. Redrawn by Brave New Media.. Unit: per cent of prospects.
+
+| Item | per cent of prospects |
+|---|---|
+| Did their own research before speaking to a rep | 96 |
+| Know about the company at the first conversation | 88 |
+| Know how the products compete with others | 84 |
+| Know about the products or services | 83 |
+| Prefer their own research to speaking to a human | 71 |
+
+Sources:
+
+1. Strong, E. K. Jr., 1925, *The Psychology of Selling and Advertising*, McGraw-Hill, New York. Full scan: https://archive.org/details/bwb_Y0-BOY-928
+2. Strong, E. K. Jr., 1925, "Theories of selling", *Journal of Applied Psychology*, 9(1), 75 to 86. Page 76 quoted in [3].
+3. Iwamoto, A., 2023, "The origin of AIDA: who invented and formulated the AIDA model?", *Proceedings of the Conference on Historical Analysis and Research in Marketing*, vol. 21. https://ojs.library.carleton.ca/index.php/pcharm/article/view/4340
+4. Barry, T. E., 1987, "The development of the hierarchy of effects: an historical perspective", *Current Issues and Research in Advertising*, 10(1 to 2), 251 to 295. https://doi.org/10.1080/01633392.1987.10504921
+5. Barry, T. E. and Howard, D. J., 1990, "A review and critique of the hierarchy of effects in advertising", *International Journal of Advertising*, 9(2), 121 to 135. https://doi.org/10.1080/02650487.1990.11107138
+6. Lavidge, R. J. and Steiner, G. A., 1961, "A model for predictive measurements of advertising effectiveness", *Journal of Marketing*, 25(6), 59 to 62. https://doi.org/10.1177/002224296102500611
+7. Vakratsas, D. and Ambler, T., 1999, "How advertising works: what do we really know?", *Journal of Marketing*, 63(1), 26 to 43. https://doi.org/10.1177/002224299906300103
+8. Weilbacher, W. M., 2001, "Point of view: does advertising cause a 'hierarchy of effects'?", *Journal of Advertising Research*, 41(6), 19 to 26. https://doi.org/10.2501/JAR-41-6-19-26
+9. Barry, T. E., 2002, "In defense of the hierarchy of effects: a rejoinder to Weilbacher", *Journal of Advertising Research*, 42(3), 44 to 47. https://doi.org/10.2501/JAR-42-3-44-47
+10. Weilbacher, W. M., 2002, "Weilbacher comments on: 'In defense of the hierarchy of effects'", *Journal of Advertising Research*, 42(3), 48 to 49.
+11. Pauwels, K., Valenti, A., Srinivasan, S., Yildirim, G. and Vanhuele, M., 2020, "Is there a hierarchy of effects in advertising? Empirical generalizations for consumer packaged goods", Marketing Science Institute Working Paper 20-139. https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/12/MSI_Report_20-139.pdf
+12. Ehrenberg, A. S. C., 1974, "Repetitive advertising and the consumer", *Journal of Advertising Research*, 14(2), 25 to 34; reprinted as a JAR Classic, 2000, 40(6), 39 to 48. https://doi.org/10.2501/JAR-40-6-39-48
+13. Sharp, B., "Does advertising only work via driving intentions and preference? No!", Ehrenberg-Bass Institute for Marketing Science. https://marketingscience.info/news-and-insights/does-advertising-only-work-via-driving-intentions-and-preference-no. See also Sharp, B., 2010, *How Brands Grow*, Oxford University Press, chapter 9.
+14. Binet, L. and Field, P., 2013, *The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies*, IPA, London.
+15. Binet, L. and Field, P., 2013, "The long and the short of it: 10 key principles of success", IPA presentation. https://ipa.co.uk/media/5811/long_and_short_of_it_presentation_final.pdf
+16. Cialdini, R. B., 2016, *Pre-Suasion: A Revolutionary Way to Influence and Persuade*, Simon and Schuster, New York. Chapters 1 to 4.
+17. Cialdini, R. B., 2021, *Influence, New and Expanded: The Psychology of Persuasion*, Harper Business, New York.
+18. Gartner, "B2B Buying: How Top CSOs and CMOs Optimize the Journey", gartner.com/en/sales/insights/b2b-buying-journey, read in the Internet Archive capture of 3 January 2023 (the current page no longer carries these figures); infographics "Distribution of buying groups' time by key buying activities" and "77% of B2B buyers state that their latest purchase was very complex or difficult", Gartner 2019, CM_611049, n = 750 B2B buyers. https://web.archive.org/web/20230103150903/https://www.gartner.com/en/sales/insights/b2b-buying-journey and https://emtemp.gcom.cloud/ngw/globalassets/en/sales-service/images/infographics/distribution-of-buying-groups-time.png
+19. Edelman and LinkedIn, 2024, *2024 Edelman-LinkedIn B2B Thought Leadership Impact Report: Reaching Beyond the Ready*, sixth annual edition, n = 3,500 B2B decision makers and C-suite executives in seven countries. Report page: https://www.edelman.com/expertise/Business-Marketing/2024-b2b-thought-leadership-report. Findings as published by Edelman: Kingsbury, J., 28 Feb 2024, "Reaching Beyond the Ready: How Thought Leadership Gets Out-of-Market B2B Buyers Back into the Game". https://www.edelman.com/insights/thought-leadership-gets-b2b-buyers-back-into-game
+20. McKinsey and Company, Global B2B Pulse. Arora, A., Harrison, L., Lun Plotkin, C., Magni, M. and Stanley, J., 23 Feb 2022, "The new B2B growth equation", Exhibit 4 (n = 1,042 in 2016; 1,420 in 2019; 3,360 in Dec 2021). https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-b2b-growth-equation. Lun Plotkin, C., Stanley, J., Harrison, L. and García de la Torre, V., 12 Sep 2024, "Five fundamental truths: How B2B winners keep growing", Exhibit 4 (Global B2B Pulse Survey, 3 to 24 April 2024, n = 3,942, 13 countries). https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/five-fundamental-truths-how-b2b-winners-keep-growing
+21. Kotler, P. and Keller, K. L., *Marketing Management*, Pearson, 14th edition 2012 and later; response hierarchy models figure (AIDA, hierarchy of effects, innovation adoption, communications).
+22. HubSpot, 2023, *2024 Sales Trends Report* (State of Sales), n = 1,400+ sales professionals from B2B and B2C organisations in the United States, United Kingdom, Japan, Canada, Australia, France and Germany, surveyed August 2023; pp. 10, 15 and 45. https://www.hubspot.com/hubfs/HubSpots%202024%20Sales%20Trends%20Report.pdf
 
 ### Brand equity
 
 Source: https://bravenewhive.com/principles/brand-equity/
-Date: 2026-08-06. Read: 3 min.
+Date: 2026-08-06. Read: 11 min.
 
-David Aaker's Managing Brand Equity (1991) and Kevin Lane Keller's customer-based brand equity (1993) gave the value of a name a structure you can measure.
+Brand equity is the claim that a name adds value beyond what the product does, and that this value can be built, measured and banked. Aaker (1991) listed the assets; Keller (1993) located them in the customer's memory. The evidence supports the core claim: perceived quality and some brand attribute scores carry information about future returns, and three of four survey pillars track sales-based equity. The weak points are measurement and loyalty. Practitioners should track equity as behaviour first, survey second, and never as a league-table valuation.
 
-Aaker's 1991 book set out brand equity as a set of assets: awareness, associations, perceived quality, loyalty. Keller's 1993 paper in the Journal of Marketing framed it from the customer side, as the effect brand knowledge has on the response to marketing.
+## Origin
 
-Both made the same point to finance departments: a brand is an asset that produces cash flows, and it can be built or wasted.
+The term arrived through the finance department. Keller (1993) opens with two motivations for studying brand equity: a financial one, "to estimate the value of a brand more precisely for accounting purposes" or for mergers and acquisitions, and a strategic one, to improve marketing productivity [2, p. 1]. Acquirers in the 1980s were paying multiples of book value for consumer companies, and nobody could say what the premium bought.
+
+The academic conversation was formalised at a Marketing Science Institute conference in Austin, Texas, on 1 to 3 March 1988, summarised as MSI Report 88-104, "Defining, Measuring and Managing Brand Equity" [4]. Farquhar (1989) supplied the working definition: brand equity is "the 'added value' with which a brand endows a product", viewable from the firm, the trade or the consumer [3].
+
+Aaker's Managing Brand Equity (1991) sorted that added value into five asset categories: brand loyalty, name awareness, perceived quality, brand associations, and other proprietary assets such as patents and channel relationships [1]. Keller (1993) moved the unit of analysis into the customer's head. His definition, quoted once here, is "the differential effect of brand knowledge on consumer response to the marketing of the brand" [2, p. 2]. A brand has positive equity when consumers react more favourably to a marketing action for the named brand than to the same action for an unnamed version [2, p. 2]. Brand knowledge is awareness plus image, and image is a set of "favorable, strong, and unique brand associations" [2, p. 1].
+
+Kotler's Marketing Management carried the Keller model into the standard curriculum from the 12th edition (2006), with Keller as co-author [8].
+
+## What the evidence shows
+
+**Perceived quality predicts stock returns.** Aaker and Jacobson (1994) asked whether a survey measure of perceived quality (Total Research's EquiTrend database) explained movements in firm value beyond what return on investment already explained. Controlling for economy-wide factors and ROI, they found "a positive relationship between stock return and changes in quality perceptions" [11, abstract]: the survey carried information the accounts did not.
+
+**Some survey pillars carry financial information, others do not.** Mizik and Jacobson (2008) repeated the exercise with the five pillars of Young and Rubicam's Brand Asset Valuator. Relevance and energy added information to accounting measures in explaining stock return; esteem and knowledge did not, because their effect was already in current-term accounting results [12, abstract].
+
+**Consumer-based and sales-based equity partly align.** Datta, Ailawadi and van Heerde (2017) built the most direct test to date: ten years of IRI scanner data and BAV survey data for 290 brands in 25 packaged-goods categories. Sales-based brand equity (SBBE) is the brand intercept in a market-share model. The abstract reports "a fairly strong positive association of SBBE with three dimensions of CBBE, relevance, esteem, and knowledge, but a slight negative correspondence with the fourth dimension, energized differentiation" [13]. A published summary gives the correlations as 0.35, 0.39, 0.53 and -0.14 respectively [14].
+
+Brands high in knowledge, esteem and relevance gained more from price cuts and distribution gains; differentiated brands showed a larger advertising response; and knowledge did not buy a price premium [15]. Ailawadi: "Academics as well as managers often regard a brand's ability to charge a price premium as the single most important indicator of brand equity, but we find that it is not" [15].
+
+**Brand building reduces price sensitivity, slowly.** Binet and Field's meta-analysis of the IPA Databank (996 campaigns, 700 brands, 83 categories) reports the share of campaigns with a very large reduction in price sensitivity by the number of very large brand effects the same campaign recorded: 1% with none, 3% with one, 5% with two, 8% with three, 11% with four or more [21, slide 7]. Pricing effects also rise with campaign duration up to three years [21, slide 5]. Binet in 2023: "There are no examples of short-term activation campaigns lowering the price sensitivity of a brand" [22].
+
+Cialdini did not address brand equity as a construct, but three of his principles describe how Aaker's associations get made: social proof (chapter 4), authority (chapter 5) and commitment and consistency (chapter 7) of Influence, 2021 edition [23]. That is a claim about mechanism, not a finding about equity.
+
+**Buyers say trust decides purchases at the level of quality and price.** Edelman's 2025 brand trust survey, 15,042 people in 15 markets, asked which attributes of a brand are important or a deal breaker when buying. "I trust it" scored 88%, level with best quality and value for money, both 88% [30, p. 14]. The 2026 wave repeated the tie at 88%, 89% and 88% [31, p. 12]. That is stated intention, the survey side of the ledger, not the behaviour side.
+
+**Industry valuers report large brand premiums, as associations.** McKinsey's B2B branding analysis has strong brands outperforming weak ones by 20% [33]. Brand Finance puts the 300 most valuable B2B brands at $4 trillion, 11% of their owners' enterprise value, and reports a 65% premium in forward price-to-earnings ratios for the stronger-branded businesses [32]. Across its Global 500, brand value averages around 20% of enterprise value [26]. None of these separates the brand from the business that carries it, which is the problem the next section takes up.
+
+## The challenge
+
+The three challenges do not say brands add no value. They say the number on your dashboard may not be what you think it is.
+
+**The word means three things.** Feldwick (1996) sorted the uses into (a) the total value of a brand as a separable asset when sold or put on a balance sheet, (b) the strength of consumers' attachment to a brand, and (c) the associations and beliefs the consumer holds about it [5, as summarised in 6]: brand valuation, brand strength, brand description. The commercial valuation systems mix all three. Interbrand starts from economic profit, multiplies by a Role of Brand Index, and discounts at a rate set by a 0 to 100 Brand Strength score across ten factors [9]. Kantar BrandZ starts from parent-company earnings, isolates a branded intangible portion, and multiplies by a Brand Contribution score from its Meaningful, Different, Salient survey [10]. Both are financial value times a survey multiplier. Brand Finance's Global 500 is a third such system: $10.4 trillion across 500 brands in 2026, up 11% in a year, with the top ten brands holding 27% of the total [26]. None of the three is Keller's differential effect. Interbrand's Best Global Brands also requires a Brand Strength Score of 50 or above for entry [9]. A league table with an entry gate is a marketing artefact, not a measurement. The tables are also volatile in a way beliefs are not: Kantar's Top 100 total fell 20% in 2023 and rose 29% and 22% in the two years after, a pattern Kantar itself attributes to the stock market [24].
+
+**Attitudinal equity may be restating market share.** This is the Ehrenberg-Bass position. Double jeopardy, first documented by McPhee in 1963 and reviewed by Ehrenberg, Goodhardt and Barwise (1990), says a smaller brand has fewer buyers and those buyers buy it slightly less often [16]. The Institute's restatement: "Double Jeopardy tells us that loyalty is largely a predictable function of market share" [17]. Sharp draws the consequence for surveys: "Larger brands tend to score higher on any image question, because they will have more customers among the survey respondents" [18, quoted in 28]. On the Institute's site: "attitudes follow behaviour" and "the effect of behaviour on attitudes is much stronger" than the reverse [19]. His sharpest line targets the industry built on Aaker's first asset: "Brand equity consultancies make money flattering owners of large market share brands... that they are not just large but also strong with attitudinally committed consumers" [18, quoted in 27]. Sharp does not deny loyalty exists; he calls it "a natural part of buying behaviour" [19, citing [How Brands Grow](/readings/how-brands-grow-byron-sharp/) p. 92]. He denies it is an independent asset you can grow ahead of penetration. Kantar's Blueprint for Brand Growth, drawn from 6.5 billion BrandZ and Worldpanel data points, reports that brands that are meaningfully different to more people have five times the market penetration [29]. Read from the Ehrenberg-Bass side, that is the same correlation with the arrow reversed.
+
+Sharp and Romaniuk replace the asset list with two properties. Mental availability "means that buyers easily think of the brand when buying and recognize it quickly"; physical availability "means that buyers can buy the brand in a variant, quantity and price that matches their purchasing needs" [20]. Against Aaker, this keeps awareness and associations, drops perceived quality as a driver, and demotes loyalty from cause to consequence.
+
+**The tests are partial.** Datta and colleagues found alignment for three pillars, not four, and it was moderate. Mizik and Jacobson found two pillars informative, not five. Aaker and Jacobson found one measure informative among large corporate brands. Datta's team describe association, not cause [13]. Anyone who tells you a tracker score predicts revenue is ahead of the published evidence.
+
+## Where practitioners get it wrong
+
+**Reading a valuation ranking as a management score.** The Interbrand and Kantar numbers are financial value times a multiplier. A brand that grows revenue with unchanged perceptions climbs the table; one whose company reports lower profit falls, whatever its buyers think. Feldwick's first meaning is being sold as his second [5, 6]. Apple's brand was worth $470.9 billion to Interbrand in October 2025, $608 billion to Brand Finance in January 2026 and $1.38 trillion to Kantar in May 2026 [25, 26, 24]; Kantar ranks Google above Apple, the other two do not.
+
+**Treating tracker "loyalty" and "favourability" as assets to grow.** Double jeopardy predicts most of the variation in these metrics from share alone [16, 17]. The useful diagnostic is the deviation from the double jeopardy line, not the raw score. Self-report is no better: The CMO Survey asks marketing leaders to rate the change in their own brand value, and the February 2025 wave averaged +8.4% across 167 answers, with no instrument behind the number [34, p. 43].
+
+**Assuming equity buys a price premium on its own.** Datta's team found high knowledge did not support a premium in packaged goods [15]. Binet and Field found price effects arrive only with multiple large brand effects and only over years [21]. Raising price the quarter after a good tracker wave is a bet the evidence does not back.
+
+**Our own observation.** Five projects, one developer behind them, and the developer brand was the least communicated asset in the group. Fifteen years, thousands of apartments delivered, energy efficiency as standard: none of it was being said. We gave the company its own campaign, separate from any project, because in a cautious market the most useful thing a developer can prove is that it will still be there at completion. We cannot yet show that equity in a price. Enquiries are not reservations, and the link to signed contracts sits in the developer's sales data, still to be joined.
+
+## What to do with it
+
+1. Write down which of Feldwick's three meanings you are measuring before you buy a tracker or a valuation [5]. If the answer is "all three", you have not decided. 2. Estimate sales-based equity from your own data: the brand intercept in a share or choice model after controlling for price, promotion, distribution and advertising [13]. Failing that, use revenue premium over a private-label equivalent. 3. Plot every attitudinal metric against penetration for your category and report the residual, not the level [16, 17]. 4. Track awareness and associations as Keller specified them, favourable, strong and unique, by category entry point [2, 20]. Drop indices that average across them. 5. Put a behavioural measure next to every survey measure on the same page: penetration, repeat rate, distribution, price paid [12]. 6. If the objective is pricing power, plan for three years or more and for brand-building that produces several measurable brand effects: that is the only pattern in the IPA data associated with large falls in price sensitivity [21, 22]. 7. Retire the phrase "grow loyalty" unless your loyalty metric sits below the double jeopardy line for your share [17]. Otherwise the plan is "grow penetration" under another name.
+
+Figure: Campaigns with four or more very large brand effects were eleven times as likely to report a very large fall in price sensitivity. Pricing power in the IPA data is a downstream effect of accumulated brand effects, which is the strongest published support for treating equity as a long-term asset and the clearest warning against expecting it quickly.. Source: Binet and Field, IPA, The long and the short of it: 10 key principles of success, 2013, IPA Databank meta-analysis, n=996 campaigns, 700 brands, 83 categories, slide 7. Redrawn by Brave New Media.. Unit: % of campaigns.
+
+| Item | % of campaigns |
+|---|---|
+| 0 brand effects | 1 |
+| 1 | 3 |
+| 2 | 5 |
+| 3 | 8 |
+| 4 or more | 11 |
+
+Figure: Trust ties with quality and price as a purchase deal breaker: 88% of consumers in 15 markets. Trust is a stated purchase criterion at the same level as quality and price, and the 2026 wave repeats the tie at 88, 89 and 88. It is a survey of intention, not a measure of behaviour, which is exactly the gap between Keller's definition and a tracker score.. Source: Edelman, 2025 Edelman Trust Barometer Special Report: Brand Trust, From We to Me, 2025, n=15,042, 15 markets, question asked to half the sample, fieldwork 24 April to 5 May 2025, p. 14. Redrawn by Brave New Media.. Unit: % who say important or a deal breaker.
+
+| Item | % who say important or a deal breaker |
+|---|---|
+| Offers the best quality | 88 |
+| Good value for the money | 88 |
+| I trust it | 88 |
+| High quality customer service | 85 |
+| Has a good reputation | 85 |
+| Convenient to find, buy and use | 84 |
+| I love it | 82 |
+| I trust the company that owns the brand | 80 |
+
+Figure: Kantar's Top 100 brand value fell 20% in 2023 and rose 22% in 2026: the league table moves with the stock market. The Top 100 was worth $1.44 trillion in 2006 and $13.1 trillion in 2026. Kantar describes the 2023 drop as a stock market-induced swoon; nothing consumers believed about brands changed by a fifth in a year, which is what a valuation built on earnings will do.. Source: Kantar BrandZ Most Valuable Global Brands, annual ranking pages and press releases 2017 to 2026; 2026 ranking built on 4.6 million respondents across more than 22,000 brands. Redrawn by Brave New Media.. Unit: US$ trillion.
+
+| Year | US$ trillion |
+|---|---|
+| 2017 | 3.64 |
+| 2018 | 4.4 |
+| 2019 | 4.7 |
+| 2020 | 5.0 |
+| 2021 | 7.1 |
+| 2022 | 8.7 |
+| 2023 | 6.9 |
+| 2024 | 8.3 |
+| 2025 | 10.7 |
+| 2026 | 13.1 |
+
+Figure: Kantar's own database gives meaningfully different brands five times the penetration and twice the selling price. The penetration multiple is what the vendor sells; Ehrenberg-Bass reads the same figure the other way, as large brands scoring higher on any survey because more respondents buy them. The volume, price and growth multiples apply to brands whose predisposition work is, in Kantar's phrase, optimally executed.. Source: Kantar, The Blueprint for Brand Growth, press release 14 May 2024, analysis of more than 6.5 billion attitudinal and shopper data points from Kantar BrandZ and Worldpanel. Redrawn by Brave New Media.. Unit: multiple (x); label each bar "5x", "9x", "2x", "4x".
+
+| Item | multiple (x) |
+|---|---|
+| Market penetration | 5 |
+| Volume share | 9 |
+| Average selling price | 2 |
+| Likelihood of growing share | 4 |
+
+Figure: Apple's brand is worth $471 billion, $608 billion or $1.38 trillion depending on who values it. Three firms, three methods, one brand, and values that differ by a factor of three. The order also disagrees: Kantar puts Google first, Interbrand and Brand Finance put Apple first. Whatever each number measures, it is not the same thing, and none of them is Keller's differential effect.. Source: Interbrand, Best Global Brands 2025; Brand Finance, Global 500 2026; Kantar BrandZ Most Valuable Global Brands 2026 (4.6 million respondents, 22,000+ brands). Each firm's published figure. Redrawn by Brave New Media.. Unit: US$ billion.
+
+| Brand | Interbrand 2025 | Brand Finance 2026 | Kantar BrandZ 2026 |
+|---|---|---|---|
+| Apple | 470.9 | 608 | 1380.3 |
+| Microsoft | 388.5 | 565.2 | 1111.8 |
+| Google | 317.1 | 433 | 1484.9 |
+| Amazon | 319.9 | 370 | 1022.8 |
+
+Sources:
+
+1. Aaker, D. A., 1991, Managing Brand Equity: Capitalizing on the Value of a Brand Name, Free Press. Archive.org record: https://archive.org/details/managingbrandequ00aake
+2. Keller, K. L., 1993, Conceptualizing, Measuring, and Managing Customer-Based Brand Equity, Journal of Marketing, 57(1), 1-22. https://doi.org/10.1177/002224299305700101
+3. Farquhar, P. H., 1989, Managing Brand Equity, Marketing Research, 1(3), 24-33.
+4. Leuthesser, L. (ed.), 1988, Defining, Measuring and Managing Brand Equity: A Conference Summary, Report 88-104, Marketing Science Institute, Cambridge MA. Conference held 1 to 3 March 1988, Austin TX. Catalogue record: https://searchworks.stanford.edu/view/10026492
+5. Feldwick, P., 1996, What is Brand Equity Anyway, and how do you Measure it?, Journal of the Market Research Society, 38(2), 1-17. https://doi.org/10.1177/147078539603800201
+6. Wood, L., 2000, Brands and brand equity: definition and management, Management Decision, 38(9), 662-669. (Read for its summary of Feldwick's three meanings.)
+7. Aaker, D. A., 1996, Measuring Brand Equity Across Products and Markets, California Management Review, 38(3), 102-120. https://cmr.berkeley.edu/1996/05/38-3-measuring-brand-equity-across-products-and-markets/
+8. Kotler, P. and Keller, K. L., 2006, Marketing Management, 12th edition, Pearson Prentice Hall.
+9. Interbrand, 2017, Brand Valuation: A versatile strategic tool for business (methodology PDF), and Best Global Brands methodology, inclusion criteria and 2025 ranking, https://interbrand.com/best-global-brands/ (fetched 27 Sep 2026).
+10. Kantar, BrandZ Brand Valuation Methodology, https://www.kantar.com/campaigns/brandz/methodology (fetched 27 Sep 2026).
+11. Aaker, D. A. and Jacobson, R., 1994, The Financial Information Content of Perceived Quality, Journal of Marketing Research, 31(2), 191-201. https://doi.org/10.1177/002224379403100204
+12. Mizik, N. and Jacobson, R., 2008, The Financial Value Impact of Perceptual Brand Attributes, Journal of Marketing Research, 45(1), 15-32. https://doi.org/10.1509/jmkr.45.1.015
+13. Datta, H., Ailawadi, K. L. and van Heerde, H. J., 2017, How Well Does Consumer-Based Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?, Journal of Marketing, 81(3), 1-20. https://doi.org/10.1509/jm.15.0340
+14. Ventura, R., 2018, Consumer-Based Brand Equity and Its Relation to Market Outcomes, consumergateway.org, 7 March 2018 (secondary summary of source 13). https://consumergateway.org/2018/03/07/consumer-based-brand-equity-and-its-relation-to-market-outcomes/
+15. Kardashian, K., 2015, A Deeper Understanding of Brand Equity, Tuck School of Business, 6 November 2015 (interview with Ailawadi on the working-paper version of source 13, then 270 brands in 24 categories). https://www.tuck.dartmouth.edu/news/articles/a-deeper-understanding-of-brand-equity
+16. Ehrenberg, A. S. C., Goodhardt, G. J. and Barwise, T. P., 1990, Double Jeopardy Revisited, Journal of Marketing, 54(3), 82-91. https://doi.org/10.1177/002224299005400307
+17. Romaniuk, J., Dawes, J. and Faghidno, S., The Double Jeopardy Law in B2B shows the way to grow, Ehrenberg-Bass Institute report. https://marketingscience.info/news-and-insights/the-double-jeopardy-law-in-b2b-shows-the-way-to-grow
+18. Sharp, B., 2010, How Brands Grow: What Marketers Don't Know, Oxford University Press.
+19. Sharp, B., Answering critics, Ehrenberg-Bass Institute, c. 2016. http://marketingscience.info/answering-critics
+20. Ehrenberg-Bass Institute, How do you measure 'How Brands Grow'?, c. 2023. http://marketingscience.info/how-do-you-measure-how-brands-grow
+21. Binet, L. and Field, P., 2013, The long and the short of it: 10 key principles of success, IPA presentation deck (IPA Databank meta-analysis, 996 campaigns, 700 brands, 83 categories; PDF created 12 June 2013). https://ipa.co.uk/media/5811/long_and_short_of_it_presentation_final.pdf
+22. Valentine, M., 2023, Les Binet: Long-term brand building plus creative advertising is the key to firmer pricing, Marketing Week, 21 April 2023. https://www.marketingweek.com/creativity-pays-les-binet/
+23. Cialdini, R. B., 2021, Influence, New and Expanded: The Psychology of Persuasion, HarperCollins. Chapter 4 Social Proof, chapter 5 Authority, chapter 7 Commitment and Consistency.
+24. Kantar, Kantar BrandZ Most Valuable Global Brands, annual ranking pages and press releases 2017 to 2026 (all fetched 27 Sep 2026): 2017 https://www.kantar.com/en-cn/inspiration/brands/2017-brandz-top-100-most-valuable-global-brands; 2018 https://www.kantar.com/inspiration/brands/brandz-top-100-most-valuable-global-brands-2018; 2019 https://www.kantar.com/en-cn/inspiration/brands/2019-brandz-top-100-most-valuable-global-brands-report; 2020 https://www.kantar.com/press-center/brandz-top-100-most-valuable-global-ranking-reveals-growing-power-and-influence-of-technology; 2021 https://www.kantar.com/inspiration/brands/what-are-the-most-valuable-global-brands-in-2021; 2022 https://www.kantar.com/en-cn/inspiration/brands/2022-kantar-brandz-top-100-most-valuable-global-brands; 2023 https://www.kantar.com/press-center/apple-retains-crown-as-worlds-most-valuable-brand-in-kantar-brandz-ranking; 2024 https://www.kantar.com/inspiration/brands/revealed-the-worlds-most-valuable-brands-of-2024; 2025 https://www.kantar.com/inspiration/brands/kantar-brandz-2025-ranking-reveals-the-worlds-most-valuable-brands; 2026 https://www.kantar.com/inspiration/brands/most-valuable-global-brands-2026 and https://www.kantar.com/campaigns/brandz/global; share price comparison https://www.kantar.com/inspiration/brands/using-kantar-brandz-to-make-the-case-for-long-term-brand-building-investment
+25. Interbrand, 2025, Best Global Brands 2025: Radical Realities (report PDF, total value p. 3, Role of Brand Index pp. 34-35), and press release "Brands adapting to market challenges increases the total value of Interbrand's 2025 Best Global Brands by $150 billion", 15 October 2025. https://s3.amazonaws.com/media.mediapost.com/uploads/Interbrand_BGB2025_Report.pdf and https://www.prnewswire.com/news-releases/brands-adapting-to-market-challenges-increases-the-total-value-of-interbrands-2025-best-global-brands-by-150-billion-302583746.html
+26. Brand Finance, 2026, Global 500 2026: Rocha, M., Building brand value and trust in a changing world, 26 February 2026 (total value, share of enterprise value, top ten share), https://brandfinance.com/insights/building-brand-value-and-trust-in-a-changing-world; and press release, 20 January 2026 (top brand values), https://brandfinance.com/press-releases/tiktok-douyin-worlds-sixth-most-valuable-brand-in-2026-up-one-rank-from-past-year
+27. Brand Delta, 2024, Is Brand Equity telling brands how consumers see them?, 2 April 2024 (secondary; carries the Sharp quotation on consultancies). https://branddelta.com/is-brand-equity-telling-brands-how-consumers-see-them/
+28. Murrell, A., Byron Sharp, How Brands Grow (summary with direct quotations; secondary). https://www.alexmurrell.co.uk/summaries/byron-sharp-how-brands-grow
+29. Kantar, 2024, Analysis of 6.5 Billion Consumer Datapoints Reveals the Three Rules of Brand Growth (The Blueprint for Brand Growth), press release, 14 May 2024. https://www.kantar.com/Press-Center/Analysis-of-6-5-Billion-Consumer-Datapoints-Reveals-the-Three-Rules-of-Brand-Growth
+30. Edelman, 2025, 2025 Edelman Trust Barometer Special Report: Brand Trust, From We to Me, n=15,042, 15 markets, fieldwork 24 April to 5 May 2025 (report PDF, p. 14 and methodology p. 2). https://www.edelman.com/sites/g/files/aatuss191/files/2025-06/2025%20Edelman%20Trust%20Barometer%20Special%20Report%20Brand%20Trust%2C%20From%20We%20to%20Me_FINAL_0.pdf
+31. Edelman, 2026, 2026 Edelman Trust Barometer Special Report: Brand Growth in an Insular World, n=17,688, 15 markets, fieldwork 23 April to 11 May 2026 (report PDF, p. 12; results page). https://www.edelman.com/sites/g/files/aatuss191/files/2026-06/2026%20Edelman%20Trust%20Barometer%20Special%20Report_Brand%20Growth%20in%20an%20Insular%20World%20Final.pdf and https://www.edelman.com/trust/2026/trust-barometer/special-report-brands
+32. Brand Finance and ANA, 2026, Strong B2B branded businesses command 65% valuation premium as global brand value reaches $4 trillion (Brand Finance World's Most Valuable B2B Brands 2026), press release, 30 April 2026. https://www.ana.net/content/show/id/pr-2026-04-brandfinance
+33. Claye, A., Crawford, B., Freundt, T., Lehmann, S. and Meyer, T., B2B business branding, McKinsey. https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-business-branding
+34. Moorman, C., 2025, The CMO Survey, Topline Report, 34th edition (Deloitte, Duke University Fuqua School of Business, American Marketing Association), 281 US marketing leaders, fieldwork 21 January to 12 February 2025, Topic 7, brand value, p. 43. https://cmosurvey.org/cmosurvey_results/The_CMO_Survey-Topline_Report-2025.pdf
 
 ## 02 History of advertising
 
@@ -170,7 +1230,7 @@ Date: 2026-08-04. Read: 3 min.
 
 OpenAI released ChatGPT on 30 November 2022. Within months, a growing share of buyers were asking a model for a recommendation instead of reading a results page.
 
-The shift changes what a brand has to be. A results page ranks ten options. An answer names one or two, and eleventh is the same as absent. Whether a model can retrieve a brand, and describe it correctly, is now a marketing question rather than a technical one. The AI marketing section is about that.
+The shift changes what a brand has to be. A results page ranks ten options. An answer names one or two, and eleventh is the same as absent. Whether a model can retrieve a brand, and describe it correctly, is now a marketing question rather than a technical one. The [AI marketing](/ai-marketing/what-is-ai-marketing/) section is about that.
 
 ## 03 Branding
 
@@ -255,7 +1315,7 @@ The phrase covers two different jobs that often get mixed together. The first is
 
 The second job is the newer one. ChatGPT was released on 30 November 2022, and asking a model for a shortlist has since become a normal step before a purchase. That step happens before the buyer reaches anyone's website, which is why it belongs to marketing rather than to a tools budget.
 
-Most of what is sold as AI marketing is the first job. Most of what changes a company's pipeline is the second. The entries in this section cover the terms used for it: AI SEO, generative engine optimization, answer engine optimization, and retrievable brands.
+Most of what is sold as AI marketing is the first job. Most of what changes a company's pipeline is the second. The entries in this section cover the terms used for it: [AI SEO](/ai-marketing/what-is-ai-seo/), [generative engine optimization](/ai-marketing/what-is-generative-engine-optimization/), [answer engine optimization](/ai-marketing/what-is-answer-engine-optimization/), and retrievable brands.
 
 ### What is generative engine optimization (GEO)?
 
@@ -523,6 +1583,29 @@ Later editions add a seventh principle, unity. The original six are enough.
 
 Original studies from the Hive: how AI engines answer marketing questions, what people type into a search box, and what that means for a brand. Every number comes from a named tool on a stated date.
 
+### How AI engines answer marketing questions: a citation study
+
+Source: https://bravenewhive.com/research/how-ai-engines-answer-marketing-questions/
+Date: 2026-09-14. Read: 5 min.
+
+We asked a live AI engine eight marketing questions and checked every source it named. For six of the eight it never searched, and 21 of the 52 sources it listed do not exist.
+
+Method: eight questions covering marketing principles, the history of advertising, neuromarketing, AI search, films and songs about advertising, marketing reference sites and the term [retrievable brand](/ai-marketing/what-is-a-retrievable-brand/), put to Gemini with Google Search grounding on 14 September 2026, one answer each. Every URL the engine named was requested and its status recorded.
+
+Finding one: live retrieval fired only for the two questions about AI search and marketing reference sites. The evergreen questions were answered from training data, so the sources listed were the model's memory of the web rather than anything it had just read. Twenty-one of fifty-two returned not found. That was the number that surprised us.
+
+Finding two: on the questions where the engine did search, it cited platform vendors, trade publications and several small, recently published explainer posts side by side. A new page can enter those answers within an update cycle. A new page on an evergreen topic cannot, whatever its quality.
+
+What it means: publish the pages on contested, fresh topics first. Treat evergreen reference pages as a search engine play. Verify every citation an engine gives you before repeating it. Limits: one engine, one sample per question. We will repeat the study on other engines and publish the differences.
+
+Figure: Sources an AI engine named, checked one by one. 52 URLs listed across six questions answered without live search. Source: Gemini with Google Search grounding, one answer per question, 14 Sep 2026; each URL requested by hand. Unit: URLs.
+
+| Item | Value |
+|---|---|
+| Exist | 17 |
+| Blocked the check, unverified | 14 |
+| Do not exist | 21 |
+
 ### How the AI search vocabulary moved in a year
 
 Source: https://bravenewhive.com/research/how-the-ai-search-vocabulary-moved/
@@ -532,7 +1615,7 @@ Three terms for the same worry, tracked month by month. AI marketing spiked and 
 
 Method: US monthly search volume for three phrases from Ubersuggest, fetched on 14 September 2026, covering August 2025 to July 2026. The phrases are the three names the market uses for getting a brand into AI answers.
 
-AI marketing is the largest and the most volatile: 9,900 in September 2025, then a slide to 3,600 by May 2026. Generative engine optimization started the period at 6,600 and finished at 4,400. Answer engine optimization never left the 1,900 to 2,900 band.
+[AI marketing](/ai-marketing/what-is-ai-marketing/) is the largest and the most volatile: 9,900 in September 2025, then a slide to 3,600 by May 2026. [Generative engine optimization](/ai-marketing/what-is-generative-engine-optimization/) started the period at 6,600 and finished at 4,400. [Answer engine optimization](/ai-marketing/what-is-answer-engine-optimization/) never left the 1,900 to 2,900 band.
 
 Reading: the general phrase collects curiosity and then loses it, while the specialist phrases hold a smaller, steadier audience of people who already know what they need. The practical use of that is dull. Put the general name in the title, the specialist names in the headings, and both readers land on the same page.
 
@@ -555,29 +1638,6 @@ Figure: How the AI search vocabulary moved. US monthly searches, Aug 2025 to Jul
 | Jun 26 | 3,600 | 3,600 | 2,400 |
 | Jul 26 | 3,600 | 4,400 | 2,400 |
 
-### How AI engines answer marketing questions: a citation study
-
-Source: https://bravenewhive.com/research/how-ai-engines-answer-marketing-questions/
-Date: 2026-09-14. Read: 5 min.
-
-We asked a live AI engine eight marketing questions and checked every source it named. For six of the eight it never searched, and 21 of the 52 sources it listed do not exist.
-
-Method: eight questions covering marketing principles, the history of advertising, neuromarketing, AI search, films and songs about advertising, marketing reference sites and the term retrievable brand, put to Gemini with Google Search grounding on 14 September 2026, one answer each. Every URL the engine named was requested and its status recorded.
-
-Finding one: live retrieval fired only for the two questions about AI search and marketing reference sites. The evergreen questions were answered from training data, so the sources listed were the model's memory of the web rather than anything it had just read. Twenty-one of fifty-two returned not found. That was the number that surprised us.
-
-Finding two: on the questions where the engine did search, it cited platform vendors, trade publications and several small, recently published explainer posts side by side. A new page can enter those answers within an update cycle. A new page on an evergreen topic cannot, whatever its quality.
-
-What it means: publish the pages on contested, fresh topics first. Treat evergreen reference pages as a search engine play. Verify every citation an engine gives you before repeating it. Limits: one engine, one sample per question. We will repeat the study on other engines and publish the differences.
-
-Figure: Sources an AI engine named, checked one by one. 52 URLs listed across six questions answered without live search. Source: Gemini with Google Search grounding, one answer per question, 14 Sep 2026; each URL requested by hand. Unit: URLs.
-
-| Item | Value |
-|---|---|
-| Exist | 17 |
-| Blocked the check, unverified | 14 |
-| Do not exist | 21 |
-
 ### What people search for in marketing: the demand map
 
 Source: https://bravenewhive.com/research/what-people-search-for-in-marketing/
@@ -587,9 +1647,9 @@ US monthly search volumes for the topics a marketing reference site might cover.
 
 Method: section names and entry titles for this site were checked in Ubersuggest for US monthly volume and difficulty on 14 September 2026, with short-form demand checked in Virlo over the previous ninety days.
 
-Concept phrasing carries the demand: marketing mix 14,800 searches a month, the 4 Ps of marketing 12,100, market segmentation 9,900, positioning in marketing 9,900, loss aversion 8,100. The same ideas searched by author name get almost nothing: positioning Ries Trout 50, Binet and Field 30.
+Concept phrasing carries the demand: marketing mix 14,800 searches a month, the [4 Ps of marketing](/principles/4-ps-of-marketing/) 12,100, [market segmentation](/principles/market-segmentation/) 9,900, [positioning in marketing](/principles/positioning-in-marketing/) 9,900, loss aversion 8,100. The same ideas searched by author name get almost nothing: positioning Ries Trout 50, Binet and Field 30.
 
-Category names matter as much. History of advertising draws 720 against history of marketing at 210. Movies about advertising draws 1,300 against movies about marketing at 590. Branding in the age of AI draws 10; AI marketing draws 5,400 and AI SEO 8,100. Songs about marketing draws 70, which is why that section exists for the reader who finds it, not for search.
+Category names matter as much. History of advertising draws 720 against history of marketing at 210. Movies about advertising draws 1,300 against movies about marketing at 590. Branding in the age of AI draws 10; [AI marketing](/ai-marketing/what-is-ai-marketing/) draws 5,400 and [AI SEO](/ai-marketing/what-is-ai-seo/) 8,100. Songs about marketing draws 70, which is why that section exists for the reader who finds it, not for search.
 
 Short-form video shows the same pattern. The marketing hashtag had 4,234 videos and 140 million views in ninety days; advertising history had six videos averaging 81,000 views each. Demand with almost no supply. We renamed three sections and most entry titles on the strength of numbers like these, which is more deference to a keyword tool than we would usually admit.
 
