@@ -1163,74 +1163,1808 @@ A timeline of the moments that changed how advertising and marketing reach peopl
 ### 1841. Who invented the advertising agency
 
 Source: https://bravenewhive.com/history-of-advertising/1841-who-invented-the-advertising-agency/
-Date: 2026-09-07. Read: 2 min.
+Date: 2026-09-07. Read: 10 min.
 
-Volney B. Palmer opened what is generally regarded as the first advertising agency in the United States, in Philadelphia, selling newspaper space on commission.
+Volney Palmer opened the first US ad agency in 1841, paid by the newspapers. How that commission shaped agencies to the Mad Men era, and what replaced it.
 
-Palmer acted as a broker between newspapers and advertisers. The commission that paid him set the agency model, and the question that came with it: whose side is the agency on.
+## The moment
+
+Philadelphia, 1841. Volney B. Palmer takes a room at the north-west corner of Third and Chestnut streets and puts himself in the city directory as the agent of newspapers across the country [2]. A merchant who wants his notice in the country papers walks in, picks the towns, hands over his own copy and his money. Palmer sends the copy and the money on to the publishers and keeps a quarter of what they are paid [4]. He writes nothing. He is paid by the papers, so he advises what the papers need. By 1849 he has a paper of his own and an offer to draw up advertisements for merchants with no time to write them [7]. The business has every part of a modern agency except a client who pays the agent.
+
+## What came before
+
+The problem was arithmetic. There were 75 newspapers in the United States in 1790, more than 360 in 1820 and more than 1,400 by 1840. A wholesaler who wanted the farm towns could not write to a thousand editors, and the editors could not sell their own space. Someone had to stand in the middle [6].
+
+London had stood there first. William Tayler advertised himself in 1786 as agent of the country printers and booksellers. George Reynell opened an office in Chancery Lane in 1812 to place legal notices, and his firm stayed in the family for six generations. Both worked for the printers. Palmer ran the same business in America, and the record does not settle the year he started. The Smithsonian guide to the Ayer records and Duke's Hartman Center say 1841, Tungate and Hower say 1842, and Fox says 1843 [10, 11, 7, 8, 2, 6, 1].
+
+The space brokers who followed him refined the model and kept its flaw. George P. Rowell sold ads for a theatre programme in the holiday season of 1864, cleared $600 in a few weeks, and opened his own agency in Boston the following year, buying space in bulk and reselling it by the inch. He then published the first directory of American newspapers with circulations and rates, more than 5,000 titles. William James Carlton began canvassing for several papers in December 1864, mainly Methodist magazines; James Walter Thompson joined him as bookkeeper in 1868 and bought the one-man firm in 1878 for $500. Daniel Lord and Ambrose Thomas formed Lord and Thomas in Chicago in 1881, still a space broker. All of them lived on the publisher's discount, which ran from 10 to 50 per cent depending on the paper and how quietly the deal was done [1, 2, 9, 14, 3, 5].
+
+## What it changed
+
+The turn came in Philadelphia too. Francis Wayland Ayer had spent a year soliciting advertisements on commission for a Baptist weekly when, in 1869, he persuaded his father Nathan to put $250 into N. W. Ayer and Son [7]. In 1875 he offered a Pennsylvania rose grower, Dingee and Conard, what he called the open contract. The advertiser gave Ayer a budget and the authority to buy whichever space served it best; Ayer bought at the published rate, took no secret discounts, and was paid a set commission that advertiser, agent and publisher all knew. Fox marks it as the end of buying space low and selling it high [5][1]. Two years later Ayer bought Coe, Wetherill and Company, Palmer's successor firm, and could claim the oldest line in the trade [7].
+
+What a marketer could do the day after was hire someone who worked for him. Ayer proved it in 1880 by researching the grain output and farm papers of the whole country before pitching a Michigan maker of threshing machines, and refusing to sell the resulting book to anyone who was not a client [6]. The commission rate settled at 15 per cent of the gross rate by the early 1890s, and the American Association of Advertising Agencies, founded in 1917, fixed it there in 1918 [4]. Ayer almost always got the full 15 per cent; around 1898 Lord and Thomas got less, and Albert Lasker's answer was to write the copy himself [3]. In 1904 he hired John E. Kennedy, a Canadian-born copywriter who told him advertising was salesmanship in print, at $16,000 a year when Lasker's copywriters earned about $1,400 [3]. By 1906 Lasker could say that ninety per cent of the thought, energy and cost of running the agency went into copy [5].
+
+Media buying, research and creative work, bundled and paid for out of one cut of the media money. That is the full-service agency.
+
+The mechanism had a flaw its inventors knew. Paid on spend, an agency earns more when the client spends more, and nothing on advice to spend less or somewhere that pays no commission. Fees fixed that and introduced the next flaw, since an agency paid for hours earns more when the work takes longer. The ANA's 2022 survey found 82 per cent of marketers paying by fee, and among advertisers spending $500 million or more a year, 53 per cent paying fixed or output-based fees, up from 5 per cent in 2016 [20]. The number of agencies did not shrink while the money changed hands.
+
+## The Mad Men thread
+
+The series gives readers a mid-sized Madison Avenue shop in 1960 that bills its clients a percentage of what it spends on their behalf. The real agencies did, and the pressure on the model was already public. In February 1956 the Four A's signed a consent decree with the Justice Department's antitrust chief, Stanley Barnes, agreeing to end the requirement that members collect a 15 per cent commission, to drop its ban on rebating, and to stop policing the industry. In November 1960 Shell asked Ogilvy, Benson and Mather to work for a fee instead; the fee was the actual cost of running the account plus 25 per cent, and the New York Times reported it as a surprise. To its advocates, Fox writes, the fee put the agency on the footing of an attorney or physician, paid for work done rather than for what the agent could spend [12, 1, 4].
+
+Palmer's office became Coe, Wetherill, which became part of Ayer in 1877. Carlton's firm became J. Walter Thompson, which led the industry in billings from 1922 to 1972. Lasker became a one-quarter partner in Lord and Thomas in 1904 and sole owner in 1912, and in December 1942 worked out a plan to dissolve it. Foote, Cone and Belding opened at the turn of the year with three equal partners and the same staff in Chicago, New York, Los Angeles and San Francisco. The agency in the series is invented. The commission it lives on was built in these offices [7, 14, 3, 13].
+
+What the commission had been doing showed once it was gone. In the 1990s the holding companies spun their media departments out as separate buying companies, MindShare at WPP, OMD and PhD at Omnicom, Zenith at Saatchi and Cordiant. By 2010 only 3 per cent of ANA members still used commission in any agreement; by 2016 it was back to 12 per cent, almost all of it for media buying and programmatic work. The medium Palmer brokered was by then losing most of its advertising money [9, 19].
+
+The four largest groups descended from this lineage, Publicis, WPP, Omnicom and Interpublic, reported 2024 revenue of $62.6 billion between them. The publisher's discount is gone. What replaced it is still a cut of what clients spend on attention [23, 24, 25, 26].
+
+## Applied: if you are a B2C brand
+
+Say you sell a mid-price skincare line and must decide between an agency, a freelancer network and an in-house team. Before you look at a single portfolio, ask each option who pays it and on what. An agency paid a percentage of media has Palmer's incentive, to grow the spend and steer it to where the percentage is earned. An agency on labour fees has the opposite one, and will staff your account generously. A freelancer network paid per deliverable has Ayer's 1880 incentive in miniature, to do the work up front and win the next brief, which suits you until the brief needs a plan nobody is paid to write. An in-house team on salary has no reason to prefer one channel to another, which is also why it rarely challenges the channel it already knows.
+
+So write the contract before the pitch. We sit on the agency side of this table, and the compensation clause is the page nobody reads at a pitch, on either side. Ask for the media plan with the agency's own earnings shown line by line, as the ANA has pushed for since its 2016 transparency work. If the plan leans towards channels where the agency earns a commission, you are looking at the problem Ayer's open contract solved in 1875, and it gets fixed in the contract [19].
+
+## Applied: if you are a B2B brand
+
+Say you make industrial pumps and your media is trade press, LinkedIn and two conferences a year. Nobody earns a commission on any of it. Media-neutral advice, in this market, means advice from someone whose income does not change when you move money from the stand to the sponsored post. That is a different thing from advice that is right.
+
+Ayer's 1875 contract put the neutrality in the terms, so put yours there too. Pay for the plan as a fixed deliverable with a stated scope, so the adviser is not rewarded for a longer plan. Pay for execution separately and keep the right to execute in-house, as 30 per cent of ANA members already do for programmatic buying. Then test the adviser as the threshing-machine maker could test Ayer in 1880. Ask for the research before the recommendation, and read whether it argues from your buyers or from what the adviser happens to sell [22].
+
+## What to do with it
+
+1. Before any agency, consultant or network pitches you, write down the base each one will be paid on: media spend, hours, deliverables or outcomes. Reject any proposal where that base is not written into the contract. 2. Require a media plan that shows the agency's own revenue on every line. Any channel where the agency earns more than its blended rate needs a written justification before you approve the plan. 3. If you pay for hours, cap the hours per deliverable in the scope and check the timesheets against the cap every quarter. That is the control the ANA's 2022 respondents were moving towards with fixed fees [20]. 4. Keep media buying and advice as separate clauses so you can move either without moving both. The 1990s unbundling served the agencies; make it serve you. 5. Once a year, have someone with no stake in the plan re-run the channel allocation from the buyer evidence alone, and compare it with the plan you bought.
+
+Figure: US advertising spend grew from $1.9 billion in 1919 to $280 billion in 2007, a twelvefold rise after inflation. The agency Palmer founded sold space in a market worth under $2 billion a year; the full-service agencies of the 1960s worked a market of $12 billion to $19 billion, and the holding companies of 2007 one of $280 billion [15].. Source: Robert J. Coen historical series (McCann Erickson) as compiled by Douglas Galbi, Coen Structured Advertising Expenditure Dataset, galbithink.org, revised 14 Sep 2008; 2007 dollars computed with the Federal Reserve Bank of Minneapolis Consumer Price Index series, 1913 to present (1982 to 1984 = 100). Redrawn by Brave New Media.. Unit: US$ millions.
+
+| Year | Current dollars (US$ m) | 2007 dollars (US$ m) |
+|---|---|---|
+| 1919 | 1930 | 23127 |
+| 1920 | 2480 | 25705 |
+| 1921 | 1930 | 22351 |
+| 1922 | 2200 | 27146 |
+| 1923 | 2400 | 29095 |
+| 1924 | 2480 | 30065 |
+| 1925 | 2600 | 30799 |
+| 1926 | 2700 | 31622 |
+| 1927 | 2720 | 32406 |
+| 1928 | 2760 | 33264 |
+| 1929 | 2850 | 34349 |
+| 1930 | 2450 | 30412 |
+| 1931 | 2100 | 28640 |
+| 1932 | 1620 | 24693 |
+| 1933 | 1325 | 21292 |
+| 1934 | 1650 | 25526 |
+| 1935 | 1720 | 26026 |
+| 1936 | 1930 | 28783 |
+| 1937 | 2100 | 30231 |
+| 1938 | 1930 | 28375 |
+| 1939 | 2010 | 29976 |
+| 1940 | 2110 | 31243 |
+| 1941 | 2250 | 31730 |
+| 1942 | 2160 | 27470 |
+| 1943 | 2490 | 29837 |
+| 1944 | 2700 | 31802 |
+| 1945 | 2840 | 32707 |
+| 1946 | 3340 | 35507 |
+| 1947 | 4260 | 39601 |
+| 1948 | 4870 | 42065 |
+| 1949 | 5210 | 45380 |
+| 1950 | 5700 | 49029 |
+| 1951 | 6420 | 51187 |
+| 1952 | 7140 | 55644 |
+| 1953 | 7740 | 59869 |
+| 1954 | 8150 | 62807 |
+| 1955 | 9150 | 70776 |
+| 1956 | 9910 | 75527 |
+| 1957 | 10270 | 75764 |
+| 1958 | 10310 | 73954 |
+| 1959 | 11270 | 80009 |
+| 1960 | 11960 | 83760 |
+| 1961 | 11860 | 82227 |
+| 1962 | 12430 | 85041 |
+| 1963 | 13100 | 88746 |
+| 1964 | 14150 | 94622 |
+| 1965 | 15250 | 100360 |
+| 1966 | 16630 | 106074 |
+| 1967 | 16870 | 104705 |
+| 1968 | 18090 | 107760 |
+| 1969 | 19420 | 109694 |
+| 1970 | 19550 | 104451 |
+| 1971 | 20700 | 105953 |
+| 1972 | 23210 | 115106 |
+| 1973 | 24980 | 116630 |
+| 1974 | 26620 | 111934 |
+| 1975 | 27900 | 107503 |
+| 1976 | 33300 | 121320 |
+| 1977 | 37440 | 128074 |
+| 1978 | 43330 | 137765 |
+| 1979 | 48780 | 139285 |
+| 1980 | 53570 | 134770 |
+| 1981 | 60460 | 137881 |
+| 1982 | 66670 | 143220 |
+| 1983 | 76000 | 158181 |
+| 1984 | 88010 | 175596 |
+| 1985 | 94900 | 182832 |
+| 1986 | 102370 | 193625 |
+| 1987 | 110270 | 201223 |
+| 1988 | 118750 | 208089 |
+| 1989 | 124770 | 208587 |
+| 1990 | 129968 | 206139 |
+| 1991 | 128352 | 195355 |
+| 1992 | 133750 | 197622 |
+| 1993 | 140956 | 202216 |
+| 1994 | 153024 | 214048 |
+| 1995 | 162930 | 221623 |
+| 1996 | 175230 | 231518 |
+| 1997 | 187529 | 242210 |
+| 1998 | 206697 | 262873 |
+| 1999 | 222308 | 276617 |
+| 2000 | 247472 | 297915 |
+| 2001 | 231287 | 270727 |
+| 2002 | 236875 | 272953 |
+| 2003 | 245477 | 276562 |
+| 2004 | 263766 | 289458 |
+| 2005 | 271074 | 287730 |
+| 2006 | 281653 | 289616 |
+| 2007 | 279612 | 279612 |
+
+Figure: Advertising has taken between 1.2 and 3.0 per cent of US GDP every year since 1919; it was 2.0 per cent in 2007. The commission era (to 1956) and the fee era (after 1960) sit on the same line: the share the economy gives to advertising moved with wars and recessions, not with how agencies were paid.. Source: Douglas Galbi, Annual U.S. Advertising Expenditure Since 1919, galbithink.org, 2008 (Coen advertising data; GDP from Johnston and Williamson and the U.S. Bureau of Economic Analysis). Redrawn by Brave New Media.. Unit: per cent of GDP.
+
+| Year | Ad spend (US$ m) | GDP (US$ bn) | Ads as % of GDP |
+|---|---|---|---|
+| 1919 | 1930 | 78.3 | 2.5 |
+| 1920 | 2480 | 88.4 | 2.8 |
+| 1921 | 1930 | 73.6 | 2.6 |
+| 1922 | 2200 | 73.4 | 3.0 |
+| 1923 | 2400 | 85.4 | 2.8 |
+| 1924 | 2480 | 87.0 | 2.9 |
+| 1925 | 2600 | 90.6 | 2.9 |
+| 1926 | 2700 | 97.0 | 2.8 |
+| 1927 | 2720 | 95.5 | 2.8 |
+| 1928 | 2760 | 97.4 | 2.8 |
+| 1929 | 2850 | 103.6 | 2.8 |
+| 1930 | 2450 | 91.2 | 2.7 |
+| 1931 | 2100 | 76.5 | 2.7 |
+| 1932 | 1620 | 58.7 | 2.8 |
+| 1933 | 1325 | 56.4 | 2.3 |
+| 1934 | 1650 | 66.0 | 2.5 |
+| 1935 | 1720 | 73.3 | 2.3 |
+| 1936 | 1930 | 83.8 | 2.3 |
+| 1937 | 2100 | 91.9 | 2.3 |
+| 1938 | 1930 | 86.1 | 2.2 |
+| 1939 | 2010 | 92.2 | 2.2 |
+| 1940 | 2110 | 101.4 | 2.1 |
+| 1941 | 2250 | 126.7 | 1.8 |
+| 1942 | 2160 | 161.9 | 1.3 |
+| 1943 | 2490 | 198.6 | 1.3 |
+| 1944 | 2700 | 219.8 | 1.2 |
+| 1945 | 2840 | 223.1 | 1.3 |
+| 1946 | 3340 | 222.3 | 1.5 |
+| 1947 | 4260 | 244.2 | 1.7 |
+| 1948 | 4870 | 269.2 | 1.8 |
+| 1949 | 5210 | 267.3 | 1.9 |
+| 1950 | 5700 | 293.8 | 1.9 |
+| 1951 | 6420 | 339.3 | 1.9 |
+| 1952 | 7140 | 358.3 | 2.0 |
+| 1953 | 7740 | 379.4 | 2.0 |
+| 1954 | 8150 | 380.4 | 2.1 |
+| 1955 | 9150 | 414.8 | 2.2 |
+| 1956 | 9910 | 437.5 | 2.3 |
+| 1957 | 10270 | 461.1 | 2.2 |
+| 1958 | 10310 | 467.2 | 2.2 |
+| 1959 | 11270 | 506.6 | 2.2 |
+| 1960 | 11960 | 526.4 | 2.3 |
+| 1961 | 11860 | 544.7 | 2.2 |
+| 1962 | 12430 | 585.6 | 2.1 |
+| 1963 | 13100 | 617.7 | 2.1 |
+| 1964 | 14150 | 663.6 | 2.1 |
+| 1965 | 15250 | 719.1 | 2.1 |
+| 1966 | 16630 | 787.8 | 2.1 |
+| 1967 | 16870 | 832.6 | 2.0 |
+| 1968 | 18090 | 910.0 | 2.0 |
+| 1969 | 19420 | 984.6 | 2.0 |
+| 1970 | 19550 | 1038.5 | 1.9 |
+| 1971 | 20700 | 1127.1 | 1.8 |
+| 1972 | 23210 | 1238.3 | 1.9 |
+| 1973 | 24980 | 1382.7 | 1.8 |
+| 1974 | 26620 | 1500.0 | 1.8 |
+| 1975 | 27900 | 1638.3 | 1.7 |
+| 1976 | 33300 | 1825.3 | 1.8 |
+| 1977 | 37440 | 2030.9 | 1.8 |
+| 1978 | 43330 | 2294.7 | 1.9 |
+| 1979 | 48780 | 2563.3 | 1.9 |
+| 1980 | 53570 | 2789.5 | 1.9 |
+| 1981 | 60460 | 3128.4 | 1.9 |
+| 1982 | 66670 | 3255.0 | 2.0 |
+| 1983 | 76000 | 3536.7 | 2.1 |
+| 1984 | 88010 | 3933.2 | 2.2 |
+| 1985 | 94900 | 4220.3 | 2.2 |
+| 1986 | 102370 | 4462.8 | 2.3 |
+| 1987 | 110270 | 4739.5 | 2.3 |
+| 1988 | 118750 | 5103.8 | 2.3 |
+| 1989 | 124770 | 5484.4 | 2.3 |
+| 1990 | 129968 | 5803.1 | 2.2 |
+| 1991 | 128352 | 5995.9 | 2.1 |
+| 1992 | 133750 | 6337.7 | 2.1 |
+| 1993 | 140956 | 6657.4 | 2.1 |
+| 1994 | 153024 | 7072.2 | 2.2 |
+| 1995 | 162930 | 7397.7 | 2.2 |
+| 1996 | 175230 | 7816.9 | 2.2 |
+| 1997 | 187529 | 8304.3 | 2.3 |
+| 1998 | 206697 | 8747.0 | 2.4 |
+| 1999 | 222308 | 9268.4 | 2.4 |
+| 2000 | 247472 | 9817.0 | 2.5 |
+| 2001 | 231287 | 10128.0 | 2.3 |
+| 2002 | 236875 | 10470.0 | 2.3 |
+| 2003 | 245477 | 10961.0 | 2.2 |
+| 2004 | 263766 | 11713.0 | 2.3 |
+| 2005 | 271074 | 12456.0 | 2.2 |
+| 2006 | 281653 | 13178.0 | 2.1 |
+| 2007 | 279612 | 13807.0 | 2.0 |
+
+Figure: US newspaper advertising revenue peaked at $49.4 billion in 2005 and fell to $9.6 billion by 2020. The medium Palmer brokered carried the agency business for 160 years; in 2020 newspapers earned more from circulation ($11.1 billion) than from advertising for the first time in the series [17].. Source: Pew Research Center, State of the News Media, Newspapers Fact Sheet, 29 Jun 2021; data from the News Media Alliance (formerly Newspaper Association of America) through 2012 and Pew Research Center analysis of year-end SEC filings of publicly traded newspaper companies, 2013 to 2020. Redrawn by Brave New Media.. Unit: US$ billions.
+
+| Year | Advertising revenue (US$ bn) |
+|---|---|
+| 1956 | 3.22 |
+| 1957 | 3.27 |
+| 1958 | 3.18 |
+| 1959 | 3.53 |
+| 1960 | 3.68 |
+| 1961 | 3.6 |
+| 1962 | 3.66 |
+| 1963 | 3.78 |
+| 1964 | 4.12 |
+| 1965 | 4.43 |
+| 1966 | 4.87 |
+| 1967 | 4.91 |
+| 1968 | 5.23 |
+| 1969 | 5.71 |
+| 1970 | 5.7 |
+| 1971 | 6.17 |
+| 1972 | 6.94 |
+| 1973 | 7.48 |
+| 1974 | 7.84 |
+| 1975 | 8.23 |
+| 1976 | 9.62 |
+| 1977 | 10.75 |
+| 1978 | 12.21 |
+| 1979 | 13.86 |
+| 1980 | 14.79 |
+| 1981 | 16.53 |
+| 1982 | 17.69 |
+| 1983 | 20.58 |
+| 1984 | 23.52 |
+| 1985 | 25.17 |
+| 1986 | 26.99 |
+| 1987 | 29.41 |
+| 1988 | 31.2 |
+| 1989 | 32.37 |
+| 1990 | 32.28 |
+| 1991 | 30.35 |
+| 1992 | 30.64 |
+| 1993 | 31.87 |
+| 1994 | 34.11 |
+| 1995 | 36.09 |
+| 1996 | 38.08 |
+| 1997 | 41.33 |
+| 1998 | 43.92 |
+| 1999 | 46.29 |
+| 2000 | 48.67 |
+| 2001 | 44.3 |
+| 2002 | 44.1 |
+| 2003 | 46.16 |
+| 2004 | 48.24 |
+| 2005 | 49.44 |
+| 2006 | 49.28 |
+| 2007 | 45.38 |
+| 2008 | 37.85 |
+| 2009 | 27.56 |
+| 2010 | 25.84 |
+| 2011 | 27.08 |
+| 2012 | 25.32 |
+| 2013 | 23.59 |
+| 2014 | 22.08 |
+| 2015 | 20.36 |
+| 2016 | 18.27 |
+| 2017 | 16.48 |
+| 2018 | 14.35 |
+| 2019 | 12.86 |
+| 2020 | 9.6 |
+
+Figure: The US has had between 12,600 and 15,500 advertising agency establishments every year since 1998; 2023 is the high at 15,512. The count of agencies did not fall when the commission went; employment in them rose from 147,102 in 1998 to 200,465 in 2023 [18].. Source: U.S. Census Bureau, County Business Patterns, U.S. summary files 1998 to 2023, NAICS 541810 Advertising agencies, establishments with paid employees. Redrawn by Brave New Media.. Unit: establishments.
+
+| Year | Establishments | Paid employees (week of 12 March) |
+|---|---|---|
+| 1998 | 13624 | 147102 |
+| 2000 | 13866 | 167215 |
+| 2003 | 12596 | 155939 |
+| 2008 | 14312 | 165062 |
+| 2010 | 13248 | 149095 |
+| 2013 | 13101 | 185514 |
+| 2015 | 13356 | 188781 |
+| 2018 | 13737 | 187908 |
+| 2020 | 14279 | 181742 |
+| 2023 | 15512 | 200465 |
+
+Figure: Commission survives where money moves fastest: 40 per cent of advertisers pay commission on programmatic buying, 5 per cent on offline planning. Palmer's model, a cut of the money passing through, is at its strongest in the newest channel: the ANA found 28 per cent paying a fixed-rate commission and 12 per cent a sliding scale on programmatic services, against 4 and 1 per cent on offline planning [22].. Source: ANA, Media Agency Compensation Practices, September 2019, n = 86 client-side marketers, survey fielded April 2019, Section I. Redrawn by Brave New Media.. Unit: per cent of respondents.
+
+| Compensation method | Offline media planning | Offline media buying | Digital, search and social planning | Digital, search and social buying | Programmatic services |
+|---|---|---|---|---|---|
+| Commission, fixed rate | 4 | 10 | 8 | 17 | 28 |
+| Commission, sliding scale | 1 | 2 | 6 | 7 | 12 |
+| Labor-based fee | 54 | 48 | 48 | 38 | 25 |
+| Fixed fee (deliverables) | 24 | 25 | 23 | 21 | 18 |
+| Value-based fee | 1 | 0 | 0 | 0 | 1 |
+| Media performance-based fee | 0 | 0 | 0 | 0 | 1 |
+| Combination of fees and commissions | 14 | 13 | 13 | 15 | 11 |
+| Other | 2 | 2 | 2 | 1 | 4 |
+
+Sources:
+
+1. Fox, Stephen, 1984, *The Mirror Makers: A History of American Advertising and Its Creators*, Morrow; University of Illinois Press reprint 1997, pp. 14, 20 to 21, 30, 33, 260. https://books.google.com/books?id=QlVB6ARdT7kC
+2. Tungate, Mark, 2007, *Adland: A Global History of Advertising*, Kogan Page; 2nd edition 2013, pp. 10 to 14. https://books.google.com/books?id=7J3JeXJ7ITgC
+3. Cruikshank, Jeffrey L. and Arthur W. Schultz, 2010, *The Man Who Sold America: The Amazing (but True!) Story of Albert D. Lasker and the Creation of the Advertising Century*, Harvard Business Press, pp. 40 to 57, 83, 287, 346 to 349. https://books.google.com/books?id=rps48Kw51UIC
+4. Horsky, Sharon and Robert Zeithammer, 2022, "The Rise of 15%: Emergence and Persistence of Commissions in Advertising", working paper, 31 October 2022, Hebrew University Business School and UCLA Anderson. https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/8/1090/files/2023/02/the_rise_of-15_emergence_and_persistence_of_commissions_in_advertising.pdf
+5. Zeithammer, Robert and Sharon Horsky, 2026, "A Model of the Evolution of Full-Service Advertising Agencies", working paper, 3 April 2026, UCLA Anderson, pp. 5 to 9. https://www.anderson.ucla.edu/sites/default/files/document/2026-05/Evolution%20of%20full-service%20advertising%20agencies.pdf
+6. Hower, Ralph M., 1939, *The History of an Advertising Agency: N. W. Ayer and Son at Work, 1869 to 1939*, Harvard University Press, pp. 16 to 17, 24, 63, 90, as quoted in sources 4 and 5.
+7. Smithsonian Institution, National Museum of American History Archives Center, *Guide to the N W Ayer Advertising Agency Records*, NMAH.AC.0059, historical note. https://sirismm.si.edu/EADpdfs/NMAH.AC.0059.pdf
+8. Duke University, John W. Hartman Center for Sales, Advertising and Marketing History, *Emergence of Advertising in America*, timeline 1850s to 1870s, and *Early Advertising Publications* (research and text by Ellen Gartrell). https://guides.library.duke.edu/c.php?g=494860&p=3410649 and https://library.duke.edu/rubenstein/scriptorium/eaa/printlit.html
+9. McDonough, John and Karen Egolf (eds), 2003, *The Advertising Age Encyclopedia of Advertising*, Routledge, pp. 125, 574 to 575, 752, 772, 803, 1530. https://books.google.com/books?id=HZLtCQAAQBAJ
+10. Guinness World Records, "First advertising agent" (William Tayler, London, 1786). https://www.guinnessworldrecords.com/world-records/67095-first-advertising-agent
+11. EPE Reynell, company profile (George Reynell, Chancery Lane, 1812). https://ch.linkedin.com/company/epe-reynell
+12. Time, 13 February 1956, "Advertising: Consent Decree". https://time.com/archive/6828448/advertising-consent-decree
+13. Chicagology, "Lord and Thomas", reproducing the Chicago Tribune of 29 December 1942 and an excerpt from source 3. https://chicagology.com/advertising/lordthomas
+14. Encyclopedia.com, "J. Walter Thompson Company", and AMA New York, "J. Walter Thompson and Co. and the 1964 Advertising Age Commemorative Issue" (Carlton's diary entry of 5 December 1864). https://www.encyclopedia.com/history/culture-magazines/j-walter-thompson-company and https://www.amanewyork.org/end-jwt-co
+15. Galbi, Douglas, 2008, "Annual U.S. Advertising Expenditure Since 1919", galbithink.org, revised 14 September 2008, from the Coen Structured Advertising Expenditure Dataset (Robert J. Coen, McCann Erickson), with the dataset note at purplemotes.net, 14 September 2008. https://www.galbithink.org/ad-spending.htm and https://www.purplemotes.net/2008/09/14/us-advertising-expenditure-data
+16. Federal Reserve Bank of Minneapolis, "Consumer Price Index, 1913-" (annual averages, 1982 to 1984 = 100). https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-
+17. Pew Research Center, 2021, *State of the News Media*, Newspapers Fact Sheet, chart "Estimated advertising and circulation revenue of the newspaper industry", 29 June 2021. https://www.pewresearch.org/chart/sotnm-newspapers-newspaper-industry-estimated-advertising-and-circulation-revenue
+18. U.S. Census Bureau, *County Business Patterns*, U.S. summary files for 1998, 2000, 2003, 2008, 2010, 2013, 2015, 2018, 2020 and 2023, NAICS 541810. https://www2.census.gov/programs-surveys/cbp/datasets/
+19. ANA, 2017, "ANA Study Finds Agency Compensation Models Shifting Away From Fees and Incentives" (Trends in Agency Compensation, 17th edition, n = 82 member companies, more than 1,100 agreements, fielded December 2016 to January 2017). https://www.ana.net/content/show/id/pr-2017-compensation-models
+20. ANA, 2022, "Labor-Based Fees Remain Dominant Form of Agency Compensation" (Trends in Agency Compensation, 18th edition, n = 101 client-side marketers, 336 agency relationships, fielded second quarter 2022), 13 December 2022. https://www.ana.net/content/show/id/76981
+21. Aquino, Judith, 2013, "ANA Agency Compensation Survey: Performance Incentives On The Rise", AdExchanger (2013 Trends in Agency Compensation, n = 98). https://www.adexchanger.com/agencies/ana-agency-compensation-survey-performance-incentives-on-the-rise
+22. ANA, 2019, *Media Agency Compensation Practices*, September 2019, n = 86, fielded April 2019, pp. 3 to 8. https://s3.amazonaws.com/media.mediapost.com/uploads/MediaAgencyCompensation.pdf
+23. Publicis Groupe, 2025, *2024 Universal Registration Document*, table of published revenue and net revenue of the top four groups in 2024 (Publicis $17,345 million, WPP $18,839 million, Omnicom $15,689 million, Interpublic $10,692 million at EUR 1 = USD 1.082 and GBP 1 = USD 1.243). https://publicisgroupe-csr-smart-data.com/assets/upload/en/universal_registration_document_2024.pdf
+24. Omnicom, 2025, "Omnicom Reports Fourth Quarter and Full Year 2024 Results", 4 February 2025 (revenue $15,689.1 million). https://investor.omc.com/news/news-details/2025/Omnicom-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx
+25. WPP, 2025, "Preliminary Results 2024", February 2025 (revenue £14,741 million; revenue less pass-through costs £11,395 million). https://www.wpp.com/en/news/2025/02/preliminary-results-2024
+26. Interpublic Group, 2025, "IPG Announces Fourth Quarter and Full Year 2024 Results", 12 February 2025 (total revenue $10,691.7 million). https://www.globenewswire.com/news-release/2025/02/12/3024895/0/en/ipg-announces-fourth-quarter-and-full-year-2024-results.html
 
 ### 1922. The first paid radio commercial
 
 Source: https://bravenewhive.com/history-of-advertising/1922-the-first-radio-commercial/
-Date: 2026-09-03. Read: 2 min.
+Date: 2026-09-03. Read: 10 min.
 
-On 28 August 1922, WEAF in New York aired a ten-minute talk paid for by the Queensboro Corporation to sell apartments in Jackson Heights.
+On 28 August 1922 a property firm paid WEAF $50 to talk about apartments. What radio's first thirty years say about sponsoring a show versus buying the spot.
 
-The spot was closer to a sponsored lecture than to a jingle. It established that broadcast time could be sold, which financed everything radio and television did afterwards.
+## The moment
+
+Monday, 28 August 1922, a quarter past five in the afternoon. In the studio of AT&T's new station WEAF, on West Street in lower Manhattan, the announcer reads a short introduction. The radio audience "is to be addressed by Mr. Blackwell of the Queensboro Corporation", who "will say a few words concerning Nathaniel Hawthorne" [1]. Blackwell takes the slot. He talks about the novelist's ideals, about the "light shaft" that passes for daylight in a city apartment, about children "starved for a run over a patch of grass", and only near the end about the tenant-owned apartments his company has just named Hawthorne Court, in Jackson Heights, twenty minutes from Manhattan by subway. Queensboro has paid fifty dollars for the time. The script survives, which is more than any earlier paid broadcast can say.
+
+## What came before
+
+Radio in 1922 was a craze without a business model. Of the roughly 500 stations on the air that year, a quarter belonged to manufacturers and retailers and 40 per cent to schools, clubs, churches and government [9]. Performers worked for nothing. The question of who would pay hung over every studio.
+
+Herbert Hoover, the commerce secretary who regulated the airwaves, rejected Britain's licence fee on the set and rejected advertising too. At the First National Radio Conference in February 1922 he said it was "inconceivable that we should allow so great a possibility for service, for news, for entertainment, for education, and for vital commercial purposes, to be drowned in advertising chatter" [7]. The conference recommended that direct advertising be prohibited outright.
+
+AT&T had a different idea and the patents to try it. In February 1922 it announced what it called toll broadcasting: a station with no programmes of its own, a telephone booth to the air, where anyone could pay to speak. Printers' Ink, the print trade's paper, said the plan would prove "positively offensive to great numbers of people" [3]. The station opened as WBAY on 25 July, lost its signal among the skyscrapers, became WEAF in mid August, and waited twelve days for a customer.
+
+WEAF was late to its own first. Frank Bremer is reported to have rented his amateur station in Jersey City to the Jersey Journal for a New Year's broadcast on the last night of 1921, for fifty dollars. WGI in Medford Hillside, Massachusetts, sold a programme to the Packard Motor Company of Boston on 4 April 1922, nearly five months before Hawthorne Court, and was stopped almost at once [2]. The record does not settle which came first. What WEAF has that the others lack is a script that survived, a company that kept its files, and a successor: AT&T sold the station in 1926 and it became the flagship of NBC.
+
+## What it changed
+
+The talk sold apartments. Fox records that Queensboro "quickly sold two apartments", and that by March 1923 the station had twenty-five sponsors, among them Macy's, Colgate and Metropolitan Life [4, p. 152]. Small money, and beside the point. For the first time a marketer could buy the attention of a household at a fixed hour, inside the home, with a human voice, and count what came back.
+
+The audience came first.
+
+The advertisers followed, and the money kept growing through the Depression. Hoover set the terms. At the Third Radio Conference in October 1924 he said that "the quickest way to kill broadcasting would be to use it for direct advertising", and the conference passed a resolution deprecating "the use of radio broadcasting for direct sales effort" [7][16]. So the early sponsors bought a name on a show rather than a sales pitch: the Eveready Hour, the A&P Gypsies, the Cliquot Club Eskimos [4, p. 153].
+
+The networks made it national. NBC was formed by RCA on 25 September 1926 around the station it had bought from AT&T, and a rival that became CBS followed the next year [9]. Then Lord & Thomas put Amos 'n' Andy on NBC for Pepsodent and the serial became, in Fox's phrase, "the medium's first runaway success" [4, p. 156]. Wu's reading is that a sponsor had learned to "own" a part of the day, seven o'clock, every evening, across the country [5, p. 93].
+
+Radio took its money from print. Newspapers carried 45 per cent of American advertising in 1935 and 32 per cent in 1945; radio went from 7 per cent to 15 [11].
+
+The third change was a format. Procter & Gamble put a fifteen-minute serial called Ma Perkins on WLW in Cincinnati on 14 August 1933 and on NBC that December, to sell Oxydol [17]. Blackett-Sample-Hummert made the show, and it ran until 1960 [8, p. 358]. By 1937 Frank Hummert was the best-paid man in advertising, with a base salary of $132,000 [4, p. 160]. The soap opera was advertising with a programme wrapped round it, made by the agency and carried by the network.
+
+## The Mad Men thread
+
+In the series the agency writes thirty-second spots and a media man buys the time. The road there runs through radio. Through the 1930s and 1940s most sponsored network programmes were produced by advertising agencies: Kraft Music Hall by J. Walter Thompson, Cavalcade of America by BBDO for Du Pont, Show Boat by Benton & Bowles for Maxwell House, The Jack Benny Show by Young & Rubicam for General Foods [8, p. 355]. Blackett and Hummert had both trained at Lord & Thomas under Hopkins and Lasker, and they carried reason-why selling into the new medium. The agency was the studio. It held the time, hired the stars, wrote the scripts and folded the sponsor into the act, as Benny did every week in his opening greeting.
+
+Television inherited the model and then broke it. Pat Weaver, who had produced Fred Allen's show at Young & Rubicam, joined NBC in 1949 with what he called the magazine plan: the network would own the programme and rent minutes inside it to several advertisers, as a magazine sells pages between articles. His memo that year reads, "There is not enough money to put on full programs for a single product" [8, p. 365].
+
+Costs did the rest. The $64,000 Question, developed by Norman, Craig & Kummel and sold to Revlon, drew a 52.3 rating in the summer of 1955 and was, in Fox's words, "the last stronghold of independent production and single sponsorship" [4, p. 215]. The quiz scandals finished the form.
+
+Television advertising went from $454 million in 1952, when most programmes had a single sponsor, to $1.6 billion in 1960, when most did not, and the agencies moved to making the commercials and buying the time, which Meyers notes paid them better than producing programmes [8, p. 366]. The agency in the series is what came out the other side: a creative department and a media department.
+
+What the series leaves out is the lineage. Ogilvy, asked in 1958 to name his copy mentors, listed Hopkins, Hummert and Reeves [4, p. 238]. The man who ran the soap opera factory taught the man who wrote the Rolls-Royce ad.
+
+## Applied: if you are a B2C brand
+
+Say you sell a direct-to-consumer coffee subscription and a podcast with the right listeners offers you two deals. The 1930s deal is a year's outright sponsorship, your name in the title, the host reading for you in every episode. The 1960s deal is host-read spots bought by the episode, across that show and a dozen others.
+
+The record says the sponsorship buys something the spot cannot. Oxydol stayed with Ma Perkins for twenty-three years and the show was called "Oxydol's Own" for most of them [17]. You get that only if you stay. Sponsors left anyway, for reasons that still apply. The programme cost more than the minutes. The brand was chained to one audience and one star. And once the arithmetic turned, one expensive minute in many shows beat thirty minutes in one.
+
+Podcasting is walking the same road. In 2019 host-read ads were 66 per cent of United States podcast advertising revenue; in 2020 they were 56 per cent, as announcer-read and brand-supplied ads took share [14, p. 14]. Our view is that the first deal suits a brand with one product and a long horizon, and few others.
+
+Sponsor if the show's listeners are your buyers, if you can commit for at least a year, if the host will fold you into the programme rather than interrupt it, and if every episode carries an offer you can count. If any of the four fails, buy spots across many shows, give each show its own code, and treat the first quarter as a test of which shows work.
+
+## Applied: if you are a B2B brand
+
+Say you run a logistics software company and a trade association offers you a sponsored webinar series: six sessions, their list, your logo. Before the price, ask who sets the agenda, who chooses the speakers, who keeps the registrant list, who holds the recording, and who has the slot next year. We put those five questions to clients before we look at a price.
+
+If the association owns all of it, you are in AT&T's phone booth. You pay the toll, you speak, you leave, and the audience's loyalty stays with the station. It is a fair buy for reach, and it is what WEAF sold in 1922. If you set the agenda and book the speakers and the association supplies the room, you are the 1930s sponsor and its agency in one. It costs more and takes longer, and the identification is yours to keep.
+
+Then apply the test the 1924 conference wrote down when it deprecated "direct sales effort" on the air [16]. If a session would be worth an hour of a freight manager's time with your name removed, it will carry your name. If it is a demonstration in disguise, the second session has an empty room. Blackwell spent his minutes on Hawthorne and the light shaft, and named the apartments last.
+
+## What to do with it
+
+1. Before any sponsorship, write down who owns the audience list, the recording, the editorial agenda and next year's slot. If the publisher owns all four, price it as a spot buy. 2. Put your name inside the programme or not at all: a title, a recurring segment, a host who uses the product on air. A logo on a slide is a spot at sponsorship prices. 3. Give every sponsored episode or session its own offer, code or landing page, and report what came back per episode. 4. Compare the two deals on cost per listener-minute, including your own production time; that cost is what moved television from sponsors to spots. 5. Fix the term, the renewal right and the fate of the archive in the contract. Sponsorships end; decide now whether the episodes stay up with your name on them.
+
+Figure: Households with a radio set went from 60,000 in 1922 to 13.8 million in 1930 and 40.7 million in 1950. Eight years after the Hawthorne Court talk, one American household in three had a set; the Depression did not slow the curve.. Source: US Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, Series R 104, 1975. Redrawn by Brave New Media.. Unit: millions of households.
+
+| Year | Households with radio sets (millions) |
+|---|---|
+| 1922 | 0.06 |
+| 1923 | 0.4 |
+| 1924 | 1.25 |
+| 1925 | 2.75 |
+| 1926 | 4.5 |
+| 1927 | 6.75 |
+| 1928 | 8.0 |
+| 1929 | 10.25 |
+| 1930 | 13.75 |
+| 1931 | 16.7 |
+| 1932 | 18.45 |
+| 1933 | 19.25 |
+| 1934 | 20.4 |
+| 1935 | 21.46 |
+| 1936 | 22.87 |
+| 1937 | 24.5 |
+| 1938 | 26.67 |
+| 1939 | 27.5 |
+| 1940 | 28.5 |
+| 1941 | 29.3 |
+| 1942 | 30.6 |
+| 1943 | 30.8 |
+| 1944 | 32.5 |
+| 1945 | 33.1 |
+| 1946 | 34.0 |
+| 1947 | 35.9 |
+| 1948 | 37.62 |
+| 1949 | 39.3 |
+| 1950 | 40.7 |
+
+Figure: Radio advertising grew through the Depression, from $6 million in 1927 to $113 million in 1935 and $605 million in 1950. Total US advertising fell by more than half between 1929 and 1933; radio's take more than doubled in the same years.. Source: Galbi, CS Ad Expenditure Dataset v1.14 (Coen series), 2009, for 1927 to 1934; US Census Bureau, Historical Statistics, Series T 459, 1975, for 1935 to 1950. Redrawn by Brave New Media.. Unit: $ million.
+
+| Year | Radio advertising ($ million) |
+|---|---|
+| 1927 | 6 |
+| 1928 | 15 |
+| 1929 | 35 |
+| 1930 | 43 |
+| 1931 | 52 |
+| 1932 | 63 |
+| 1933 | 76 |
+| 1934 | 93 |
+| 1935 | 113 |
+| 1936 | 122 |
+| 1937 | 165 |
+| 1938 | 167 |
+| 1939 | 184 |
+| 1940 | 216 |
+| 1941 | 247 |
+| 1942 | 260 |
+| 1943 | 314 |
+| 1944 | 394 |
+| 1945 | 424 |
+| 1946 | 454 |
+| 1947 | 506 |
+| 1948 | 562 |
+| 1949 | 571 |
+| 1950 | 605 |
+
+Figure: Newspapers fell from 45 to 32 per cent of US advertising between 1935 and 1945 while radio rose from 7 to 15 per cent. Radio's share peaked in the war years; it was already slipping when television took its first 3 per cent in 1950.. Source: US Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, Series T 444-471, 1975. Redrawn by Brave New Media.. Unit: per cent of total US advertising.
+
+| Year | Newspapers (%) | Magazines (%) | Radio (%) |
+|---|---|---|---|
+| 1935 | 45.1 | 8.0 | 6.7 |
+| 1936 | 44.4 | 8.5 | 6.4 |
+| 1937 | 42.1 | 9.3 | 8.0 |
+| 1938 | 41.1 | 8.9 | 8.8 |
+| 1939 | 40.1 | 9.1 | 9.3 |
+| 1940 | 39.0 | 9.5 | 10.3 |
+| 1941 | 37.7 | 9.6 | 11.0 |
+| 1942 | 37.0 | 9.2 | 12.1 |
+| 1943 | 36.1 | 11.0 | 12.6 |
+| 1944 | 32.6 | 11.9 | 14.5 |
+| 1945 | 32.0 | 12.7 | 14.7 |
+| 1946 | 34.4 | 12.7 | 13.5 |
+| 1947 | 34.6 | 11.6 | 11.9 |
+| 1948 | 36.0 | 10.5 | 11.6 |
+| 1949 | 36.8 | 9.5 | 11.0 |
+| 1950 | 36.4 | 9.0 | 10.6 |
+
+Figure: Network radio, the sponsored-programme money, peaked at $211 million in 1948 and fell to $43 million by 1960 while spot and local rose. The network dollar bought a whole programme; the spot dollar bought a minute. Radio advertising as a whole kept growing while the programme money left for television.. Source: US Census Bureau, Historical Statistics of the United States, Colonial Times to 1970, Series R 107 to R 109, 1975. Redrawn by Brave New Media.. Unit: $ million.
+
+| Year | Network | National spot | Local |
+|---|---|---|---|
+| 1935 | 63 | 15 | 35 |
+| 1936 | 76 | 23 | 24 |
+| 1937 | 89 | 28 | 48 |
+| 1938 | 89 | 34 | 44 |
+| 1939 | 99 | 35 | 50 |
+| 1940 | 113 | 42 | 60 |
+| 1941 | 125 | 52 | 70 |
+| 1942 | 129 | 59 | 73 |
+| 1943 | 157 | 71 | 86 |
+| 1944 | 192 | 87 | 114 |
+| 1945 | 198 | 92 | 134 |
+| 1946 | 200 | 98 | 157 |
+| 1947 | 201 | 106 | 199 |
+| 1948 | 211 | 121 | 230 |
+| 1949 | 203 | 123 | 245 |
+| 1950 | 196 | 136 | 273 |
+| 1951 | 180 | 138 | 289 |
+| 1952 | 162 | 142 | 321 |
+| 1953 | 141 | 146 | 324 |
+| 1954 | 114 | 135 | 309 |
+| 1955 | 84 | 134 | 326 |
+| 1956 | 61 | 161 | 346 |
+| 1957 | 64 | 187 | 368 |
+| 1958 | 58 | 190 | 372 |
+| 1959 | 44 | 206 | 406 |
+| 1960 | 43 | 222 | 428 |
+
+Figure: US podcast advertising revenue grew 27-fold in ten years, from $106 million in 2015 to $2.9 billion in 2025. Radio went from $6 million to $247 million in its first fourteen years of advertising; podcasting's first ten years ran a shallower but recognisable curve.. Source: IAB and PwC, Internet Advertising Revenue Report, Full Year 2025, p. 24, April 2026, survey of US publishers and advertising networks. Redrawn by Brave New Media.. Unit: $ million.
+
+| Year | Podcast advertising revenue ($ million) |
+|---|---|
+| 2015 | 105.7 |
+| 2016 | 169.1 |
+| 2017 | 313.9 |
+| 2018 | 479.1 |
+| 2019 | 708.1 |
+| 2020 | 842.3 |
+| 2021 | 1448.7 |
+| 2022 | 1825.3 |
+| 2023 | 1925.2 |
+| 2024 | 2433.1 |
+| 2025 | 2862.2 |
+
+Sources:
+
+1. Archer, Gleason L., 1938, History of Radio to 1926, American Historical Society, pp. 397 to 399, the WEAF continuity for 28 August 1922, as reproduced by Thomas H. White, United States Early Radio History, https://earlyradiohistory.us/1922haw.htm
+2. White, Thomas H., Financing Radio Broadcasting (1898-1927), section 20 of United States Early Radio History, https://earlyradiohistory.us/sec020.htm
+3. Barnouw, Erik, 1978, The Sponsor: Notes on a Modern Potentate, Oxford University Press, pp. 15 to 16 and 186 to 187, https://library.uniteddiversity.coop/Media_and_Free_Culture/The_Sponsor-Notes_on_a_Modern_Potentate-Erik_Barnouw.pdf
+4. Fox, Stephen, 1984, The Mirror Makers: A History of American Advertising and Its Creators, Morrow (University of Illinois Press reprint, 1997), pp. 150 to 160, 211 to 215, 238, https://books.google.com/books?id=QlVB6ARdT7kC
+5. Wu, Tim, 2016, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Knopf, pp. 85 to 98, https://books.google.com/books?id=mNkxDwAAQBAJ
+6. Tungate, Mark, 2007, Adland: A Global History of Advertising, Kogan Page, pp. 34 to 35, https://books.google.com/books?id=yzNacuCWL8UC
+7. Dempsey, John Mark, 2002, "The American System": Herbert Hoover and the Development of Broadcasting, Broadcast Education Association convention paper, pp. 12 to 15, https://www.beaweb.org/conv/web/bea2002/papers/dempsey.pdf
+8. Meyers, Cynthia B., 2011, The problems with sponsorship in US broadcasting, 1930s to 1950s: perspectives from the advertising industry, Historical Journal of Film, Radio and Television 31(3), pp. 355 to 372, https://doi.org/10.1080/01439685.2011.597994
+9. Scott, Carole E., 2008, The History of the Radio Industry in the United States to 1940, EH.Net Encyclopedia, Economic History Association, https://eh.net/encyclopedia/the-history-of-the-radio-industry-in-the-united-states-to-1940/
+10. US Census Bureau, 1975, Historical Statistics of the United States, Colonial Times to 1970, Part 2, Chapter R, Series R 93-105 and R 106-122, pp. 796 to 797, https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf
+11. US Census Bureau, 1975, Historical Statistics of the United States, Colonial Times to 1970, Part 2, Chapter T, Series T 444-471, pp. 855 to 856, https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chT.pdf
+12. Galbi, Douglas, 2009, CS Ad Expenditure Dataset, version 1.14 (Robert Coen's McCann-Erickson series with Galbi's additions for 1919 to 1934), http://www.galbithink.org/cs-ad-dataset.xls; discussion at https://www.purplemotes.net/2008/09/14/us-advertising-expenditure-data/
+13. IAB and PwC, April 2026, Internet Advertising Revenue Report: Full Year 2025, p. 24, https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2025/ (PDF read at https://iabhongkong.com/sites/default/files/2026-04/IAB_PwC_Internet_Ad_Revenue_Report_Full_Year_2025_April_2026.pdf)
+14. IAB and PwC, May 2021, US Podcast Advertising Revenue Study: Full Year 2020, pp. 7 and 14, https://www.iab.com/wp-content/uploads/2021/05/IAB_2020_Podcast_Advertising_Revenue_Report_2021-05.pptx.pdf
+15. McDonough, John, 29 August 2012, First Radio Commercial Hit Airwaves 90 Years Ago, NPR All Things Considered, https://www.npr.org/2012/08/29/160265990/first-radio-commercial-hit-airwaves-90-years-ago
+16. Chester, Giraud and Garnet R. Garrison, 1950, Radio and Television: An Introduction, Appleton-Century-Crofts, chapter on the growth of broadcast advertising, https://www.worldradiohistory.com/BOOKSHELF-ARH/Education/Radio-&-Television-1st-1950-Chester-Garrison.pdf
+17. Suess, Jeff, 4 October 2017, Our history: P&G put the "soap" in soap opera, Cincinnati Enquirer, https://www.cincinnati.com/story/news/2017/10/04/our-history-p-g-put-soap-soap-opera/732149001/
 
 ### 1941. The first television commercial
 
 Source: https://bravenewhive.com/history-of-advertising/1941-the-first-television-commercial/
-Date: 2026-08-29. Read: 2 min.
+Date: 2026-08-29. Read: 10 min.
 
-On 1 July 1941, a Bulova watch spot ran on WNBT New York before a Dodgers and Phillies game. It showed a clock face and a short line of copy.
+The $9 Bulova spot of 1 July 1941 created the paid TV unit. Why it took thirty years, a scandal and a tobacco ban to become the 30-second spot you buy today.
 
-The commercial lasted about ten seconds. We keep coming back to that. The medium that shaped the second half of the century starts as a time check.
+## The moment
+
+Tuesday, 1 July 1941, 2.29 in the afternoon. NBC's New York station, WNBT, is about to carry a ball game from Ebbets Field, the Brooklyn Dodgers against the Philadelphia Phillies. Before the first pitch, the few thousand sets in the city show a clock face over a map of the United States, and the station announcer, Ray Forrest, reads the line Bulova has paid for: "America runs on Bulova time." The bill is nine dollars, four for air time and five for station charges [5]. It runs about ten seconds. Then the ball game. That morning the Federal Communications Commission's new rules had come into force, and television, after a decade of experiments, was allowed to sell.
+
+## What came before
+
+Radio had already written the business model, and the unit of sale was the programme, whole. Advertisers, through their agencies, owned the shows outright. Sylvester "Pat" Weaver, who would later run NBC, began at Young and Rubicam making programmes for the agency's clients, because that is where programmes were made [9].
+
+What held television back was the lack of an agreed technical standard. The National Television System Committee recommended 525 lines on 8 March 1941, the FCC approved it on 30 April and authorised commercial operation from 1 July, and on 2 May it licensed ten stations, WNBT holding licence number one [7].
+
+Bulova's is called the first legal commercial because earlier experimental broadcasts had carried sponsor mentions nobody could be paid for. How long it ran is less settled than the date. Most accounts say ten seconds, others nine or twenty; Ad Age in 1995 described a "Bulova Time Check" with a ticking second hand, and the clock-over-a-map clip that circulates online is a reconstruction [5]. Then the war. From April 1942 to October 1945 the government halted production of new receivers, and in 1946, 8,000 American households owned a set.
+
+## What it changed
+
+On 2 July 1941 a marketer could buy seconds of attention, by the clock, in front of a moving picture with sound, inside the home. That unit, the paid spot, is what the Bulova bill records. For the next fifteen years almost nobody bought it that way.
+
+Texaco Star Theater opened on NBC on 8 June 1948 with Milton Berle, when fewer than 2 percent of households had a set [8]. Households with television went from 172,000 in 1948 to 3.9 million in 1950, 30.7 million in 1955 and 52.7 million in 1965 [1].
+
+Television advertising was $58 million in 1949, 1.1 percent of all US advertising. By 1954 it was $809 million and had passed radio and magazines; by 1960 it was $1.6 billion and 13.6 percent of the total, second only to newspapers [2].
+
+But the thing being bought was still the programme. Most 1950s shows had a single underwriter, and, as the historian James Baughman puts it, "commercials and product plugs were routinely integrated into programs, including those for children" [12]. Weaver, now at NBC, set out to break that with the magazine concept: the network makes the programme and sells insertions to several advertisers, the way a magazine sells pages [9]. Today, from 14 January 1952, and Tonight, from 1954, were built as vehicles for it [10]. Erik Barnouw: "Now Weaver was determined that control should shift to the networks" [11].
+
+The quiz shows took the programme from the sponsors. The $64,000 Question went on CBS on 7 June 1955 for Revlon; Twenty-One followed on NBC for Geritol. When Charles Van Doren told a House subcommittee on 2 November 1959 that he had been fed the answers, the hearings exposed producers and sponsors rigging outcomes, Congress made fixing a crime in 1960, and the networks took programme control for themselves [14][15]. From then on the sponsor was a buyer of time, and the agency's job on television was the spot.
+
+The last change was the length of the unit. Through the 1960s the standard commercial was sixty seconds. The cigarette ban took tobacco off the air from 1 January 1971, the last spot running at 11.50 that night during Johnny Carson's programme, and tobacco had bought sixty-second units almost without exception [16]. The networks replaced the lost revenue by selling halves. The thirty-second spot became the standard.
+
+Eighty-five years on, the unit survives and the pipe has changed. In May 2025 streaming took 44.8 percent of time spent with the television screen, more than broadcast and cable combined [25]. Connected television advertising was $9.7 billion in 2020 and $23.6 billion in 2024 [26].
+
+## The Mad Men thread
+
+The series runs from 1960 to 1970 inside a Madison Avenue agency, the years when the spot replaced the show.
+
+Rosser Reeves at Ted Bates made the hard-sell spot the template. His Anacin commercial, hammers pounding inside a drawn skull and the promise of fast relief, was a fifty-nine-second film that cost $8,400; Reeves said Anacin came to Bates at $18 million a year in sales, went to $54 million within eighteen months, and spent $86 million putting that one film on the air [13]. His rule for the medium puts the decade in one sentence: "The purpose of a commercial is not to entertain the viewer but to sell him" [12].
+
+Bill Bernbach at Doyle Dane Bernbach took the other road. Mark Tungate reads the industry as "this constant tug of war between two schools: the creatives, who believe art inspires consumers to buy, and the pragmatists, who sell based on facts" [17]. When DDB took Volkswagen to television it kept the print voice: one Beetle, one fact, a dry narrator, the 1964 "Snow Plow" spot asking how the man who drives the snowplough gets to the snowplough [23]. It is still the cleanest demonstration spot we know.
+
+Leo Burnett in Chicago turned Marlboro into the cowboy in the mid-1950s, and on television the cowboy rode to the theme from The Magnificent Seven until the ban took him off the air [22].
+
+David Ogilvy came to the medium late. The television chapter in Confessions of an Advertising Man, in 1963, is short and leans on borrowed research: commercials that set up a problem, "then prove the solution by demonstration, sell four times as many people as commercials which merely preach about the product" [18]. By 1983 he had rules of his own, ranking problem-solution, demonstration, testimonials and the derided talking head among the formats "found to be above average in their ability to change people's brand preference" [19]. Twenty years in, his rules and Reeves's had mostly converged; Ogilvy's just had better manners.
+
+Stephen Fox opens The Mirror Makers with the medium's permanent reputation: "Practically everyone dislikes it. Advertising interrupts radio and television programs" [20]. The interruption was the business.
+
+Two set pieces deserve the record. The series gives the Lucky Strike line "It's toasted" to its lead in 1960. American Tobacco's own history dates the first "IT'S TOASTED" newspaper ad to January 1917 and records that George Washington Hill retained Albert Lasker's Lord and Thomas late in 1925, eight years after the line [21]. The Kodak Carousel pitch is the series' invention: Kodak's timeline records the first Carousel projector in 1961, and its agency for most of the century was J. Walter Thompson [24].
+
+## Applied: if you are a B2C brand
+
+Say you sell a regional snack brand in four states and your media plan is social video and connected television. The record gives you one distinction, between attention you own and attention you rent. Most media plans we see at Brave New split the budget by channel and never by that line.
+
+Texaco owned Tuesday night; when the audience arrived, it arrived for Texaco. That is what a creator series with your name on it, or your own channel, is today. You fund the programme, you carry a bad season, and the audience is yours for as long as you keep making it. The quiz scandals are the warning that comes with ownership. The moment the sponsor's thumb shows on the content, the audience leaves and the regulator arrives.
+
+Connected television is the Bulova unit. You rent fifteen or thirty seconds in someone else's programme, and the record on how to spend them has not changed since Reeves and Ogilvy argued about it: one claim, one demonstration, the name early and often. The sixty-second spot died when the tobacco money left and the networks sold halves to fill the hole. So when a platform offers you six seconds, ask what the six replaces.
+
+## Applied: if you are a B2B brand
+
+Say you sell cybersecurity to mid-size banks and someone proposes a branded video series: a chief information security officer interviewing peers, your logo on the title card. Start where Weaver started, with control of the programme.
+
+If you sponsor someone else's series, you are the 1950s advertiser without the 1950s power. You get the adjacency and they keep the editorial. If you make the series, you are NBC in 1952: you fund it, you set the format, and the audience, a few hundred security and risk officers at the banks you want, is yours for as long as the programme is worth their time.
+
+The quiz-show lesson applies with more force here. Your buyers are paid to detect manipulation. A series in which every guest endorses your category, or every episode ends on your demo, is Twenty-One with the answers handed out in advance. Keep a wall between the people who sell and the people who book guests and cut episodes, and let a guest say something your sales team would rather they had not. It is the only reason the audience comes back.
+
+Measure it by who returns for the second episode. Berle's audience in 1948 was tiny, and it bought the sets.
+
+## What to do with it
+
+1. Add an ownership column to the media plan. For every line, mark whether you own the programme or rent the time, what it costs to keep owning it next quarter, and what you lose if you stop. 2. Build the spot on one claim. State it in the first three seconds and demonstrate it once. Test the fifteen against the thirty on the same claim, and do not let the platform's default length decide. 3. If you fund a programme, write the Weaver rules before episode one: who sets the format, who books the guests, what the sponsor may never touch. Put them in the production contract. 4. Run a quiz-show audit on any series you already have. Count the episodes where the outcome favoured you. If it is all of them, your audience has noticed. 5. Price attention in Bulova units. Divide each channel's spend by the seconds of attention it bought, and compare owned programme with rented spot on the same line. Keep the one whose cost per second falls as the audience grows.
+
+Figure: Television went from 8,000 American homes to 52.7 million in twenty years, and passed radio's reach in all but name. Radio took forty years to reach 50 million homes; television did it in nineteen, from the first commercial licences to 1963.. Source: US Census Bureau, Historical Statistics of the United States, Colonial Times to 1970 (1975), Series R 104-105, figures as of 30 June. Redrawn by Brave New Media.. Unit: thousands of households..
+
+| Year | Households with TV sets | Households with radio sets |
+|---|---|---|
+| 1946 | 8 | 33,998 |
+| 1947 | 14 | 35,900 |
+| 1948 | 172 | 37,623 |
+| 1949 | 940 | 39,300 |
+| 1950 | 3,875 | 40,700 |
+| 1951 | 10,320 | 41,900 |
+| 1952 | 15,300 | 42,800 |
+| 1953 | 20,400 | 44,800 |
+| 1954 | 26,000 | 45,100 |
+| 1955 | 30,700 | 45,900 |
+| 1956 | 34,900 | 46,800 |
+| 1957 | 38,900 | 47,500 |
+| 1958 | 41,924 | 48,500 |
+| 1959 | 43,950 | 49,450 |
+| 1960 | 45,750 | 50,193 |
+| 1961 | 47,200 | 50,695 |
+| 1962 | 48,855 | 51,305 |
+| 1963 | 50,300 | 52,300 |
+| 1964 | 51,600 | 54,000 |
+| 1965 | 52,700 | 55,200 |
+
+Figure: Television passed radio and magazines in 1954 and took 18 cents of every US advertising dollar by 1970. In 1949 television carried one dollar in a hundred of US advertising; by 1960 it was one in seven, and newspapers were the only larger medium.. Source: Robert J. Coen, McCann Erickson, Coen Structured Advertising Expenditure Dataset as compiled by Douglas Galbi, 2008. Redrawn by Brave New Media.. Unit: millions of US dollars (current)..
+
+| Year | Television | Radio | Newspapers | Magazines | Total all media | TV share of total (%) |
+|---|---|---|---|---|---|---|
+| 1949 | 58 | 571 | 1,911 | 458 | 5,210 | 1.1 |
+| 1950 | 171 | 605 | 2,070 | 478 | 5,700 | 3.0 |
+| 1951 | 332 | 606 | 2,251 | 535 | 6,420 | 5.2 |
+| 1952 | 454 | 624 | 2,464 | 575 | 7,140 | 6.4 |
+| 1953 | 606 | 611 | 2,632 | 627 | 7,740 | 7.8 |
+| 1954 | 809 | 559 | 2,685 | 629 | 8,150 | 9.9 |
+| 1955 | 1,035 | 545 | 3,077 | 691 | 9,150 | 11.3 |
+| 1956 | 1,225 | 567 | 3,223 | 758 | 9,910 | 12.4 |
+| 1957 | 1,286 | 618 | 3,268 | 777 | 10,270 | 12.5 |
+| 1958 | 1,387 | 620 | 3,176 | 734 | 10,310 | 13.5 |
+| 1959 | 1,529 | 656 | 3,526 | 832 | 11,270 | 13.6 |
+| 1960 | 1,627 | 693 | 3,681 | 909 | 11,960 | 13.6 |
+| 1961 | 1,691 | 683 | 3,601 | 895 | 11,860 | 14.3 |
+| 1962 | 1,897 | 736 | 3,659 | 942 | 12,430 | 15.3 |
+| 1963 | 2,032 | 789 | 3,780 | 1,002 | 13,100 | 15.5 |
+| 1964 | 2,289 | 846 | 4,120 | 1,074 | 14,150 | 16.2 |
+| 1965 | 2,515 | 917 | 4,426 | 1,161 | 15,250 | 16.5 |
+| 1966 | 2,823 | 1,010 | 4,865 | 1,254 | 16,630 | 17.0 |
+| 1967 | 2,909 | 1,048 | 4,910 | 1,245 | 16,870 | 17.2 |
+| 1968 | 3,231 | 1,190 | 5,232 | 1,283 | 18,090 | 17.9 |
+| 1969 | 3,585 | 1,264 | 5,714 | 1,344 | 19,420 | 18.5 |
+| 1970 | 3,596 | 1,308 | 5,704 | 1,292 | 19,550 | 18.4 |
+
+Figure: A Super Bowl half-minute cost $37,500 in 1967 and $7.3 million in 2025. The thirty-second unit the networks adopted after 1971 became the most expensive half-minute in media; Super Bowl I ran on two networks, and the NBC price is used for 1967.. Source: Superbowl-ads.com, "Average Cost of Super Bowl Ads Breakdown by Year", publicly reported network rate cards and press reports, 1967 to 2025. Redrawn by Brave New Media.. Unit: US dollars (current)..
+
+| Game year | Super Bowl | Network | Average cost per 30 seconds ($) |
+|---|---|---|---|
+| 1967 | I | NBC | 37,500 |
+| 1968 | II | CBS | 54,500 |
+| 1969 | III | NBC | 55,000 |
+| 1970 | IV | CBS | 78,200 |
+| 1971 | V | NBC | 72,500 |
+| 1972 | VI | CBS | 86,100 |
+| 1973 | VII | NBC | 88,100 |
+| 1974 | VIII | CBS | 103,500 |
+| 1975 | IX | NBC | 107,000 |
+| 1976 | X | CBS | 110,000 |
+| 1977 | XI | NBC | 125,000 |
+| 1978 | XII | CBS | 162,300 |
+| 1979 | XIII | NBC | 185,000 |
+| 1980 | XIV | CBS | 222,000 |
+| 1981 | XV | NBC | 275,000 |
+| 1982 | XVI | CBS | 324,300 |
+| 1983 | XVII | NBC | 400,000 |
+| 1984 | XVIII | CBS | 368,200 |
+| 1985 | XIX | ABC | 525,000 |
+| 1986 | XX | NBC | 550,000 |
+| 1987 | XXI | CBS | 600,000 |
+| 1988 | XXII | ABC | 645,000 |
+| 1989 | XXIII | NBC | 675,000 |
+| 1990 | XXIV | CBS | 700,400 |
+| 1991 | XXV | ABC | 800,000 |
+| 1992 | XXVI | CBS | 850,000 |
+| 1993 | XXVII | NBC | 850,000 |
+| 1994 | XXVIII | NBC | 900,000 |
+| 1995 | XXIX | ABC | 1,150,000 |
+| 1996 | XXX | NBC | 1,085,000 |
+| 1997 | XXXI | FOX | 1,200,000 |
+| 1998 | XXXII | NBC | 1,291,100 |
+| 1999 | XXXIII | FOX | 1,600,000 |
+| 2000 | XXXIV | ABC | 2,100,000 |
+| 2001 | XXXV | CBS | 2,200,000 |
+| 2002 | XXXVI | FOX | 2,200,000 |
+| 2003 | XXXVII | ABC | 2,200,000 |
+| 2004 | XXXVIII | CBS | 2,302,200 |
+| 2005 | XXXIX | FOX | 2,400,000 |
+| 2006 | XL | ABC | 2,500,000 |
+| 2007 | XLI | CBS | 2,385,365 |
+| 2008 | XLII | FOX | 2,699,963 |
+| 2009 | XLIII | NBC | 2,999,960 |
+| 2010 | XLIV | CBS | 2,954,010 |
+| 2011 | XLV | FOX | 3,100,000 |
+| 2012 | XLVI | NBC | 3,500,000 |
+| 2013 | XLVII | CBS | 3,800,000 |
+| 2014 | XLVIII | FOX | 4,000,000 |
+| 2015 | XLIX | NBC | 4,250,000 |
+| 2016 | L | CBS | 4,800,000 |
+| 2017 | LI | FOX | 5,400,000 |
+| 2018 | LII | NBC | 5,235,000 |
+| 2019 | LIII | CBS | 5,200,000 |
+| 2020 | LIV | FOX | 5,600,000 |
+| 2021 | LV | CBS | 5,600,000 |
+| 2022 | LVI | NBC | 6,500,000 |
+| 2023 | LVII | FOX | 6,800,000 |
+| 2024 | LVIII | CBS | 7,000,000 |
+| 2025 | LIX | FOX | 7,300,000 |
+
+Figure: In May 2025 streaming took more of the television screen than broadcast and cable combined. The Gauge began in May 2021 with cable at 39 percent and streaming at 26; four Mays later the order had reversed, and streaming alone exceeded the two linear categories together.. Source: Nielsen, The Gauge, monthly reports for May 2021, May 2022, May 2023, May 2024 and May 2025. Redrawn by Brave New Media.. Unit: percent of total TV usage..
+
+| Month | Streaming | Cable | Broadcast |
+|---|---|---|---|
+| May 2021 | 26.0 | 39.0 | 25.0 |
+| May 2022 | 31.9 | 36.5 | 24.4 |
+| May 2023 | 36.4 | 31.1 | 22.8 |
+| May 2024 | 38.8 | 28.2 | 22.3 |
+| May 2025 | 44.8 | 24.1 | 20.1 |
+
+Figure: Connected television advertising grew from $9.7 billion to $23.6 billion in four years, and social video caught it in 2024. The spot moved to the connected set faster than it moved to any earlier pipe, but the fastest-growing video dollars in 2024 were social, where the programme is the creator's.. Source: IAB, 2025 Digital Video Ad Spend & Strategy Report, Guideline estimates, April and July 2025, p. 8. Redrawn by Brave New Media.. Unit: billions of US dollars..
+
+| Year | Connected TV | Social video | Online video |
+|---|---|---|---|
+| 2020 | 9.7 | 9.5 | 7.0 |
+| 2021 | 15.2 | 13.8 | 10.0 |
+| 2022 | 18.6 | 16.3 | 12.2 |
+| 2023 | 20.3 | 19.5 | 14.2 |
+| 2024 | 23.6 | 23.7 | 16.6 |
+| 2025 (est.) | 26.6 | 27.2 | 18.6 |
+
+Sources:
+
+1. US Census Bureau, 1975, Historical Statistics of the United States, Colonial Times to 1970, Chapter R, Series R 93-105, "Radio and Television Stations, Sets Produced, and Households With Sets: 1921 to 1970", p. 796, including footnote 4 on the wartime halt in receiver production. https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chR.pdf
+2. Robert J. Coen (McCann Erickson), compiled by Douglas Galbi, 2008, Coen Structured Advertising Expenditure Dataset (CS Ad Dataset), sheet "CS ad dataset", categories Television, Radio, Newspapers, Magazines, Grand Total, 1949 to 1970. http://www.galbithink.org/cs-ad-dataset.xls and https://www.purplemotes.net/2008/09/14/us-advertising-expenditure-data
+3. United Press, 2 May 1941, "Television use permitted July 1", UPI Archives. https://www.upi.com/Archives/1941/05/02/Television-use-permitted-July-1/4081525224404
+4. Television Academy, 2021, "July 1, 1941: The Day Commercial Television Was Born". https://www.televisionacademy.com/features/news/online-originals/july-1-1941-day-commercial-television-was-born
+5. Lily Hay Newman, 2016, "America's First TV Ad Cost $9 for 9 Seconds", Slate, citing Ad Age, 1995. https://slate.com/business/2016/07/the-first-legal-tv-commercial-aired-on-july-1-1941-for-bulova-watch-co-watch-it.html
+6. Open Culture, 2013, "Watch the First Commercial Ever Shown on American TV, 1941", with reader notes identifying the circulating clip as a reconstruction. https://www.openculture.com/2013/08/watch-the-first-commercial-ever-shown-on-american-tv-1941.html
+7. Bobby Ellerbee, Eyes of a Generation, "May 2, 1941: Commercial Television Becomes a Reality, Almost". https://eyesofageneration.com/may-2-1941-commercial-television-becomes-a-reality-almoston-this-day-in-1
+8. Encyclopaedia Britannica, "The Texaco Star Theatre" and "Milton Berle". https://www.britannica.com/topic/The-Texaco-Star-Theatre
+9. Museum of Broadcast Communications, Encyclopedia of Television, "Weaver, Sylvester (Pat)". https://www.museum.tv/tv-encyclopedia-18/weaver-sylvester-pat
+10. Television Academy, "Sylvester L. 'Pat' Weaver: Hall of Fame Tribute"; Encyclopedia.com, "Pat Weaver" (Today premiere, 14 January 1952). https://www.televisionacademy.com/features/news/hall-fame/sylvester-l-pat-weaver-hall-fame-tribute and https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/pat-weaver
+11. Erik Barnouw, 1970, The Image Empire: A History of Broadcasting in the United States from 1953, Oxford University Press, pp. 59-60, as quoted in a Brandeis University thesis on tobacco sponsorship of 1950s television. https://scholarworks.brandeis.edu/view/pdfCoverPage?instCode=01BRAND_INST&filePid=13419023250001921&download=true
+12. James L. Baughman, 2010, "The First Pitch: American TV Commercials in the 1950s", Business History Conference. https://thebhc.org/first-pitch-american-tv-commercials-1950s
+13. "The Man from Iron City", The New Yorker, 27 September 1969, profile of Rosser Reeves. https://www.newyorker.com/magazine/1969/09/27/the-man-from-iron-city
+14. PBS American Experience, "Charles Van Doren"; American Heritage, May/June 1989, "The Quiz-Show Scandal"; Los Angeles Times, 10 April 2019, Charles Van Doren obituary. https://www.pbs.org/wgbh/americanexperience/features/quizshow-charles-van-doren and https://www.americanheritage.com/quiz-show-scandal
+15. EBSCO Research Starters, "Charles Van Doren Admits to Being Fed Answers on Television Quiz Show" (1960 amendment to the Communications Act). https://www.ebsco.com/research-starters/communication-and-mass-media/charles-van-doren-admits-being-fed-answers
+16. EBSCO Research Starters, "Cigarette Ads Are Banned from Broadcast Media"; The Spokesman-Review, "The Very Last TV Cigarette Commercial"; CBC Radio, Under the Influence, "The unexpected way Nixon's ban on cigarette ads changed TV forever". https://www.spokesman.com/further-review/cigarette-commerical and https://www.cbc.ca/radio/undertheinfluence/the-unexpected-way-nixon-s-ban-on-cigarette-ads-changed-tv-forever-1.4981694
+17. Mark Tungate, 2007, Adland: A Global History of Advertising, Kogan Page; and Tungate interviewed on A History of Marketing, 2025, where the passages quoted here are read on the page. https://marketinghistory.org/p/mark-tungate-advertising-history
+18. David Ogilvy, 1963, Confessions of an Advertising Man, Atheneum, chapter "How to Make Good Television Commercials"; passage read at https://www.goodreads.com/work/quotes/44217-confessions-of-an-advertising-man
+19. David Ogilvy, 1983, Ogilvy on Advertising, Crown, chapter "How to make TV commercials that sell"; and Ogilvy & Mather, "How to Create Advertising That Sells", house advertisement. Passages read at https://withse7en.com/marketing/ogilvy-on-advertising-by-david-ogilvy and https://gundir.com/resource/how-to-create-advertising-that-sells-by-david-ogilvy
+20. Stephen Fox, 1984, The Mirror Makers: A History of American Advertising and Its Creators, William Morrow; University of Illinois Press reprint 1997. Opening passage read at https://www.amazon.com/Mirror-Makers-American-Advertising-Creators/dp/0252066596
+21. The American Tobacco Company, 1954, "Sold American!" The First Fifty Years, pp. 53-54 and 74. http://www.cpcca.com.ar/tool_box/books/Sold%20American!-The%20first%20fifty%20years%20(1954).pdf
+22. Center for the Study of Tobacco and Society, University of Alabama, "Big Tobacco in the Big Apple: The Marlboro Story". https://csts.ua.edu/btba/history/marlboro
+23. Brandvelle, "Snow Plow takes the DDB voice to television" (Volkswagen, 1964). https://brandvelle.com/articles/volkswagen-snow-plow-ddb-1964
+24. Kodak, "Milestones" (Carousel projector, 1961); Duke University Rubenstein Library, "J. Walter Thompson Company Timeline" (Kodak among JWT's long-standing clients). https://www.kodak.com/en/company/page/milestones and https://library.duke.edu/rubenstein/collections/creators/corporations/jwt
+25. Nielsen, The Gauge, monthly reports: May 2021 (Nielsen Insights, June 2021; cable share as reported by MediaPost, 17 December 2021, and The Hollywood Reporter, June 2025), May 2022 (PR Newswire, 16 June 2022), May 2023 (PR Newswire, 20 June 2023), May 2024 (Nielsen, June 2024), May 2025 (Nielsen, 17 June 2025). https://www.nielsen.com/news-center/2025/streaming-reaches-historic-tv-milestone-eclipses-combined-broadcast-and-cable-viewing-for-first-time
+26. IAB, April and July 2025, 2025 Digital Video Ad Spend & Strategy Report (Guideline estimates), p. 8, "U.S. Annual Digital Video Ad Spend by Type"; IAB news release, 28 April 2025. https://www.iab.com/wp-content/uploads/2025/07/2025_IAB_Digital_Video_Ad_Spend_Full_Report_July_2025.pdf and https://www.iab.com/news/ctv-rebounds-to-double-digit-growth-in-2024
+27. Superbowl-ads.com, "Average Cost of Super Bowl Ads Breakdown by Year", table 1967 to 2025. https://www.superbowl-ads.com/cost-of-super-bowl-advertising-breakdown-by-year
+28. Tim Wu, 2016, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Knopf; excerpt read at Columbia Magazine, Winter 2016-17. https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads
+29. IAB/PwC, April 2026, Internet Advertising Revenue Report: Full Year 2025 (digital video $78 billion, up 25.4 percent). https://www.iab.com/research/iab-pwc-internet-advertising-revenue-report-full-year-2025
 
 ### 1960. The 4 Ps of marketing are published
 
 Source: https://bravenewhive.com/history-of-advertising/1960-the-four-ps/
-Date: 2026-08-24. Read: 2 min.
+Date: 2026-08-24. Read: 10 min.
 
-E. Jerome McCarthy's Basic Marketing gave marketing its first widely taught framework.
+1960: McCarthy's four Ps and Levitt's Marketing Myopia turned marketing into a taught discipline, and left the agency holding one box out of four.
 
-See the Principles entry on the 4 Ps for the frame itself. Its place in the timeline matters because it turned marketing from a trade into a subject.
+## The moment
+
+Homewood, Illinois, 1960. The textbook publisher Richard D. Irwin brings out a 770-page volume by E. Jerome McCarthy called Basic Marketing: A Managerial Approach [1]. Inside, everything a marketing manager has to decide is sorted into four boxes that share a first letter: product, place, promotion, price.
+
+The same summer, in Boston, the July to August issue of Harvard Business Review carries "Marketing Myopia" by Theodore Levitt, a lecturer in his second year at the Harvard Business School [2]. It opens by telling the railroads they were never in the railroad business. One book gives marketing a framework. One article gives it a question. Between them, the subject becomes something you can teach, examine, and be hired to run.
+
+## What came before
+
+The idea McCarthy compressed was already in the room. In 1948 James Culliton, in a Harvard research bulletin on manufacturers' marketing costs, had described the marketing executive as a "mixer of ingredients". His colleague Neil Borden built the term "marketing mix" on it, taught it for some fifteen years, and only wrote it up in 1964, by which time his list of ingredients ran to twelve, from product planning to "fact finding and analysis" [3]. Twelve ingredients will carry a case discussion. Four fit on an exam paper.
+
+On the client side the job came even earlier. On 13 May 1931 a junior Procter and Gamble manager named Neil McElroy sent his boss a three-page memo asking for two more hires. It set out the duties of a "brand man": study shipments of his brands by units, study a weak territory "personally at first hand, both dealers and consumers", "take full responsibility for all other advertising expenditures" on his brands, and "experiment with and recommend wrapper revisions" [4]. That is product, place and promotion on one desk in Cincinnati, twenty-nine years before anyone alliterated them.
+
+The market itself had changed shape. Richard Tedlow's history of American mass marketing runs in three phases: fragmentation, when nothing could travel far; unification, when the railroad and the telegraph let brands like Coca-Cola reach the whole country from the 1880s; and segmentation, which he dates to General Motors answering Ford's single Model T with "the car for every purse and purpose" in the 1920s [5]. A segmented market means more decisions, and more decisions is what a framework is for.
+
+If you learned the four Ps from a Kotler textbook, Kotler is plain about where they came from: "I adopted these and helped popularize the 4Ps of Marketing" [6].
+
+## What it changed
+
+The money was already there. Total US advertising spending went from $5,700 million in 1950 to $11,960 million in 1960, a doubling in a decade [7]. As a share of the economy it reached 2.3 per cent of GDP in 1956 and again in 1960, then, in Galbi's series, drifted down to 1.9 per cent by 1970 [7]. The framework arrived at a high-water mark for advertising's weight in the economy, and put advertising in one box out of four.
+
+What a marketer could do the day after was carry a structure around. A student could memorise four words, a professor could examine them, and a manager could write a plan with four headings. Master's degrees in business awarded in the United States went from 3,280 in 1955-56 to 6,874 in 1960-61 and 25,977 in 1970-71, an eightfold rise in fifteen years [8]. How many of those graduates sat a marketing paper, the table does not say. The ones who did arrived at an employer with the same four words.
+
+Kotler started writing his own textbook in 1963; Prentice-Hall published Marketing Management: Analysis, Planning and Control in 1967, and professors told him they adopted it because "it raised respect for the marketing discipline" [6]. Fourteen editions later, Kotler and Keller still open with McCarthy, who "classified various marketing activities into marketing-mix tools of four broad kinds, which he called the four Ps of marketing", before proposing their own update of people, processes, programs and performance [9]. The framework has outlived its popularisers' attempts to replace it.
+
+Levitt supplied the other half. The railroads, he wrote, "did not stop growing because the need for passenger and freight transportation declined. That grew." They were in trouble because they "assumed themselves to be in the railroad business rather than in the transportation business", which is to say "they were product oriented instead of customer oriented" [2]. The article won the McKinsey Award in 1960 [2] and has sold more than 850,000 reprints, which the Harvard Business School calls one of the best-selling HBR articles of all time [10]. HBR's editors later said it "introduced the most influential marketing idea of the past half-century: that businesses will do better in the end if they concentrate on meeting customers' needs rather than on selling products" [2].
+
+Gartner's annual survey of chief marketing officers puts marketing budgets at 6.4 per cent of company revenue in 2021, 9.5 per cent in 2022, 9.1 per cent in 2023, 7.7 per cent in 2024 and 2025, and 7.8 per cent in 2026 [11, 12, 13, 14]. That is the modern mix, measured. In 2025, 39 per cent of CMOs planned to cut agency budgets [13].
+
+At the company where the brand man was invented, advertising still runs at about a tenth of sales. Procter and Gamble's 10-K filings put advertising costs at $7.3 billion on net sales of $70,950 million in fiscal 2020 and $10.2 billion on $87,032 million in fiscal 2026, between 9.8 and 11.7 per cent in every year between [15, 16, 17].
+
+## The Mad Men thread
+
+The television series opens in 1960. The agencies its characters are modelled on were real. Rosser Reeves of Ted Bates, who built the "[unique selling proposition](/principles/unique-selling-proposition/)", had made the first spot commercials for a presidential candidate in 1952. In 1960 Marion Harper Jr. created Interpublic, the first agency holding company [18].
+
+The series passes a Volkswagen advertisement around a conference table. The record is that the work was Doyle Dane Bernbach's, the agency Bernbach and Ned Doyle founded with Maxwell Dane in 1949, and that by October 1961 the New York Times described it as "widely recognized as one of this country's top creative agencies" [19, 20, 21].
+
+David Ogilvy's shop, opened in 1948 as Hewitt, Ogilvy, Benson and Mather, went public in 1966 as Ogilvy and Mather, among the first agencies to do so [22]. Harper's holding company and Ogilvy's listing are the managerial revolution reaching the agencies.
+
+So the Creative Revolution and the managerial revolution arrived in the same year. We read them as two different things. Daniel Pope reads the Creative Revolution as "a revolution in audience segmentation", in which advertisements "threw a knowing wink to the targeted customer group" expected to buy a Volkswagen [21]. That is Tedlow's third phase arriving on Madison Avenue. The agencies were getting better at the fourth P at the moment the client was handed a framework for all four.
+
+The division of labour that followed has never been reversed. McCarthy's book gave the client a desk for each P. McElroy's brand man already sat at three of them. The agency's craft mapped onto one. The CMO Survey found in 2026 that marketing is primarily responsible for advertising in 86.9 per cent of US companies, for new products in 32.9 per cent, for pricing in 28.2 per cent and for distribution in 7.5 per cent [23]. Even inside the client, the fourth P is the one marketing reliably owns, and the one it buys from outside. The agency kept promotion in 1960. It has been defending that single box ever since.
+
+## Applied: if you are a B2C brand
+
+Say you are launching a beverage brand and the document you call the marketing plan is a media plan: channels, flights, a creative brief, a launch date. We see this plan a lot. It is one P written down and three assumed.
+
+Start where McElroy's brand man started, with shipments by units. Which stores, which shelf, which temperature, which pack size. That is place, and "we are talking to a distributor" means you do not yet have one. Then product, meaning the format and the drinking occasion, which decide who you sit next to on the shelf and so what your price has to be. Then price, which is three prices: the shelf price, the retailer's margin, and the promotional price you will be asked for in month three. Only then promotion, and now the media plan has something to promote, a product in a place at a price.
+
+If you are in the sparkling water business you compete on the shelf you chose. If you are in the afternoon-without-coffee business, the shelf, the price and the pack all move. Decide which before the creative brief is written, or the brief decides for you.
+
+## Applied: if you are a B2B brand
+
+Say you sell laboratory equipment and your marketing team reports to sales. The reporting line tells you which P the company thinks marketing is. Promotion, in service of a pipeline. It also means nobody owns Levitt's question.
+
+Ask it in writing. Decide whether you are in the instruments business or the validated-results business. In the first, the four Ps are the box, the list price, the distributor network and the catalogue. In the second, the product includes consumables, calibration, the service contract and training; price can be per result or per month rather than per machine; place includes the laboratory's procurement portal and the tender; and promotion starts with the people who sign off a method, who are not the people who sign a purchase order. A marketing team that only ever briefs sales collateral is, in Levitt's phrase, product oriented instead of customer oriented, and it is so by design.
+
+Write the one-sentence answer to "what business are we in", then write what each P means under that sentence. If marketing owns only one of the four, the plan should say which and why.
+
+## What to do with it
+
+1. Write down who sets each of the four Ps in your company, by name. If marketing sets fewer than three, call your plan a communications plan and budget it as one. 2. Before any media budget is approved, answer Levitt's question in one written sentence and have the person who owns product sign it. 3. Audit your last three marketing plans for the page count given to each P. Fewer than a page on place or on price is the finding. 4. Take the seven brand-man duties in McElroy's memo and assign each to a current job title. Any duty without an owner is a hole in your mix, and no agency brief will fill it. 5. Report marketing spend as a share of revenue every year, next to the Gartner average and your largest listed competitor's advertising-to-sales ratio, so the budget conversation starts from a number.
+
+Figure: US advertising spending doubled in the 1950s, from $5.7 billion in 1950 to $12.0 billion in 1960. The decade before McCarthy's book was the decade advertising doubled; 1961 is the only year in the series in which spending fell.. Source: Coen Structured Advertising Expenditure Dataset, as published by Douglas Galbi, U.S. Annual Advertising Spending Since 1919, 2008. Redrawn by Brave New Media.. Unit: $ million, current dollars.
+
+| Year | $ million |
+|---|---|
+| 1950 | 5,700 |
+| 1951 | 6,420 |
+| 1952 | 7,140 |
+| 1953 | 7,740 |
+| 1954 | 8,150 |
+| 1955 | 9,150 |
+| 1956 | 9,910 |
+| 1957 | 10,270 |
+| 1958 | 10,310 |
+| 1959 | 11,270 |
+| 1960 | 11,960 |
+| 1961 | 11,860 |
+| 1962 | 12,430 |
+| 1963 | 13,100 |
+| 1964 | 14,150 |
+| 1965 | 15,250 |
+| 1966 | 16,630 |
+| 1967 | 16,870 |
+| 1968 | 18,090 |
+| 1969 | 19,420 |
+| 1970 | 19,550 |
+
+Figure: Advertising reached 2.3 per cent of US GDP in 1956 and 1960 and drifted to 1.9 per cent by 1970. Advertising's weight in the economy peaked in the year the four Ps were published; the framework arrived at the top of the curve, not the bottom.. Source: Coen Structured Advertising Expenditure Dataset and nominal GDP (Johnston and Williamson; US Bureau of Economic Analysis), as published by Douglas Galbi, 2008. Redrawn by Brave New Media.. Unit: % of GDP.
+
+| Year | % of GDP |
+|---|---|
+| 1950 | 1.9 |
+| 1951 | 1.9 |
+| 1952 | 2.0 |
+| 1953 | 2.0 |
+| 1954 | 2.1 |
+| 1955 | 2.2 |
+| 1956 | 2.3 |
+| 1957 | 2.2 |
+| 1958 | 2.2 |
+| 1959 | 2.2 |
+| 1960 | 2.3 |
+| 1961 | 2.2 |
+| 1962 | 2.1 |
+| 1963 | 2.1 |
+| 1964 | 2.1 |
+| 1965 | 2.1 |
+| 1966 | 2.1 |
+| 1967 | 2.0 |
+| 1968 | 2.0 |
+| 1969 | 2.0 |
+| 1970 | 1.9 |
+
+Figure: Master's degrees in business awarded in the United States rose eightfold between 1955-56 and 1970-71. The syllabus needed students; the decade after Basic Marketing is the decade the business master's degree became a mass qualification.. Source: US Department of Education, National Center for Education Statistics, Digest of Education Statistics 2022, Table 325.25. Redrawn by Brave New Media.. Unit: degrees conferred.
+
+| Academic year | Degrees |
+|---|---|
+| 1955-56 | 3,280 |
+| 1957-58 | 4,223 |
+| 1959-60 | 4,814 |
+| 1960-61 | 6,874 |
+| 1961-62 | 7,838 |
+| 1962-63 | 8,479 |
+| 1963-64 | 9,469 |
+| 1964-65 | 10,765 |
+| 1965-66 | 13,142 |
+| 1966-67 | 15,108 |
+| 1967-68 | 18,048 |
+| 1968-69 | 19,568 |
+| 1969-70 | 21,561 |
+| 1970-71 | 25,977 |
+
+Figure: Marketing budgets have settled at under 8 per cent of company revenue for three years running. The modern mix in one number: after the pandemic swing, the marketing budget has flattened at a level Gartner's own analysts call an era of less.. Source: Gartner CMO Spend Survey press releases, May 2022 (n=405), May 2024 (n=395), May 2025 (n=402), May 2026 (n=401). Redrawn by Brave New Media.. Unit: % of company revenue.
+
+| Year | % of revenue |
+|---|---|
+| 2021 | 6.4 |
+| 2022 | 9.5 |
+| 2023 | 9.1 |
+| 2024 | 7.7 |
+| 2025 | 7.7 |
+| 2026 | 7.8 |
+
+Figure: Procter and Gamble spends about a tenth of its sales on advertising, and the ratio has risen since 2023. Ninety-five years after McElroy's memo, the brand man's company still spends a tenth of every sales dollar on the fourth P, and the share is rising.. Source: The Procter & Gamble Company, Form 10-K, fiscal 2022, 2025 and 2026, advertising costs note and Consolidated Statements of Earnings; percentage computed by Brave New Media. Redrawn by Brave New Media.. Unit: % of net sales.
+
+| Fiscal year | Advertising $bn | Net sales $m | % of net sales |
+|---|---|---|---|
+| FY2020 | 7.3 | 70,950 | 10.3 |
+| FY2021 | 8.2 | 76,118 | 10.8 |
+| FY2022 | 7.9 | 80,187 | 9.9 |
+| FY2023 | 8.0 | 82,006 | 9.8 |
+| FY2024 | 9.6 | 84,039 | 11.4 |
+| FY2025 | 9.2 | 84,284 | 10.9 |
+| FY2026 | 10.2 | 87,032 | 11.7 |
+
+Sources:
+
+1. McCarthy, E. J. (1960). Basic Marketing: A Managerial Approach. Homewood, Ill.: Richard D. Irwin. 770 pp. Bibliographic record: https://books.google.com/books?id=uhPUAAAAMAAJ
+2. Levitt, T. (1960). Marketing Myopia. Harvard Business Review, July to August 1960. Read in the "Best of HBR" reprint with the editors' introduction, Harvard Business Review, July to August 2004, Reprint R0407L. https://hbr.org/2004/07/marketing-myopia (text read from https://faculty.ksu.edu.sa/sites/default/files/levitt_marketingmyopia1.pdf)
+3. Borden, N. H. (1964). The Concept of the Marketing Mix. Journal of Advertising Research, 4(2), 2 to 7. https://doi.org/10.1080/00218499.1964.12519724 (text read from the Journal of Advertising Research Classics reprint, Vol. II, September 1984; the Culliton 1948 quotation is as given there)
+4. McElroy, N. H. (1931). Memorandum to R. F. Rogan, Procter and Gamble, 13 May 1931, outlining the duties of the brand man, assistant brand man and group products check-up men. Three-page typescript copy. https://www.bringthedonuts.com/media/neil-mcelroy-brand-memo-1931.pdf
+5. Tedlow, R. S. (1990). New and Improved: The Story of Mass Marketing in America. New York: Basic Books (2nd ed., Boston: Harvard Business School Press, 1996). The three phases as described by Tedlow in Mitrak, A. (2025). Richard S. Tedlow: The Story of Mass Marketing in America. A History of Marketing, 5 June 2025, interview transcript. https://marketinghistory.org/p/richard-s-tedlow-mass-marketing-in-america
+6. Kotler, P. (2024). A Lifetime in Marketing: Lessons Learned and the Way Ahead. American Marketing Association, 12 March 2024. https://www.ama.org/2024/03/12/a-lifetime-in-marketing-lessons-learned-and-the-way-ahead-by-philip-kotler
+7. Galbi, D. (2008). U.S. Annual Advertising Spending Since 1919. Advertising expenditure from the Coen Structured Advertising Expenditure Dataset; GDP from Johnston and Williamson, Economic History Services (2005) and the US Bureau of Economic Analysis. https://www.galbithink.org/ad-spending.htm
+8. National Center for Education Statistics (2022). Digest of Education Statistics 2022, Table 325.25, Degrees in business conferred by postsecondary institutions, by level of degree and sex of student: Selected academic years, 1955-56 through 2020-21. US Department of Education. https://nces.ed.gov/programs/digest/d22/tables/dt22_325.25.asp
+9. Kotler, P. and Keller, K. L. (2012). Marketing Management, 14th ed. Upper Saddle River, NJ: Prentice Hall. Chapter 1, "Updating the Four Ps", p. 25, Figures 1.4 and 1.5.
+10. Harvard Business School Alumni (undated). Marketing Giant Ted Levitt Remembered. Accessed 1 October 2026. https://www.alumni.hbs.edu/news-insights/stories/marketing-giant-ted-levitt-remembered
+11. Gartner (2022). Gartner Survey Reveals Marketing Budgets Have Increased to 9.5% of Overall Company Revenue in 2022. Press release, May 2022. Survey of 405 CMOs and marketing leaders, February to March 2022. https://www.gartner.com/en/newsroom/press-releases/gartner-survey-reveals-marketing-budgets-have-increased-to-9-5--
+12. Gartner (2024). Gartner CMO Survey Reveals Marketing Budgets Have Dropped to 7.7% of Overall Company Revenue in 2024. Press release, London, 13 May 2024. Survey of 395 CMOs and marketing leaders, February to March 2024. https://www.gartner.com/en/newsroom/press-releases/2024-05-13-gartner-cmo-survey-reveals-marketing-budgets-have-dropped-to-seven-point-seven-percent-of-overall-company-revenue-in-2024
+13. Gartner (2025). Gartner 2025 CMO Spend Survey Reveals Marketing Budgets Have Flatlined at 7.7% of Overall Company Revenue. Press release, Stamford, 12 May 2025. Survey of 402 CMOs and marketing leaders, February to March 2025. https://www.gartner.com/en/newsroom/press-releases/2025-05-12-gartner-2025-cmo-spend-survey-reveals-marketing-budgets-have-flatlined-at-seven-percent-of-overall-company-revenue
+14. Gartner (2026). Gartner 2026 CMO Spend Survey Finds CMOs Allocate 15.3% of Marketing Budgets to AI, But Only 30% Are Ready to Scale AI Capabilities. Press release, London, 11 May 2026. Survey of 401 CMOs and marketing leaders, January to March 2026. https://www.gartner.com/en/newsroom/press-releases/2026-05-11-gartner-2026-cmo-spend-survey-finds-cmos-allocate-15-point-3-percent-of-marketing-budgets-to-ai-but-only-30-percent-are-ready-to-scale-ai-capabilities
+15. The Procter & Gamble Company (2022). Form 10-K for the fiscal year ended 30 June 2022. Advertising costs note and Consolidated Statements of Earnings. US Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/pg-20220630.htm
+16. The Procter & Gamble Company (2025). Form 10-K for the fiscal year ended 30 June 2025. https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm
+17. The Procter & Gamble Company (2026). Form 10-K for the fiscal year ended 30 June 2026. https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm
+18. Johnson, B. (2019). 75th Annual Agency Report Timeline. Ad Age Datacenter, 29 April 2019. https://adage.com/article/datacenter/75th-annual-agency-report-timeline/2166151
+19. Encyclopaedia Britannica (2026). William Bernbach. Britannica Money, updated 28 September 2026. https://www.britannica.com/biography/William-Bernbach
+20. The New York Times (1961). Advertising: Doyle Dane Bernbach in German Venture. 2 October 1961. https://www.nytimes.com/1961/10/02/archives/advertising-doyle-dane-bernbach-in-german-venture.html
+21. Pope, D. (undated). Making Sense of Advertisements. History Matters: The U.S. Survey Course on the Web, Making Sense of Evidence series. Abbreviated text read at https://faculty.sfcc.spokane.edu/InetShare/AutoWebs/lorim/Making%20Sense%20of%20Advertisements%20abbreviated%20Pope.pdf
+22. Encyclopaedia Britannica (undated). Ogilvy & Mather; David Ogilvy. https://www.britannica.com/topic/Ogilvy-and-Mather
+23. Moorman, C. (2026). The CMO Survey: Highlights and Insights Report, 2026. Duke University Fuqua School of Business, Deloitte and the American Marketing Association. "What is marketing primarily responsible for in your company?", p. 42. Survey in field 7 to 29 January 2026, n = 308, 97 per cent of respondents VP level or above. https://cmosurvey.org/wp-content/uploads/2026/04/The_CMO_Survey-Highlights_and_Insights_Report-2026.pdf
 
 ### 1972. The Positioning Era Cometh
 
 Source: https://bravenewhive.com/history-of-advertising/1972-the-positioning-era/
-Date: 2026-08-19. Read: 2 min.
+Date: 2026-08-19. Read: 10 min.
 
-Ries and Trout's series in Advertising Age moved the battleground from the product to the prospect's mind.
+In April 1972 Ries and Trout told Advertising Age the battleground had moved to the prospect's mind. What Avis, Volkswagen and 7-Up had proved, and what to do now.
 
-The articles argued that product-led and image-led advertising had run out of road, and that the winning move was to occupy a position the competition had left open. Nothing since has made the market less crowded.
+## The moment
+
+Monday 24 April 1972. Advertising Age, page 35. Two account men from a small New York agency, Al Ries and Jack Trout, open a three-part series with a sentence written to annoy every creative department on Madison Avenue: "Today it has become obvious that advertising is entering a new era. An era where creativity is no longer the key to success." [2] The second part runs on 1 May, the third on 8 May. The series is called "The Positioning Era Cometh". Its claim fits on an index card. The battleground has moved out of the product and into the prospect's mind. The campaigns that prove it are a decade old, and the industry already knows them by heart.
+
+## What came before
+
+Trout had used the word first, in June 1969, in the trade magazine Industrial Marketing, under a title nobody would choose today: "'Positioning' is a game people play in today's me-too market place". The idea was already whole. "Positioning is a game where the competitor's image is just as important as your own. Sometimes more important." [1] Few noticed. Ries gave a speech on it at the Sales Executives Club of New York; Rance Crain, the editor of Advertising Age, heard it and asked for a series. The book, Positioning: The Battle for Your Mind, came in 1981.
+
+The series told the industry's history as three eras. The product era of the 1950s, Rosser Reeves and the [unique selling proposition](/principles/unique-selling-proposition/), ended under an avalanche of me-too products. The image era of the 1960s belonged to David Ogilvy. The third they dated to a full-page Ogilvy advertisement in the New York Times on 7 April 1971, 38 points on advertising that sells, the first of which read "The results of your campaign depend less on how we write your advertising than on how your product is positioned." [2] The architect of one era, they wrote, had called the tune for the next. The word, then, is Trout's. The practice belongs to the people who wrote Avis and Volkswagen. The theory is the series.
+
+## What it changed
+
+The argument rested on a count. Ries and Trout wrote that per-capita advertising consumption in the United States was "approaching $100 a year", that the average mind met "more than half a million advertising messages" a year and, citing George Miller, could hold about seven items in a category at once [2]. The first checks out; the other two we take on the authors' word. Robert Coen's historical series puts total US advertising at $12.0 billion in 1960 and $23.2 billion in 1972, which over a population of a little more than 200 million is their $100 [5]. Television took the growth: $1.6 billion in 1960, $4.1 billion in 1972, $11.5 billion by 1980 [5].
+
+The money followed the screen. Nine per cent of US households had a television set in 1950. By 1960 it was 87%, by 1972 96% [6]. Ries and Trout measured the crowding in one line: "In 1964, there were seven soft drinks advertised on network television. Today there are 22." [2]
+
+Print stood still. Daily newspaper circulation was 58.9 million in 1960 and 62.2 million in 1980, while the advertising inside those papers quadrupled, from $3.7 billion to $14.8 billion [5][6]. More messages, the same heads.
+
+The day before, an agency's job was to find something true about the product and say it well. The day after, the job started with what the prospect already believed about the category and its leader. "The mind accepts only that new information which matches its prior knowledge or experience. It filters out everything else." [2] Avis's line worked because Hertz was already in the head, and Avis attached itself to it. Seven-Up's "Un-Cola" worked because two out of three soft drinks sold in America were colas; the cola slot was full, the slot beside it was empty, and sales rose "something like 10%" in the first year, by the authors' account [2]. Beck's set itself against Löwenbräu as the German beer Germans drink. Schaefer took "the one beer to have when you're having more than one", and Honeywell, in its own advertising, called itself "the other computer company vs. Mr. Big" and let IBM keep the lead [2].
+
+Two consequences followed. The strategist moved ahead of the writer. And awards stopped counting as evidence. Of 41 agencies that had won Hall of Fame Clios, the series noted, 31 had since lost some or all of the accounts concerned [2]. "The fun and games of the '60s have given way to the harsh realities of the '70s." [2]
+
+The modern test is less kind than the authors were. Romaniuk, Sharp and Ehrenberg asked the buyers of brands in 17 categories across Australia and the UK whether the brand they used was "different" or "unique". On average, 17% said either [7]. Buyers can see a large difference when one exists, 67% of Aldi's own shoppers and 50% of Subway's said so; Coca-Cola at 19% and Apple at 23% do not come close [7]. The memory half of positioning survived the test. The difference half failed it.
+
+## The Mad Men thread
+
+The series on AMC runs from March 1960 to November 1970 [19]. Positioning arrives eighteen months after the finale, and the campaigns it was built on are the ones the fictional Sterling Cooper watches from across the street. Third episode, 1960: the creative team passes round a Volkswagen ad from Doyle Dane Bernbach, Don Draper dislikes it, Pete Campbell calls it brilliant.
+
+The record is better than the script. DDB opened on 1 June 1949, Ned Doyle, Maxwell Dane and Bill Bernbach, and its method was, in Mark Tungate's words, "copywriters and art directors working side by side" from the first idea [9]. Volkswagen gave DDB its US account in 1959, with Helmut Krone as art director and Julian Koenig as writer, and "Think small" and "Lemon" came out of that pairing.
+
+Robert Townsend arrived at Avis from American Express early in 1962 and hired DDB. By Time's account, the agency asked what Avis did better than Hertz, and on cars, locations and rates the answer was nothing. "Well," said Townsend, "we try harder." [10]
+
+Paula Green wrote the campaign and Krone laid it out. By mid-1964 the fleet had gone from 16,600 cars to 36,000 and rentals were up 28% [10].
+
+Mary Wells was copy chief at DDB in 1963, moved to Jack Tinker & Partners in 1964, repainted Braniff's aircraft under the line "The End of the Plain Plane" with Richard Rich and Stewart Greene, and founded Wells Rich Greene with them in April 1966. George Lois had left DDB in January 1960 to co-found Papert Koenig Lois with Julian Koenig; Steven Heller called PKL "the second creative agency in the world" [18].
+
+What the series showed is a composite. The Kodak Carousel, Jaguar and Burger Chef pitches are inventions; the finale closes on McCann Erickson's real 1971 Coca-Cola film. The revolution happened at DDB, PKL, Tinker and Wells Rich Greene. Positioning came after it, and its authors' nerve ran ahead of their data. They predicted that Avis, now boasting, would lose ground to Hertz and National, and that Volkswagen, which had run "Think small" one year and announced a big Volkswagen the next, would erode fast. Volkswagen of America's sales fell from about 570,000 vehicles in 1970 to just under 486,000 in 1972 [11]. Whether Avis lost ground we could not settle; the share figures in circulation contradict one another.
+
+## Applied: if you are a B2C brand
+
+Say you sell a sparkling water in a market where two giants hold most of the shelf and most of the heads. Start from what the buyer already knows about those two. Avis conceded the rank and turned it into a reason. Seven-Up let the colas keep the category and named itself by them. Your version only makes sense because the giants exist, the water defined by what it is not. Write it in one line, and if that line only works for a buyer who already knows you, start again.
+
+Then add the later evidence. Across 17 categories, only 17% of a brand's own buyers call it different or unique, and they buy it anyway [7]. So spend the budget on recall. One bottle and one line, repeated until the trade is tired of them, in front of every category buyer the money reaches. The Uncola's deepest asset was the word, and the years Seven-Up left it alone.
+
+## Applied: if you are a B2B brand
+
+Say you sell a project management platform in a category with one dominant incumbent, and your buyers are operations directors who already run it. Ries and Trout would have you own a word. Honeywell took "the other computer company" and let IBM keep "computers" [2]. The word you can own is the one the incumbent cannot say without contradicting itself. If the incumbent is the suite IT chose for everyone, your word is the tool the operations director chose for her own team.
+
+Keller's discipline comes first, though. Before the point of difference, list the points of parity, the features "brands have in common with competitors" on which you only need to break even, such as security certifications and the integrations on the buyer's checklist [8]. Then decide what to own. A word is a claim the buyer must accept. A distinctive asset, in Ehrenberg-Bass's sense, is a colour or a shape that only has to be recognised. Own both and measure them separately. Ask whether buyers can name your word unprompted, and whether they can name your brand from the asset alone. We would bet the second number moves first.
+
+## What to do with it
+
+1. Write the position as one sentence that names the leader or the category. Delete the leader's name and read it again; if the sentence still holds, you have written a product description. 2. Find the slot that is already open. List the words buyers attach to the leader; your position is the word on that list the leader cannot take, or the honest rank the leader cannot claim. 3. Settle parity before difference. Write the three to five things every supplier in your category must have, confirm you have each one, and only then write a line about what makes you different. 4. Test recall first. Ask 100 category buyers to name your brand from your line, colour or shape alone; separately, ask your own buyers whether the brand is different or unique, and compare that with the 17% norm [7] before spending to move it. 5. Hold the position for five years. Volkswagen's lesson in 1972 was that one year of "Big" was enough for two consultants to predict erosion in print. Before approving a new campaign, put it beside the last one and ask whether a buyer who saw the last would know it is the same brand.
+
+Figure: Television advertising grew sevenfold from 1960 to 1980 and closed on newspapers. The year the series ran, 1972, television billed $4.1 billion against newspapers' $6.9 billion; by 1980 the gap had narrowed to $3.3 billion on a total four times larger.. Source: Galbi, Coen Structured Advertising Expenditure Dataset (Robert J. Coen, Universal McCann), 2008, worksheet CS ad dataset. Redrawn by Brave New Media.. Unit: US$ millions, current dollars.
+
+| Year | Newspapers | Television | Magazines | Radio |
+|---|---|---|---|---|
+| 1960 | 3681 | 1627 | 909 | 693 |
+| 1961 | 3601 | 1691 | 895 | 683 |
+| 1962 | 3659 | 1897 | 942 | 736 |
+| 1963 | 3780 | 2032 | 1002 | 789 |
+| 1964 | 4120 | 2289 | 1074 | 846 |
+| 1965 | 4426 | 2515 | 1161 | 917 |
+| 1966 | 4865 | 2823 | 1254 | 1010 |
+| 1967 | 4910 | 2909 | 1245 | 1048 |
+| 1968 | 5232 | 3231 | 1283 | 1190 |
+| 1969 | 5714 | 3585 | 1344 | 1264 |
+| 1970 | 5704 | 3596 | 1292 | 1308 |
+| 1971 | 6167 | 3534 | 1370 | 1445 |
+| 1972 | 6938 | 4091 | 1440 | 1612 |
+| 1973 | 7481 | 4460 | 1448 | 1723 |
+| 1974 | 7842 | 4854 | 1504 | 1837 |
+| 1975 | 8234 | 5263 | 1465 | 1980 |
+| 1976 | 9618 | 6721 | 1789 | 2330 |
+| 1977 | 10751 | 7612 | 2162 | 2634 |
+| 1978 | 12214 | 8955 | 2597 | 3052 |
+| 1979 | 13863 | 10154 | 2932 | 3310 |
+| 1980 | 14794 | 11488 | 3149 | 3702 |
+
+Figure: Network television billing more than doubled between 1960 and 1972, then nearly tripled again by 1980. Network television is where national brands met one another; Ries and Trout counted seven soft drinks advertised on it in 1964 and 22 in 1972.. Source: Galbi, Coen Structured Advertising Expenditure Dataset (Robert J. Coen, Universal McCann), 2008, worksheet CS ad dataset. Redrawn by Brave New Media.. Unit: US$ millions, current dollars.
+
+| Year | Network | National spot | Local spot |
+|---|---|---|---|
+| 1960 | 820 | 527 | 280 |
+| 1961 | 887 | 548 | 256 |
+| 1962 | 976 | 629 | 292 |
+| 1963 | 1025 | 698 | 309 |
+| 1964 | 1132 | 806 | 351 |
+| 1965 | 1237 | 892 | 386 |
+| 1966 | 1393 | 988 | 442 |
+| 1967 | 1455 | 988 | 466 |
+| 1968 | 1523 | 1131 | 577 |
+| 1969 | 1678 | 1253 | 654 |
+| 1970 | 1658 | 1234 | 704 |
+| 1971 | 1593 | 1145 | 796 |
+| 1972 | 1804 | 1318 | 969 |
+| 1973 | 1968 | 1377 | 1115 |
+| 1974 | 2145 | 1497 | 1212 |
+| 1975 | 2306 | 1623 | 1334 |
+| 1976 | 2857 | 2154 | 1710 |
+| 1977 | 3460 | 2204 | 1948 |
+| 1978 | 3975 | 2607 | 2373 |
+| 1979 | 4599 | 2873 | 2682 |
+| 1980 | 5130 | 3269 | 2967 |
+
+Figure: Television went from 9% of US households in 1950 to 96% in 1972. The decade of the creative revolution is the decade the screen reached the last household; by the time positioning was named, there was nowhere left for a message to go but into a mind already full.. Source: US Census Bureau, Statistical Abstract of the United States 2003, Mini-Historical Statistics, table HS-42, 2003. Redrawn by Brave New Media.. Unit: % of US households.
+
+| Year | Television | Radio |
+|---|---|---|
+| 1950 | 9.0 | 91 |
+| 1951 | 23.5 | 92 |
+| 1952 | 34.2 | 92 |
+| 1953 | 44.7 | 95 |
+| 1954 | 55.7 | 94 |
+| 1955 | 64.5 | 94 |
+| 1956 | 71.8 | 94 |
+| 1957 | 78.6 | 94 |
+| 1958 | 83.2 | 94 |
+| 1959 | 85.9 | 94 |
+| 1960 | 87.1 | 94 |
+| 1961 | 88.8 | 93 |
+| 1962 | 90.0 | 93 |
+| 1963 | 91.3 | 93 |
+| 1964 | 92.3 | 94 |
+| 1965 | 92.6 | 95 |
+| 1966 | 93.0 | 96 |
+| 1967 | 93.6 | 95 |
+| 1968 | 94.6 | 94 |
+| 1969 | 95.0 | 96 |
+| 1970 | 95.3 | 99 |
+| 1971 | 95.5 | 99 |
+| 1972 | 95.8 | 99 |
+| 1973 | 96.4 | 99 |
+| 1974 | 96.9 | 99 |
+| 1975 | 97.1 | 99 |
+| 1976 | 97.4 | 99 |
+| 1977 | 97.4 | 99 |
+| 1978 | 97.6 | 99 |
+| 1979 | 97.7 | 99 |
+| 1980 | 97.9 | 99 |
+
+Figure: Daily newspaper circulation barely moved: 58.9 million copies in 1960, 62.2 million in 1980. Newspaper advertising quadrupled over the same twenty years on a readership that grew 6%; the same heads were carrying four times the money.. Source: US Census Bureau, Statistical Abstract of the United States 2003, Mini-Historical Statistics, table HS-42, 2003. Redrawn by Brave New Media.. Unit: Millions of copies.
+
+| Year | Daily newspaper circulation (millions) |
+|---|---|
+| 1950 | 53.8 |
+| 1951 | 54.0 |
+| 1952 | 54.0 |
+| 1953 | 54.5 |
+| 1954 | 55.1 |
+| 1955 | 56.1 |
+| 1956 | 57.1 |
+| 1957 | 57.8 |
+| 1958 | 57.4 |
+| 1959 | 58.3 |
+| 1960 | 58.9 |
+| 1961 | 59.3 |
+| 1962 | 59.8 |
+| 1963 | 58.9 |
+| 1964 | 60.4 |
+| 1965 | 60.4 |
+| 1966 | 61.4 |
+| 1967 | 61.6 |
+| 1968 | 62.5 |
+| 1969 | 62.1 |
+| 1970 | 62.1 |
+| 1971 | 62.2 |
+| 1972 | 62.5 |
+| 1973 | 63.1 |
+| 1974 | 61.9 |
+| 1975 | 60.7 |
+| 1976 | 61.0 |
+| 1977 | 61.5 |
+| 1978 | 62.0 |
+| 1979 | 62.2 |
+| 1980 | 62.2 |
+
+Figure: Buyers see a difference when it is large: Aldi 67%, Subway 50%, the average brand 17%. Respondents were not indifferent, since 76% named some soft drink as different; they were selective, and the typical brand, including Coca-Cola and Apple, was not the one they chose.. Source: Romaniuk, Sharp and Ehrenberg, Evidence concerning the importance of perceived brand differentiation, Australasian Marketing Journal, 2007, text and Tables 2 and 5, n= per category in Appendix 1. Redrawn by Brave New Media.. Unit: % of respondents.
+
+| Measure | % of respondents |
+|---|---|
+| At least one soft drink brand is different or unique (UK, all respondents) | 76 |
+| Aldi, own shoppers saying different (Australia) | 67 |
+| Subway, own customers saying unique (Australia) | 50 |
+| Apple, own users saying different or unique (UK) | 23 |
+| Coca-Cola, own users saying different or unique (UK) | 19 |
+| Average brand, own users saying different or unique, 17 markets | 17 |
+| Average brand, own users saying different, 17 markets | 11 |
+| Average brand, own users saying unique, 17 markets | 10 |
+
+Sources:
+
+1. Trout, J., 1969. "Positioning" is a game people play in today's me-too market place. Industrial Marketing, June 1969. Full text reproduced at https://innismaggiore.com/jack-trout-original-positioning-article-industrial-marketing-1969/
+2. Ries, A. and Trout, J., 1972. The Positioning Era Cometh. Advertising Age, three-part series, 24 April (p. 35), 1 May and 8 May 1972, Crain Communications, Chicago. Original text reprinted at https://www.alries.com/positioning-articles. Date of part one and page number as cited in Bowers, T.A., 1975, https://files.eric.ed.gov/fulltext/ED120740.pdf
+3. Ries, A. and Trout, J., 1981. Positioning: The Battle for Your Mind. McGraw-Hill, New York.
+4. Ries & Ries, n.d. Al Ries: The Father of Positioning (history of positioning: the Sales Executives Club speech, Rance Crain, the orange booklet, the Wall Street Journal column of December 1972). https://ries.com/about/history-of-positioning
+5. Galbi, D., 2008. Coen Structured Advertising Expenditure Dataset (Robert J. Coen, Universal McCann, historical US advertising expenditure by medium, 1919 to 2007), v1.14, worksheet "CS ad dataset". http://www.galbithink.org/cs-ad-dataset.xls, described at https://www.purplemotes.net/2008/09/14/us-advertising-expenditure-data/
+6. US Census Bureau, 2003. Statistical Abstract of the United States: 2003, Mini-Historical Statistics, table HS-42, Selected Communications Media: 1920 to 2001 (households with radio and television; daily newspapers, number and circulation). https://www2.census.gov/library/publications/2004/compendia/statab/123ed/hist/hs-42.pdf
+7. Romaniuk, J., Sharp, B. and Ehrenberg, A., 2007. Evidence concerning the importance of perceived brand differentiation. Australasian Marketing Journal, 15(2), pp. 42-54. https://doi.org/10.1016/S1441-3582(07)70042-3 (open copy: https://byronsharp.wordpress.com/wp-content/uploads/2008/04/different1.pdf)
+8. Keller, K.L., Sternthal, B. and Tybout, A., 2002. Three Questions You Need to Ask About Your Brand. Harvard Business Review, 80(9), pp. 80-86. https://hbr.org/2002/09/three-questions-you-need-to-ask-about-your-brand
+9. Tungate, M., 2025. Advertising History from Ancient Pompeii to Today, interview with Andrew Mitrak, Marketing History podcast, 23 January 2025, transcript. https://marketinghistory.org/p/mark-tungate-advertising-history. The book: Tungate, M., 2007. Adland: A Global History of Advertising. Kogan Page, London.
+10. Time, 1964. Advertising: Trying Harder. Time, 24 July 1964. https://time.com/archive/6872138/advertising-trying-harder
+11. Volkswagen AG, n.d. Volkswagen Chronicle: 1950 to 1960, Internationalisation and Mass Production in the Era of Germany's Economic Miracle; and 1961 to 1972, Boom and Crisis in the One-Product Business. https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1950-to-1960-expansion-in-the-economic-miracle-17356 and https://www.volkswagen-group.com/en/volkswagen-chronicle-17351/1961-to-1972-boom-and-crisis-in-the-one-product-business-17357
+12. Campaign, 2016. History of advertising: No 177: Robert Townsend's all-staff memo. Campaign UK. https://www.campaignlive.co.uk/article/history-advertising-no-177-robert-townsends-all-staff-memo/1403089
+13. Duke University, Rubenstein Library, 2017. Uncola: Seven-Up, Counterculture and the Making of an American Brand (from the J. Walter Thompson Company archives). https://blogs.library.duke.edu/rubenstein/2017/12/04/uncola
+14. Encyclopaedia Britannica, 2024. Mary Wells Lawrence. https://www.britannica.com/money/Mary-Wells-Lawrence. See also Northwestern University Libraries, 2016, Braniff and the End of the Plain Plane, https://sites.northwestern.edu/northwesternlibrary/2016/08/23/braniff-and-the-end-of-the-plain-plane
+15. Wells Lawrence, M., 2002. A Big Life (in Advertising). Alfred A. Knopf, New York. Not opened this session; see Editor's notes.
+16. The New York Times, 11 May 2024. Mary Wells Lawrence, High-Profile Advertising Pioneer, Dies at 95. https://www.nytimes.com/2024/05/11/business/mary-wells-lawrence-dead.html
+17. MediaVillage, 2021. History's Moment in Media: DDB Ushers In the Creative Revolution of Advertising. https://www.mediavillage.com/article/historys-moment-in-media-ddb-ushers-in-the-creative-revolution-of-advertising/
+18. Heller, S., 2022. The Daily Heller: My Friend George Lois, 1931-2022. PRINT Magazine. https://www.printmag.com/daily-heller/the-daily-heller-george-lois-1930-2022
+19. Wikipedia, episode and season entries for Mad Men: Marriage of Figaro (season 1, episode 3), The Wheel (season 1, episode 13), Shut the Door. Have a Seat (season 3, episode 13), The Other Woman (season 5, episode 11), Mad Men season 7; and the series article for the March 1960 to November 1970 span. Used only for what the series depicted, never for the historical record. https://en.wikipedia.org/wiki/Mad_Men
 
 ### 1994. The first banner ad
 
 Source: https://bravenewhive.com/history-of-advertising/1994-the-first-banner-ad/
-Date: 2026-08-14. Read: 2 min.
+Date: 2026-08-14. Read: 10 min.
 
-On 27 October 1994, HotWired ran a banner for AT&T. Digital advertising began as a rectangle at the top of a page.
+HotWired ran the first banners on 27 October 1994. What the 44 per cent click rate and the fall to 0.1 per cent mean for your display budget.
 
-The ad asked whether the reader had ever clicked their mouse right here, and told them they would. Click-through rates for that first campaign are widely reported to have been far above anything the format achieved later. The figure gets repeated more often than it gets sourced.
+## The moment
+
+27 October 1994, South Park, San Francisco. A dozen people stand around a server in the office of HotWired, the web arm of Wired magazine. Brian Behlendorf throws the switch. The site crashes under its first traffic and comes back up [2]. Above the content on each section sit rectangles 468 pixels wide and 60 deep, a dozen or so of them, for AT&T, MCI, Volvo, Club Med, Zima, Sprint, IBM and 1-800-Collect. The AT&T one, written by Joe McCambley at Modem Media and designed by Craig Kanarick, reads: "Have you ever clicked your mouse right here? You will." Click it and you land on a page of museum websites, the Louvre among them.
+
+## What came before
+
+The problem HotWired solved was money. Andrew Anker, who wrote its business plan in March 1994, said later that the site's decisions "were really not brilliant decisions, they were constraints": there was no secure way to take a credit card online, so advertisers were the only people who could pay [1]. Louis Rossetto, Wired's co-founder, was told that if he sold ads the internet would throw up on him. He did it anyway.
+
+The model was print. A page in Wired cost about $10,000, so HotWired charged $10,000 a month for the sponsorship of one section [2]. Rick Boyce, who built the first web ad sales team, remembers the launch price as twelve weeks for $30,000, with no traffic guarantee and no promise about clicks. There was no ad server, so ads were hard-coded into their sections and staff parsed the web logs by hand. Most advertisers had no website to send a click to.
+
+There was no single first banner. Digiday counts twelve brands and Wired fourteen, all live the same morning, and AT&T's is remembered because it was the best known and, by its makers' account, the best performing [3]. Neither count is settled. What HotWired did first was sell a measured space to a national advertiser and report the response back.
+
+## What it changed
+
+The ad could be counted. For the first time a marketer could know how many people saw an ad and how many acted on it [3]. The first numbers were absurd. McCambley recalls the AT&T banner's click rate in the high 70s for two or three weeks, then settling "in the 40s" for two months, 44 per cent being the figure AT&T's Bill Clausen gave him [1]. Anker's rule for the rest of 1994 and well into 1995 was that any banner below 2 per cent was a bad banner. Those rates belonged to novelty and a small, curious audience: 14 per cent of American adults had internet access in 1995 [16].
+
+Standard sizes followed, and with them a middleman. On 10 December 1996 the Internet Advertising Bureau, founded that June, and CASIE, a task force of the advertisers' and agencies' associations, published eight voluntary banner sizes, because more than 250 were in use and agencies were being asked for ads "in 50 or more sizes" [6]. DoubleClick, which began as a division of the Poppe Tyson agency in 1995 and merged with Kevin O'Connor and Dwight Merriman's ad-targeting software in early 1996, sold banners across a network of sites and served them from one computer [22]. Google bought it in 2008 [23].
+
+Then the market got a number. The IAB's first revenue report, administered by Coopers and Lybrand, counted $267 million of US internet advertising in 1996 [7].
+
+The bust arrived on schedule. Revenue reached $8.2 billion in 2000, then fell 12 per cent in 2001 and 16 per cent in 2002, to $6.0 billion [8][9]. Banners carried the fall: 48 per cent of 2000 revenue, 36 per cent of 2001, while keyword search went from 1 per cent to 4 [8]. By 2008 search was 45 per cent and display-related formats 33 per cent [10].
+
+The click rate collapsed before the money did. Nielsen's figures, as cited by Pagendarm and Schaumburg, put the average banner at 2 per cent in 1995, 0.5 per cent in October 1998 and 0.2 per cent in May 2000 [18]. Nielsen/NetRatings put April 1999 at 0.63 per cent, and its vice president Tim Meadows told Forbes that "click-throughs are a convenient metric to track, but it's not the best one" [19]. DoubleClick's 2009 benchmark for the United States was 0.10 per cent for static ads and 0.09 per cent for Flash [20]. McCambley himself wrote in 2013 that by 1998 the banner was back to "delivering what TV spots, radio spots, and print ads had delivered for years: sales messages" [5].
+
+The banner made attention countable, and what can be counted gets priced. Tim Wu's name for the model HotWired adopted is the attention merchant: a free diversion gathers a crowd, and the crowd is sold to advertisers [31]. That trade is older than the web. What the rectangle added was a meter.
+
+## The Mad Men thread
+
+The agencies the series dramatises were, by 1994, already inside holding companies. Marion Harper of McCann-Erickson created the first, Interpublic, in January 1961, and was forced out by his bankers before the decade ended [24]. In 1986 BBDO, Doyle Dane Bernbach and Needham Harper merged their shareholdings into Omnicom, with DDB, Bernbach's agency, the weakest of the three.
+
+Martin Sorrell bought into a maker of wire shopping baskets in 1985, renamed it WPP, took J. Walter Thompson for $566 million in 1987 and the Ogilvy Group for $864 million in 1989 [25]. David Ogilvy had called him "an odious little shit". WPP made Ogilvy its chairman to calm the clients.
+
+Under all of them sat the 15 per cent media commission, which survived a 1956 consent decree and lasted into the 1980s. It broke in the years around the banner. The share of advertisers who bought media separately from creative went from 18 per cent in 1991 to 47 per cent in 1994, and the share of agencies paid on billings fell from 61 per cent in 1994 to 10 per cent by 2003 [28]. WPP merged the media departments of JWT and Ogilvy into Mindshare in 1997, and the media agency became a business of its own.
+
+The agencies were in the room at HotWired, but as subcontractors. IBM's banner came from Ogilvy in New York, Sprint's from JWT in San Francisco, AT&T's from Modem Media, and Organic, the web shop one floor up, built about half the set [1]. Ad Age called 1994 "the year of the internet" and noted that network television, spot television and magazines still ruled agency billings.
+
+The technology companies took the middle ground the agencies left. DoubleClick was an ad network and an ad server "before anyone knew what those were", and within four years it had 2,000 staff in 25 countries [21].
+
+Ken Auletta is blunt. The flight of advertisers from old to new media started in the late 1990s and accelerated in the new century, while "in the public imagination, we were still in the age of Don Draper" [30].
+
+Our reading is that the commission died of daylight. An agency paid 15 per cent of a television budget earned its margin from the medium's opacity. A banner that reports impressions, clicks and cost per click to the client every morning has no opacity to sell.
+
+The agencies were not emptied, though. US agency employment was 171,000 in 1990, peaked at 203,000 in 2000, fell to 166,000 by 2010 and stood at 209,000 in 2025, across a period in which internet advertising went from nothing to $259 billion [37].
+
+## Applied: if you are a B2C brand
+
+Say you sell running shoes and your display report leads with click-through rate. Most of the reports we are sent do. Three things from the record.
+
+Click-through was high only while nobody had seen a banner before. Anker's floor of 2 per cent held into 1995, and the DoubleClick benchmark fifteen years later was a tenth of one per cent [20].
+
+The click never measured attention. Nielsen's vice president said so in 1999, and Lumen's eye-tracking panel found that a viewable desktop display ad had a 22 per cent chance of being looked at at all, for one to two seconds [35]. Your report cannot tell you whether anyone saw the shoe.
+
+The people who click are the people who were already buying. Byron Sharp's reading of retargeting is that it "works, sometimes" because it nudges someone already halfway through a purchase, and that hyper-targeting as a strategy is "unrealistic thinking" [32]. Binet and Field's analysis of the IPA Databank finds reach accounts for around 83 per cent of the variation in media effectiveness between channels [34].
+
+So judge the display line by reach among category buyers and by what branded search and direct traffic do in the weeks after it runs. Report cost per thousand viewed beside cost per click.
+
+## Applied: if you are a B2B brand
+
+Say you sell enterprise software and your team runs programmatic display to "decision makers". Most of that audience will not buy software this year. Sharp calls advertising to them "a miserable thing to do" on a return-on-investment view, and also the investment that pays in ten years [33].
+
+Attention is a worse number than the click. IAS measured global display viewability at 67.9 per cent in 2025, against 79.7 per cent for video, and found that mobile web display was 45.1 per cent of impressions and 71.9 per cent of the impressions on made-for-advertising sites [36]. In Lumen's desktop panel, between 9 and 22 per cent of ads served, depending on format, ever got a single eye fixation [35].
+
+Buy the large formats on named publishers your buyers read. Cap mobile web display unless you have opened the page from the placement report. Then measure the campaign by whether the accounts you named appear in pipeline. Who clicked goes in the appendix.
+
+## What to do with it
+
+1. Add one column to last quarter's display report for impressions both viewable and looked at, using your verification vendor's time-in-view figure. If the vendor has no such figure, write "not measured". 2. Take click-through rate out of the campaign objectives and keep it as a diagnostic. If a display line shows above 1 per cent today, check it for invalid traffic and accidental taps. 3. Split the same report by format size: 970 by 250, 300 by 600 and 300 by 250 in one group, 320 by 50 and 728 by 90 in the other. Move the next budget towards the first group. 4. Work out the share of digital budget on retargeting. If it is above a fifth, cut it to a fifth and put the difference into reach among non-customers. 5. Compare your 2024 split of search to display with the IAB's 39.8 and 28.7 per cent [14], and write one sentence on why yours differs and whether that is on purpose.
+
+Figure: US internet advertising grew from $267 million in 1996 to $259 billion in 2024, with one fall, in 2001 and 2002. The series the IAB started in 1996 shows a single contraction, the two years after the dot-com peak, and then twenty-two years of growth.. Source: IAB and PwC, Internet Advertising Revenue Reports, 1996 to 2024 (1996 to 2000 from the 2001 full-year report; 2001 and 2002 from the Half Year 2012 historical table; 2003 to 2021 from the Full Year 2021 historical table; 2022 to 2024 from the Full Year 2024 report). Redrawn by Brave New Media.. Unit: US$ billions.
+
+| Year | US$ billions |
+|---|---|
+| 1996 | 0.267 |
+| 1997 | 0.907 |
+| 1998 | 1.920 |
+| 1999 | 4.621 |
+| 2000 | 8.225 |
+| 2001 | 7.134 |
+| 2002 | 6.010 |
+| 2003 | 7.267 |
+| 2004 | 9.626 |
+| 2005 | 12.542 |
+| 2006 | 16.879 |
+| 2007 | 21.206 |
+| 2008 | 23.448 |
+| 2009 | 22.661 |
+| 2010 | 26.041 |
+| 2011 | 31.736 |
+| 2012 | 36.572 |
+| 2013 | 42.781 |
+| 2014 | 49.451 |
+| 2015 | 59.551 |
+| 2016 | 72.640 |
+| 2017 | 88.266 |
+| 2018 | 107.487 |
+| 2019 | 124.613 |
+| 2020 | 139.828 |
+| 2021 | 189.310 |
+| 2022 | 209.7 |
+| 2023 | 225.0 |
+| 2024 | 258.6 |
+
+Figure: The banner click rate went from 44 per cent for one ad in 1994 to one tenth of one per cent across the market by 2009. Within a year of launch the rate that had defined a bad banner, 2 per cent, was the market average; within six years it was a fifth of that, and the fall continued for another decade.. Source: 1994, Joe McCambley on the AT&T banner at HotWired, Internet History Podcast, 2014; 1995, October 1998 and May 2000, Nielsen as cited in Pagendarm and Schaumburg, Journal of Digital Information, 2001; April 1998 and April 1999, Nielsen/NetRatings as reported by Forbes, 11 May 1999; 2009, DoubleClick 2009 Year-in-Review Benchmarks, United States, static image ads. Redrawn by Brave New Media.. Unit: per cent of impressions clicked.
+
+| Date and basis | per cent |
+|---|---|
+| 1994, AT&T banner on HotWired, first two months | 44 |
+| 1995, market average | 2.0 |
+| April 1998, market average | 1.1 |
+| October 1998, market average | 0.5 |
+| April 1999, market average | 0.63 |
+| May 2000, market average | 0.2 |
+| 2009, United States, static image ads | 0.10 |
+
+Figure: Search passed the banner by 2007 and has held about 40 per cent of US internet ad revenue since; display has drifted below 30. The rectangle that started the market was its majority format for six years; the search box, which sells a declared intention rather than a glance, has been the largest format for most of the period since.. Source: IAB and PwC, Internet Advertising Revenue Reports: 2001 full-year report (2000 and 2001), 2008 full-year report (2007 and 2008), Full Year 2011 appendix (2010, revised for mobile), Full Year 2013, Full Year 2021, Full Year 2024. Format definitions changed over the period, as the IAB notes in each report. Redrawn by Brave New Media.. Unit: per cent of total revenue.
+
+| Year | Search | Display or banner |
+|---|---|---|
+| 2000 | 1 | 48 |
+| 2001 | 4 | 36 |
+| 2007 | 41 | 34 |
+| 2008 | 45 | 33 |
+| 2010 | 44.8 | 37.0 |
+| 2013 | 43 | 30 |
+| 2021 | 41.4 | 30.0 |
+| 2024 | 39.8 | 28.7 |
+
+Figure: US advertising agency employment peaked at 203,000 in 2000, fell to 166,000 by 2010 and reached 209,000 in 2025, while internet advertising grew a thousandfold. The agency headcount in 2025 is a fifth above 1990 and a few per cent above the dot-com peak; the money the industry handles moved to the technology intermediaries without, on this measure, emptying the agencies.. Source: US Bureau of Labor Statistics, Current Employment Statistics, series CEU6054181001, annual averages, not seasonally adjusted, 1990 to 2025. Redrawn by Brave New Media.. Unit: thousands of employees.
+
+| Year | thousands |
+|---|---|
+| 1990 | 171.2 |
+| 1991 | 160.6 |
+| 1992 | 159.1 |
+| 1993 | 156.7 |
+| 1994 | 155.3 |
+| 1995 | 161.2 |
+| 1996 | 165.7 |
+| 1997 | 172.7 |
+| 1998 | 181.5 |
+| 1999 | 189.7 |
+| 2000 | 202.8 |
+| 2001 | 195.2 |
+| 2002 | 174.4 |
+| 2003 | 168.1 |
+| 2004 | 165.6 |
+| 2005 | 170.7 |
+| 2006 | 179.4 |
+| 2007 | 186.7 |
+| 2008 | 184.4 |
+| 2009 | 169.5 |
+| 2010 | 166.2 |
+| 2011 | 172.8 |
+| 2012 | 180.2 |
+| 2013 | 185.4 |
+| 2014 | 188.4 |
+| 2015 | 195.4 |
+| 2016 | 201.0 |
+| 2017 | 202.2 |
+| 2018 | 205.3 |
+| 2019 | 204.6 |
+| 2020 | 195.6 |
+| 2021 | 202.7 |
+| 2022 | 222.6 |
+| 2023 | 225.8 |
+| 2024 | 216.4 |
+| 2025 | 209.1 |
+
+Figure: Of every 100 desktop display ads served, between 9 and 22 are looked at, and for one to two seconds. Viewability says whether the ad was on screen; the panel says whether anyone looked, and the two disagree by a factor of three to eight depending on format.. Source: Lumen Research with JCDecaux, Attention: The Common Currency for Media, 2018, desktop eye-tracking panel, n = 766 respondents and over 250,000 in-context ad impressions, UK. Redrawn by Brave New Media.. Unit: per cent of ads; seconds.
+
+| Format | Viewable, per cent | Looked at if viewable, per cent | Looked at, of all served, per cent | Dwell time, seconds |
+|---|---|---|---|---|
+| 970 x 250 | 59 | 37 | 22 | 1.7 |
+| 300 x 600 | 69 | 19 | 13 | 1.6 |
+| 160 x 600 | 70 | 13 | 9 | 1.9 |
+| 300 x 250 | 64 | 18 | 12 | 1.1 |
+| 728 x 90 | 55 | 20 | 11 | 1.2 |
+
+Sources:
+
+1. Brian McCullough, 2014, "On The 20th Anniversary, An Oral History of the Web's First Banner Ads", Internet History Podcast. https://www.internethistorypodcast.com/2014/10/the-webs-first-banner-ads/
+2. Digiday, 2017, "'The beginning of a giant industry': An oral history of the first banner ad". https://digiday.com/media/history-of-the-banner-ad/
+3. Ryan Singel, 2010, "Oct. 27, 1994: Web Gives Birth to Banner Ads", Wired. https://www.wired.com/2010/10/1027hotwired-banner-ads/
+4. Guinness World Records, "First banner ad". https://www.guinnessworldrecords.com/world-records/107110-first-banner-ad
+5. Mashable, 2013, "This Is the World's First Banner Ad", quoting Joe McCambley, 2013, "Stop Selling Ads and Do Something Useful", Harvard Business Review. https://web.archive.org/web/20160421022220/http://mashable.com/2013/08/09/first-banner-ad/
+6. Internet Advertising Bureau and CASIE, 10 December 1996, "Voluntary Guidelines for Banner Advertising and Process for Exploring Future Internet Advertising Forms Announced by Industry Groups". https://www.iab.com/news/voluntary-guidelines-banner-advertising-process-exploring-future-internet-advertising-forms-announced-industry-groups/
+7. Internet Advertising Bureau, 25 March 1997, "Internet Advertising Bureau Announces 1996 Advertising Revenue Reporting Program Results". https://www.iab.com/news/internet-advertising-bureau-announces-1996-advertising-revenue-reporting-program-results/
+8. PricewaterhouseCoopers and IAB, 2002, IAB Internet Advertising Revenue Report, 2001 Fourth-Quarter and Full-Year Results. https://www.iab.com/wp-content/uploads/2015/05/resources_adrevenue_pdf_IAB_PWC_2001Q4.pdf
+9. PwC and IAB, 2012, IAB Internet Advertising Revenue Report, Half Year 2012, historical data findings. https://www.iab.com/wp-content/uploads/2015/05/IAB_Internet_Advertising_Revenue_Report_HY_2012.pdf
+10. PwC and IAB, 2009, IAB Internet Advertising Revenue Report, 2008 Full-Year Results. https://www.iab.com/wp-content/uploads/2015/05/IAB_PwC_2008_full_year.pdf
+11. PwC and IAB, 2012, IAB Internet Advertising Revenue Report, Full Year 2011, appendix (2010 format reallocation). https://www.iab.com/wp-content/uploads/2015/05/IAB_Internet_Advertising_Revenue_Report_FY_2011.pdf
+12. PwC and IAB, 2014, IAB Internet Advertising Revenue Report, Full Year 2013. https://www.iab.com/wp-content/uploads/2015/05/IAB_Internet_Advertising_Revenue_Report_FY_2013.pdf
+13. PwC and IAB, 2022, IAB Internet Advertising Revenue Report, Full Year 2021, historical data findings. https://www.iab.com/wp-content/uploads/2022/04/IAB_Internet_Advertising_Revenue_Report_Full_Year_2021.pdf
+14. PwC and IAB, 2025, IAB Internet Advertising Revenue Report, Full Year 2024. https://www.iab.com/wp-content/uploads/2025/04/IAB_PwC-Internet-Ad-Revenue-Report-Full-Year-2024.pdf
+15. PwC and IAB, 2026, IAB Internet Advertising Revenue Report, Full Year 2025. https://iabhongkong.com/sites/default/files/2026-04/IAB_PwC_Internet_Ad_Revenue_Report_Full_Year_2025_April_2026.pdf
+16. Pew Research Center, 2014, "The Web at 25 in the U.S.", Part 1. https://www.pewresearch.org/internet/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
+17. Pew Research Center, 2025, "Internet, Broadband Fact Sheet". https://www.pewresearch.org/internet/fact-sheet/internet-broadband/
+18. Magnus Pagendarm and Heike Schaumburg, 2001, "Why Are Users Banner-Blind? The Impact of Navigation Style on the Perception of Web Banners", Journal of Digital Information, 2(1). https://jodi-ojs-tdl.tdl.org/jodi/article/view/jodi-37/38
+19. Forbes, 11 May 1999, "Banner click-throughs continue to fall". https://www.forbes.com/1999/05/11/mu8.html
+20. DoubleClick, 2010, "2009 Year-in-Review Benchmarks: A DoubleClick Report" (United States). http://web.archive.org/web/2011/http://www.google.com/doubleclick/pdfs/DoubleClick-07-2010-DoubleClick-Benchmarks-Report-2009-Year-in-Review-US.pdf
+21. Martin Kihn, "It Wasn't a Job, It Was a Cult!: An Oral History of DoubleClick", LinkedIn. https://www.linkedin.com/pulse/wasnt-job-cult-oral-history-doubleclick-martin-kihn
+22. "DoubleClick Inc.", International Directory of Company Histories, via Encyclopedia.com. https://www.encyclopedia.com/books/politics-and-business-magazines/doubleclick-inc
+23. Wikipedia, "DoubleClick" (acquisition by Google, 11 March 2008). https://en.wikipedia.org/wiki/DoubleClick
+24. MediaVillage, 2020, "HISTORY's Moments in Media: The Birth of the Big 4 Holding Companies". https://www.mediavillage.com/article/historys-moments-in-media-the-birth-of-the-big-4-holding-companies/
+25. "History of WPP Group plc", International Directory of Company Histories, via FundingUniverse. https://www.fundinguniverse.com/company-histories/wpp-group-plc-history/
+26. "History of DDB Needham Worldwide", International Directory of Company Histories, Vol. 14, St. James Press, 1996, via FundingUniverse. https://www.fundinguniverse.com/company-histories/ddb-needham-worldwide-history/
+27. Australian Financial Review, 2008, "MindShare divides to conquer change". https://www.afr.com/companies/media-and-marketing/mindshare-divides-to-conquer-change-20080505-jcrmc
+28. Anna Louie Sussman, 2021, "The Long History of Middlemen Earning a Lucrative, Fixed Commission", UCLA Anderson Review, on Sharon Horsky and Robert Zeithammer, 2021, "The Rise and Fall of the 15%: Evolution of Advertising Agency Compensation". https://anderson-review.ucla.edu/the-long-history-of-middlemen-earning-a-lucrative-fixed-commission/
+29. Ad Age, 2019, "75th Annual Agency Report Timeline". https://adage.com/article/datacenter/75th-annual-agency-report-timeline/2166151
+30. Ken Auletta, 2018, Frenemies: The Epic Disruption of the Ad Business (and Everything Else), Penguin Press; introduction as published by the author. https://www.kenauletta.com/news/read-an-excerpt-from-frenemies
+31. Tim Wu, 2016, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Alfred A. Knopf; Columbia Law School book record and excerpt in Columbia Magazine, Winter 2016-17. https://scholarship.law.columbia.edu/books/64 and https://magazine.columbia.edu/article/book-excerpt-attention-merchants-epic-scramble-get-inside-our-heads
+32. Kevin Gray and Byron Sharp, "How Brands Don't Grow: Part 2", Ehrenberg-Bass Institute. https://marketingscience.info/news-and-insights/how-brands-dont-grow-part-2
+33. Marketing Week, 2019, "Purpose could be 'the death of brands', warns Byron Sharp". https://www.marketingweek.com/byron-sharp-purpose-death/
+34. Les Binet and Peter Field, 2017, Media in Focus: Marketing Effectiveness in the Digital Era, IPA. https://screenforce.nl/wp-content/uploads/2017/10/20171023-Media-in-focus-marketing-effectiveness-in-the-digital-era.pdf
+35. Mike Follett, 2018, "Attention: The Common Currency for Media", Lumen Research with JCDecaux. https://www.jcdecaux.com/jcdecaux/download-file?url=public%3A%2F%2Fblocks%2Fdownloadable_file%2F2018-06%2F1805attenioncommoncurrencymediajcdecauxlumenoohresearchwhitepaperen.pdf
+36. Integral Ad Science, 9 July 2026, "IAS's 21st Media Quality Report Shows How Proactive Optimization Turns Media Quality into a Performance Engine". https://integralads.com/news/ias-21st-media-quality-report/
+37. US Bureau of Labor Statistics, Current Employment Statistics, series CEU6054181001, Advertising agencies (NAICS 54181), all employees, annual averages, not seasonally adjusted, retrieved via the BLS public API, 1 October 2026. https://data.bls.gov/timeseries/CEU6054181001
+38. Business Insider, 2013, "BEHOLD: the First Banner Ad Ever, From 1994". https://www.businessinsider.com/behold-the-first-banner-ad-ever--from-1994-2013-2
 
 ### 2000. Google launches AdWords
 
 Source: https://bravenewhive.com/history-of-advertising/2000-google-adwords/
-Date: 2026-08-09. Read: 2 min.
+Date: 2026-08-09. Read: 10 min.
 
-In October 2000, Google opened self-service search advertising. The ad was matched to the search query. Intent became something a marketer could buy.
+In October 2000 Google let any business buy a search query. The AdWords record, the auction, the commission it bypassed, and what to do with it.
 
-AdWords tied the ad to the search query. Pricing per click followed in 2002. Small budgets became viable and measurement became standard, and for two decades the results page was the most valuable real estate in marketing. That run is ending.
+## The moment
+
+Mountain View, California, 23 October 2000. Google is two years old, privately held, answering more than 20 million searches a day, and it puts out a press release [1]. The product is called AdWords. Any business can go to adwords.google.com, pick keywords, write a short text ad, and watch it appear beside the search results within minutes. There is no sales call and no agency in between. Around 350 businesses and agencies signed up during the beta earlier in the month. The ad shows only when a user types the words the advertiser bought; the release calls the result a "prequalified visitor". Nobody calls it the end of the media department.
+
+## What came before
+
+Banner advertising on the web was sold the way magazine pages were, by the thousand impressions, on the hope that the right people were looking. Google's first ads, the premium sponsorships of August 2000, went through a sales team at a cost per thousand, and AdWords at launch kept that logic: $15, $12 and $10 per thousand impressions for the top, middle and bottom positions [1].
+
+The idea that a search engine could auction its results had already been tried, and booed. In February 1998 Bill Gross of the Idealab incubator stood on the TED stage and demonstrated GoTo.com, where advertisers bid for position and paid only when someone clicked. Gross remembered the logic years later: "The whole point of Internet advertising, I thought, was accountability. You could measure it, unlike with print ads." GoTo went public in June 1999, won the AOL syndication deal in September 2000, renamed itself Overture in 2001, and by early 2003 had 88,000 active advertisers [14, 15, 12].
+
+Gross had not patented it, and said so: "We didn't patent the idea. So if we don't patent it, they can copy it." The disputed first is therefore clear enough. Paid placement by auction was Overture's. The self-service keyword ad, matched to a query and bought without a human, was Google's. Google put the two together sixteen months later [14].
+
+## What it changed
+
+On 20 February 2002 Google announced AdWords Select: cost per click instead of cost per thousand, and an auction in which position was set by "a combination of ad performance (click-thru rate) and how much an advertiser agrees to pay per click" [2]. The second clause is the invention. An ad nobody clicked sank however much its owner bid, which made relevance a pricing input.
+
+The day after, a marketer could do three things that had never been possible together. Buy a stated need rather than an audience that might have one. Pay only when the need became a click. Change price, copy and keyword at two in the morning with no insertion order and nobody to take to lunch. Philip Kotler and Kevin Lane Keller describe it in Marketing Management as a "continuous auction on search terms that serve as a proxy for the consumer's product or consumption interests" [25].
+
+The money followed fast. Google's advertising revenue was $66.9 million in 2001, $410.9 million in 2002 and $1.42 billion in 2003, and advertisers supplied 94 to 99 percent of revenue through the first decade [3, 4, 5]. In 2025 Google advertising revenue was $294.7 billion, and Alphabet still took "more than 70% of total revenues from online advertising" [11].
+
+Overture sued in 2002 [14]. Yahoo bought Overture in 2003 for about $1.63 billion [12]. On 9 August 2004, nine days before Google priced its IPO, the two settled: Google took a licence to US Patent 6,269,361, Yahoo dropped the suit, and Google issued 2.7 million Class A shares to Yahoo for the patent and an older warrant dispute [13].
+
+Search became the largest category of US internet advertising and has led it since: 35 percent of the total in 2003, 40 percent in 2004 [16a]. The share has slipped as video and social grew, from 48 percent in 2016 to 38.8 percent in 2025, while the dollars climbed from $34.6 billion to $114.2 billion [16b, 16h].
+
+In 2019 US television advertising was still $70.6 billion against $54.7 billion for paid search, in the same IAB and PwC tables [16d]. By 2021 search had reached $78.3 billion and television, on eMarketer's count, $65.7 billion [16e, 17]. The crossing sits in 2020 or 2021; we could not reach the one table that would settle it.
+
+Google said in October 2000 that it handled more than 20 million searches a day; in August 2012, 100 billion a month; in May 2016, "trillions" a year; in March 2025, "more than 5 trillion searches on Google annually" [1, 20, 21, 19]. One engine has held around nine in ten of the world's searches in every year StatCounter has counted [18].
+
+## The Mad Men thread
+
+Readers who arrive through Mad Men come for the copywriters. The record says the money came from somewhere else. From about 1920 the American media granted recognised agencies a 15 percent commission on the space and time they placed, a rate the American Association of Advertising Agencies had helped fix in 1918; the client paid the gross rate and the agency kept the difference [30, 31].
+
+The commission paid for copy, research, layouts and media planning, as Time explained in February 1956, when a Justice Department consent decree ended the 4As requirement that members collect 15 percent. The rule went; the habit stayed. In 1960 Shell and Ogilvy's agency tried a fee instead of 15 percent and made the New York Times for it [29, 31].
+
+So the 1960s media department earned more when the client spent more. Prices were negotiated between people who knew each other, and nothing in the system rewarded buying less.
+
+Mel Karmazin, then chief executive of Viacom, visited Google in 2003 and heard Page and Brin make the case for measuring everything, including the effectiveness of advertising. Ken Auletta records what Karmazin said on his way out, only half in jest: "You're fucking with the magic!" Auletta's next line is the one to keep. "Engineers don't believe in magic." [22]
+
+The auction did what the consent decree could not. There was no commission to collect and no sales rep to keep sweet, and a client with a credit card could run the account from a laptop. The flight of advertisers from old to new media, Auletta writes in Frenemies, "started in the late 1990s and accelerated in the new century" [23].
+
+The holding companies answered by putting a desk of their own between the client and the exchange: VivaKi at Publicis from 2008, Accuen at Omnicom, Xaxis at WPP's GroupM in June 2011, which Brian Lesser launched as "a new, global audience buying company" [32]. The agency was back in the room, and this time the margin was its own to defend rather than the medium's to grant.
+
+## Applied: if you are a B2C brand
+
+Say you sell a mattress online and search is your largest line. The AdWords record says you are buying intent that already exists. Someone typed "best mattress for back pain" before your ad appeared, and the auction charged you for being there when they did. Les Binet and Peter Field, in the IPA's Media in Focus, found paid search and email the most effective activation channels, and warned that activation effects "tend to decay away quickly, and don't tend to build much over time" [26]. Search harvests what something else planted.
+
+So run two books. In the first, treat every query as a buying situation and manage it like stock: exact and phrase match on the terms that convert, negative keywords for the ones that only cost, and a cost-per-order ceiling you enforce. In the second, accept that how many people search for a mattress this month is set by how many beds are wearing out, and that only brand work changes whose name they type. Kotler and Keller draw the same line, broad terms for brand building and specific ones for leads [25].
+
+We watched it happen on an anonymised residential case, a developer launching a property into a category nobody was searching yet. We built a forty-eight-term keyword architecture in four intent groups, "not to capture demand" but "to find out which door people would come through once demand existed", and kept the paid search money on the established project, where demand was real. Qualified enquiries for the launch grew every month of the quarter. Search spend follows demand and never leads it [33].
+
+## Applied: if you are a B2B brand
+
+Say you sell industrial sensors and your buyers search rarely but specifically. A plant engineer who types "ATEX certified vibration sensor 4-20mA" has told you what she needs, the standard it must meet and the signal it must speak. That query is a specification, and the auction will price it as one. Pay. Write the ad in her words and land her on the datasheet. Measure to the quote request rather than the click.
+
+John Dawes of the Ehrenberg-Bass Institute has the arithmetic for the rest of the budget: firms change providers of services like banking or software "around once every five years on average", so "only 20% of business buyers are 'in the market' over the course of an entire year; something like 5% in a quarter" [27]. The other 95 percent are typing nothing this quarter, and no bid reaches them. Dawes concludes that you advertise to people who are out of the market now, so yours is the name they know when they come in.
+
+So the sensor company runs search narrow, a few hundred exact queries with a cost per lead finance has signed off, and spends the rest on being the name in the engineer's head when the old sensor fails. The thin query is a door. Somebody still has to make her want to walk through yours.
+
+## What to do with it
+
+1. Split the search account into demand you capture (queries people type) and demand you wish existed (queries you hope for), and report them as two lines. If the second line is still spending in month three, move that money to brand work. 2. Pull click-through rate by keyword every month and rewrite or cut the bottom quartile before raising a bid; the auction has priced relevance since 2002. 3. Set one cost-per-enquiry ceiling per intent group and write it into the bid rules, so a competitor's enthusiasm cannot inflate your line. 4. Put a dated number on the share of this quarter's budget that reaches people who are not searching; if it is under half, write down why. 5. Once a year read the IAB and PwC format table and Alphabet's 10-K revenue note; if your search line grows faster than the category, find out who is funding the difference.
+
+Figure: Google's advertising revenue went from $67 million to $295 billion in twenty-five years. The line never bends down; it is the one advertising series of the century that grew in 2001, 2009 and 2020.. Source: Google Inc. and Alphabet Inc., Forms S-1 (2004) and 10-K (2004 to 2025), US Securities and Exchange Commission; 2001 from the S-1 net revenue basis, 2002 onward from the 10-K gross basis, 2013 and 2014 as restated in the 2015 10-K, 2016 onward "Google advertising" (Search and other, YouTube ads, Network). Redrawn by Brave New Media.. Unit: $ billions.
+
+| Year | Google advertising revenue ($ billions) |
+|---|---|
+| 2001 | 0.07 |
+| 2002 | 0.41 |
+| 2003 | 1.42 |
+| 2004 | 3.14 |
+| 2005 | 6.07 |
+| 2006 | 10.49 |
+| 2007 | 16.41 |
+| 2008 | 21.13 |
+| 2009 | 22.89 |
+| 2010 | 28.24 |
+| 2011 | 36.53 |
+| 2012 | 43.69 |
+| 2013 | 51.07 |
+| 2014 | 59.62 |
+| 2015 | 67.39 |
+| 2016 | 79.38 |
+| 2017 | 95.38 |
+| 2018 | 116.32 |
+| 2019 | 134.81 |
+| 2020 | 146.92 |
+| 2021 | 209.50 |
+| 2022 | 224.47 |
+| 2023 | 237.86 |
+| 2024 | 264.59 |
+| 2025 | 294.69 |
+
+Figure: Search has led US internet advertising every year, and its share has slipped nine points since 2016. Search is still the largest format at $114 billion, but video and social have taken nine points of share from it in ten years.. Source: IAB and PwC, Internet Advertising Revenue Report, full-year editions 2017 to 2025 (search includes mobile search in every year shown; earlier editions reported mobile separately). Redrawn by Brave New Media.. Unit: % of US internet ad revenue.
+
+| Year | Search share of US internet ad revenue (%) | Search revenue ($ billions) |
+|---|---|---|
+| 2016 | 48.0 | 34.6 |
+| 2017 | 46.0 | 40.6 |
+| 2018 | 45.1 | 48.4 |
+| 2019 | 43.9 | 54.7 |
+| 2020 | 42.2 | 59.0 |
+| 2021 | 41.4 | 78.3 |
+| 2022 | 40.2 | 84.4 |
+| 2023 | 39.5 | 88.8 |
+| 2024 | 39.8 | 102.9 |
+| 2025 | 38.8 | 114.2 |
+
+Figure: US paid search overtook television between 2019 and 2021. Television was still $16 billion ahead in 2019; two years later search was $13 billion ahead, and the gap has only widened.. Source: Search: IAB and PwC, Internet Advertising Revenue Report, full-year 2017, 2018, 2019, 2021 and 2022. Television 2017 to 2019: PwC Global Entertainment and Media Outlook as published in the same IAB reports; television 2021 and 2022: eMarketer, US Ad Spending 2023 (May 2023), broadcast and cable, excluding digital. 2020 omitted: the full-year 2020 IAB report was not reached. Redrawn by Brave New Media.. Unit: $ billions.
+
+| Year | Paid search ($ billions) | Television ($ billions) |
+|---|---|---|
+| 2017 | 40.6 | 70.1 |
+| 2018 | 48.4 | 71.0 |
+| 2019 | 54.7 | 70.6 |
+| 2021 | 78.3 | 65.7 |
+| 2022 | 84.4 | 66.6 |
+
+Figure: Google's own stated search volume: 20 million a day in 2000, 5 trillion a year in 2025. Google publishes a volume figure about once a decade; each one is a floor, and each is a different order of magnitude from the last.. Source: Google press release, 23 October 2000; Google search press briefing, 8 August 2012, as reported by Search Engine Land; Google Performance Summit, 24 May 2016, as reported by Search Engine Roundtable and later confirmed to Search Engine Land as at least 2 trillion; Google, The Keyword, 3 March 2025 (Google internal data, January 2025). Monthly and annual figures converted to a daily rate by Brave New Media (divided by 30.4 and 365); 2016 and 2025 are floors. Redrawn by Brave New Media.. Unit: Searches per day, billions.
+
+| Statement | Searches per day (billions) | As stated by Google |
+|---|---|---|
+| October 2000 | 0.02 | more than 20 million searches per day |
+| August 2012 | 3.3 | 100 billion searches per month |
+| May 2016 | 5.5 | "trillions" per year, at least 2 trillion (floor) |
+| January 2025 | 13.7 | more than 5 trillion searches per year (floor) |
+
+Figure: Google has held about nine in ten searches worldwide every year since 2009. Sixteen years of data and the range is four points: the auction has had one house the whole time.. Source: StatCounter Global Stats, Search Engine Market Share Worldwide, all platforms, yearly 2009 to 2025, page-view sample across StatCounter's tracking network. Redrawn by Brave New Media.. Unit: % of searches.
+
+| Year | Google (%) | Bing (%) | Yahoo (%) |
+|---|---|---|---|
+| 2009 | 90.28 | 2.30 | 4.78 |
+| 2010 | 90.91 | 3.46 | 3.93 |
+| 2011 | 91.07 | 3.57 | 3.59 |
+| 2012 | 91.85 | 3.09 | 3.01 |
+| 2013 | 90.24 | 3.36 | 3.12 |
+| 2014 | 89.81 | 3.63 | 3.57 |
+| 2015 | 90.61 | 3.02 | 3.40 |
+| 2016 | 92.01 | 2.79 | 2.62 |
+| 2017 | 92.09 | 2.76 | 2.12 |
+| 2018 | 91.40 | 2.82 | 2.15 |
+| 2019 | 92.63 | 2.44 | 1.83 |
+| 2020 | 92.08 | 2.70 | 1.63 |
+| 2021 | 92.01 | 2.58 | 1.49 |
+| 2022 | 92.07 | 3.19 | 1.36 |
+| 2023 | 92.38 | 2.97 | 1.16 |
+| 2024 | 90.67 | 3.74 | 1.22 |
+| 2025 | 89.91 | 4.02 | 1.37 |
+
+Sources:
+
+1. Google Inc., 23 October 2000, "Google Launches Self-Service Advertising Program", press release, Mountain View. http://googlepress.blogspot.com/2000/10/google-launches-self-service.html
+2. Google Inc., 20 February 2002, "Google Introduces New Pricing for Popular Self-Service Online Advertising Program", press release. https://googlepress.blogspot.com/2002/02/google-introduces-new-pricing-for.html
+3. Google Inc., 29 April 2004, Form S-1 registration statement, US Securities and Exchange Commission. https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm
+4. Google Inc., 30 March 2005, Form 10-K for 2004, SEC. https://www.sec.gov/Archives/edgar/data/1288776/000119312505065298/d10k.htm
+5. Google Inc., 15 February 2008, Form 10-K for 2007, SEC. https://www.sec.gov/Archives/edgar/data/1288776/000119312508032690/d10k.htm
+6. Google Inc., Forms 10-K for 2010, 2011 and 2014, advertising revenues 2008 to 2012, read through the SEC XBRL company facts file. https://data.sec.gov/api/xbrl/companyfacts/CIK0001288776.json
+7. Alphabet Inc., 11 February 2016, Form 10-K for 2015, SEC. https://www.sec.gov/Archives/edgar/data/1652044/000165204416000012/goog10-k2015.htm
+8. Alphabet Inc., 5 February 2019, Form 10-K for 2018, SEC. https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm
+9. Alphabet Inc., 2 February 2022, Form 10-K for 2021, SEC. https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/goog-20211231.htm
+10. Alphabet Inc., 5 February 2025, Form 10-K for 2024, SEC. https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm
+11. Alphabet Inc., 5 February 2026, Form 10-K for 2025, SEC. https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm
+12. Yahoo! Inc. and Overture Services, Inc., 14 July 2003, "Yahoo! to Acquire Overture", joint press release filed as Form 425, SEC; and Overture Services, Inc., 3 September 2003, Form 425 (special stockholder meeting of 7 October 2003). https://www.sec.gov/Archives/edgar/data/1060439/000095014803001717/v91459ae425.htm and https://www.sec.gov/Archives/edgar/data/1060439/000095014803002174/v91459ae425.htm
+13. Yahoo! Inc. and Google Inc., 9 August 2004, "Yahoo! and Google Resolve Disputes", press release; and Google Inc., 9 August 2004, Form S-1/A, SEC (2,700,000 Class A shares issued to Yahoo! in connection with the settlement). http://googlepress.blogspot.com/2004/08/yahoo-and-google-resolve-disputes.html and https://www.sec.gov/Archives/edgar/data/1288776/000119312504135503/ds1a.htm
+14. Oremus, W., 13 October 2013, "Google's Big Break: How Bill Gross' GoTo.com Inspired the AdWords Business Model", Slate. https://slate.com/business/2013/10/googles-big-break-how-bill-gross-goto-com-inspired-the-adwords-business-model.html
+15. Dijck, J. van (ed.), "GoTo: The Forgotten Search Engine", The History of the Web. https://thehistoryoftheweb.com/goto-forgotten-search-engine/
+16. IAB and PwC, Internet Advertising Revenue Reports (conducted by PwC for the Interactive Advertising Bureau): (a) full year 2004 release, 28 April 2005, https://www.iab.com/news/iabpwc-release-full-year-2004-internet-ad-revenue-figures/; (b) full year 2017, May 2018, https://www.iab.com/wp-content/uploads/2018/05/IAB-2017-Full-Year-Internet-Advertising-Revenue-Report.REV_.pdf; (c) full year 2018, May 2019, https://www.iab.com/wp-content/uploads/2019/05/Full-Year-2018-IAB-Internet-Advertising-Revenue-Report.pdf; (d) full year 2019, May 2020, https://www.iab.com/wp-content/uploads/2020/05/FY19-IAB-Internet-Ad-Revenue-Report_Final.pdf; (e) full year 2021, April 2022, https://www.iab.com/wp-content/uploads/2022/04/IAB_Internet_Advertising_Revenue_Report_Full_Year_2021.pdf; (f) full year 2022, April 2023, https://www.iab.com/wp-content/uploads/2023/04/IAB_PwC_Internet_Advertising_Revenue_Report_2022.pdf; (g) full year 2024, April 2025, https://www.iab.com/wp-content/uploads/2025/04/IAB_PwC-Internet-Ad-Revenue-Report-Full-Year-2024.pdf; (h) full year 2025, April 2026, https://www.iab.com/wp-content/uploads/2026/04/IAB_PwC_Internet_Ad_Revenue_Report_Full_Year_2025_April_2026.pdf
+17. Cramer-Flood, E., May 2023, US Ad Spending 2023, eMarketer (Insider Intelligence), chart "US TV Ad Spending, 2021-2027". https://www.emarketer.com/uploads/pdf/US_Ad_Spending_2023.pdf
+18. StatCounter Global Stats, Search Engine Market Share Worldwide, yearly 2009 to 2025, CSV download read 1 October 2026. https://gs.statcounter.com/search-engine-market-share/all/worldwide/#yearly-2009-2025
+19. Srinivasan, V., 3 March 2025, "AI, personalization and the future of shopping", Google (The Keyword), footnote "Google Internal Data, Jan 2025". https://blog.google/products/ads-commerce/ai-personalization-and-the-future-of-shopping/
+20. Sullivan, D., 8 August 2012, "Google: 100 Billion Searches Per Month, Search To Integrate Gmail, Launching Enhanced Search App For iOS", Search Engine Land, live report of Google's search press briefing with Amit Singhal; read in the Internet Archive copy. https://searchengineland.com/google-search-press-129925
+21. Schwartz, B., 25 May 2016, "Google Handles Trillions Of Searches Per Year", Search Engine Roundtable, https://www.seroundtable.com/google-has-trillions-of-searches-per-year-22142.html; and Goodwin, D., 3 March 2025, "Google now sees more than 5 trillion searches per year", Search Engine Land, https://searchengineland.com/google-5-trillion-searches-per-year-452928
+22. Auletta, K., 2009, Googled: The End of the World As We Know It, Penguin Press, New York; excerpt published by NPR, 19 November 2009, https://www.npr.org/2009/11/19/120389927/excerpt-googled; see also Lanchester, J., 21 February 2010, review, The Guardian, https://www.theguardian.com/books/2010/feb/21/googled-ken-auletta
+23. Auletta, K., 2018, Frenemies: The Epic Disruption of the Ad Business (and Everything Else), Penguin Press; excerpt on the author's site. https://www.kenauletta.com/news/read-an-excerpt-from-frenemies
+24. Wu, T., 2016, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Knopf, New York; publisher's description as held by Columbia Law School Scholarship Archive. https://scholarship.law.columbia.edu/books/64
+25. Kotler, P. and Keller, K. L., 2012, Marketing Management, 14th edition, Pearson Prentice Hall, chapter 19, "Search ads" (PDF page 565 of the edition read).
+26. Binet, L. and Field, P., 2017, Media in Focus: Marketing Effectiveness in the Digital Era, IPA, London, pp. 4 to 5 and 11. https://screenforce.nl/wp-content/uploads/2017/10/20171023-Media-in-focus-marketing-effectiveness-in-the-digital-era.pdf
+27. Dawes, J., 2021, "The 95:5 Rule", Ehrenberg-Bass Institute for the LinkedIn B2B Institute, author's text, https://johndawes.info/the-955-rule/; and Marketing Week, 2021, "Ehrenberg-Bass: 95% of B2B buyers are not in the market for your products", https://www.marketingweek.com/ehrenberg-bass-linkedin-b2b-buyers/
+28. Levy, S., 2011, In the Plex: How Google Thinks, Works, and Shapes Our Lives, Simon and Schuster, New York; the Veach passage as summarised in Digiday, 5 October 2017, "Programmatic advertising is preparing for the first-price auction era". https://digiday.com/marketing/programmatic-advertising-readying-first-price-auction-era/
+29. Time, 13 February 1956, "Advertising: Consent Decree". https://time.com/archive/6828448/advertising-consent-decree/
+30. Ad Age Encyclopedia of Advertising, 15 September 2003, "Commission system", as reproduced by Communications Counsel. https://www.communicationscounsel.com/commission-system
+31. Zeithammer, R. and Horsky, S., 8 August 2024, "A Model of the Evolution of Full-Service Advertising Agencies", UCLA Anderson School of Management working paper (citing New York Times, 1960, "Advertising: Shell and Ogilvy Try a Fee Instead of 15%"). https://www.anderson.ucla.edu/sites/default/files/document/2024-10/Model%20of%20Evolution%20of%20full-service%20advertising%20agencies.pdf
+32. AdExchanger, 27 June 2011, "Xaxis CEO Lesser Discusses New Audience Buying Company And Partnership With GroupM", https://www.adexchanger.com/agencies/xaxis/; AdExchanger, 12 September 2011, "Jacobs Joins Omnicom Media Group's Accuen Trading Desk As President", https://www.adexchanger.com/agencies/jacobs-omnicom-accuen/; Business Insider, May 2012, "How Google Helps Fuel a Cesspit of Conflicts Among Web Ad Buyers", https://www.businessinsider.com/how-google-helps-fuel-a-cesspit-of-conflicts-among-web-ad-buyers-2012-5; VivaKi, 28 July 2014, press release (Marketwired), "VivaKi was established in 2008". https://finance.yahoo.com/news/vivaki-partners-ghostery-enterprise-offer-133000263.html
+33. Brave New, 2026, Case study 02, "Five projects, one voice" (anonymised residential developer), internal publication file.
 
 ### 2022. ChatGPT is released
 
 Source: https://bravenewhive.com/history-of-advertising/2022-chatgpt/
-Date: 2026-08-04. Read: 3 min.
+Date: 2026-08-04. Read: 10 min.
 
-OpenAI released ChatGPT on 30 November 2022. Within months, a growing share of buyers were asking a model for a recommendation instead of reading a results page.
+ChatGPT, 30 November 2022: the day the answer replaced the results page. What the record shows, what it changed for brands, and what to do on Monday.
 
-The shift changes what a brand has to be. A results page ranks ten options. An answer names one or two, and eleventh is the same as absent. Whether a model can retrieve a brand, and describe it correctly, is now a marketing question rather than a technical one. The [AI marketing](/ai-marketing/what-is-ai-marketing/) section is about that.
+## The moment
+
+On 30 November 2022, OpenAI posted a note titled "Introducing ChatGPT". It said the company had trained a model that "interacts in a conversational way", that the dialogue format let it answer follow-up questions and admit its mistakes, and that during the research preview use was free [1]. The launch was that post and a link.
+
+Five days later Sam Altman wrote that ChatGPT had "crossed 1 million users" [2]. The box took anything: a contract, a recipe, a shopping question. Somewhere in that first week a shopper typed a question that would once have gone to a search box, read the paragraph that came back, and did not click anything. That is the moment.
+
+## What came before
+
+A buyer with a question had, since the late 1990s, one habit: type it into a search engine, read a page of links, click two or three, decide. Digital marketing sat on top of that habit, the auction beside the links, the agencies bidding in it, the pages written to rank in it. Tim Wu calls the business the attention merchant, and the deal, in his publisher's summary, has not changed since the penny press: "free diversion in exchange for a moment of your time, sold in turn to the highest-bidding advertiser" [25].
+
+Conversational answers were not new in 2022. Google had shown its own dialogue model, LaMDA, in 2021. On 6 February 2023 Sundar Pichai announced Bard, "an experimental conversational AI service, powered by LaMDA", and opened it to trusted testers [12]. A year later Bard became Gemini. Google had the model first. OpenAI had the product first, free and public, in a chat box, with no instructions.
+
+## What it changed
+
+The day before, a marketer could buy a position on a page and write a page that deserved one. The day after, a model read the pages and wrote the answer itself, named two or three brands in it, and the buyer often stopped there. The brand is either in the answer or it is not. There is no second page.
+
+The UBS note reported by Reuters estimated 100 million monthly users in January 2023, two months after launch; the analysts wrote that "in 20 years following the internet space, we cannot recall a faster ramp in a consumer internet app" [3]. TikTok had taken about nine months and Instagram two and a half years [4]. OpenAI then switched to a stricter measure, weekly active users: 100 million in November 2023, 200 million in August 2024, 300 million in December 2024, 400 million in February 2025, 800 million in October 2025, 900 million in February 2026, and "more than 1 billion" by the end of August 2026 [5][6][7][8][9][10][11].
+
+Google answered inside search itself. On 14 May 2024 Elizabeth Reid wrote that "AI Overviews will begin rolling out to everyone in the U.S." [14]. Semrush tracked more than ten million keywords through 2025 and found the share of US desktop queries triggering an AI Overview went from 6.49% in January to 13.14% in March and 24.61% in July, before settling at 15.69% in November [15]. Google is still deciding how often to show one. Plan for the range.
+
+Then the clicks. Pew Research Center watched 900 US adults make 68,879 Google searches in March 2025. An AI summary appeared on 18% of them, and when it did users clicked a result link on 8% of visits against 15% when it did not, clicked a link inside the summary on 1% of visits, and ended their browsing session 26% of the time against 16% [16]. Gartner had already forecast in February 2024 that traditional search engine volume would drop 25% by 2026 as chatbots and virtual agents took share [18]. Nothing in the sources here says whether it has. Semrush and Pew point the same way.
+
+The money did not leave. US internet advertising revenue went from $209.7 billion in 2022 to $294.6 billion in 2025 [20]. What moved is where a brand gets remembered.
+
+Byron Sharp defines mental availability as "the probability that a buyer will notice, recognize and/or think of a brand in buying situations" [26]. For seventy years that probability lived in the buyer's memory. From 2022 it has a second holder, a model that is asked the buying question and answers from what it has read.
+
+Kevin Lane Keller's measure of breadth, "the range of purchase and consumption situations in which the brand comes to mind" [27], is what an answer engine tests, one prompt at a time. The engine also borrows Robert Cialdini's authority and social proof: it favours sources that combine expertise and trustworthiness, and it repeats what many similar others say [28]. Pew found the summaries drew 15% of their sources from Wikipedia, YouTube and Reddit, and 6% from government sites against 2% in ordinary results [16]. The engine cites the reference and the crowd.
+
+The trade named it within a year. In November 2023 six researchers posted a paper titled "GEO: [Generative Engine Optimization](/ai-marketing/what-is-generative-engine-optimization/)", reporting that changes to a page's content could raise its visibility in generative answers by up to 40% [19]. "AEO", answer engine optimisation, followed in the agency decks. The acronyms are new. The test is Sharp's.
+
+## The Mad Men thread
+
+The series puts the reader in a Madison Avenue office in 1960. The record puts a number on how that office was paid. From the 1880s until the 1980s an American agency earned a 15% commission on the media it bought for its client, a system advertisers challenged for decades and that survived a 1956 antitrust consent decree [22]. The agency wrote the message and was paid for buying the audience, both under one roof. Lasker's Lord and Thomas, Rubicam, Ogilvy, Bernbach's DDB, Burnett and Bates argued about the message and sent the same shape of invoice.
+
+The web broke the invoice once already. On 27 October 1994 HotWired went live with banners from a dozen advertisers, among them AT&T, MCI, Volvo and IBM. The AT&T banner was built by Modem Media, a new shop; several others came from Organic; Ogilvy and Mather held IBM's business by contract. The holding companies bought their way in afterwards. Modem Media was folded into Digitas, and Publicis bought Digitas for $1.3 billion in December 2006 [23].
+
+Ken Auletta's word for what came next is frenemies: "a once comfortable agency business is now assailed by frenemies, companies that both compete and cooperate with them" [24].
+
+The 2023 to 2025 record reads like 1994 with larger numbers. In January 2024 WPP told investors its plans included "annual cash investment of around £250m in proprietary technology to support our AI and data strategy". Publicis announced CoreAI on 25 January 2024, with 300 million euros over three years. Omnicom ran generative AI prompting workshops for its own staff at Cannes in June 2024, and the next January its media group wrote from CES that brands "must rethink marketing for a future where AI, not humans, dictates choices" [21]. As in 1994, the agencies arrived after the buyers and paid to catch up. That is our reading of the dates; the record does not measure the gap.
+
+In 1960 the agency controlled the message and bought the audience. In 2022 the model wrote the answer, and all an agency had left to sell was the work of being worth citing.
+
+## Applied: if you are a B2C brand
+
+Say you sell a premium dry food for older dogs, in three European markets, at twice the supermarket price. A shopper opens an assistant and types "what is the best dry food for a senior dog". Three brands come back with a sentence each.
+
+Your ad budget does not decide which three. The engine assembles its answer from pages it trusts, and four things make a page trustable. First, a definition with a source on it. Your page says what "senior" means for a small breed and a large one, names the veterinary source, and the engine lifts the sentence whole. Then mentions by others, a veterinary association's list, a retailer's buying guide, a forum thread where owners compare notes, because the summaries draw on the reference and the crowd [16], and a homepage is neither. Third, an author with a name: a veterinary nutritionist with a registration on the page is Cialdini's authority in a form a model can read. And data of your own, a feeding trial with its sample size and method.
+
+## Applied: if you are a B2B brand
+
+Say you run cold-chain logistics across Europe and your buyers are procurement leads at pharmaceutical companies. One of them types "which cold-chain providers serve pharma in the Netherlands". The same four tests apply and they are harder, because B2B pages are written for a committee that already knows you, and the engine is a stranger with one question. Your definition is the temperature bands and the regulation you ship under, in one sentence. The mentions sit in dull places: the port's directory, the trade body's member list, the pharma association's supplier register, a named article in a trade journal. Put the operations director's name on the page as author. Publish lane-level performance data of your own, with dates.
+
+We have done this to ourselves: on 27 September 2026, a one-sample baseline on one engine, grounding on, four prompts. On the three category prompts, one on agencies a B2B company should hire for [AI marketing](/ai-marketing/what-is-ai-marketing/) and two on investor communications agencies in two markets, the engine named around ten firms per answer. It named no agency we would call a peer, and it named us zero times. The fourth prompt asked who we are, and it described us accurately from our own site [30]. Ask it who we are and it knows. Ask it who to hire and we are not on the list. The dog food brand has the same gap.
+
+## What to do with it
+
+1. Write the ten questions a buyer would type, in their words, and ask each engine you care about once a month. Record three things per answer: named or not, position, and whether the description matches yours. Keep the log. 2. Put a named author with a checkable credential on every page that answers a question, and give each of them one definition the engine can lift in a single sentence. 3. Publish one piece of original data a quarter, with method and sample size. It is the only thing in your category a competitor cannot paste. 4. Count where others mention you in the sources the engines already cite: reference sites, association lists, forums, trade press, government registers. Add one a month. 5. Hold the brand budget. Binet and Field's split, roughly 60:40 brand to activation, was about memory before an engine existed [29]. The engine tests the same memory. Do not fund a new acronym by cutting the thing it measures.
+
+Figure: ChatGPT went from 100 million to a billion weekly users in under three years. Each point is a company announcement, not a continuous series; the August 2026 figure is OpenAI's own "more than 1 billion", plotted at 1,000.. Source: OpenAI announcements as reported by The Verge (Nov 2023), Axios (Aug 2024), The Verge and CNBC (Dec 2024), CNBC (Feb 2025), TechCrunch (Mar, Aug and Oct 2025, Feb 2026) and OpenAI (31 Aug 2026, "more than 1 billion"). Redrawn by Brave New Media.. Unit: millions of weekly active users.
+
+| Month announced | Weekly active users (millions) |
+|---|---|
+| Nov 2023 | 100 |
+| Aug 2024 | 200 |
+| Dec 2024 | 300 |
+| Feb 2025 | 400 |
+| Mar 2025 | 500 |
+| Aug 2025 | 700 |
+| Oct 2025 | 800 |
+| Feb 2026 | 900 |
+| Aug 2026 | 1000 |
+
+Figure: ChatGPT reached 100 million users in two months; Instagram needed two and a half years. ChatGPT's 100 million is a monthly-user estimate from Similarweb; Facebook ("around four and a half years") and Twitter ("over five years") are rounded from The Verge's wording and should be read as approximate.. Source: UBS analyst note, February 2023, with Similarweb and Sensor Tower data, as reported by Reuters and The Guardian; Facebook and Twitter figures from The Verge, November 2023. Redrawn by Brave New Media.. Unit: months.
+
+| Service | Months to 100 million users |
+|---|---|
+| ChatGPT | 2 |
+| TikTok | 9 |
+| Instagram | 30 |
+| Facebook | 54 |
+| Twitter | 60 |
+
+Figure: AI Overviews went from 6% of queries to 25% in six months, then settled near 16%. The study publishes only these five months as figures in text; the gaps are real and the designer should plot points, not a smooth curve. Semrush reports the keywords triggering an Overview were 89% informational in October 2024 and 57% in October 2025.. Source: Semrush, AI Overviews study, 10M+ keywords, Semrush US desktop database, January to November 2025, updated 15 December 2025. Redrawn by Brave New Media.. Unit: % of queries.
+
+| Month (2025) | % of queries with an AI Overview |
+|---|---|
+| January | 6.49 |
+| February | 7.64 |
+| March | 13.14 |
+| July | 24.61 |
+| November | 15.69 |
+
+Figure: When Google shows an AI summary, clicks on results fall from 15% to 8% of visits. An AI summary appeared on 18% of the searches in the sample, and users clicked a link inside the summary itself on 1% of those visits.. Source: Pew Research Center, Google users are less likely to click on links when an AI summary appears in the results, July 2025, n=900 US adults, 68,879 searches, March 2025. Redrawn by Brave New Media.. Unit: % of visits.
+
+| Behaviour | AI summary shown | No AI summary |
+|---|---|---|
+| Clicked a result link | 8 | 15 |
+| Ended the browsing session | 26 | 16 |
+
+Figure: The share of US adults who have used ChatGPT went from 18% to 44% in three years. From 2023 to 2025 the question was asked of those who had heard at least a little about ChatGPT; in 2026 the wording also asked about other chatbots, so the last bar is not strictly comparable and the designer should mark the break.. Source: Pew Research Center, Americans and AI 2026, appendix table, surveys 2023 to February 2026, 2025 wave n=5,123. Redrawn by Brave New Media.. Unit: % of US adults.
+
+| Survey year | % of US adults |
+|---|---|
+| 2023 | 18 |
+| 2024 | 23 |
+| 2025 | 34 |
+| 2026 | 44 |
+
+Sources:
+
+1. OpenAI, 2022, Introducing ChatGPT, 30 November 2022. https://openai.com/index/chatgpt/
+2. Altman, S., 2022, post on X, 5 December 2022, "ChatGPT launched on wednesday. today it crossed 1 million users!", as quoted in Tech Startups, ChatGPT crosses 1 million users five days after launch. https://techstartups.com/2022/12/05/chatgpt-crosses-1-million-users-five-days-launch ; Brockman, G., 2022, post on X, 5 December 2022. https://x.com/gdb/status/1599683104142430208
+3. The Guardian, 2023, ChatGPT reaches 100 million users two months after launch, 2 February 2023 (reporting the UBS note via Reuters, with Similarweb and Sensor Tower data). https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app
+4. Reuters, 2023, ChatGPT fastest-growing app in history, UBS study shows, video, 2 February 2023. https://www.youtube.com/watch?v=Tbd-u9EsRn8
+5. The Verge, 2023, ChatGPT continues to be one of the fastest-growing services ever, 6 November 2023. https://www.theverge.com/2023/11/6/23948386/chatgpt-active-user-count-openai-developer-conference
+6. Axios, 2024, OpenAI says ChatGPT usage has doubled since last year, 29 August 2024. https://www.axios.com/2024/08/29/openai-chatgpt-200-million-weekly-active-users ; The Verge, 2024, ChatGPT's weekly users have doubled in less than a year. https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users
+7. The Verge, 2024, ChatGPT now has over 300 million weekly users, 4 December 2024. https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users ; CNBC, 2024, OpenAI's active user count soars to 300 million people per week. https://www.cnbc.com/2024/12/04/openais-active-user-count-soars-to-300-million-people-per-week.html
+8. CNBC, 2025, OpenAI tops 400 million users despite DeepSeek's emergence, 20 February 2025. https://www.cnbc.com/2025/02/20/openai-tops-400-million-users-despite-deepseeks-emergence.html
+9. TechCrunch, 2025, Sam Altman says ChatGPT has hit 800M weekly active users, 6 October 2025 (also reports 500 million at end of March 2025 and 700 million in August 2025). https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users
+10. TechCrunch, 2026, ChatGPT reaches 900M weekly active users, 27 February 2026. https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users
+11. OpenAI, 2026, A milestone in expanding access to AI, 31 August 2026. https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
+12. Pichai, S., Google, 2023, An important next step on our AI journey, 6 February 2023. https://blog.google/technology/ai/bard-google-ai-search-updates/
+13. Hsiao, S., Google, 2024, Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today, 8 February 2024. https://blog.google/products/gemini/bard-gemini-advanced-app/
+14. Reid, E., Google, 2024, Generative AI in Search: Let Google do the searching for you, 14 May 2024. https://blog.google/products/search/generative-ai-google-search-may-2024/
+15. Garanko, J., Semrush, 2025, Semrush Report: AI Overviews' Impact on Search in 2025, updated 15 December 2025, 10M+ keywords, January to November 2025. https://www.semrush.com/blog/semrush-ai-overviews-study/ ; Semrush, 2025, AI SEO Tips (February 2025 figure, US desktop). https://www.semrush.com/blog/ai-seo-tips
+16. Pew Research Center, 2025, Google users are less likely to click on links when an AI summary appears in the results, 22 July 2025, n=900 adults, 68,879 searches, March 2025. https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/
+17. Pew Research Center, 2026, Americans and AI 2026: Chatbots, Smart Devices and Views on Impact, appendix, share of US adults who say they ever use ChatGPT, 2023 to 2026, survey 17 to 23 February 2026. https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-appendix-detailed-chart-and-tables ; Pew Research Center, 2025, 34% of U.S. adults have used ChatGPT, about double the share in 2023, n=5,123. https://www.pewresearch.org/short-reads/2025/06/25/34-of-us-adults-have-used-chatgpt-about-double-the-share-in-2023/
+18. Gartner, 2024, Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents, press release, 19 February 2024. https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents
+19. Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K., Deshpande, A., 2023, GEO: Generative Engine Optimization, arXiv:2311.09735, v1 16 November 2023, accepted to KDD 2024. https://arxiv.org/abs/2311.09735
+20. IAB and PwC, 2023, Internet Advertising Revenue Report: Full Year 2022 ($209.7 billion). https://www.iab.com/wp-content/uploads/2023/04/IAB_PwC_Internet_Advertising_Revenue_Report_2022.pdf ; IAB, 2024, Internet Advertising Revenue Report: Full Year 2023 ($225 billion). https://www.iab.com/insights/internet-advertising-revenue-report-2024 ; IAB, 2025, Internet Advertising Revenue Report: Full Year 2024 ($259 billion). https://www.iab.com/insights/internet-advertising-revenue-report-full-year-2024/ ; IAB, 2026, Digital Ad Revenue Climbs to Nearly $300B as IAB Celebrates 30 Year Anniversary ($294.6 billion, 2025), 16 April 2026. https://www.iab.com/news/digital-ad-revenue-climbs-to-nearly-300b-as-iab-celebrates-30-year-anniversary
+21. Holding company releases: WPP, 2024, Capital Markets Day 2024, 30 January 2024. https://www.wpp.com/en/news/2024/01/capital-markets-day-2024 ; Publicis Groupe, 2024, After another record year ahead of expectations, Publicis unveils AI strategy to lead group into its second century, 25 January 2024. https://www.publicisgroupe.com/en/news/press-releases/after-another-record-year-ahead-of-expectations-publicis-unveils-ai-strategy-to-lead-group-into-its-second-century ; Omnicom, 2024, A Look Back at Cannes 2024. https://www.omnicomgroup.com/wp-content/uploads/2024/09/OMC_A-Look-Back-at-Cannes-Lions_2024.pdf ; Stephenson, C., Omnicom Media Group, 2025, CES 2025: The Technology Amplifiers. https://www.omnicomgroup.com/wp-content/uploads/2025/02/CES-2025-The-Technology-Amplifiers-1-1.pdf
+22. UCLA Anderson Review, The Long History of Middlemen Earning a Lucrative, Fixed Commission. https://anderson-review.ucla.edu/the-long-history-of-middlemen-earning-a-lucrative-fixed-commission
+23. The first banner record: Digiday, 2017, "The beginning of a giant industry": An oral history of the first banner ad, 8 November 2017. https://digiday.com/media/history-of-the-banner-ad ; Internet History Podcast, 2014, On the 20th anniversary, an oral history of the web's first banner ads. https://www.internethistorypodcast.com/banner ; Business Insider via Yahoo Finance, 2013, Behold: The First Banner Ad Ever, From 1994 (Modem Media folded into Digitas). https://finance.yahoo.com/news/behold-first-banner-ad-ever-222408965.html ; CNBC and Reuters, 2006, Ad Merger: Publicis To Buy Digitas For $1.3 Billion, 21 December 2006. https://www.cnbc.com/2006/12/21/ad-merger-publicis-to-buy-digitas-for-13-billion.html
+24. Auletta, K., 2018, Frenemies: The Epic Disruption of the Ad Business (and Everything Else), Penguin Press; excerpt. https://www.kenauletta.com/news/read-an-excerpt-from-frenemies
+25. Wu, T., 2016, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Alfred A. Knopf; Columbia Law School record. https://scholarship.law.columbia.edu/books/64
+26. Sharp, B., 2010, How Brands Grow, Oxford University Press, chapter 12; Sharp, B., Ehrenberg-Bass Institute, Mental availability is not awareness, brand salience is not awareness. https://marketingscience.info/news-and-insights/mental-availability-is-not-awareness-brand-salience-is-not-awareness
+27. Keller, K. L., 2001, Building Customer-Based Brand Equity: A Blueprint for Creating Strong Brands, Marketing Science Institute, Report 01-107. https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_Report_01-107.pdf
+28. Cialdini, R., Dr. Robert Cialdini's Seven Principles of Persuasion, Influence at Work. https://www.influenceatwork.com/7-principles-of-persuasion ; Cialdini, R., 2001, Influence: Science and Practice, 4th edition, Allyn and Bacon.
+29. Binet, L. and Field, P., 2013, The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies, IPA; IPA, The next chapter for The Long and The Short of It. https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
+30. Brave New, 2026, Baseline sample, 27 September 2026, one engine, grounded, one sample per prompt, four prompts. Internal record.
 
 ## 03 Branding
 
