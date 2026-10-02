@@ -1403,6 +1403,21 @@ Figure: Advertising has taken between 1.2 and 3.0 per cent of US GDP every year 
 | 2006 | 281653 | 13178.0 | 2.1 |
 | 2007 | 279612 | 13807.0 | 2.0 |
 
+Figure: The US has had between 12,600 and 15,500 advertising agency establishments every year since 1998; 2023 is the high at 15,512. The count of agencies did not fall when the commission went; employment in them rose from 147,102 in 1998 to 200,465 in 2023 [18].. Source: U.S. Census Bureau, County Business Patterns, U.S. summary files 1998 to 2023, NAICS 541810 Advertising agencies, establishments with paid employees. Redrawn by Brave New Media.. Unit: establishments.
+
+| Year | Establishments | Paid employees (week of 12 March) |
+|---|---|---|
+| 1998 | 13624 | 147102 |
+| 2000 | 13866 | 167215 |
+| 2003 | 12596 | 155939 |
+| 2008 | 14312 | 165062 |
+| 2010 | 13248 | 149095 |
+| 2013 | 13101 | 185514 |
+| 2015 | 13356 | 188781 |
+| 2018 | 13737 | 187908 |
+| 2020 | 14279 | 181742 |
+| 2023 | 15512 | 200465 |
+
 Figure: US newspaper advertising revenue peaked at $49.4 billion in 2005 and fell to $9.6 billion by 2020. The medium Palmer brokered carried the agency business for 160 years; in 2020 newspapers earned more from circulation ($11.1 billion) than from advertising for the first time in the series [17].. Source: Pew Research Center, State of the News Media, Newspapers Fact Sheet, 29 Jun 2021; data from the News Media Alliance (formerly Newspaper Association of America) through 2012 and Pew Research Center analysis of year-end SEC filings of publicly traded newspaper companies, 2013 to 2020. Redrawn by Brave New Media.. Unit: US$ billions.
 
 | Year | Advertising revenue (US$ bn) |
@@ -1472,21 +1487,6 @@ Figure: US newspaper advertising revenue peaked at $49.4 billion in 2005 and fel
 | 2018 | 14.35 |
 | 2019 | 12.86 |
 | 2020 | 9.6 |
-
-Figure: The US has had between 12,600 and 15,500 advertising agency establishments every year since 1998; 2023 is the high at 15,512. The count of agencies did not fall when the commission went; employment in them rose from 147,102 in 1998 to 200,465 in 2023 [18].. Source: U.S. Census Bureau, County Business Patterns, U.S. summary files 1998 to 2023, NAICS 541810 Advertising agencies, establishments with paid employees. Redrawn by Brave New Media.. Unit: establishments.
-
-| Year | Establishments | Paid employees (week of 12 March) |
-|---|---|---|
-| 1998 | 13624 | 147102 |
-| 2000 | 13866 | 167215 |
-| 2003 | 12596 | 155939 |
-| 2008 | 14312 | 165062 |
-| 2010 | 13248 | 149095 |
-| 2013 | 13101 | 185514 |
-| 2015 | 13356 | 188781 |
-| 2018 | 13737 | 187908 |
-| 2020 | 14279 | 181742 |
-| 2023 | 15512 | 200465 |
 
 Figure: Commission survives where money moves fastest: 40 per cent of advertisers pay commission on programmatic buying, 5 per cent on offline planning. Palmer's model, a cut of the money passing through, is at its strongest in the newest channel: the ANA found 28 per cent paying a fixed-rate commission and 12 per cent a sliding scale on programmatic services, against 4 and 1 per cent on offline planning [22].. Source: ANA, Media Agency Compensation Practices, September 2019, n = 86 client-side marketers, survey fielded April 2019, Section I. Redrawn by Brave New Media.. Unit: per cent of respondents.
 
@@ -2510,18 +2510,6 @@ Figure: US internet advertising grew from $267 million in 1996 to $259 billion i
 | 2023 | 225.0 |
 | 2024 | 258.6 |
 
-Figure: The banner click rate went from 44 per cent for one ad in 1994 to one tenth of one per cent across the market by 2009. Within a year of launch the rate that had defined a bad banner, 2 per cent, was the market average; within six years it was a fifth of that, and the fall continued for another decade.. Source: 1994, Joe McCambley on the AT&T banner at HotWired, Internet History Podcast, 2014; 1995, October 1998 and May 2000, Nielsen as cited in Pagendarm and Schaumburg, Journal of Digital Information, 2001; April 1998 and April 1999, Nielsen/NetRatings as reported by Forbes, 11 May 1999; 2009, DoubleClick 2009 Year-in-Review Benchmarks, United States, static image ads. Redrawn by Brave New Media.. Unit: per cent of impressions clicked.
-
-| Date and basis | per cent |
-|---|---|
-| 1994, AT&T banner on HotWired, first two months | 44 |
-| 1995, market average | 2.0 |
-| April 1998, market average | 1.1 |
-| October 1998, market average | 0.5 |
-| April 1999, market average | 0.63 |
-| May 2000, market average | 0.2 |
-| 2009, United States, static image ads | 0.10 |
-
 Figure: Search passed the banner by 2007 and has held about 40 per cent of US internet ad revenue since; display has drifted below 30. The rectangle that started the market was its majority format for six years; the search box, which sells a declared intention rather than a glance, has been the largest format for most of the period since.. Source: IAB and PwC, Internet Advertising Revenue Reports: 2001 full-year report (2000 and 2001), 2008 full-year report (2007 and 2008), Full Year 2011 appendix (2010, revised for mobile), Full Year 2013, Full Year 2021, Full Year 2024. Format definitions changed over the period, as the IAB notes in each report. Redrawn by Brave New Media.. Unit: per cent of total revenue.
 
 | Year | Search | Display or banner |
@@ -2534,6 +2522,18 @@ Figure: Search passed the banner by 2007 and has held about 40 per cent of US in
 | 2013 | 43 | 30 |
 | 2021 | 41.4 | 30.0 |
 | 2024 | 39.8 | 28.7 |
+
+Figure: The banner click rate went from 44 per cent for one ad in 1994 to one tenth of one per cent across the market by 2009. Within a year of launch the rate that had defined a bad banner, 2 per cent, was the market average; within six years it was a fifth of that, and the fall continued for another decade.. Source: 1994, Joe McCambley on the AT&T banner at HotWired, Internet History Podcast, 2014; 1995, October 1998 and May 2000, Nielsen as cited in Pagendarm and Schaumburg, Journal of Digital Information, 2001; April 1998 and April 1999, Nielsen/NetRatings as reported by Forbes, 11 May 1999; 2009, DoubleClick 2009 Year-in-Review Benchmarks, United States, static image ads. Redrawn by Brave New Media.. Unit: per cent of impressions clicked.
+
+| Date and basis | per cent |
+|---|---|
+| 1994, AT&T banner on HotWired, first two months | 44 |
+| 1995, market average | 2.0 |
+| April 1998, market average | 1.1 |
+| October 1998, market average | 0.5 |
+| April 1999, market average | 0.63 |
+| May 2000, market average | 0.2 |
+| 2009, United States, static image ads | 0.10 |
 
 Figure: US advertising agency employment peaked at 203,000 in 2000, fell to 166,000 by 2010 and reached 209,000 in 2025, while internet advertising grew a thousandfold. The agency headcount in 2025 is a fifth above 1990 and a few per cent above the dot-com peak; the money the industry handles moved to the technology intermediaries without, on this measure, emptying the agencies.. Source: US Bureau of Labor Statistics, Current Employment Statistics, series CEU6054181001, annual averages, not seasonally adjusted, 1990 to 2025. Redrawn by Brave New Media.. Unit: thousands of employees.
 
@@ -2924,7 +2924,7 @@ Figure: When Google shows an AI summary, clicks on results fall from 15% to 8% o
 | Clicked a result link | 8 | 15 |
 | Ended the browsing session | 26 | 16 |
 
-Figure: The share of US adults who have used ChatGPT went from 18% to 44% in three years. From 2023 to 2025 the question was asked of those who had heard at least a little about ChatGPT; in 2026 the wording also asked about other chatbots, so the last bar is not strictly comparable and the designer should mark the break.. Source: Pew Research Center, Americans and AI 2026, appendix table, surveys 2023 to February 2026, 2025 wave n=5,123. Redrawn by Brave New Media.. Unit: % of US adults.
+Figure: The share of US adults who have used ChatGPT went from 18% to 44% in three years. From 2023 to 2025 the question was asked of those who had heard at least a little about ChatGPT; in 2026 the wording also asked about other chatbots, so the last bar is not strictly comparable.. Source: Pew Research Center, Americans and AI 2026, appendix table, surveys 2023 to February 2026, 2025 wave n=5,123. Redrawn by Brave New Media.. Unit: % of US adults.
 
 | Survey year | % of US adults |
 |---|---|
