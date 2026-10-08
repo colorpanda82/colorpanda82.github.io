@@ -3027,13 +3027,7 @@ The honest version takes longer and lands worse in a lecture. It is still the ri
 
 1. Decide which question you are asking before you open either model. Write it down in one sentence. If the sentence contains the word "and", you have two questions and you need both models. 2. For a budget argument, use Aaker. Produce the five dimensions as a map, and name the liabilities explicitly. A brand audit with no liabilities in it has not been done honestly. 3. For a growth diagnosis, use Keller. Score the six blocks, identify the lowest one, and allocate against that rather than against the one your agency finds most interesting. 4. Separate awareness from equity in every tracker you run. If your dashboard reports one number called brand health, it is reporting nothing. 5. Never present a brand equity score next to a brand valuation figure without saying they measure different things. One is perception, one is money, and the slide that puts them side by side will be quoted out of context. 6. Before any rebrand, check salience. If the bottom of the pyramid is weak, a new identity will not fix it and will cost you the recognition you had. See [Distinctive brand assets](/branding/distinctive-brand-assets/). 7. Re-read the original of whichever model you use. Both are short. Most of what circulates as Aaker and Keller is third hand.
 
-<div data-sources></div>
-
-**Read next:** The branding canon, in order. Kapferer's brand identity prism, the third model. Distinctive brand assets. And the Principles paper Brand equity, which is the long version of the underlying concept.
-
-**Also on this:** For the financial tradition that sits outside both models, see the Interbrand method and ISO 10668. For the argument that both models measure effects of brand size rather than causes of it, see Double Jeopardy.
-
-### If you run the company rather than the marketing
+## If you run the company rather than the marketing
 
 You do not need either model. You need to know which one your team is using and why, because the two produce different answers and only one of them fits the question you are asking.
 
@@ -3042,14 +3036,6 @@ If you are deciding whether brand spend is worth defending to a board or a buyer
 If you are asking why a category-leading product is not growing, that is a perception question and it is Keller's. Ask where in the sequence it breaks. If the answer is salience, no amount of new identity work will fix it, and anyone proposing a rebrand as the remedy is selling you the expensive version of the wrong solution.
 
 One question to put to whoever owns marketing: show me awareness and equity as two separate numbers. If the dashboard reports a single figure called brand health, it is reporting nothing, and you have been approving budget against it.
-
-### Where this gets used
-
-Every brand audit I run starts by asking which question the client is actually trying to settle, because the wrong model produces a confident answer to a question nobody asked. That diagnosis is the first thing we do in a [brand consolidation sprint](https://brave-new.com/), before anyone opens a tracker or talks about identity.
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Figure: Aaker's five dimensions of brand equity, with the odd one out marked. Four dimensions are perceptual. The fifth, proprietary assets, is legal, which is why it is greyed. The model is an asset map, not a scorecard.. Source: Illustrative. After Aaker, D. A., Managing Brand Equity, Free Press, 1991. Brave New Media, 2026..
 
@@ -3077,7 +3063,7 @@ Sources:
 ### Distinctive brand assets: distinctive, not different
 
 Source: https://bravenewhive.com/branding/distinctive-brand-assets/
-Date: 2026-10-07. Read: 8 min.
+Date: 2026-10-07. Read: 7 min.
 
 Differentiation says give buyers a reason to choose you. Distinctiveness says make sure they can find you at all. Romaniuk's work at the Ehrenberg-Bass Institute argues that most buyers in most categories perceive little meaningful difference between brands and spend almost no effort looking for one [1]. What they do instead is recognise. An asset earns its place on two tests measured separately, fame and uniqueness, and a single score hides the failure. The practical consequence is unwelcome: consistency is the mechanism, and most rebrands spend recognition to buy currency.
 
@@ -3145,13 +3131,7 @@ I have moved an agency across Europe, the Gulf and North America, and the thing 
 
 1. List your candidate assets. Colour, shape, logo, typeface, character, sound, tagline, layout. Anything a buyer could use to identify you without reading your name. 2. Test each one with the name removed, among category buyers, not customers. Customers will recognise everything, which is why testing on them is comforting and useless. 3. Report fame and uniqueness as two numbers. Never one. If your research supplier gives you a composite, ask for the components. 4. Plot the four quadrants and act by quadrant. Protect real assets. Stop funding shared cues. Cut noise. Invest only in unbuilt. 5. Set a change threshold before anyone proposes a redesign: what would have to be true about the asset's fame score to justify replacing it. Write it down while nobody is excited. 6. Put the surviving assets in front of the media plan, not the brand book. An asset that only appears in the guidelines is not an asset. 7. Re-test annually. Fame moves slowly, uniqueness moves when a competitor decides it wants your colour.
 
-<div data-sources></div>
-
-**Read next:** Double Jeopardy, the law underneath this one. Mere exposure, why repetition works. The branding canon, in order. And the Principles paper [Positioning in marketing](/principles/positioning-in-marketing/), for the opposing tradition at full length.
-
-**Also on this:** The distinctiveness and differentiation argument is best read in order: Ries and Trout first, then Romaniuk. For the mechanism, Reber on processing fluency and Zajonc on mere exposure, both already in this section.
-
-### If you run the company rather than the marketing
+## If you run the company rather than the marketing
 
 This is the entry on this list most likely to save you money, because the decision it governs is one you will personally be asked to approve.
 
@@ -3162,14 +3142,6 @@ The question is what the existing assets are worth, and almost nobody arrives wi
 If the answer is that the colour or the shape has real fame and real uniqueness, then a refresh is not a modernisation, it is a write-off of an asset you already own, and the cost of rebuilding it is years rather than quarters. If the answer is that nothing is linked to you at all, the rebrand is fine and the real problem is that you have never been consistent long enough for anything to stick.
 
 Either way you have turned a taste argument into a commercial one, which is the only version of that meeting worth having.
-
-### Where this gets used
-
-The asset audit described in section 6 is a half-day exercise and it is the cheapest piece of brand work most companies never do. It is the first thing we run in a [brand consolidation sprint](https://brave-new.com/), because there is no point arguing about a new identity before anyone knows what the existing one is worth.
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Figure: An asset has to pass two tests, and a single score hides the failure. Fame without uniqueness is a shared cue, and spending on it builds somebody else's recall. Only the unbuilt quadrant is where new investment creates new value.. Source: After Romaniuk, J., Building Distinctive Brand Assets, Oxford University Press, 2018. See also Sharp, B., How Brands Grow, 2010, and Ries and Trout, 1981, for the opposing case. Brave New Media..
 
@@ -3187,7 +3159,7 @@ Sources:
 ### Excess share of voice: the exchange rate between voice and share
 
 Source: https://bravenewhive.com/branding/excess-share-of-voice/
-Date: 2026-10-07. Read: 8 min.
+Date: 2026-10-07. Read: 7 min.
 
 Excess share of voice is your share of the category's advertising presence minus your share of its revenue. The relationship between the two was set out by John Philip Jones in Harvard Business Review in 1990 and turned into a planning rule by Binet and Field using the IPA Effectiveness Databank [1][2]. Positive excess tends to buy growth. Negative excess tends to buy decline, which is the half everybody forgets. It is an empirical regularity, not a law, and the rate varies by category, by brand size and by whether the work is any good.
 
@@ -3243,13 +3215,7 @@ I spent eight years in television, media and investment before founding Brave Ne
 
 1. Compute share of voice against total category spend, not against your own previous year. If you cannot get category spend, say the number is an estimate and give the range. 2. Count more than paid media, or state plainly that you are not. A paid-only share of voice in a category with large owned audiences is a partial figure and should be labelled as one. 3. Compare the excess figure to your growth target before the budget is set, not after. The rule is a planning input, not a post-rationalisation. 4. Treat a proposed cut as a share forecast. Write down what share you expect to lose, in points, over what period. If nobody will write that down, the cut is not being decided on evidence. 5. Price dullness. If the work is not distinctive, assume you need materially more weight for the same effect, and put that in the budget line rather than hoping. 6. Check the rate for your own category rather than importing the average. Three years of your own voice and share data is enough to see whether the relationship holds for you. 7. Re-read the caveats before quoting the half point in a board paper. The number has a confidence interval and a source bias, and you will be asked.
 
-<div data-sources></div>
-
-**Read next:** The 95-5 rule, who you are actually talking to. Double Jeopardy, why the big get bigger. [Distinctive brand assets](/branding/distinctive-brand-assets/), which is what makes the multiplier work.
-
-**Also on this:** Nielsen reached a comparable half-point figure independently across 123 brands. For what happens when a brand stops advertising entirely, Hartnett and colleagues is the best evidence available. The B2B coefficients come from the LinkedIn B2B Institute work with Binet and Field.
-
-### If you run the company rather than the marketing
+## If you run the company rather than the marketing
 
 This one is about a decision you will make in a bad quarter, probably in the next eighteen months, and probably under pressure from someone whose job is to protect cash.
 
@@ -3259,18 +3225,13 @@ Two things to insist on. First, that share of voice is computed against the cate
 
 The uncomfortable part is that the loop is self-confirming. Cut, lose share slowly, read the lost share as proof the spending never worked, cut again. I have watched that sequence run to completion more than once, and at no point does anyone in it behave unreasonably.
 
-### Where this gets used
+Figure: Spend above your share tends to buy growth. Spend below it tends to buy decline. Ten points of positive excess share of voice is associated with about half a point of market share growth a year in consumer categories, and the relationship runs in both directions.. Source: After Jones, J. P., Ad Spending: Maintaining Market Share, Harvard Business Review, 1990, and Binet, L. and Field, P., The Long and the Short of It, IPA, 2013. Brave New Media, 2026.. Unit: points of market share growth a year.
 
-Computing share of voice honestly, against the category rather than against last year, is a planning input and it belongs in the budget round rather than in the post mortem. It is one of the numbers we build in a [go-to-market retainer](https://brave-new.com/), alongside the share forecast that any proposed cut should have to carry.
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
-Figure: Spend above your share tends to buy growth. Spend below it tends to buy decline. Ten points of positive excess share of voice is associated with about half a point of market share growth a year in consumer categories, and the relationship runs in both directions.. Source: After Jones, J. P., Ad Spending: Maintaining Market Share, Harvard Business Review, 1990, and Binet, L. and Field, P., The Long and the Short of It, IPA, 2013. Brave New Media, 2026..
-
-|  |
-||
+| Excess share of voice (points) | Market share growth a year (points) |
+|---|---|
+| 0 | 0 |
+| +10 | 0.5 |
+| +20 | 1.0 |
 
 Sources:
 
@@ -3351,7 +3312,7 @@ What AI marketing, AI SEO, generative engine optimization and answer engine opti
 ### What is AI marketing?
 
 Source: https://bravenewhive.com/ai-marketing/what-is-ai-marketing/
-Date: 2026-09-14. Read: 5 min.
+Date: 2026-09-14. Read: 4 min.
 
 AI marketing is the use of artificial intelligence systems inside marketing work: to research buyers, generate and test creative, target and bid on media, and to earn a place in the answers AI assistants give when somebody asks for a recommendation. It is a set of tools and a new distribution channel at the same time, and most teams are only treating it as the first.
 
@@ -3393,10 +3354,6 @@ And the field is moving faster than the evidence can follow. A result measured o
 
 1. Separate the four jobs above before you buy anything. A tool that is good at creative production tells you nothing about whether you appear in answers. 2. Ask what an AI assistant currently says about your company. Not what it says about your category, what it says about you by name. Most executives have never checked. 3. Check whether the description is accurate before you try to improve your ranking in it. A wrong description that ranks well is worse than no presence. 4. Treat vendor effectiveness claims as unsourced until you see the method. 5. Keep doing the ordinary work. The brands that AI assistants name confidently are mostly the brands that were already well known and consistently described, which is not a coincidence.
 
-<div data-sources></div>
-
-Beyond that, this entry defines a trade term rather than reporting a study, so most of it carries no numbered citations. The claims about how models select brands are covered, with sources, in the linked entries. Where this section reports measured figures they come from our own tests, dated and named, in [Research](/research/).
-
 ## If you run the company rather than the marketing
 
 The question to ask is not "what is our AI strategy". It is "what does ChatGPT say when somebody asks it to recommend a company like ours, and are we in the answer". That takes two minutes and you can do it yourself, today, without anyone's help.
@@ -3404,16 +3361,6 @@ The question to ask is not "what is our AI strategy". It is "what does ChatGPT s
 Three outcomes. You are named and described correctly, in which case protect it. You are named and described wrongly, which is the most urgent and the least noticed, because the error is being repeated to every person who asks. Or you are absent, which is the most common and the slowest to fix.
 
 Do not let this become a budget line before you have done the two-minute version. A supplier who proposes an AI visibility programme without first showing you what the engines currently say about you is selling before they have diagnosed.
-
-**Read next:** [What is generative engine optimization?](/ai-marketing/what-is-generative-engine-optimization/) · [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [Why does brand consistency matter for AI search?](/ai-marketing/why-brand-consistency-matters-for-ai-search/)
-
-### Where this gets used
-
-Checking what the engines say about a company, and fixing the description before touching anything else, is the first stage of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -3458,8 +3405,6 @@ Three, and anyone selling GEO services should volunteer all three.
 
 1. Write one claim per paragraph and attach the source to the claim, not to the article. A paragraph that can be lifted intact is a paragraph that can be cited. 2. Put the answer in the first fifty words, before the context. That block is what gets extracted. 3. Use real numbers with dates and named sources. The paper found statistics and citations both improved visibility, and they are also just better writing. 4. Stop keyword stuffing. It did not work in the study and it makes the page worse to quote. 5. Check whether the engine is retrieving at all for your questions before investing in page changes. If it answers from memory, the work to do is different and slower.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 GEO is the most oversold term in this section, and it is oversold on the back of one real paper that most of the people quoting it have not read.
@@ -3468,16 +3413,6 @@ The thing worth knowing is that the techniques which worked in that study were a
 
 Ask any supplier pitching GEO two questions. What does the engine currently say about us, and did they check whether it retrieves live for our questions at all. If the answer to the second is no, page-level work will not move it, and a proposal built on page-level work is a proposal built on a wrong assumption.
 
-**Read next:** [What is answer engine optimization?](/ai-marketing/what-is-answer-engine-optimization/) · [What is AI SEO?](/ai-marketing/what-is-ai-seo/) · [How do AI models choose which brands to recommend?](/ai-marketing/how-ai-models-choose-brands/)
-
-### Where this gets used
-
-Testing whether an engine retrieves live for your category, before anyone rewrites a page, is the first measurement in a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Aggarwal, P., Murahari, V., Rajpurohit, T., Kalyan, A., Narasimhan, K. and Deshpande, A. (2023). GEO: Generative Engine Optimization. arXiv:2311.09735.
@@ -3485,7 +3420,7 @@ Sources:
 ### What is answer engine optimization (AEO)?
 
 Source: https://bravenewhive.com/ai-marketing/what-is-answer-engine-optimization/
-Date: 2026-09-11. Read: 5 min.
+Date: 2026-09-11. Read: 4 min.
 
 Answer engine optimization, or AEO, is the practice of preparing content so that it is used in a direct answer rather than in a list of links. In practice it means answering one question per page, plainly and early, in a block that can be lifted out whole and still make sense.
 
@@ -3525,10 +3460,6 @@ That calculation changes by business. If your revenue depends on ad impressions 
 
 1. One question per page. If a page answers three, it will win none of them. 2. Put the answer first, under fifty words, before context. Write it so it survives being read alone. 3. Make every H2 a question somebody would actually type or say. 4. Attach dates to figures. An undated number is unusable in an answer and a careful engine will skip it. 5. Decide, deliberately, which pages you are willing to lose the click on. Not every page should be answer-shaped.
 
-<div data-sources></div>
-
-AEO itself is a practitioner term with no primary literature. The mechanics described here are observable in how answers are constructed; where this section reports measured behaviour it comes from our own dated tests in [Research](/research/).
-
 ## If you run the company rather than the marketing
 
 There is a decision here that belongs to you rather than to marketing, and it is usually made by default.
@@ -3541,16 +3472,6 @@ If your model depends on traffic to your own pages, it is a worse trade and shou
 
 Either way, make it once, explicitly, rather than discovering it a year later in a traffic report.
 
-**Read next:** [What is generative engine optimization?](/ai-marketing/what-is-generative-engine-optimization/) · [What is AI SEO?](/ai-marketing/what-is-ai-seo/) · [What is llms.txt?](/ai-marketing/what-is-llms-txt/)
-
-### Where this gets used
-
-Deciding which pages are worth losing the click on, and restructuring only those, is part of how we scope a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford University Press.
@@ -3558,7 +3479,7 @@ Sources:
 ### What is AI SEO?
 
 Source: https://bravenewhive.com/ai-marketing/what-is-ai-seo/
-Date: 2026-09-10. Read: 17 min.
+Date: 2026-09-10. Read: 16 min.
 
 AI SEO is the work of getting a company named, described correctly and cited in the answers that AI assistants and AI search features produce. It shares a base with search engine optimisation, a page a machine can reach and read, and adds the part that decides an answer: a plain definition, one description of the company repeated everywhere it appears, and claims an engine can attribute to a source.
 
@@ -3582,17 +3503,17 @@ The overlap with old-fashioned SEO is real at the base. Crawlable pages, clean s
 
 ## How an AI engine builds an answer
 
-### First the retrieval
+## First the retrieval
 
 Before anything is written, the engine decides whether to search. If it does, it runs a handful of queries, pulls pages, and writes the answer with those pages in front of it. If it does not, it answers from what it absorbed in training, which is a compressed, undated memory of the web as it was when the model was built.
 
 You can tell the difference from the outside. A grounded answer carries live citations. An ungrounded one carries confident source names that may or may not resolve.
 
-### Then the writing
+## Then the writing
 
 Once the material is in hand, the model writes a paragraph. It leans on whatever is easiest to lift: a plain definition, a heading that matches the question, a number with a source beside it, a named framework it can attribute to someone. Vague brand language gives it nothing to grip. This is the least mysterious part of AI SEO and the part most companies skip, because writing a flat definitional sentence about yourself feels beneath a brand team.
 
-### The mini-story: an engine that invented twenty-one sources
+## The mini-story: an engine that invented twenty-one sources
 
 Here is the study behind the number in the introduction. On 14 September 2026 we put eight questions to Gemini with Google Search grounding, one answer each, then requested every URL it named and recorded the status. Questions covered marketing principles, the history of advertising, neuromarketing, building a B2B brand for AI search, films and songs about advertising, whether a marketing encyclopedia exists, and the term retrievable brand.
 
@@ -3606,13 +3527,13 @@ On the retrievable brand question, all sixteen grounded citations were real page
 
 Two named practices sit inside AI SEO. They are used almost interchangeably now, and the work behind them is the same work.
 
-### GEO
+## GEO
 
 [Generative engine optimization](/ai-marketing/what-is-generative-engine-optimization/), or GEO, is the practice of writing and structuring content so that generative engines cite it in the answers they produce. The term comes from a paper posted to arXiv in November 2023 by Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan and Ameet Deshpande. You can read [the GEO paper on arXiv](https://arxiv.org/abs/2311.09735). It introduced the term and a benchmark for testing which changes to a source make it more likely to be used in a generated answer, and the authors reported visibility gains of up to 40 per cent on that benchmark.
 
 The practical reading: a generative engine is not ranking pages for a click. It is assembling an answer and choosing which sources to lean on. Content that states a claim plainly, attributes it, and puts a quotable sentence next to a source gives the engine something to reuse.
 
-### AEO
+## AEO
 
 [Answer engine optimization](/ai-marketing/what-is-answer-engine-optimization/), or AEO, is the practice of preparing content so it is used in a direct answer rather than a list of links. In practice it means answering one question per page, plainly and early.
 
@@ -3626,7 +3547,7 @@ Retrievability is not a marketing invention. It comes from information retrieval
 
 A retrievable brand is one that AI assistants and search engines can find, name and describe correctly when a buyer asks a question. It is built from clear definitions, named frameworks, sourced facts and consistent descriptions repeated across every public source a model reads. Brave New, which publishes the Hive, uses [retrievable brand](https://brave-new.com/retrievable-brand/) as the name of its method, and that page carries the pillars and the measurement in full.
 
-### The mini-story: what a brand does inside a head
+## The mini-story: what a brand does inside a head
 
 In 2004, Samuel McClure and colleagues published a study in Neuron, from Read Montague's lab at Baylor College of Medicine. People drank Coke and Pepsi inside an fMRI scanner, blind and then labelled. Blind, preferences split. With the Coke label visible, stated preference shifted towards Coke and brain activity changed in regions associated with memory and self-image. The [Coke and Pepsi study](/branding/the-coke-pepsi-study/) is the most cited demonstration that a brand is a stored pattern in the buyer rather than a property of the product.
 
@@ -3660,7 +3581,7 @@ Do not buy a tool before you have a baseline. The afternoon of manual checks tel
 
 And I would not chase the term. AI SEO, GEO, AEO, LLM optimisation: the names have churned every few months while the work underneath them has not changed. Pick one category you intend to be returned for and defend it on every surface, which is [positioning](/principles/positioning-in-marketing/) with a new set of readers.
 
-### The mini-story: the first banner ad
+## The mini-story: the first banner ad
 
 On 27 October 1994, HotWired ran a banner for AT&T. It asked whether the reader had ever clicked their mouse right here, and told them they would. Click-through rates for that first campaign are widely reported as far above anything the format managed afterwards.
 
@@ -3668,23 +3589,23 @@ On 27 October 1994, HotWired ran a banner for AT&T. It asked whether the reader 
 
 ## Frequently asked questions
 
-### Is AI SEO the same as SEO?
+## Is AI SEO the same as SEO?
 
 They share a base and separate at the goal. Both need pages a machine can reach and read, a clean structure and real coverage elsewhere. SEO competes for a position on a list of links, while AI SEO competes to be named inside a written answer.
 
-### How do I get my company mentioned in ChatGPT?
+## How do I get my company mentioned in ChatGPT?
 
 Publish a plain definition of what you do, keep that description identical everywhere it appears, and earn coverage on the sources the engines already cite for your category. Then check the answers monthly and record whether you are named and whether the description is right.
 
-### Does llms.txt actually work?
+## Does llms.txt actually work?
 
 It is a proposed convention rather than a standard, and no model provider is required to read it. It costs about an hour, so the downside is small. The reliable benefit is that writing one forces you to state plainly what your site is and which pages matter.
 
-### How long does AI SEO take to show results?
+## How long does AI SEO take to show results?
 
 It depends entirely on whether engines retrieve live pages for your topic. On fresh, contested subjects a new page can appear in answers within an update cycle. On settled evergreen topics the engine answers from training data, and nothing you publish moves it in the near term.
 
-### Can I pay to appear in AI answers?
+## Can I pay to appear in AI answers?
 
 Not directly, in the way you buy a search ad. What you can pay for is the work underneath: research worth citing, coverage on sources the engines already use, and a site clean enough to read. Anyone promising guaranteed placement in an assistant's answer is selling something they do not control.
 
@@ -3695,10 +3616,6 @@ AI SEO is not a new discipline so much as an old one with a different reader. Th
 Start with the count. Ten questions a buyer would type, run against the engines your buyers use, recorded against named competitors on the same day. You will learn in one afternoon whether the engines retrieve on your topics at all, which decides whether publishing is a strategy or a waste. Then fix the entity statement everywhere it appears, which is unglamorous and finite work that most companies have never done.
 
 Everything else is sequencing. The vocabulary will change again. Two years ago none of these terms existed, and the study that produced the numbers in this piece will need repeating on other engines before I would call any of it settled.
-
-<div data-sources></div>
-
-Figures reported from our own testing carry the date they were measured and the engine they were measured on. One engine, one country, one day: read them as a dated observation rather than as a general law.
 
 ## If you run the company rather than the marketing
 
@@ -3711,16 +3628,6 @@ AI SEO is the broadest term in this section and the one most likely to arrive as
 **Is our problem absence, confusion, or an out-of-date description.** They look the same from a dashboard and they are not the same job. Confusion is the most urgent, because a confident wrong answer is being repeated to everyone who asks, and it is the one nobody notices.
 
 What I would not do is treat this as a new discipline requiring a new budget line before those three answers exist. Most of what moves the needle here is the same work that made companies well known before any of this: being described accurately, in the same words, by people who are not you.
-
-**Read next:** [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [How do AI models choose which brands to recommend?](/ai-marketing/how-ai-models-choose-brands/) · [Why does brand consistency matter for AI search?](/ai-marketing/why-brand-consistency-matters-for-ai-search/)
-
-### Where this gets used
-
-The dated before picture, the retrieval test, and the diagnosis of which of the three problems you actually have, are the three outputs of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -3773,8 +3680,6 @@ None of that is a trick. It is the machine-readable version of being a coherent 
 
 1. Test all three conditions separately. Ask an engine who you are, what you do, and who it would recommend in your category. Three different questions. 2. If identity is confused, fix that before anything else. Disambiguate the name, the location and the category in every place you control. 3. Write one canonical description of the company and use it verbatim everywhere. Not a version per channel. 4. Count your third party mentions. If every source about you is published by you, presence is the constraint. 5. Re-test quarterly and keep the dates. Answers drift, and an undated test tells you nothing about direction.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The failure that should worry you is not absence. It is confident misdescription, because it is invisible from the inside and it compounds.
@@ -3785,16 +3690,6 @@ Ask three questions yourself, by name, in one sitting. Who is [your company]. Wh
 
 If the first two come back wrong, that is a correction project and it is urgent. If they come back right and the third does not name you, that is a positioning problem and no technical fix will touch it.
 
-**Read next:** [Why does brand consistency matter for AI search?](/ai-marketing/why-brand-consistency-matters-for-ai-search/) · [How do AI models choose which brands to recommend?](/ai-marketing/how-ai-models-choose-brands/) · [What is AI marketing?](/ai-marketing/what-is-ai-marketing/)
-
-### Where this gets used
-
-Testing the three conditions separately, and fixing identity before presence, is the structure of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Azzopardi, L. and Vinay, V. (2008). Retrievability: an evaluation measure for higher order information access tasks. Proceedings of the 17th ACM Conference on Information and Knowledge Management (CIKM).
@@ -3802,7 +3697,7 @@ Sources:
 ### How do AI models choose which brands to recommend?
 
 Source: https://bravenewhive.com/ai-marketing/how-ai-models-choose-brands/
-Date: 2026-09-06. Read: 5 min.
+Date: 2026-09-06. Read: 4 min.
 
 Two different mechanisms, and which one is running decides what you can do about it. Either the model answers from what it absorbed during training, or it searches the live web first and builds an answer from what it finds. The first is slow to influence and the second is fast, and most advice in circulation assumes the second without checking.
 
@@ -3848,10 +3743,6 @@ That is worth holding onto when you read a report showing your brand cited in AI
 
 1. Establish which path runs for your category before buying anything. Ask the question, see whether it cites sources, and record the date. 2. If it retrieves, page-level work pays and you should do it. 3. If it does not retrieve, stop optimising pages for it. Invest in third party mention, directories, reference sites and anywhere your category gets written about by people who are not you. 4. Verify any citation report you are shown. Click the URLs. 5. Re-test quarterly. Engines change retrieval behaviour without announcing it.
 
-<div data-sources></div>
-
-The retrieval and citation figures in this entry are our own, from a test run in September 2026 on a single engine with search grounding, one sample per question. Method, limitations and the full table are in [Research](/research/). One engine, one country, one day: do not read it as a general law.
-
 ## If you run the company rather than the marketing
 
 Before approving any budget here, make someone answer one question: does the engine actually look things up when our buyers ask, or does it answer from memory.
@@ -3860,16 +3751,6 @@ It is a cheap test and it determines whether the entire proposal in front of you
 
 The second thing to insist on, if anyone shows you a dashboard of AI citations: click some of them. We found two in five of the sources an engine named did not exist. A citation report is not evidence until somebody has checked that the pages are real.
 
-**Read next:** [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [How do I get mentioned in ChatGPT and Perplexity?](/ai-marketing/get-mentioned-in-chatgpt-and-perplexity/) · [What is generative engine optimization?](/ai-marketing/what-is-generative-engine-optimization/)
-
-### Where this gets used
-
-Establishing which path runs for a category, before any content work is scoped, is the first test in a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Kuttler, H., Lewis, M., Yih, W., Rocktaschel, T., Riedel, S. and Kiela, D. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. arXiv:2005.11401. Accepted at NeurIPS 2020.
@@ -3877,7 +3758,7 @@ Sources:
 ### How do I get my company mentioned in ChatGPT and Perplexity answers?
 
 Source: https://bravenewhive.com/ai-marketing/get-mentioned-in-chatgpt-and-perplexity/
-Date: 2026-09-04. Read: 5 min.
+Date: 2026-09-04. Read: 4 min.
 
 By being described, accurately and repeatedly, in sources the engines use, and by making sure the engine knows which company you are. There is no submission form, no paid placement in the answer itself, and no technical switch. Anyone offering guaranteed inclusion is describing something that does not exist.
 
@@ -3917,10 +3798,6 @@ Anyone promising a change in how a model describes you within a month is either 
 
 1. Run the three questions in both engines. Record answers and dates. 2. Fix identity first if the engine has you confused with another entity. Everything downstream is wasted until that is right. 3. Write one canonical company description and use it verbatim everywhere. 4. Build third party mention deliberately: trade press, sector directories, industry reports, conference listings, partner sites. 5. Make your own key pages answer-shaped, but only after establishing that the engine retrieves for your category. 6. Re-run the three questions quarterly, same wording, and keep the log. The log is the only evidence of direction you will have.
 
-<div data-sources></div>
-
-No primary literature covers this directly. The retrieval behaviour referenced is from our own dated test in [Research](/research/), one engine, one country, one day. The finding that keyword stuffing does not improve generative visibility is from Aggarwal et al, arXiv:2311.09735, 2023.
-
 ## If you run the company rather than the marketing
 
 The honest summary is that getting mentioned in AI answers is mostly the same work as becoming well known, which you already knew how to do, running on a longer timeline than anybody selling it will admit.
@@ -3931,20 +3808,10 @@ Second, be suspicious of speed. The lever that genuinely moves this is other peo
 
 The cheapest useful action available to you today costs nothing: ask both engines who you are, and find out whether the problem is absence, confusion, or a description that is simply out of date.
 
-**Read next:** [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [How do AI models choose which brands to recommend?](/ai-marketing/how-ai-models-choose-brands/) · [What is llms.txt?](/ai-marketing/what-is-llms-txt/)
-
-### Where this gets used
-
-The before picture, dated and logged so later change can be proved, is the first deliverable of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### What is llms.txt?
 
 Source: https://bravenewhive.com/ai-marketing/what-is-llms-txt/
-Date: 2026-09-03. Read: 4 min.
+Date: 2026-09-03. Read: 3 min.
 
 A proposed standard: a plain markdown file at the root of a website, /llms.txt, giving language models a curated guide to what the site contains and which pages matter. It was proposed by Jeremy Howard of Answer.AI in September 2024. It is a proposal, not a ratified standard, and adoption by the major AI companies is limited.
 
@@ -3976,10 +3843,6 @@ That is the whole format. It is intentionally simple.
 
 1. Publish one if you have a content-heavy site. It takes an hour and it costs nothing to maintain if you keep it short. 2. Write the descriptions for a reader who knows nothing about you. The value is in the one-line summaries, not in the links. 3. Do not pay a meaningful sum for it, and do not let it displace work that is evidenced. 4. Keep it current. A stale guide is worse than none, because it misdescribes. 5. Check back on adoption periodically rather than assuming either way.
 
-<div data-sources></div>
-
-The proposal and its specification were published by Jeremy Howard, Answer.AI, September 2024, at llmstxt.org. Adoption status described here reflects what is publicly observable and should be rechecked, since it is the part most likely to change.
-
 ## If you run the company rather than the marketing
 
 This is a small item that occasionally appears in proposals with a price attached that does not match the work.
@@ -3989,16 +3852,6 @@ This is a small item that occasionally appears in proposals with a price attache
 Publish one. Spend an hour on it. Then put your attention on the things that are evidenced: whether the engines describe you correctly, and whether anybody other than you has written about your company.
 
 If a line item for AI file standards appears in a scope of work at a few thousand, ask what else is in it.
-
-**Read next:** [What is answer engine optimization?](/ai-marketing/what-is-answer-engine-optimization/) · [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [What is AI SEO?](/ai-marketing/what-is-ai-seo/)
-
-### Where this gets used
-
-Publishing a useful llms.txt is a one-hour item on the fix list that comes out of a [retrievability audit](https://brave-new.com/), not a project in itself.
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Why does brand consistency matter for AI search?
 
@@ -4045,10 +3898,6 @@ Fixing that is not a technical task. It is deciding what the company is, which i
 
 1. Write down every place your company is described: site, directories, profiles, press, partner pages, event listings. It will be longer than you expect. 2. Pick one canonical name string and one canonical description. Decide once. 3. Correct the list, starting with the sources you do not control, since those carry more weight and take longer. 4. Give the founder and senior people identical titles and company references across profiles. 5. Add structured data stating the entity plainly. 6. Re-check quarterly. Drift is the normal state; consistency is maintained, not achieved.
 
-<div data-sources></div>
-
-The entity-resolution behaviour described here is a property of how retrieval systems match and merge records rather than a finding from a marketing study. Observations of merged and misdescribed entities come from our own dated tests in [Research](/research/).
-
 ## If you run the company rather than the marketing
 
 This is the entry in this section that is really about you rather than about marketing.
@@ -4061,16 +3910,6 @@ The work is a morning: decide the name, decide the one-sentence description, dec
 
 What cannot be delegated is the deciding. If the last three people who tried to write the company description came back asking you to choose, that is the signal, and the AI problem is a symptom rather than the thing to fix.
 
-**Read next:** [What is a retrievable brand?](/ai-marketing/what-is-a-retrievable-brand/) · [How do AI models choose which brands to recommend?](/ai-marketing/how-ai-models-choose-brands/) · [What is AI marketing?](/ai-marketing/what-is-ai-marketing/)
-
-### Where this gets used
-
-Settling the canonical name, description and market, then correcting every source that carries them, is the work of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Fellegi, I. P. and Sunter, A. B. (1969). A Theory for Record Linkage. Journal of the American Statistical Association, 64(328), 1183 to 1210.
@@ -4082,7 +3921,7 @@ What a reputation is, how it differs from a brand, how trust is measured, and wh
 ### Brand versus reputation: what is the difference?
 
 Source: https://bravenewhive.com/reputation/brand-versus-reputation/
-Date: 2026-09-14. Read: 5 min.
+Date: 2026-09-14. Read: 4 min.
 
 A brand is what a company says and shows about itself. A reputation is what other people conclude from what it does. One is authored, the other is earned, and in a buying meeting the second one decides.
 
@@ -4122,8 +3961,6 @@ That is the availability heuristic doing its work, and it means a reputation is 
 
 1. Establish which one is failing before spending. If you are not on shortlists, that is brand. If you are on shortlists and losing late, that is reputation. 2. Ask lost prospects what they were worried about. Not why they chose the other supplier, what they were worried about. Different question, better answer. 3. Measure them separately. Recognition and recall on one side, trust and perceived risk on the other. 4. Put your reputation work where your failures are handled, not where your messaging is written. 5. Accept the timescale. A reputation moves over years and will not respond to a quarter of effort.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 This distinction decides where you should personally spend time, and it is usually settled by whoever asks you for budget first.
@@ -4135,16 +3972,6 @@ Your reputation cannot be delegated, because it is produced by what the company 
 So the practical division is this. If the problem is that not enough people know you exist, that is a budget question and you can hand it over. If the problem is that people who know you are choosing somebody else, that is an operating question and it is yours.
 
 The diagnostic question I would ask first: when a project of ours goes badly, what does the client experience, and who decides that? If nobody can answer cleanly, the reputation work starts there rather than in marketing.
-
-**Read next:** The [Edelman Trust Barometer](/reputation/the-edelman-trust-barometer/) · 1982, the [Tylenol case](/reputation/the-tylenol-case-1982/) · [Reputation risk](/reputation/reputation-risk/)
-
-### Where this gets used
-
-Separating a brand problem from a reputation problem, before any money is spent, is the first question in a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4194,8 +4021,6 @@ If you are going to cite it, cite the year and the market. The Barometer is a re
 
 1. Read the actual report for your market rather than the global headline. The country-level variation is large. 2. Cite year and country every time. A Barometer figure without both is unusable. 3. Use the direction, not the level. A single year's score is noise. 4. Treat Edelman's interpretive framing separately from Edelman's data. 5. Do not substitute it for research on your own buyers. It measures trust in institutions in general, not trust in you.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The Barometer is useful to you mainly as a corrective to a particular kind of argument.
@@ -4205,16 +4030,6 @@ When someone proposes a trust campaign, the Barometer is usually the slide that 
 So the question to ask is not how do we improve trust. It is where does a buyer of ours encounter evidence of how we behave, and is that evidence good.
 
 For most B2B companies the honest answer is that the strongest trust signal they have is a reference call with an existing client, and nobody owns it, nobody prepares it, and nobody knows what gets said on it.
-
-**Read next:** [Brand versus reputation](/reputation/brand-versus-reputation/) · 1982, the [Tylenol case](/reputation/the-tylenol-case-1982/) · [Reputation risk](/reputation/reputation-risk/)
-
-### Where this gets used
-
-Finding where a buyer actually encounters evidence of how a company behaves, and making that evidence deliberate, is the practical half of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4269,8 +4084,6 @@ And the response has to cost you something visible, or it does not register as s
 
 1. Write down now, before anything happens, the one or two things you will not trade for revenue. Specific, not values language. 2. Decide who can order a withdrawal or a stop, and at what cost ceiling, without convening anybody. If that person does not exist, you do not have a crisis plan. 3. Separate the operating decision from the communications about it, in your own planning. Confusing them is the standard failure. 4. Assume you will be at fault. Build the plan for that case, because Tylenol's case is the rare one. 5. Budget for a slow recovery. Share returned; it did not spring back.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The reason this case is taught to executives rather than to communications teams is that the decision in it was not available to a communications team.
@@ -4281,16 +4094,6 @@ So the question this case puts to you is narrow and uncomfortable. If something 
 
 The second question is what your standing commitments actually are, as opposed to what your values page says. Tylenol's credo was decades old and ranked shareholders last. That ranking was written down before it was expensive.
 
-**Read next:** [Reputation risk](/reputation/reputation-risk/) · [Brand versus reputation](/reputation/brand-versus-reputation/) · The [Edelman Trust Barometer](/reputation/the-edelman-trust-barometer/)
-
-### Where this gets used
-
-Establishing who can stop a thing, at what cost, without convening anyone, is part of the governance work in a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Contemporaneous reporting and Johnson & Johnson's own published account of the 1982 and 1986 incidents. Specific figures for market share loss and recall cost vary considerably between retellings and should be taken from a primary source rather than from a case-study summary.
@@ -4298,7 +4101,7 @@ Sources:
 ### Trust architecture
 
 Source: https://bravenewhive.com/reputation/trust-architecture/
-Date: 2026-09-08. Read: 5 min.
+Date: 2026-09-08. Read: 4 min.
 
 Trust architecture is Brave New's name for the deliberate arrangement of evidence a buyer encounters before they are willing to commit. It is our term, not an established concept in the literature, and this entry says so plainly because a reference work that passes off its own vocabulary as received wisdom is not a reference work.
 
@@ -4344,10 +4147,6 @@ This is our framework rather than a finding, and it is useful mainly as a checkl
 
 1. Audit your last five pieces of published material for one falsifiable statement each. If none contains anything a reasonable person could dispute, you are producing claims. 2. Put a documented limitation in every case study. Not a humblebrag, a real constraint and what it cost. 3. Count your independent sources. If every statement about your competence originates with you, layer three does not exist. 4. Mystery-shop your own enquiry process. The gap between layers one and four is usually the whole problem. 5. Ask of every planned asset: would this be expensive for a firm that could not do the work to produce? If not, it is a claim.
 
-<div data-sources></div>
-
-Trust architecture itself is a Brave New method name, built on the signalling tradition above. It is not an established term in the academic literature and should not be cited as one.
-
 ## If you run the company rather than the marketing
 
 The one question worth taking from this: what do we publish that a competitor who cannot do this work would find expensive to copy?
@@ -4359,16 +4158,6 @@ The things that are expensive to fake are the ones firms avoid: publishing a met
 Each of those feels like giving something away or exposing a flaw. That feeling is the point. A signal only works because it costs something, and if it is comfortable to publish it is probably carrying no information.
 
 The cheapest place to start is the last one. Write down who you are not for.
-
-**Read next:** [Brand versus reputation](/reputation/brand-versus-reputation/) · [Reputation risk](/reputation/reputation-risk/) · The [Edelman Trust Barometer](/reputation/the-edelman-trust-barometer/)
-
-### Where this gets used
-
-Auditing published material for signals rather than claims, and finding the gap between what a firm publishes and what happens on contact, is the core of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4412,8 +4201,6 @@ Nobody is incentivised to notice. Marketing is measured on awareness and pipelin
 
 1. Write down the three things buyers believe about you that are most flattering. Then establish, with evidence, whether each is true. That exercise is the whole discipline. 2. Where a belief is not supported, decide explicitly: close the gap, or stop promoting the claim. Doing neither is the default and is the exposure. 3. Check whether sales is promising anything delivery has not agreed to. Read five recent proposals against five recent project retrospectives. 4. Review what has become unacceptable in your category in the last three years, and ask whether you have moved. 5. Treat a rising marketing spend as a rising risk position unless delivery capability has moved with it.
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The uncomfortable implication of this entry is that your marketing may be the largest single contributor to your reputation risk, and it will never appear that way on any report.
@@ -4425,16 +4212,6 @@ The test is simple and most firms never run it. Take the three strongest claims 
 The remedy is not to market less. It is to make the claim match the floor rather than the ceiling, which costs you some conversion and removes the exposure.
 
 One governance point. This gap sits between marketing and operations and is owned by neither, which is why it persists in well-run companies. If nobody is accountable for the distance between what is promised and what is delivered, that is a structural problem rather than a failure by anyone in particular.
-
-**Read next:** 1982, the [Tylenol case](/reputation/the-tylenol-case-1982/) · [Trust architecture](/reputation/trust-architecture/) · [Brand versus reputation](/reputation/brand-versus-reputation/)
-
-### Where this gets used
-
-Testing the strongest marketing claims against what delivery can actually guarantee, and resetting them to the floor, is part of how we scope a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4494,8 +4271,6 @@ Two things, and the book's defenders tend to concede the first and resist the se
 
 <p class="pull">Growth comes from being easy to think of and easy to buy, not from being loved by a few.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 This is the one book on the list I would actually ask a chief executive to read, and only the first half of it.
@@ -4506,16 +4281,6 @@ If you take one decision from it, make it this. Before approving anything aimed 
 
 The caution I would attach: this is a book about large categories with many buyers. If your business has thirty clients and two of them are a third of revenue, the laws in it do not describe your situation and applying them literally will cost you.
 
-**Read next:** Positioning, Ries and Trout · The Long and the Short of It, Binet and Field · Alchemy, Rory Sutherland
-
-### Where this gets used
-
-Deciding whether a growth problem is a penetration problem or a conversion problem, before any budget moves, is the opening question of a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford University Press.
@@ -4524,7 +4289,7 @@ Sources:
 ### Ogilvy on Advertising. David Ogilvy (1983)
 
 Source: https://bravenewhive.com/readings/ogilvy-on-advertising/
-Date: 2026-09-11. Read: 4 min.
+Date: 2026-09-11. Read: 3 min.
 
 The working manual of the man who built Ogilvy & Mather, on headlines, layouts, research, and the difference between advertising that wins awards and advertising that sells. It is a book of craft instructions, not a theory, and it should be read as one.
 
@@ -4566,8 +4331,6 @@ The book also carries the attitudes of its time, and the reader should expect th
 
 <p class="pull">Rules learned by counting, from a man who thought the customer was intelligent and the industry was not.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 Useful to you for one reason: it is the fastest way to tell whether the work you are being shown is any good.
@@ -4578,16 +4341,6 @@ Those questions are not sufficient and they will not tell you whether the strate
 
 The caution: do not use the book to argue for short-term, response-driven advertising only. That is what Ogilvy measured because it was measurable, and the evidence since is clear that it is half the job.
 
-**Read next:** The Long and the Short of It, Binet and Field · [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp · Alchemy, Rory Sutherland
-
-### Where this gets used
-
-Judging whether creative work is doing a job, rather than whether it is liked in the room, is a standing part of a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Ogilvy, D. (1983). Ogilvy on Advertising. Crown.
@@ -4596,7 +4349,7 @@ Sources:
 ### Positioning: The Battle for Your Mind. Al Ries and Jack Trout (1981)
 
 Source: https://bravenewhive.com/readings/positioning-ries-and-trout/
-Date: 2026-09-09. Read: 4 min.
+Date: 2026-09-09. Read: 3 min.
 
 The book that moved the battleground from the product to the prospect's mind. Own a word, or own a place relative to the leader, before somebody else does. It began as a series of articles in Advertising Age in 1972 and has shaped how marketers talk ever since.
 
@@ -4640,8 +4393,6 @@ The book is also written with enormous confidence and no data, which is worth no
 
 <p class="pull">You do not position a product. You position it in a mind that is already full.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The reason this book matters to you is that it describes a constraint you cannot spend your way out of.
@@ -4651,16 +4402,6 @@ A buyer holds a very short list per category. Not a long one. If you are not on 
 What the book does not tell you, because it predates the evidence, is how little room there is to move. Buyers do not hold brands apart as finely as the positioning tradition assumes, and the attempt to own an abstract word, trust, innovation, partnership, is where most of this work dies. Everyone claims those.
 
 The version I would act on: decide what you want to be the obvious choice for, make it narrow enough to be plausible, and then say it the same way for years. The narrowing is the hard part, and it is yours to do.
-
-**Read next:** [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp · [Thinking, Fast and Slow](/readings/thinking-fast-and-slow-kahneman/), Kahneman · Influence, Cialdini
-
-### Where this gets used
-
-Narrowing what a company wants to be the obvious choice for, to something specific enough to be believed, is the work of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4712,8 +4453,6 @@ So: cite loss aversion, anchoring and availability with confidence. Treat the pr
 
 <p class="pull">The fast mind decides and the slow mind writes the justification, which is why asking people why they bought is close to useless.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 Two things from this book are worth your attention and the rest is interesting rather than actionable.
@@ -4724,16 +4463,6 @@ Two things from this book are worth your attention and the rest is interesting r
 
 The warning I would attach is about how this book gets used internally. It has become the standard citation for any claim that buyers are irrational, usually to justify a decision somebody wanted to make anyway. Kahneman himself retracted confidence in one of its chapters. Anyone quoting it as settled science on every point has not read it closely.
 
-**Read next:** Influence, Cialdini · Alchemy, Rory Sutherland · [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp
-
-### Where this gets used
-
-Testing how an offer is framed, rather than only what is in it, is a standing experiment in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 Sources:
 
 1. Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
@@ -4743,7 +4472,7 @@ Sources:
 ### The Long and the Short of It. Les Binet and Peter Field (2013)
 
 Source: https://bravenewhive.com/readings/the-long-and-the-short-of-it-binet-field/
-Date: 2026-09-05. Read: 4 min.
+Date: 2026-09-05. Read: 3 min.
 
 The IPA study that separated brand building from sales activation, showed they work on different timescales through different mechanisms, and put a number on the split between them. The most quoted finding in modern marketing effectiveness, and the most misquoted.
 
@@ -4785,8 +4514,6 @@ More importantly it explains a specific organisational failure. Activation looks
 
 <p class="pull">One half of marketing produces a spike you can see and the other produces a slope you cannot, and the measurement system only rewards the spike.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 This is the book that explains why your marketing reporting is structurally misleading, and it is not misleading because anybody is being dishonest.
@@ -4796,16 +4523,6 @@ Activation effects show up fast and attribute cleanly. Brand effects show up slo
 The practical consequence: when you cut marketing in a difficult quarter, the numbers will appear to vindicate you for several quarters. The cost arrives later, as a slow decline in how readily buyers think of you, and by then it is attributed to the market.
 
 What I would ask for is not the 60/40 split, which is an average from other people's businesses. It is a single page showing what proportion of your spend is aimed at people ready to buy now, and what proportion at people who will be ready later. Most companies have never produced that page and are surprised by the answer.
-
-**Read next:** [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp · [Ogilvy on Advertising](/readings/ogilvy-on-advertising/) · Positioning, Ries and Trout
-
-### Where this gets used
-
-Producing that single page, the split between spend aimed at now and spend aimed at later, is one of the first outputs of a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4860,8 +4577,6 @@ Read alongside Sharp, the two are close to incompatible. Sharp says the answers 
 
 <p class="pull">Organisations choose the defensible option over the effective one, because nobody is ever fired for being reasonable.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 The useful part of this book for you is not the marketing advice. It is the observation about how your company makes decisions.
@@ -4871,16 +4586,6 @@ If every proposal that reaches you arrives with a business case, and every busin
 The practical move is small. Keep a deliberate allowance for a few things a year that cannot be justified in advance, with a real budget and a short deadline, and judge them on what happened rather than on whether the reasoning was sound. Most firms do this informally for things the chief executive personally likes, which is the worst version of the same idea.
 
 The caution: this book is the most quotable on the list and the least falsifiable. It is a corrective to over-measurement, not a licence to stop measuring, and in a company that already runs on instinct it will do harm.
-
-**Read next:** [Thinking, Fast and Slow](/readings/thinking-fast-and-slow-kahneman/), Kahneman · [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp · Influence, Cialdini
-
-### Where this gets used
-
-Separating decisions that need a business case from decisions that need a cheap test is part of how we structure a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -4931,8 +4636,6 @@ Some of the specific studies in the original have also been affected by the wide
 
 <p class="pull">Six mechanisms that work, written partly so you could tell when they were being used on you, and now mostly used on you.</p>
 
-<div data-sources></div>
-
 ## If you run the company rather than the marketing
 
 There is a governance question in this book and it is worth taking seriously.
@@ -4942,16 +4645,6 @@ The six principles work. They work whether or not what you are selling is good, 
 So the useful move is to decide, in advance and in writing, which of these you will not use. Specifically: no countdown that resets, no scarcity claim that is not true, no review or testimonial that was not freely given, no "recommended by" that was paid for without disclosure.
 
 That list costs you a little conversion. It also means that when a buyer checks one of your claims, and in a considered purchase somebody always does, the claim holds. That is worth more than the conversion, and it is the kind of decision that only gets made at your level before it is needed.
-
-**Read next:** [Thinking, Fast and Slow](/readings/thinking-fast-and-slow-kahneman/), Kahneman · Alchemy, Rory Sutherland · [How Brands Grow](/readings/how-brands-grow-byron-sharp/), Byron Sharp
-
-### Where this gets used
-
-Deciding in writing which persuasion techniques a company will not use, before anyone is under pressure, is part of the governance work in a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 Sources:
 
@@ -5027,10 +4720,6 @@ One engine. One day. One sample per question. No statistical claim is being made
 
 We publish it because the direction was strong enough to be useful and because nobody else seems to be checking whether the citations are real.
 
-<div data-sources></div>
-
-Our own test. Run 14 September 2026 on Gemini gemini-3-flash-preview with Google Search grounding, US English, one sample per question. Raw files are held with the study: model-listed sources, HTTP status per URL, resolved grounding redirects, grounded page titles.
-
 ## If you run the company rather than the marketing
 
 One instruction from this, and it costs nothing.
@@ -5041,20 +4730,10 @@ A citation report is not evidence until somebody has clicked the links. That is 
 
 The second question worth asking: does the engine look anything up when our buyers ask their questions, or does it answer from memory? If it answers from memory, then any programme of website changes is addressed to a mechanism that is not running, and the honest route is slower and mostly involves other people writing about you.
 
-**Read next:** [How the AI search vocabulary moved in a year](/research/how-the-ai-search-vocabulary-moved/) · [What people search for in marketing](/research/what-people-search-for-in-marketing/)
-
-### Where this gets used
-
-Running this test for a single company and category, and reading what the engines actually say about them, is the first stage of a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### How the AI search vocabulary moved in a year
 
 Source: https://bravenewhive.com/research/how-the-ai-search-vocabulary-moved/
-Date: 2026-09-14. Read: 5 min.
+Date: 2026-09-14. Read: 4 min.
 
 Three terms compete to name the same worry: that buyers are asking an AI assistant instead of a search engine. We tracked all three in US search volume across a year. AI SEO is the largest, generative engine optimization peaked early and fell back, and answer engine optimization climbed from almost nothing to a real number. Our own data, fetched 14 September 2026.
 
@@ -5096,10 +4775,6 @@ A term does not behave like that. It is a data artefact, the steady-state months
 
 1. The vocabulary has not settled, so do not build a brand on one of these terms as though it were permanent. 2. AI SEO is the term with the most demand and the highest commercial intent. If you are writing to be found, it is the one that pays. 3. AEO is the growth term. If the climb continues, the position is cheaper to take now than later. 4. Always look at the monthly series, never the headline figure. One of the six terms we checked was an artefact.
 
-<div data-sources></div>
-
-Our own data. Ubersuggest, US locale, English, fetched 14 September 2026, monthly search volume and SEO difficulty as reported by the tool. Eight additional keywords were blocked by the daily report cap and are not included.
-
 ## If you run the company rather than the marketing
 
 The decision this bears on is whether to name something in your business after one of these terms.
@@ -5109,16 +4784,6 @@ The honest read: the vocabulary is a year old, one of the three terms has alread
 That is an argument for describing what you do in durable language and using the current vocabulary only where buyers search for it. Name the service for the outcome. Use the term of the month in the page title where the demand is.
 
 The second thing worth your attention is the cost per click. Over $30 a click across all of these means you are entering an auction against venture-funded software companies. Paid search is not where a services business wins this, and anyone proposing it should be made to show the maths.
-
-**Read next:** [How AI engines answer marketing questions](/research/how-ai-engines-answer-marketing-questions/) · [What people search for in marketing](/research/what-people-search-for-in-marketing/)
-
-### Where this gets used
-
-Separating durable service language from the current search vocabulary, so a business is not renamed every eighteen months, is part of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### What people search for in marketing: the demand map
 
@@ -5169,10 +4834,6 @@ Songs exists because nobody owns the topic, because the citation study found tha
 
 1. Every section renamed to the searched phrasing. History of marketing (210) became history of advertising (720). Movies about marketing (590) became movies about advertising (1,300). 2. Every entry titled by concept rather than by author. 3. Songs and the thinner neuromarketing entries kept, but deliberately deprioritised rather than resourced equally. 4. No section built on a term with no demand without a stated non-traffic reason for keeping it.
 
-<div data-sources></div>
-
-Our own data. Ubersuggest, US locale, English, fetched 14 September 2026. Supplementary short-form social data from Virlo on the same date. Eight keywords were blocked by the daily report cap and are excluded rather than estimated.
-
 ## If you run the company rather than the marketing
 
 The transferable finding here has nothing to do with marketing reference sites.
@@ -5184,16 +4845,6 @@ The two hundred to one ratio between "positioning in marketing" and the names of
 A cheap test. Take the five page titles on your website that matter most and check the monthly search volume for each exact phrase. If they are all under fifty, your site is organised around your own vocabulary rather than your buyers' questions.
 
 That is fixable in an afternoon of retitling and it is usually the highest return hour available.
-
-**Read next:** [How AI engines answer marketing questions](/research/how-ai-engines-answer-marketing-questions/) · [How the AI search vocabulary moved in a year](/research/how-the-ai-search-vocabulary-moved/)
-
-### Where this gets used
-
-Checking whether a company's pages are titled in its own vocabulary or its buyers', and retitling where they are not, is an early fix in a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ## 08 Movies about advertising
 
@@ -5230,10 +4881,6 @@ The ice cream scene with his son, where Naylor explains that if you argue correc
 
 Show it, then ask the team to find the same move in your own category's marketing. It is always there.
 
-<div data-sources></div>
-
-Directed by Jason Reitman, 2005, from the novel by Christopher Buckley.
-
 ## If you run the company rather than the marketing
 
 The reason to watch this is to get better at spotting the move when it is used on you, including by your own people.
@@ -5244,20 +4891,10 @@ Both answers may be true. Both are also exactly what you would hear if they were
 
 The cheap discipline: write down what the measure of success is, and what number would count as failure, before the work starts. Once that exists, the move stops working, and good people stop needing it.
 
-**Read next:** The [Century of the Self](/movies-about-advertising/the-century-of-the-self/) · Art & Copy · The Joneses
-
-### Where this gets used
-
-Agreeing what counts as failure before work starts, so results cannot be reframed afterwards, is part of how we set up a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### The Founder (2016)
 
 Source: https://bravenewhive.com/movies-about-advertising/the-founder/
-Date: 2026-09-01. Read: 4 min.
+Date: 2026-09-01. Read: 3 min.
 
 Ray Kroc turns a single hamburger stand in San Bernardino into McDonald's. The product was the brothers'. The system was theirs too. The brand, the real estate and the name became his. It is the best film ever made about what a brand actually is, and it is not a flattering answer.
 
@@ -5287,10 +4924,6 @@ Kroc explaining why the name matters. He says McDonald's sounds like America, an
 
 It is thirty seconds and it is the cleanest statement of brand asset value in any film. A name that is memorable, pronounceable and carries the right associations is worth more than the recipe, and the person who recognised that is the person who ended up owning the company.
 
-<div data-sources></div>
-
-Directed by John Lee Hancock, 2016. Michael Keaton as Ray Kroc.
-
 ## If you run the company rather than the marketing
 
 This is the film to watch if you have built something good and cannot understand why a less competent competitor is better known.
@@ -5300,16 +4933,6 @@ The McDonald brothers were better operators than Kroc, by a distance. They lost 
 Two questions it raises that are worth sitting with. Who in your business owns the job of making you known, as distinct from making you good? And if the answer is nobody, or a junior person reporting to someone with a different priority, that is the structural version of the brothers' mistake.
 
 The second: what do you actually own? Kroc's answer turned out to be the land. For most service businesses the honest answer is the client relationships, and those sit with individual people who can leave.
-
-**Read next:** Mad Men · The [Greatest Movie Ever Sold](/movies-about-advertising/the-greatest-movie-ever-sold/) · [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/)
-
-### Where this gets used
-
-Working out who owns the job of making a company known, separately from making it good, is a governance question we raise early in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Art & Copy (2009)
 
@@ -5344,10 +4967,6 @@ The Lee Clow material on the 1984 Apple commercial.
 
 Not for the commercial, which everyone has seen, but for the account of what it took to get it approved and how close it came to being killed. That is the useful part for any team that believes the hard thing is having the idea. The hard thing is almost always getting it through the room.
 
-<div data-sources></div>
-
-Directed by Doug Pray, 2009.
-
 ## If you run the company rather than the marketing
 
 Watch it for one thing: a sense of what a strong creative idea actually looks like, so you can recognise the difference between distinctive work and work that is merely competent.
@@ -5355,16 +4974,6 @@ Watch it for one thing: a sense of what a strong creative idea actually looks li
 Then apply the correction the film does not provide. Every campaign in it is one that worked, selected decades later by people who made them. You are seeing survivors, which tells you nothing about the base rate.
 
 The practical version for your own business is a question your agency will not enjoy. Of the work you have made for clients like us, what proportion hit its number? A team with evidence will tell you. A team that answers by showing you a reel is doing what this film does, and it is lovely and it is not evidence.
-
-**Read next:** Mad Men · The [Century of the Self](/movies-about-advertising/the-century-of-the-self/) · The Founder
-
-### Where this gets used
-
-Asking an agency for the base rate rather than the reel is a question we help clients put properly in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### The Greatest Movie Ever Sold (2011)
 
@@ -5401,10 +5010,6 @@ Watch a brand team articulate what they are protecting. That articulation, unreh
 
 Then ask your own team: what would we refuse, and why? Most cannot answer.
 
-<div data-sources></div>
-
-Directed by Morgan Spurlock, 2011.
-
 ## If you run the company rather than the marketing
 
 The useful exercise from this film costs an hour.
@@ -5415,20 +5020,10 @@ If the answer is vague, you do not have a brand position, you have a logo and a 
 
 The second observation worth taking: the negotiations were about control and context, not price. When your company is the one being associated with something, the same should be true. If a partnership conversation in your business is only about cost, somebody has skipped the part that matters.
 
-**Read next:** Art & Copy · [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/) · The Joneses
-
-### Where this gets used
-
-Forcing the decision about what a company will not be associated with, before the offer arrives, is part of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### The Century of the Self (2002)
 
 Source: https://bravenewhive.com/movies-about-advertising/the-century-of-the-self/
-Date: 2026-08-17. Read: 4 min.
+Date: 2026-08-17. Read: 3 min.
 
 Adam Curtis's four-part BBC documentary on how Freud's ideas about the unconscious were taken up by business and government to manage the public. The most useful thing on this list, and the only one that is really about marketing rather than about advertising people.
 
@@ -5460,10 +5055,6 @@ Episode one, the Bernays material on the 1929 cigarette campaign, where he arran
 
 It is the clearest demonstration in any film of the difference between selling a product and attaching it to an identity. It is also a direct illustration of how much damage that technique can do when the product is harmful, which makes it a better conversation starter with a team than any case study.
 
-<div data-sources></div>
-
-Directed by Adam Curtis. Four parts, BBC, 2002.
-
 ## If you run the company rather than the marketing
 
 Worth four hours of your time, and not for the marketing.
@@ -5473,16 +5064,6 @@ The thing it will give you is a working sense of how old these techniques are an
 That matters practically, because it changes how you evaluate a proposal. When somebody presents a behavioural technique as a breakthrough, the useful question is which of the old mechanisms this is, and whether it is being used on people in a way you would defend if it were described plainly to them.
 
 The series is also a reasonable inoculation against your own marketing. If you watch four hours of how effectively this works on populations, you will be slightly less confident that it does not work on you.
-
-**Read next:** [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/) · Art & Copy · [Putney Swope](/movies-about-advertising/putney-swope/)
-
-### Where this gets used
-
-Deciding which persuasion techniques a company is willing to use, and writing that down before anyone is under pressure, is part of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### How to Get Ahead in Advertising (1989)
 
@@ -5515,10 +5096,6 @@ Bagley's monologue about the function of advertising, delivered at speed and wit
 
 It is a better articulation of the cynical case against the trade than anyone hostile to it has managed, and it comes from inside. Useful to show precisely because it is not a straw man.
 
-<div data-sources></div>
-
-Written and directed by Bruce Robinson, 1989. Richard E. Grant as Dennis Bagley.
-
 ## If you run the company rather than the marketing
 
 This one is about retention and it is not usually read that way.
@@ -5528,16 +5105,6 @@ The condition the film describes, being required to argue daily for things you d
 The practical question for you: do the people writing your marketing believe the claims in it? If they do not, you will lose them, and before you lose them the work will get worse in a way that is hard to diagnose, because unconvinced copy is technically fine and does nothing.
 
 The cheap test is to ask a writer to defend a claim without using the words from the brief. If they cannot, either the claim is not true or they have not been told why it is.
-
-**Read next:** [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/) · [Putney Swope](/movies-about-advertising/putney-swope/) · Mad Men
-
-### Where this gets used
-
-Checking that the people writing the claims can defend them in their own words is a standing quality gate in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### The Joneses (2009)
 
@@ -5570,10 +5137,6 @@ The scene where a neighbour, having bought everything the Joneses have, cannot a
 
 Show it when discussing influencer work, because it is the clearest statement of who carries the cost when aspiration is manufactured well. The question is not whether the technique works. It is what happens to the person it works on.
 
-<div data-sources></div>
-
-Directed by Derrick Borte, 2009.
-
 ## If you run the company rather than the marketing
 
 The relevant issue here is disclosure, and it is a live compliance question rather than a philosophical one.
@@ -5584,20 +5147,10 @@ Two practical things. Put the disclosure requirement in the contract rather than
 
 The broader point the film makes is worth keeping too. Manufactured aspiration works, and it works on people who cannot afford the thing. In a B2B context the equivalent is selling a capability to a company that does not have the maturity to use it. It closes, and it churns, and it costs you a reference.
 
-**Read next:** The [Century of the Self](/movies-about-advertising/the-century-of-the-self/) · The [Greatest Movie Ever Sold](/movies-about-advertising/the-greatest-movie-ever-sold/) · [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/)
-
-### Where this gets used
-
-Making disclosure contractual rather than advisory, and naming who verifies it, is part of the governance work in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### Mad Men (2007 to 2015)
 
 Source: https://bravenewhive.com/movies-about-advertising/mad-men/
-Date: 2026-07-30. Read: 4 min.
+Date: 2026-07-30. Read: 3 min.
 
 Matthew Weiner's series about a New York advertising agency in the 1960s. It is the most influential depiction of our trade ever made, it is extremely good, and it is a period drama that a surprising number of people in marketing have quietly absorbed as a documentary.
 
@@ -5631,10 +5184,6 @@ Show it for what it does well, which is the demonstration that people buy a feel
 
 Both halves of that conversation matter.
 
-<div data-sources></div>
-
-Created by Matthew Weiner. AMC, 2007 to 2015, seven seasons.
-
 ## If you run the company rather than the marketing
 
 Useful to you as a diagnostic of your own agency relationships.
@@ -5644,16 +5193,6 @@ If the people presenting work to you do it the way Draper does, with a reveal, a
 The question that cuts through it: what else did you consider, and why did you reject it? A team with a process answers that easily and the answer is interesting. A team selling you inspiration will treat the question as an insult.
 
 The other thing worth noticing is how much of the series is about the account relationship rather than the work, because that part is still true. If your agency relationship depends on one person who likes you, you have a concentration risk and not a partnership.
-
-**Read next:** The Founder · Art & Copy · [Putney Swope](/movies-about-advertising/putney-swope/)
-
-### Where this gets used
-
-Asking what was considered and rejected, and expecting a real answer, is the simplest quality test we give clients in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Putney Swope (1969)
 
@@ -5688,10 +5227,6 @@ The board meeting where Swope is elected.
 
 Four minutes, and it is the best depiction of how organisations make decisions nobody intended. Show it before any committee process in your own firm and watch people get uncomfortable.
 
-<div data-sources></div>
-
-Written and directed by Robert Downey Sr, 1969.
-
 ## If you run the company rather than the marketing
 
 Two things in this film are about running an organisation rather than about advertising.
@@ -5701,16 +5236,6 @@ The first is the election. Decisions get made by committees in which everyone is
 The second is what happens to his principles. He starts with a clear rule about which accounts he will not take, and the rule dissolves under commercial pressure, one justified exception at a time.
 
 That is the normal failure mode for stated values, and the defence against it is not stronger conviction. It is writing the rule down specifically enough that an exception has to be argued openly, with somebody named as the person who approved it.
-
-**Read next:** The [Century of the Self](/movies-about-advertising/the-century-of-the-self/) · Mad Men · [Thank You for Smoking](/movies-about-advertising/thank-you-for-smoking/)
-
-### Where this gets used
-
-Writing a rule specifically enough that breaking it has to be argued openly is the governance half of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ## 09 Songs
 
@@ -5743,10 +5268,6 @@ Young's position was available to him because he was already wealthy and establi
 
 It is a principled position taken from a comfortable place, which does not make it wrong and does make it easier to hold.
 
-<div data-sources></div>
-
-Neil Young, This Note's for You, Reprise Records, 1988. Video directed by Julien Temple. MTV initially declined to air it and subsequently awarded it Video of the Year in 1989.
-
 ## If you run the company rather than the marketing
 
 The transferable question is about endorsement and what it costs the endorser.
@@ -5756,16 +5277,6 @@ When your company pays somebody to be associated with it, a creator, an industry
 Which means two things follow. If you squeeze the arrangement so the person looks bought, the asset you were buying disappears in the act of buying it. And if the association later embarrasses them, you have taken something you cannot give back.
 
 The practical version: pay properly, disclose clearly, and give the person genuine latitude to describe the work in their own words including the parts that were difficult. An endorsement that reads as controlled is worth very little, and everyone can tell.
-
-**Read next:** Sell Out, Reel Big Fish · [Television, the Drug of the Nation](/songs/television-the-drug-of-the-nation/) · Radio Radio
-
-### Where this gets used
-
-Structuring endorsement and case study work so the endorser keeps their credibility is part of how we run a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Sell Out. Reel Big Fish (1996)
 
@@ -5794,10 +5305,6 @@ The joke relies on the band being genuinely uncertain whether they had sold out,
 
 Most corporate attempts at this register fail for that reason. The move requires something actually at stake.
 
-<div data-sources></div>
-
-Reel Big Fish, Turn the Radio Off, Mojo Records, 1996.
-
 ## If you run the company rather than the marketing
 
 The useful idea here is pre-emption: naming the objection before your audience does.
@@ -5807,16 +5314,6 @@ In B2B this is close to free and almost nobody uses it. If your price is higher 
 Every one of those feels like handing the buyer a reason to say no. In practice it does the opposite, because the buyer already suspects it, and hearing it from you is the only evidence available that the rest of what you say is true.
 
 The limit is the one the song illustrates. This works when the admission costs you something real. Performed candour, an admitted flaw that is secretly a boast, is worse than silence and everyone can smell it.
-
-**Read next:** [This Note's for You](/songs/this-notes-for-you/) · [Advertising Space](/songs/advertising-space/) · [Don't Believe the Hype](/songs/dont-believe-the-hype/)
-
-### Where this gets used
-
-Naming the real objection in the first paragraph, rather than defending against it later, is a standing rule in how we write for [Brave New](https://brave-new.com/) clients.
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Television, the Drug of the Nation. The Disposable Heroes of Hiphoprisy (1992)
 
@@ -5845,10 +5342,6 @@ The song treats the audience as passive, acted upon by the medium. The evidence 
 
 It is also a long argument delivered without much room for disagreement, which is the nature of the form and does mean it persuades by conviction rather than by evidence.
 
-<div data-sources></div>
-
-The Disposable Heroes of Hiphoprisy, Hypocrisy Is the Greatest Luxury, 4th & B'way, 1992. Written by Michael Franti.
-
 ## If you run the company rather than the marketing
 
 There is a practical point buried in a thirty-year-old protest record.
@@ -5858,16 +5351,6 @@ If your company's growth depends on buying attention in advertising-funded envir
 The strategic response is not to stop buying media. It is to notice how much of your reach you rent and how much you own. An audience you reach through a platform can be repriced or removed without notice. An audience that has given you their email address, or that comes to something you publish, cannot.
 
 Most B2B companies rent almost all of it and have never looked at the ratio. It is a single number and it is worth asking for.
-
-**Read next:** [This Note's for You](/songs/this-notes-for-you/) · Radio Radio · [Don't Believe the Hype](/songs/dont-believe-the-hype/)
-
-### Where this gets used
-
-Working out how much of a company's reach is rented and how much is owned, and shifting the ratio, is a standing objective in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Money. Pink Floyd (1973)
 
@@ -5896,10 +5379,6 @@ The lesson for anyone building a brand on a critical position: the critique is a
 
 Waters has been open about the contradiction and it does not really damage the song. Writing about greed while becoming rich is not hypocrisy, it is the only vantage point from which the subject is visible.
 
-<div data-sources></div>
-
-Pink Floyd, The Dark Side of the Moon, Harvest and Capitol, 1973. Written by Roger Waters.
-
 ## If you run the company rather than the marketing
 
 The commercial idea here is that positioning against something is weaker than it feels.
@@ -5911,16 +5390,6 @@ The problem is that it is borrowed. Your position is defined by what the incumbe
 The durable version is a position that describes what you are rather than what you are against, and that would still make sense if every competitor disappeared tomorrow. That is harder to write and it is the only kind worth having.
 
 Test: remove every comparative from your positioning statement. If nothing survives, you have a critique rather than a position.
-
-**Read next:** [Material Girl](/songs/material-girl/) · [Advertising Space](/songs/advertising-space/) · [Television, the Drug of the Nation](/songs/television-the-drug-of-the-nation/)
-
-### Where this gets used
-
-Rewriting a positioning statement so it survives the removal of every comparative is the hard part of a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Material Girl. Madonna (1984)
 
@@ -5947,10 +5416,6 @@ For anyone writing marketing copy this is the most useful cautionary tale in the
 
 The reading above is tidy and the reality is that the association was also commercially useful to her for a long time. Being misread as a material girl was not obviously a cost. Artists and brands can profit from a simplification they did not choose, and pretending otherwise is sentimental.
 
-<div data-sources></div>
-
-Madonna, Like a Virgin, Sire Records, 1984. Written by Peter Brown and Robert Rans. Video directed by Mary Lambert.
-
 ## If you run the company rather than the marketing
 
 The practical lesson is about what survives compression.
@@ -5963,20 +5428,10 @@ Try it. Ask three people who know your business to describe it in one short sent
 
 This is also why qualifying language in marketing tends to be wasted effort. The qualifier is the first thing dropped.
 
-**Read next:** Money · [Advertising Space](/songs/advertising-space/) · [Don't Believe the Hype](/songs/dont-believe-the-hype/)
-
-### Where this gets used
-
-Testing what survives when a positioning statement is compressed to five words by somebody who was half listening is a standard exercise in a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
-
 ### Advertising Space. Robbie Williams (2005)
 
 Source: https://bravenewhive.com/songs/advertising-space/
-Date: 2026-08-09. Read: 3 min.
+Date: 2026-08-09. Read: 2 min.
 
 A song about the afterlife of a famous person's image, and what happens to it once they are no longer there to object. The commercial subject is posthumous licensing, which is a real and growing industry and is almost never written about.
 
@@ -5998,10 +5453,6 @@ Williams, writing as someone whose own image is a managed asset, is closer to th
 
 The song is sentimental about Presley in a way that obscures the argument. Presley's image was heavily commercialised while he was alive and with his participation, so the contrast between the authentic living person and the exploited estate is weaker than the song needs it to be.
 
-<div data-sources></div>
-
-Robbie Williams, Intensive Care, Chrysalis, 2005. Written by Robbie Williams and Stephen Duffy.
-
 ## If you run the company rather than the marketing
 
 Narrow and practical: check what your contracts say about using people's images and words after they leave.
@@ -6011,16 +5462,6 @@ Most companies hold testimonials, case study quotes, headshots and video from em
 Three things worth confirming. Whether your consent forms are time-limited or perpetual. Whether they survive the person leaving the company they were at. And who in your business is responsible for removing material when consent is withdrawn, because in most firms nobody is and the request goes to whoever answers the email.
 
 This is a small administrative matter until the day it is not, and the day it is not usually involves somebody's family.
-
-**Read next:** [This Note's for You](/songs/this-notes-for-you/) · [Material Girl](/songs/material-girl/) · [Television, the Drug of the Nation](/songs/television-the-drug-of-the-nation/)
-
-### Where this gets used
-
-Auditing consent on testimonials and case study material, including what happens when the person leaves, is part of the governance work in a [brand consolidation sprint](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Don't Believe the Hype. Public Enemy (1988)
 
@@ -6051,10 +5492,6 @@ The owned-channel answer solves the distribution problem and not the credibility
 
 Both things are true: you need a channel you own, and the thing that persuades is still somebody else saying it.
 
-<div data-sources></div>
-
-Public Enemy, It Takes a Nation of Millions to Hold Us Back, Def Jam, 1988. Written by Carlton Ridenhour, Eric Sadler and Hank Shocklee.
-
 ## If you run the company rather than the marketing
 
 There is a decision here that most companies never make deliberately.
@@ -6066,16 +5503,6 @@ The owned channel is the standard answer and it is only half an answer. A newsle
 The combination that works is owning the primary material and letting other people cite it. Publish the data, the method, the thing nobody else has, and let the intermediaries use it. Then the account that reaches people is written by somebody else and sourced from you, which is the only version that does both jobs.
 
 That is a slower strategy than a campaign and it is the one that compounds.
-
-**Read next:** [Television, the Drug of the Nation](/songs/television-the-drug-of-the-nation/) · [This Note's for You](/songs/this-notes-for-you/) · Radio Radio
-
-### Where this gets used
-
-Building primary material other people will cite, rather than publishing claims about yourself, is the core of how we think about a [retrievability audit](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
 
 ### Radio Radio. Elvis Costello (1978)
 
@@ -6102,10 +5529,6 @@ Costello could afford it. He had a recording contract and a touring base, so los
 
 The song is a principled stand by somebody with an alternative. The useful question is what you would do without one.
 
-<div data-sources></div>
-
-Elvis Costello, This Year's Model (UK release), Radar Records, 1978. The Saturday Night Live performance was in December 1977.
-
 ## If you run the company rather than the marketing
 
 This is the clearest statement in the section of a risk most companies carry and never price.
@@ -6115,13 +5538,3 @@ If a single channel delivers most of your pipeline, whether that is paid search,
 The test is one number: what proportion of new business arrived through your single largest channel last year? If it is above half, that is the most significant commercial risk in the business and it probably does not appear on any risk register, because it only looks like a risk in the quarter it stops working.
 
 The remedy is not to abandon the channel that works. It is to deliberately fund a second one before you need it, accepting that it will look inefficient by comparison for a long time. That comparison is the trap: the efficient channel is efficient right up until it is gone.
-
-**Read next:** [Television, the Drug of the Nation](/songs/television-the-drug-of-the-nation/) · [Don't Believe the Hype](/songs/dont-believe-the-hype/) · [This Note's for You](/songs/this-notes-for-you/)
-
-### Where this gets used
-
-Measuring channel concentration and deliberately funding a second route before it is needed is a standing item in a [go-to-market retainer](https://brave-new.com/).
-
-### About the author
-
-Anne Becheru is the founder of [Brave New](https://brave-new.com/), a B2B communications and marketing agency working across Capital, Industrial and Healthcare in the EU, UAE and US.
