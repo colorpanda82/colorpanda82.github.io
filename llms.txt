@@ -95,3 +95,8 @@ Published by Brave New. Every entry is dated, sourced and signed by Anne Becheru
 - [Advertising Space. Robbie Williams (2005)](https://bravenewhive.com/songs/advertising-space/): A song about the afterlife of a famous person's image, and what happens to it once they are no longer there to object. The commercial subject is posthumous licensing, which is a real and growing industry and is almost never written about.
 - [Don't Believe the Hype. Public Enemy (1988)](https://bravenewhive.com/songs/dont-believe-the-hype/): Chuck D attacking the media's account of his own group, from an album that argued the press was not a neutral narrator but a participant with interests. It is the best song ever written about media relations, which is not a crowded field.
 - [Radio Radio. Elvis Costello (1978)](https://bravenewhive.com/songs/radio-radio/): An attack on commercial radio as a gatekeeper, from an artist who then performed it on live American television after being told not to. The performance is more famous than the song and both belong here.
+
+## Reference pages
+
+- [Library](https://bravenewhive.com/library/): every source cited across the Hive, deduplicated, with the entries that cite each one.
+- [A to Z](https://bravenewhive.com/a-z/): every entry, alphabetically.

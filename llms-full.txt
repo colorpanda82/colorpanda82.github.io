@@ -3474,13 +3474,13 @@ Date: 2026-09-10. Read: 16 min.
 
 AI SEO is the work of getting a company named, described correctly and cited in the answers that AI assistants and AI search features produce. It shares a base with search engine optimisation, a page a machine can reach and read, and adds the part that decides an answer: a plain definition, one description of the company repeated everywhere it appears, and claims an engine can attribute to a source.
 
-On 14 September 2026 we asked one AI engine eight ordinary marketing questions and then checked every source it named. For six of the eight it never searched the web at all. Of the fifty-two URLs it listed, twenty-one return a 404. The engine was not lying on purpose. It was answering from memory, the way a confident person quotes a book they read years ago and misremembers the page.
+On 14 September 2026 we asked one AI engine eight ordinary marketing questions and then checked every source it named. For six of the eight it never searched the web at all. Of the fifty-three URLs it listed, twenty-one return a 404. The engine was not lying on purpose. It was answering from memory, the way a confident person quotes a book they read years ago and misremembers the page.
 
 That is the thing worth understanding before spending a pound on AI SEO. Sometimes the engine looks, and what you publish can enter the answer this month. Sometimes it does not look, and nothing you publish this year will move it. Knowing which of the two you are facing is most of the strategy.
 
 Below: what AI SEO is, how an answer gets assembled, where generative engine optimization and answer engine optimization fit, what makes a brand retrievable, how to measure any of it, and the parts I would skip.
 
-> Key takeaways > > AI SEO has two meanings. Using AI tools to do SEO faster is a workflow question. Getting into AI answers is the one that changes a pipeline. > > Engines do not always retrieve. In our 14 September 2026 study, live search fired on two of eight questions. On fresh, contested topics a new page can enter the answer within a cycle. On evergreen topics it cannot, at any quality. > > Verify anything an engine cites you. Twenty-one of fifty-two listed sources in that study did not exist. > > "AI SEO" is the biggest term in this cluster at 8,100 US searches a month, ahead of [AI marketing](/ai-marketing/what-is-ai-marketing/) at 5,400, generative engine optimization at 4,400 and answer engine optimization at 2,400 (Ubersuggest, 13 September 2026). > > third party sources do more work than your own site copy. An engine counts how many independent places describe you the same way.
+> Key takeaways > > AI SEO has two meanings. Using AI tools to do SEO faster is a workflow question. Getting into AI answers is the one that changes a pipeline. > > Engines do not always retrieve. In our 14 September 2026 study, live search fired on two of eight questions. On fresh, contested topics a new page can enter the answer within a cycle. On evergreen topics it cannot, at any quality. > > Verify anything an engine cites you. Twenty-one of fifty-three listed sources in that study did not exist. > > "AI SEO" is the biggest term in this cluster at 8,100 US searches a month, ahead of [AI marketing](/ai-marketing/what-is-ai-marketing/) at 5,400, generative engine optimization at 4,400 and answer engine optimization at 2,400 (Ubersuggest, 13 September 2026). > > third party sources do more work than your own site copy. An engine counts how many independent places describe you the same way.
 
 ## What AI SEO is, and how it differs from search engine optimisation
 
@@ -3508,7 +3508,7 @@ Once the material is in hand, the model writes a paragraph. It leans on whatever
 
 Here is the study behind the number in the introduction. On 14 September 2026 we put eight questions to Gemini with Google Search grounding, one answer each, then requested every URL it named and recorded the status. Questions covered marketing principles, the history of advertising, neuromarketing, building a B2B brand for AI search, films and songs about advertising, whether a marketing encyclopedia exists, and the term retrievable brand.
 
-Live retrieval fired twice. Both times it was a fresh, contested topic: AI search, and reference sites. The six evergreen questions were answered from memory, and that is where the dead URLs came from. Twenty-one of fifty-two listed sources returned not found or failed.
+Live retrieval fired twice. Both times it was a fresh, contested topic: AI search, and reference sites. The six evergreen questions were answered from memory, and that is where the dead URLs came from. Twenty-one of fifty-three listed sources returned not found or failed.
 
 On the retrievable brand question, all sixteen grounded citations were real pages, and the mix was instructive. Two platform vendors, two trade publications, two software companies that use the word as a product name, seven small agency and consultant blogs, one Medium post. Small, recently published explainers sat beside the vendors. That is the opening. A new page on a contested topic can enter an answer inside an update cycle. The method and the full table are in [our citation study](/research/how-ai-engines-answer-marketing-questions/), including the limits: one engine, one sample per question.
 
@@ -3724,7 +3724,7 @@ That is a weaker statement than most of the industry makes, and it is the honest
 
 ## The citation problem nobody mentions
 
-When we checked every source the engine named across those eight questions, of 52 URLs, 17 existed, 14 blocked automated checking, and 21 did not exist at all.
+When we checked every source the engine named across those eight questions, of the 53 URLs it listed rather than retrieved, 17 existed, 15 blocked automated checking, and 21 did not exist at all.
 
 Roughly two in five of the sources it cited were not real. They looked plausible: correct domains, sensible paths, titles that fit the claim. They simply were not there.
 
@@ -4679,7 +4679,7 @@ This is the part that should change how people read AI citation reports.
 
 Where retrieval did not fire, the engine still produced a list of sources. Those lists looked entirely ordinary: real domains, plausible paths, titles that fit the claim.
 
-We checked all of them. Across the questions where sources were listed rather than grounded, 21 URLs returned 404 or failed to resolve, 17 existed, and 14 blocked automated checking so could not be confirmed either way.
+We checked all of them. Across the questions where sources were listed rather than grounded, 21 URLs returned 404 or failed to resolve, 17 existed, and 15 blocked automated checking so could not be confirmed either way.
 
 Roughly two in five of the checkable sources were not real.
 
@@ -4720,6 +4720,27 @@ If anyone shows you a dashboard reporting that your brand is being cited in AI a
 A citation report is not evidence until somebody has clicked the links. That is not a criticism of any particular tool, it is a property of how these systems produce source lists when they have not actually searched.
 
 The second question worth asking: does the engine look anything up when our buyers ask their questions, or does it answer from memory? If it answers from memory, then any programme of website changes is addressed to a mechanism that is not running, and the honest route is slower and mostly involves other people writing about you.
+
+Figure: Six of eight marketing questions were answered with no live search at all. Evergreen marketing knowledge comes out of training data. Only the fresh and contested topics triggered a search.. Source: Gemini with Google Search grounding, one answer per question, 14 September 2026. Brave New Hive original research.. Unit: live retrieval fired, yes or no.
+
+| Question | live retrieval fired |
+|---|---|
+| Basic principles of marketing | no |
+| History of marketing and advertising | no |
+| What is neuromarketing, best studies | no |
+| Build a B2B brand for AI search | no |
+| Best movies and series about marketing | no |
+| Songs about advertising and consumerism | no |
+| Is there a marketing encyclopedia or wiki | yes, 5 searches |
+| What is a retrievable brand | yes, 4 searches |
+
+Figure: Of the 53 sources the engine named from memory, 21 do not exist. Roughly two in five of the checkable sources were not real. They had correct domains, sensible paths and titles that fitted the claim.. Source: Gemini with Google Search grounding, one answer per question, 14 September 2026; each URL requested by hand. Brave New Hive original research.. Unit: URLs.
+
+| Item | URLs |
+|---|---|
+| Exist | 17 |
+| Blocked the check, unverified | 15 |
+| Do not exist | 21 |
 
 ### How the AI search vocabulary moved in a year
 
@@ -4775,6 +4796,27 @@ The honest read: the vocabulary is a year old, one of the three terms has alread
 That is an argument for describing what you do in durable language and using the current vocabulary only where buyers search for it. Name the service for the outcome. Use the term of the month in the page title where the demand is.
 
 The second thing worth your attention is the cost per click. Over $30 a click across all of these means you are entering an auction against venture-funded software companies. Paid search is not where a services business wins this, and anyone proposing it should be made to show the maths.
+
+Figure: AI SEO leads the vocabulary at 8,100 searches a month, answer engine optimization is under a third of it. Six phrasings, one question. The market has not settled on a name, which is why the same page has to answer to several of them.. Source: Ubersuggest, US locale, English, fetched 14 September 2026. Brave New Hive original research.. Unit: searches per month.
+
+| Term | searches per month |
+|---|---|
+| AI SEO | 8,100 |
+| AI marketing | 5,400 |
+| Generative engine optimization | 4,400 |
+| AI marketing tools | 4,400 |
+| Answer engine optimization | 2,400 |
+| Generative engine optimization (GEO) | 1,600 |
+
+Figure: Answer engine optimization went from 210 to 2,400 a month while generative engine optimization peaked and fell. The steepest climb in the dataset, against a term that peaked a year earlier. Both describe the same job.. Source: Ubersuggest, US locale, English, monthly series fetched 14 September 2026. Brave New Hive original research.. Unit: searches per month.
+
+| Term | Month | searches per month |
+|---|---|---|
+| what is answer engine optimization | Aug 2025 | 210 |
+| what is answer engine optimization | Jun 2026 | 1,600 |
+| what is answer engine optimization | Jul 2026 | 2,400 |
+| generative engine optimization | Aug 2025 | 6,600 |
+| generative engine optimization | Sep 2025 | 6,600 |
 
 ### What people search for in marketing: the demand map
 
@@ -4836,6 +4878,28 @@ The two hundred to one ratio between "positioning in marketing" and the names of
 A cheap test. Take the five page titles on your website that matter most and check the monthly search volume for each exact phrase. If they are all under fifty, your site is organised around your own vocabulary rather than your buyers' questions.
 
 That is fixable in an afternoon of retitling and it is usually the highest return hour available.
+
+Figure: One film title draws five times the search of any marketing concept on the site. The Founder at 74,000 a month against the marketing mix at 14,800. The demand is not where a marketing reference would assume it is.. Source: Ubersuggest, US locale, English, fetched 14 September 2026. Brave New Hive original research.. Unit: searches per month.
+
+| Entry | searches per month |
+|---|---|
+| The Founder | 74,000 |
+| Thank You for Smoking | 22,200 |
+| Marketing mix | 14,800 |
+| The 4 Ps of marketing | 12,100 |
+| Market segmentation | 9,900 |
+| Positioning in marketing | 9,900 |
+| Loss aversion | 8,100 |
+| How to Get Ahead in Advertising | 1,900 |
+| Movies about advertising | 1,300 |
+| Marketing terms | 1,000 |
+
+Figure: Songs about advertising is a dead search. 70 a month is thin and 30 is dead by the thresholds the study sets. The section exists because nobody owns the topic, not because anyone is searching for it.. Source: Ubersuggest, US locale, English, fetched 14 September 2026. Brave New Hive original research.. Unit: searches per month.
+
+| Keyword | searches per month |
+|---|---|
+| songs about marketing | 70 |
+| songs about advertising | 30 |
 
 ## 08 Movies about advertising
 
@@ -5526,7 +5590,7 @@ Radio as an institution that presents itself as serving an audience while actual
 
 ## Why it belongs in a marketing reference
 
-The Saturday Night Live incident in December 1977 is the part worth knowing. Costello began a different song, stopped it after a few bars, and led the band into this one instead, against the wishes of the programme. He was reportedly banned from the show for a long period afterwards.
+The Saturday Night Live incident in December 1977 is the part worth knowing. Costello began a different song, stopped it after a few bars, and led the band into this one instead, against the wishes of the programme. He did not appear on the show again until 1989.
 
 That is a complete case study in channel risk in about ninety seconds. An artist dependent on a platform for reach, using the platform to attack gatekeeping, and losing access to it as a direct result.
 
