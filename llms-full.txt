@@ -583,7 +583,7 @@ Byron Sharp published [How Brands Grow](/readings/how-brands-grow-byron-sharp/):
 
 The problem Sharp was solving was a decade of loyalty-first management. Reichheld and Sasser had told Harvard Business Review readers in 1990 that "companies can boost profits by almost 100% by retaining just 5% more of their customers" [18], and Aaker's Managing [Brand Equity](/principles/brand-equity/) (1991) had put brand loyalty first among five equity assets [20]. Sharp's answer: brands do not grow by deepening loyalty, they grow by adding buyers.
 
-The regularity underneath the book is double jeopardy, which William McPhee described in Formal Theories of Mass Behavior (1963) for actors, comic strips and radio presenters before anyone applied it to brands [5][9]. Ehrenberg, Goodhardt and Barwise formalised it for buying in the Journal of Marketing in 1990: "a small brand typically has far fewer buyers than a larger brand. In addition, its buyers tend to buy it less often" [6]. Uncles, Ehrenberg and Hammond (1995) tied the regularities together in the NBD-Dirichlet model [7]. Sharp's own step before the book was brand salience, defined with Jenni Romaniuk in 2004 as "the brand's propensity to be noticed or come to mind in buying situations" [8]. Mental availability is that idea renamed and widened. [How Brands Grow](/readings/how-brands-grow-byron-sharp/) Part 2 (2016) took the laws to emerging markets, services and luxury [3]; Romaniuk's Building [Distinctive Brand Assets](/branding/distinctive-brand-assets/) (2018) is the operating manual for the mental half [4].
+The regularity underneath the book is [double jeopardy](/branding/double-jeopardy/), which William McPhee described in Formal Theories of Mass Behavior (1963) for actors, comic strips and radio presenters before anyone applied it to brands [5][9]. Ehrenberg, Goodhardt and Barwise formalised it for buying in the Journal of Marketing in 1990: "a small brand typically has far fewer buyers than a larger brand. In addition, its buyers tend to buy it less often" [6]. Uncles, Ehrenberg and Hammond (1995) tied the regularities together in the NBD-Dirichlet model [7]. Sharp's own step before the book was brand salience, defined with Jenni Romaniuk in 2004 as "the brand's propensity to be noticed or come to mind in buying situations" [8]. Mental availability is that idea renamed and widened. [How Brands Grow](/readings/how-brands-grow-byron-sharp/) Part 2 (2016) took the laws to emerging markets, services and luxury [3]; Romaniuk's Building [Distinctive Brand Assets](/branding/distinctive-brand-assets/) (2018) is the operating manual for the mental half [4].
 
 ## What the evidence shows
 
@@ -1043,7 +1043,7 @@ The three challenges do not say brands add no value. They say the number on your
 
 **The word means three things.** Feldwick (1996) sorted the uses into (a) the total value of a brand as a separable asset when sold or put on a balance sheet, (b) the strength of consumers' attachment to a brand, and (c) the associations and beliefs the consumer holds about it [5, as summarised in 6]: brand valuation, brand strength, brand description. The commercial valuation systems mix all three. Interbrand starts from economic profit, multiplies by a Role of Brand Index, and discounts at a rate set by a 0 to 100 Brand Strength score across ten factors [9]. Kantar BrandZ starts from parent-company earnings, isolates a branded intangible portion, and multiplies by a Brand Contribution score from its Meaningful, Different, Salient survey [10]. Both are financial value times a survey multiplier. Brand Finance's Global 500 is a third such system: $10.4 trillion across 500 brands in 2026, up 11% in a year, with the top ten brands holding 27% of the total [26]. None of the three is Keller's differential effect. Interbrand's Best Global Brands also requires a Brand Strength Score of 50 or above for entry [9]. A league table with an entry gate is a marketing artefact, not a measurement. The tables are also volatile in a way beliefs are not: Kantar's Top 100 total fell 20% in 2023 and rose 29% and 22% in the two years after, a pattern Kantar itself attributes to the stock market [24].
 
-**Attitudinal equity may be restating market share.** This is the Ehrenberg-Bass position. Double jeopardy, first documented by McPhee in 1963 and reviewed by Ehrenberg, Goodhardt and Barwise (1990), says a smaller brand has fewer buyers and those buyers buy it slightly less often [16]. The Institute's restatement: "Double Jeopardy tells us that loyalty is largely a predictable function of market share" [17]. Sharp draws the consequence for surveys: "Larger brands tend to score higher on any image question, because they will have more customers among the survey respondents" [18, quoted in 28]. On the Institute's site: "attitudes follow behaviour" and "the effect of behaviour on attitudes is much stronger" than the reverse [19]. His sharpest line targets the industry built on Aaker's first asset: "Brand equity consultancies make money flattering owners of large market share brands... that they are not just large but also strong with attitudinally committed consumers" [18, quoted in 27]. Sharp does not deny loyalty exists; he calls it "a natural part of buying behaviour" [19, citing [How Brands Grow](/readings/how-brands-grow-byron-sharp/) p. 92]. He denies it is an independent asset you can grow ahead of penetration. Kantar's Blueprint for Brand Growth, drawn from 6.5 billion BrandZ and Worldpanel data points, reports that brands that are meaningfully different to more people have five times the market penetration [29]. Read from the Ehrenberg-Bass side, that is the same correlation with the arrow reversed.
+**Attitudinal equity may be restating market share.** This is the Ehrenberg-Bass position. [Double jeopardy](/branding/double-jeopardy/), first documented by McPhee in 1963 and reviewed by Ehrenberg, Goodhardt and Barwise (1990), says a smaller brand has fewer buyers and those buyers buy it slightly less often [16]. The Institute's restatement: "Double Jeopardy tells us that loyalty is largely a predictable function of market share" [17]. Sharp draws the consequence for surveys: "Larger brands tend to score higher on any image question, because they will have more customers among the survey respondents" [18, quoted in 28]. On the Institute's site: "attitudes follow behaviour" and "the effect of behaviour on attitudes is much stronger" than the reverse [19]. His sharpest line targets the industry built on Aaker's first asset: "Brand equity consultancies make money flattering owners of large market share brands... that they are not just large but also strong with attitudinally committed consumers" [18, quoted in 27]. Sharp does not deny loyalty exists; he calls it "a natural part of buying behaviour" [19, citing [How Brands Grow](/readings/how-brands-grow-byron-sharp/) p. 92]. He denies it is an independent asset you can grow ahead of penetration. Kantar's Blueprint for Brand Growth, drawn from 6.5 billion BrandZ and Worldpanel data points, reports that brands that are meaningfully different to more people have five times the market penetration [29]. Read from the Ehrenberg-Bass side, that is the same correlation with the arrow reversed.
 
 Sharp and Romaniuk replace the asset list with two properties. Mental availability "means that buyers easily think of the brand when buying and recognize it quickly"; physical availability "means that buyers can buy the brand in a variant, quantity and price that matches their purchasing needs" [20]. Against Aaker, this keeps awareness and associations, drops perceived quality as a driver, and demotes loyalty from cause to consequence.
 
@@ -2003,7 +2003,7 @@ Date: 2026-08-24. Read: 10 min.
 
 Homewood, Illinois, 1960. The textbook publisher Richard D. Irwin brings out a 770-page volume by E. Jerome McCarthy called Basic Marketing: A Managerial Approach [1]. Inside, everything a marketing manager has to decide is sorted into four boxes that share a first letter: product, place, promotion, price.
 
-The same summer, in Boston, the July to August issue of Harvard Business Review carries "Marketing Myopia" by Theodore Levitt, a lecturer in his second year at the Harvard Business School [2]. It opens by telling the railroads they were never in the railroad business. One book gives marketing a framework. One article gives it a question. Between them, the subject becomes something you can teach, examine, and be hired to run.
+The same summer, in Boston, the July to August issue of Harvard Business Review carries "[Marketing Myopia](/branding/marketing-myopia/)" by Theodore Levitt, a lecturer in his second year at the Harvard Business School [2]. It opens by telling the railroads they were never in the railroad business. One book gives marketing a framework. One article gives it a question. Between them, the subject becomes something you can teach, examine, and be hired to run.
 
 ## What came before
 
@@ -2970,6 +2970,448 @@ Sources:
 
 How brands are built and how the brain receives them: brand strategy, brand equity, and the neuromarketing studies that are documented.
 
+### Double Jeopardy: small brands lose twice
+
+Source: https://bravenewhive.com/branding/double-jeopardy/
+Date: 2026-10-13. Read: 7 min.
+
+Small brands have fewer buyers, and those buyers are slightly less loyal to them. That is the whole of Double Jeopardy, and it is one of the few patterns in marketing that holds across categories, countries and decades [1][2]. It means loyalty is mostly a consequence of size rather than a lever you can pull on its own. The brands with the most loyal customers are, almost without exception, the biggest brands, and they got the loyalty by getting big. The practical instruction is uncomfortable for anyone with a retention target: growth comes from more buyers, and the loyalty follows.
+
+## Origin
+
+The name came first and the marketing came later. William McPhee, a sociologist at Columbia, coined "double jeopardy" in 1963 in a study of audiences for radio presenters and newspaper comic strips [3]. The less popular ones had fewer followers, and those followers also liked them less. McPhee thought it was a property of how attention works when choices are many and effort is low.
+
+Andrew Ehrenberg saw the same shape in consumer purchase panels and spent the next thirty years documenting it. The paper that fixed it as a law of marketing is Ehrenberg, Goodhardt and Barwise, "Double Jeopardy Revisited", in the Journal of Marketing in 1990 [1]. Their summary, which still stands: "small brands have far fewer buyers, and these buy them somewhat less often" [1].
+
+The problem they were solving was that marketing had a theory of loyalty with no numbers in it. Loyalty was treated as something a brand earned by being good. The panel data said it was something a brand got by being bought.
+
+## What the evidence shows
+
+**The pattern is near universal in repeat-purchase markets.** Ehrenberg's panel work across grocery, personal care, and later services and durables showed that when brands in a category are ranked by penetration, their purchase frequency and share-of-category-requirements fall in step, with the smaller brands always a little lower on both [1][2]. The effect is modest in size and very consistent in direction.
+
+**It is predicted by the Dirichlet model.** The NBD-Dirichlet, developed by Goodhardt, Ehrenberg and Chatfield, is a statistical model of how buyers in a category spread their purchases across brands [4]. Double Jeopardy is not an assumption of the model. It is an output. If buyers behave as the model describes, which they do with high fidelity across decades of panel data, then small brands must have slightly less loyal buyers. There is no separate loyalty mechanism to find.
+
+**It holds in B2B.** The Ehrenberg-Bass Institute's work on business markets found the same pattern among industrial and service buyers, which removes the objection that this is a soft drinks phenomenon [5].
+
+**The loyalty metrics move together.** Repeat rate, share of requirements, purchase frequency and defection rate all track penetration. A brand that doubles its buyer base will see its loyalty metrics improve a little as a side effect. A brand that tries to improve loyalty metrics without growing its buyer base is working against the pattern.
+
+## The challenge
+
+Two objections have standing in the literature.
+
+**The niche brand.** Ehrenberg himself identified a small class of brands that sit above the Double Jeopardy line: fewer buyers than expected for their loyalty, or more loyalty than expected for their size [1]. They are usually brands with a functional restriction, a dietary product, a regional distribution, a professional tool. The honest reading is that these are exceptions that the model names, not refutations of it. Most brands that believe they are niche are simply small.
+
+**Loyalty programmes.** The relationship marketing tradition holds that loyalty can be built directly, and the evidence for schemes doing so at scale is thin. Sharp's reading of the data is that loyalty programmes mostly reward buyers who would have bought anyway, and shift the pattern very little [2]. Defenders of the schemes point to retention in contractual markets, where the Dirichlet fits less cleanly. That is a fair point about scope.
+
+The literature is not split on whether Double Jeopardy exists. It is settled. The live disagreement is whether anything a brand does can move it from below the line to above it, and the honest answer is that the documented cases are few and have a structural explanation.
+
+## Where I see this go wrong
+
+**Loyalty targets set independently of penetration targets.** A board asks for retention to rise from 70 to 75 per cent while market share stays flat. The pattern says this is asking for the brand to leave the Double Jeopardy line, which almost no brand does without changing its size. The target gets missed, the retention team gets blamed, and nobody checks the law.
+
+**The small brand studies the big brand's loyalty.** A challenger looks at the leader's repeat rate and concludes the leader has a loyalty secret. It does not. It has a size. The challenger's buyers would be exactly as loyal if there were as many of them.
+
+**Retention spend is funded by cutting acquisition.** This is the one that costs real money. If loyalty follows penetration, then cutting the spend that brings in new buyers to fund the spend that keeps existing ones lowers both numbers on a delay. I have seen this argued as prudence in a downturn, and it is the opposite.
+
+I taught this badly myself for a while, treating loyalty and acquisition as two levers with two budgets. The panel data does not support two levers. It supports one, called getting bought by more people, with loyalty as the dividend.
+
+## What to do with it
+
+1. Plot your category. Penetration on one axis, a loyalty measure on the other, every brand you can get data for. If your brand sits on the line, which it almost certainly does, you have no loyalty problem. You have a size. 2. Set loyalty expectations from the line, not from aspiration. A brand of your penetration should expect roughly the repeat rate of other brands of your penetration. Anything above that is a bonus. Anything below it is a real problem worth diagnosing. 3. Fund acquisition first. Not because retention does not matter, but because it is mostly a function of the number you move with acquisition. 4. Audit the loyalty programme against the Dirichlet expectation. If your loyal buyers would have been that loyal anyway at your size, the programme is a cost of doing business, not a growth lever. Price it as one. 5. Treat "we are a niche brand" as a hypothesis with a test. Does your loyalty sit above the line for your penetration? If not, you are a small brand, and the strategy for a small brand is to get bigger. 6. Read Double Jeopardy alongside the 95-5 rule. Together they say most buyers are not buying, and the ones who are will spread their purchases roughly in proportion to how many brands they can think of. Both point at reach.
+
+## If you run the company rather than the marketing
+
+You will at some point be shown a loyalty metric with a target attached and asked to fund a programme to move it.
+
+Before approving, ask one question: where does our loyalty sit relative to brands of our size in this category? If the answer is "about where it should", then the metric is not a problem, it is a description of how big you are, and the programme is being sold to you as a cure for a condition you do not have. If the answer is "below where it should", you have something real to fix, and it is usually a product or service failure rather than a marketing one.
+
+The broader point is worth holding onto because it is counter-intuitive and expensive to get wrong. Loyalty is mostly a result of size. The way to have more loyal customers is to have more customers. Any plan that funds retention by starving acquisition is spending the dividend to protect the capital, and it works for about a year.
+
+Sources:
+
+1. Ehrenberg, A. S. C., Goodhardt, G. J. and Barwise, T. P. (1990). Double Jeopardy Revisited. Journal of Marketing, 54(3), 82 to 91.
+2. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford: Oxford University Press. Chapter 2.
+3. McPhee, W. N. (1963). Formal Theories of Mass Behavior. New York: Free Press.
+4. Goodhardt, G. J., Ehrenberg, A. S. C. and Chatfield, C. (1984). The Dirichlet: A Comprehensive Model of Buying Behaviour. Journal of the Royal Statistical Society, Series A, 147(5), 621 to 655.
+5. Romaniuk, J., Dawes, J. and Faghidno, S. The Double Jeopardy Law in B2B shows the way to grow. Ehrenberg-Bass Institute.
+
+### Kapferer's brand identity prism: six facets and no measurement
+
+Source: https://bravenewhive.com/branding/kapferer-brand-identity-prism/
+Date: 2026-10-13. Read: 7 min.
+
+Jean-Noel Kapferer's prism, first published in French in 1991 and in English in 1992, describes a brand's identity in six facets: physique, personality, culture, relationship, reflection and self-image [1]. It is the most used identity framework in European brand practice and it has almost no empirical validation. That is not a contradiction. The prism is a thinking tool for making a brand's intended identity explicit, and it is good at that. It is not a model of how buyers receive brands, and the evidence on how buyers receive brands suggests they notice far fewer of the six facets than the prism assumes. Use it to write the brief. Do not use it to predict the result.
+
+## Origin
+
+Kapferer, a professor at HEC Paris, published Les marques, capital de l'entreprise in 1991, with the English edition Strategic Brand Management following in 1992 [1]. The problem he was addressing was the one Aaker and Keller were addressing in the same years in the United States: the brand had become a balance-sheet item through the acquisitions of the late 1980s, and nobody had a vocabulary for what the asset consisted of.
+
+Where Aaker built a list of equity dimensions and Keller built a pyramid of buyer knowledge, Kapferer built a prism. His framing was that a brand is a speech act, something a sender says to a receiver, and the prism maps what gets said. The six facets sit in pairs. Physique and personality belong to the sender. Reflection and self-image belong to the receiver. Culture and relationship sit between them. A second axis splits the outward facets, physique, relationship and reflection, from the inward ones, personality, culture and self-image.
+
+Kapferer's own summary of the purpose: the prism exists "to define the brand's identity" [1], as distinct from its image, which is what the market makes of it. That distinction between identity, which the brand controls, and image, which it does not, is the most useful thing in the book and the one most often dropped by people using the diagram.
+
+## What the evidence shows
+
+The honest statement is that the prism is a framework, not a finding, and the literature treats it that way.
+
+**It has not been validated as a model of buyer perception.** There is no body of studies showing that buyers perceive brands along six facets, or that these six, or that identities built with the prism outperform identities built without it. Searches of the marketing journals return applications of the prism to particular brands and comparisons of the prism with other frameworks. They do not return tests of it. It is used, which is a different thing from being supported.
+
+**The evidence on buyer perception points the other way.** The Ehrenberg-Bass work on distinctiveness finds that buyers of most brands hold few and shallow associations, that most cannot name a point of difference, and that recognition rather than meaning does the commercial work [2]. If that is right, then of Kapferer's six facets, buyers reliably register perhaps one, physique, and a brand investing equally in all six is investing mostly in facets its buyers will never perceive.
+
+**Where it is strong is as an internal discipline.** A brand team that fills in the prism has to answer six questions it would otherwise leave implicit. What does this brand look like. What character would it have as a person. What values does it carry. What relationship does it offer the buyer. Who does the buyer imagine using it. How does the buyer feel about themselves when they do. Making those explicit is useful, and the usefulness is in the writing, not in the diagram.
+
+The prism is reproduced as a schematic, labelled Illustrative, because it is one. A reader who wants to use it needs to see the six facets and the two axes. Nobody should read the diagram as evidence of anything.
+
+## The challenge
+
+The sharpest critique is the one in the previous section: the prism describes what a brand wants to be, and the data on what buyers perceive suggests most of that never lands. Kapferer would answer, and does, that identity is upstream of image, and that a brand with no coherent identity cannot build a coherent image. That is a fair point and it does not require the six facets to be the right six.
+
+The second critique is from inside the positioning tradition. Aaker's brand identity system and Keller's pyramid cover similar ground, with the difference that Keller's model has a measurement tradition behind it and a stated sequence, salience first, then meaning, then response, then resonance [3]. The prism has no sequence and no measurement. A team using Keller knows what to build first. A team using Kapferer has six boxes of equal size.
+
+The third is practical. Six facets in two axes produces a diagram that looks complete and is very easy to fill with adjectives. The output of most prism exercises I have seen is a hexagon of pleasant words that would fit any brand in the category. The framework does not prevent this. It invites it.
+
+The literature is not split in the sense of two sides with evidence. It is a framework that practitioners use and researchers do not test, and that is the state to report.
+
+## Where I see this go wrong
+
+**The prism is treated as research.** A completed prism is presented to a board as if it described how the brand is perceived. It describes how the team would like it to be perceived. The two are different documents and only one of them was produced.
+
+**Six facets become six campaigns.** Every facet gets a message and every message gets a budget, and the buyer, who registers one or two things about any brand, receives six quiet signals instead of one loud one. Kapferer wrote about coherence. The diagram gets used for coverage.
+
+**The adjectives are interchangeable.** "Confident, authentic, innovative" in the personality facet. "Partnership" in the relationship facet. Run the completed prism past a stranger with the brand name removed and ask them to guess the category. If they cannot, the prism has described a mood, not an identity.
+
+Working across markets in Europe, the Gulf and North America, the facet that travels is physique. Colour, shape, mark. Culture and self-image are read differently in every market and have to be rebuilt in each one. A brand built on the facets that travel is cheaper to run than one built on the facets that do not, and the prism gives no guidance on which is which.
+
+## What to do with it
+
+1. Use the prism to write the identity brief, once, with the whole team in the room. It is good at forcing six questions into the open. Finish in a day. 2. Then put it away. Do not present it as research, do not put it in front of a board as a description of perception, and do not build a measurement programme around facets nobody has shown buyers perceive. 3. Test what you wrote. Take the physique facet to the distinctive assets test: fame and uniqueness, name removed. Take the other five to a sample of category buyers and ask what they actually associate with you. Expect most of the five to come back empty. That is information. 4. Pick one facet to lead with, and make it the one buyers can register at speed. In most categories that is physique. Let the rest follow it rather than compete with it. 5. Strip the adjectives. Any word in the prism that would fit a competitor comes out. What remains is the identity. If nothing remains, you have a category description, not a brand. 6. If you need a sequence and a measurement, use Keller alongside. The prism tells you what you meant. Keller tells you what order to build it in and how to check.
+
+## If you run the company rather than the marketing
+
+Someone will present you with a hexagon. It will have six facets filled with words, it will look finished, and it will be described as the brand's identity.
+
+It is the brand's intended identity, written by the people who intend it. That is a legitimate and useful document, and it is not evidence of anything about how customers see you. Before you approve spend against it, ask one question: which of these six have we tested with buyers, and what came back. If the answer is none, you are looking at a brief, and a brief is a fine thing to have as long as nobody mistakes it for a result.
+
+The follow-up question is cheaper and more useful. Cover the brand name and show the completed prism to someone outside the company. If they cannot tell which industry it belongs to, the exercise has produced a mood board, and the money it is asking for would buy a lot of recognition instead.
+
+Figure: Six facets, three on the sender's side, three on the receiver's, and none of them measured. Physique and personality are what the brand sends. Reflection and self-image are what the buyer receives. Culture and relationship sit between. The prism defines an intended identity; it does not predict what the market will notice.. Source: Illustrative. After Kapferer, J-N., Strategic Brand Management, 1992. Brave New Media, 2026..
+
+|  |
+||
+
+Sources:
+
+1. Kapferer, J.-N. (1992). Strategic Brand Management: New Approaches to Creating and Evaluating Brand Equity. London: Kogan Page. First published in French as Les marques, capital de l'entreprise, Paris: Editions d'Organisation, 1991. The prism appears in all later editions, including the fifth (2012).
+2. Romaniuk, J. (2018). Building Distinctive Brand Assets. Melbourne: Oxford University Press. See also Sharp, B. (2010). How Brands Grow. Oxford: Oxford University Press.
+3. Keller, K. L. (2001). Building Customer-Based Brand Equity: A Blueprint for Creating Strong Brands. Marketing Science Institute, Report 01-107.
+
+### Marketing myopia: the question Levitt asked and the answer that went wrong
+
+Source: https://bravenewhive.com/branding/marketing-myopia/
+Date: 2026-10-13. Read: 6 min.
+
+Theodore Levitt's 1960 essay argued that industries decline because they define themselves by what they make rather than by what the customer needs [1]. The railroads were in the railroad business, not the transportation business, and the cars and planes took the customers. It is the most reprinted article Harvard Business Review has published and it is not an empirical finding. It is an argument, with illustrations. Its lasting value is the question. Its documented failure mode is the answer most firms gave, which was to define the business so broadly that nobody could say what it did.
+
+## Origin
+
+Levitt was a lecturer at Harvard Business School when Marketing Myopia appeared in the July to August 1960 issue of the Review [1]. The essay opens with a sentence that still does most of its work: "Every major industry was once a growth industry" [1].
+
+The problem he was addressing was complacency dressed as strategy. Post-war American industry had grown for fifteen years and had come to believe growth was a property of the industry rather than a result of serving a need. Levitt's cases were the railroads, Hollywood, the dry cleaners, the electric utilities and the petroleum companies, each of which, he argued, had mistaken its product for its purpose.
+
+The essay was a manifesto and Levitt knew it. In the retrospective commentary he wrote for the 1975 reprint, he called it "a manifesto, not a prescription" and acknowledged that it had been read as the latter [2]. That distinction is the one most readers since have lost.
+
+## What the evidence shows
+
+This section is short because the honest answer is that there is very little.
+
+Marketing Myopia is a theoretical argument illustrated by cases chosen to support it. The railroads did lose passengers to cars and aircraft. Whether they could have become transportation companies, with the capital structure, the regulation and the labour agreements they had, is a counterfactual the essay asserts and does not test. The same is true of each case. They are persuasive as rhetoric and unexamined as history.
+
+What has been studied is the effect of the idea on the firms that adopted it, and the record is mixed.
+
+**Broad business definitions correlate with diversification, and diversification mostly destroyed value.** The conglomerate wave of the 1960s and 1970s, in which firms defined themselves as being in "leisure" or "transportation" or "communications" and bought accordingly, was followed by a long unwinding in the 1980s and 1990s. The finance literature on diversification discounts found that diversified firms traded at a discount to the sum of their parts [3]. Marketing Myopia was not the only cause of the wave, but its logic was the one firms used to justify it.
+
+**The counter-concept has its own name.** Kotler and Singh used "marketing hyperopia" for the opposite error, defining the business so broadly that the firm loses the ability to compete in any part of it [4]. That the field needed a word for the overcorrection is the clearest evidence of how the original was applied.
+
+## The challenge
+
+Levitt's own 1975 retrospective is the fairest critique [2]. He conceded that the essay had led some firms into "a kind of marketing mania", that it had been used to justify expansion into businesses the firm did not understand, and that he had underweighted the importance of actually being able to make the thing well. He held to the central claim: that the customer's need, not the firm's product, is the durable thing. He withdrew the implication that any firm could serve any version of that need.
+
+The second challenge is from the resource-based view of the firm, which argues that competitive advantage comes from what a firm is distinctively able to do, its capabilities, rather than from how it defines its market [5]. On that reading, the railroad that becomes a transportation company has not gained a broader purpose. It has walked away from the one thing it was good at.
+
+The literature is split on this and should be left split. Levitt is right that a firm which cannot see past its product will be surprised by substitutes. The resource-based view is right that a firm which abandons its capabilities for a broader definition usually fails at the broader definition. Both have cases. Neither has a general law.
+
+## Where I see this go wrong
+
+**The purpose statement replaces the product.** A company that makes industrial valves decides it is "in the flow control business" or "enabling the energy transition". The valves do not get better. The statement goes in the deck. Levitt's point was that the customer's need should direct the product. It was never that the description should get vaguer.
+
+**The question is asked once and the answer is kept forever.** "What business are we really in" is a question to ask every few years, because the honest answer moves. Firms that asked it in 1995 and wrote the answer on the wall are now defending an answer to a question nobody is asking.
+
+**Myopia is diagnosed in competitors and never at home.** It is a satisfying essay to read about other people. Every strategy session I have sat in has found myopia in the market leader and none in the room.
+
+I have built an agency across Europe, the Gulf and North America, and the thing that kept it alive was not a broad definition of what it was for. It was a narrow one, held firmly, and revised when the evidence said so. Levitt would have called that myopic. The survival record suggests otherwise.
+
+## What to do with it
+
+1. Ask Levitt's question and write down the answer in one sentence that names a customer need, not a product category and not an aspiration. "We help mid-sized manufacturers avoid unplanned downtime" is an answer. "We are in the reliability business" is a slogan. 2. Then ask the resource-based question beside it. What are we distinctively able to do that serves that need? If the honest answer is nothing, the need is not yours to serve. 3. Test the definition against substitutes, not competitors. Who else could meet this need with something that does not look like your product? That is the question Levitt's railroads did not ask. 4. Revisit every three years, on a date. Not when a crisis forces it. 5. Resist any definition that would justify a business you could not run. If the new definition makes an acquisition look strategic that would otherwise look foolish, the definition is doing the work the business case should. 6. Read the 1975 retrospective before quoting the 1960 essay. Levitt's own second thoughts are better guidance than most of the commentary written since.
+
+## If you run the company rather than the marketing
+
+You will be handed Marketing Myopia, or a summary of it, by someone who wants the business defined more broadly. Usually they want to buy something or launch something that the current definition does not justify.
+
+Levitt's question is worth asking. His 1975 answer is worth reading first, because he had watched what fifteen years of his own essay had done and he was not pleased. The firms that used it to justify moving into businesses they could not run did not become transportation companies. They became conglomerates, and then they became case studies.
+
+The test to apply is simple. Does the broader definition describe something you are distinctively able to do, or does it describe something you would like to be? If it is the second, the essay is being used as cover.
+
+Sources:
+
+1. Levitt, T. (1960). Marketing Myopia. Harvard Business Review, 38(4), July to August 1960, 45 to 56.
+2. Levitt, T. (1975). Marketing Myopia: Retrospective Commentary. Harvard Business Review, September to October 1975, published with the reprint of the original.
+3. Lang, L. H. P. and Stulz, R. M. (1994). Tobin's q, Corporate Diversification, and Firm Performance. Journal of Political Economy, 102(6), 1248 to 1280. See also Berger, P. G. and Ofek, E. (1995). Diversification's Effect on Firm Value. Journal of Financial Economics, 37(1), 39 to 65.
+4. Kotler, P. and Singh, R. (1981). Marketing Warfare in the 1980s. Journal of Business Strategy, 1(3), 30 to 41.
+5. Barney, J. (1991). Firm Resources and Sustained Competitive Advantage. Journal of Management, 17(1), 99 to 120.
+
+### Mere exposure: familiarity is pleasant, and that is a problem
+
+Source: https://bravenewhive.com/branding/mere-exposure/
+Date: 2026-10-13. Read: 7 min.
+
+Robert Zajonc showed in 1968 that repeated exposure to something increases liking for it, with no argument, no information and no awareness that it is happening [1]. It is among the most replicated findings in social psychology, confirmed across hundreds of experiments [2][3]. It is also the mechanism underneath almost all brand advertising that appears to say nothing. The work is not making a case. It is accumulating familiarity, which converts into preference at the moment of choice and is then explained as a judgement about quality. The same mechanism makes repeated falsehoods feel true, and a reference work that teaches the technique without saying so is doing half a job.
+
+## Origin
+
+Zajonc published Attitudinal Effects of Mere Exposure as a monograph supplement to the Journal of Personality and Social Psychology in 1968 [1]. The problem he set out to test was old: whether familiarity breeds liking or contempt. The folk wisdom went both ways. The data did not.
+
+His experiments used stimuli with no prior meaning to the participants, nonsense words, Chinese characters shown to people who could not read them, photographs of strangers. He varied how often each was shown and then asked people how much they liked each one. Liking rose with exposure. His own statement of the finding is short: "mere repeated exposure of the individual to a stimulus is a sufficient condition for the enhancement of his attitude toward it" [1].
+
+The word "mere" was chosen with care. No reward was attached to the stimulus. No argument was made for it. It was simply there, more often.
+
+## What the evidence shows
+
+**The effect replicates.** Bornstein's 1989 meta-analysis covered 208 experiments and found the effect reliable, with the average effect size in the moderate range [2]. Montoya and colleagues' 2017 meta-analysis, with a larger set of studies and a stricter method, confirmed it [3]. For a finding in social psychology, where the replication record of the last decade has been unkind, this is a strong position.
+
+**It works without awareness.** Kunst-Wilson and Zajonc in 1980 showed shapes for a few milliseconds, too briefly to be consciously recognised, and still found that participants preferred the shapes they had been shown [4]. People liked things they could not report having seen. That result is the one most relevant to advertising, and it has been replicated.
+
+**It follows an inverted U.** Both meta-analyses find that liking rises with exposure and then falls as exposure becomes excessive [2][3]. The peak varies with the stimulus and the spacing. Familiarity helps until it becomes tedium. This is the empirical basis for frequency caps, and most frequency caps are set by budget rather than by this curve.
+
+**The same mechanism operates on belief.** Hasher, Goldstein and Toppino showed in 1977 that statements repeated across sessions were rated as more likely to be true, regardless of whether they were [5]. The illusory truth effect is mere exposure applied to propositions. It has replicated as reliably as the original, and it is the part of this entry that marketing writing usually leaves out.
+
+**The mechanism is fluency.** The current explanation, set out most fully by Reber, Schwarz and Winkielman, is that repeated stimuli are processed more easily, that ease is experienced as a mild positive feeling, and that the feeling is attributed to the stimulus rather than to the ease [6]. Processing fluency has its own entry in this section. Mere exposure is its most studied case.
+
+## The challenge
+
+The challenge to mere exposure is not to whether it exists. It is to scope and to interpretation.
+
+**Scope.** The effect is strongest for neutral or mildly positive stimuli. Repeated exposure to something initially disliked does not reliably produce liking, and can produce the opposite [2]. A brand that buyers already dislike does not fix that with frequency. This is the finding most often ignored by media plans that treat reach as a cure.
+
+**Duration.** The effect in the laboratory is measured minutes or days after exposure. How long it persists, and how it decays, is less settled. The advertising literature on memory decay, Binet and Field's work on long and short effects among others, suggests brand memory built this way is durable, but that is an inference across two literatures rather than a single demonstrated chain [7].
+
+**Interpretation.** Some researchers hold that the effect is better explained by a reduction in uncertainty or threat than by fluency. The disagreement is about mechanism, not about the behavioural result, and a marketer does not need to resolve it. The result is the same either way.
+
+The literature here is unusually settled for the behaviour and still arguing about the cause. Report it that way.
+
+## Where I see this go wrong
+
+**The mechanism is denied.** Brand advertising that says nothing is defended on the grounds that it says something subtle. Usually it does not. It is working, when it works, by mere exposure, and the pretence that there is a message in it leads to creative briefs that chase a message nobody will receive. Say what the work is doing and plan for that.
+
+**The inverted U is ignored.** Frequency is set by what the budget allows rather than by where liking peaks. Past the peak, every additional exposure is paid for and counterproductive. The two meta-analyses give the shape of the curve. Almost no media plan I have seen refers to it.
+
+**The ethics are not stated.** Mere exposure and illusory truth are the same mechanism. A brand that builds preference through repetition is using the machinery that makes repeated falsehoods feel true. That does not make brand advertising dishonest. It does mean the technique is indifferent to whether the thing being repeated is any good, and anyone using it should know that and say so. This section promised documented studies, and the documentation here cuts both ways.
+
+I came to marketing from television, and the thing television understood about repetition was that it was a cost to be minimised, not a mechanism to be used. The idea that showing the same thing again was itself the point, independent of what the thing said, was slower to arrive than the research that proved it.
+
+## What to do with it
+
+1. Decide, in writing, whether a piece of brand work is making an argument or building familiarity. Most of it is the second. Plan the second honestly: distinctive assets, consistency, repetition, no message to test because there is no message. 2. Set frequency from the curve, not the budget. Look at the shape in Bornstein and Montoya, estimate where your stimulus peaks, and cap there. Spend the remainder on reach. 3. Do not use repetition to fix dislike. If buyers who know you do not like you, more exposure makes it worse. Fix the product or the service first. 4. Keep the stimulus constant. Mere exposure requires the thing seen to be recognisably the same thing. Every refresh of the asset resets the count. See [Distinctive brand assets](/branding/distinctive-brand-assets/). 5. Separate the claims you repeat from the assets you repeat. Assets can be repeated indefinitely. Claims that are repeated will be believed whether or not they are true, which is a reason to make sure yours are. 6. Read Zajonc 1968 and Hasher 1977 together, once. They are the same paper about two different things, and holding both in mind is the whole of the ethical position this entry takes.
+
+## If you run the company rather than the marketing
+
+A large part of your brand budget is buying familiarity, not making an argument, and it is worth knowing that so you can judge it on the right terms.
+
+Work that says nothing is not necessarily failing. If it is recognisably you and it is seen often enough by the right people, it is doing what the evidence says repetition does, which is making you the comfortable choice when the buyer finally buys. Judge it on recognition and preference among category buyers, not on whether you personally find it persuasive. It was not built to persuade you.
+
+Two cautions. Repetition does not fix a product people dislike; it entrenches the dislike. And repetition makes claims feel true whether they are or not, which puts an obligation on you to be sure the claims are. The mechanism does not care. You should.
+
+Figure: Liking rises with repetition, then flattens, then falls. The shape reported in both meta-analyses. Where the peak sits varies by stimulus and by how complex it is, which is why no numbers are drawn on the axes.. Source: Illustrative. After Bornstein, 1989, and Montoya et al, 2017. Brave New Media, 2026..
+
+|  |
+||
+
+Sources:
+
+1. Zajonc, R. B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology, 9(2, part 2), 1 to 27.
+2. Bornstein, R. F. (1989). Exposure and Affect: Overview and Meta-Analysis of Research, 1968 to 1987. Psychological Bulletin, 106(2), 265 to 289.
+3. Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M. and Lauber, E. A. (2017). A Re-Examination of the Mere Exposure Effect: The Influence of Repeated Exposure on Recognition, Familiarity, and Liking. Psychological Bulletin, 143(5), 459 to 498.
+4. Kunst-Wilson, W. R. and Zajonc, R. B. (1980). Affective Discrimination of Stimuli That Cannot Be Recognized. Science, 207(4430), 557 to 558.
+5. Hasher, L., Goldstein, D. and Toppino, T. (1977). Frequency and the Conference of Referential Validity. Journal of Verbal Learning and Verbal Behavior, 16(1), 107 to 112.
+6. Reber, R., Schwarz, N. and Winkielman, P. (2004). Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? Personality and Social Psychology Review, 8(4), 364 to 382.
+7. Binet, L. and Field, P. (2013). The Long and the Short of It. London: Institute of Practitioners in Advertising.
+
+### The 95-5 rule: most of your buyers are not buying
+
+Source: https://bravenewhive.com/branding/the-95-5-rule/
+Date: 2026-10-13. Read: 8 min.
+
+At any given moment, around 95 per cent of the businesses you want as customers are not in the market for what you sell, and about 5 per cent are [1]. The figure comes from the Ehrenberg-Bass Institute's work for the LinkedIn B2B Institute in 2021 and it is a derived heuristic, not a survey result. Its force is in what follows from it: almost all marketing budget is aimed at the 5 per cent, and the 95 per cent, who will buy later, are left with no memory of you to buy from. The practical instruction is to build the memory now and sell into it when the buyer arrives.
+
+## Origin
+
+John Dawes at the Ehrenberg-Bass Institute wrote the paper for the LinkedIn B2B Institute in 2021 under the title Advertising Effectiveness and the 95-5 Rule: Most B2B Buyers Are Not In the Market (Right Now) [1]. The problem it addressed was a quiet one. B2B marketing had organised itself around the buyer who is actively looking, and had largely stopped asking what everyone else was doing.
+
+The reasoning is arithmetic rather than measurement. Take a category where a firm buys once every five years, which is ordinary for a vehicle fleet, an enterprise system or a bank. One in five firms buys in any given year. One in twenty buys in any given quarter. The rest are out of market, and will stay out until their own cycle brings them back.
+
+Dawes put it plainly: the rule is "a heuristic, not a fixed law" [1]. That caveat has been dropped by most people who quote the number since, and it should be put back.
+
+## What the evidence shows
+
+Three bodies of work support the argument, and none of them is the 95-5 paper itself, which is a derivation.
+
+**Purchase cycles are long and buyers are mostly dormant.** The Ehrenberg-Bass panel work across categories shows that buying is infrequent for most buyers of most brands, and that a large share of any brand's buyers in a given year did not buy it the year before [2]. The 95-5 figure is a way of stating that for B2B, where the cycles are longer still.
+
+**Brand building outperforms activation over any horizon longer than a few months.** Binet and Field's analysis of the IPA Databank found that campaigns which built brand produced larger business effects than campaigns optimised for short-term response, and that the gap widened with time [3]. Their B2B follow-up for the LinkedIn B2B Institute found the same shape in business markets, with the additional observation that B2B spend was skewed hard towards activation [4].
+
+**Memory, not persuasion, decides most purchases.** When the 5 per cent do come into market, they do not start from nothing. They start from a shortlist held in memory, assembled during the long period when they were not looking. Romaniuk's work on mental availability describes this as the brand being thought of in a buying situation, and shows that the brands with the most category-entry-point associations are the ones that get bought [5].
+
+Put the three together. Most buyers are not buying. Spend aimed only at the ones who are reaches a sliver. Spend that builds memory among the rest is what determines who is on the shortlist when the sliver changes.
+
+## The challenge
+
+The strongest objection is the one Dawes made himself: the number is derived, not observed. Nobody surveyed a population of B2B buyers and found 5 per cent in market. The figure falls out of an assumed purchase cycle, and the cycle varies enormously by category. A firm that renews a software contract every year has a very different in-market share from one that replaces a fleet every seven. The rule is right in shape and approximate in magnitude, and anyone quoting it to two decimal places has not read the paper.
+
+The second objection is commercial. Performance marketers point out that the 5 per cent is where the revenue is this quarter, that it is measurable, and that a board does not pay bonuses on memory structures. That is true, and it is why the skew exists. The counter is not that activation does not work. It is that activation harvests a shortlist it did not plant, and that a brand which only harvests will find the shortlist thinning.
+
+The literature is not split on whether long-term brand effects exist. It is split on the right ratio of spend, and Binet and Field's own recommended split for B2B, which they put at roughly 46 per cent brand to 54 per cent activation, is a finding from the IPA Databank rather than a universal law [4]. Treat it as a starting point for a category, not a budget line to copy.
+
+## Where I see this go wrong
+
+**The budget is read off the funnel.** The funnel describes the 5 per cent. A marketing plan built entirely from it will be a plan for the 5 per cent, with the 95 per cent appearing nowhere because they do not appear in a pipeline report. I see this in most B2B plans I am shown, and it is not a failure of intelligence. It is what the reporting tools make visible.
+
+**The 95 per cent are treated as a nurture list.** Someone recognises the problem and the response is an email sequence. But the 95 per cent are not leads. Most of them have never heard of you, and the ones who have are not reading. What reaches them is advertising in the ordinary sense, repeated, recognisable, and uninterested in whether they click.
+
+**The rule is quoted as a measurement.** It gets into decks as "95 per cent of your buyers are not in market", with no author, no caveat and no category. It then gets argued with by someone who knows their category's cycle is two years, and the whole idea is dismissed with the number. Quote Dawes, say it is a heuristic, and give your own category's arithmetic instead.
+
+I spent eight years in television, media and investment before I ran an agency, and television is the industry that understood this first. Nobody buying a car tonight saw the advertisement for the first time tonight. The advertisement was for the version of them that would buy in three years. B2B is only now relearning what broadcast knew in 1970.
+
+## What to do with it
+
+1. Work out your own in-market share from your own purchase cycle. If buyers renew every three years, roughly 8 per cent are in market in any quarter. Write the number down and use it instead of 95-5. 2. Split the plan in two, on paper, with separate objectives. One half for the buyers in market: capture, convert, measure by pipeline. One half for the buyers who are not: reach, repetition, measure by recall and recognition. 3. Fund the second half even when it cannot be attributed. If you require every pound to show a lead within the quarter, you have decided to market only to the 5 per cent, and you should say so rather than drift into it. 4. Build for memory, which means distinctive assets, consistency, and messages tied to the moments buyers enter the category. See [Distinctive brand assets](/branding/distinctive-brand-assets/) and [Mental availability and physical availability](/principles/mental-and-physical-availability/). 5. Stop measuring the long half with the short half's instruments. Click-through on a brand campaign tells you almost nothing. Unprompted recall in the category tells you most of it. 6. Review the ratio annually against Binet and Field's B2B findings [4], then set your own. Their 46-54 is evidence from a databank, not a rule for your firm. 7. When the 5 per cent arrive and you are on the shortlist, notice that the memory did it. The activation spend will claim the credit. Keep a record so the next budget round is honest.
+
+## If you run the company rather than the marketing
+
+The decision this governs is the one about whether marketing spend that cannot be attributed to a sale this quarter is waste.
+
+The honest answer is that some of it is, and the rest of it is the only reason you have a pipeline at all. The buyers who convert this quarter put you on their shortlist during months when they were not buying and you were not measuring them. If the spend that reached them in those months is cut because it showed no return, the shortlist empties on a delay of a year or two, and by the time the pipeline shows it the cause is forgotten.
+
+Ask marketing for two numbers rather than one. What share of our buyers is in market this quarter, from our own purchase cycle, and what share of the budget is addressed to the rest. If the second number is near zero, you are running a business on a shortlist you stopped maintaining.
+
+That is not an argument for spending more. It is an argument for knowing which half of the budget does which job, so that when a cut comes it is made on purpose.
+
+Figure: At any moment, about five in every hundred buyers are in market. Communication aimed only at buyers ready to act is addressing a twentieth of the opportunity, and competing hardest for the most contested twentieth.. Source: Dawes, J., Ehrenberg-Bass Institute for the LinkedIn B2B Institute, 2021. A derived heuristic, not a survey result. Brave New Media, 2026..
+
+|  |
+||
+
+Sources:
+
+1. Dawes, J. (2021). Advertising Effectiveness and the 95-5 Rule: Most B2B Buyers Are Not In the Market (Right Now). Ehrenberg-Bass Institute for the LinkedIn B2B Institute.
+2. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford: Oxford University Press.
+3. Binet, L. and Field, P. (2013). The Long and the Short of It: Balancing Short and Long-Term Marketing Strategies. London: Institute of Practitioners in Advertising.
+4. Binet, L. and Field, P. (2019). The 5 Principles of Growth in B2B Marketing: Empirical Observations on B2B Effectiveness. LinkedIn B2B Institute.
+5. Romaniuk, J. (2023). Better Brand Health: Measures and Metrics for a How Brands Grow World. Melbourne: Oxford University Press.
+
+### The branding canon: what to read, in which order, and what it argues about
+
+Source: https://bravenewhive.com/branding/the-branding-canon/
+Date: 2026-10-13. Read: 8 min.
+
+Branding has a literature of perhaps fifteen works that everything else cites, and they do not agree with each other. One tradition, from Ries and Trout through Aaker and Keller, holds that a brand is a position in the mind, won by meaningful difference. The other, from Ehrenberg through Sharp and Romaniuk, holds that buyers barely perceive difference and brands grow by being recognised and bought by more people. Underneath both sits a body of psychology, Zajonc, Kahneman, Damasio, Reber, that neither tradition fully uses. This page is the map: who wrote what, when, what the field actually leans on, and the order to read it in.
+
+## Origin
+
+There is no single origin, which is the point of a canon. The works arrived from three directions over fifty years and were only later read as one subject.
+
+**From advertising practice.** Rosser Reeves wrote Reality in Advertising in 1961 and gave the trade the [unique selling proposition](/principles/unique-selling-proposition/). Ries and Trout published The [Positioning Era Cometh](/history-of-advertising/1972-the-positioning-era/) as three articles in Advertising Age in 1972 and the book in 1981 [1]. These are practitioners writing down what seemed to work.
+
+**From academic marketing.** Theodore Levitt's [Marketing Myopia](/branding/marketing-myopia/) in 1960 asked what business a company is really in [2]. David Aaker's Managing [Brand Equity](/principles/brand-equity/) in 1991 and Kevin Lane Keller's customer-based brand equity paper in 1993 turned the brand from a logo into an asset with a structure [3][4]. Andrew Ehrenberg, working from purchase panels since the 1950s, built the empirical floor that Byron Sharp's [How Brands Grow](/readings/how-brands-grow-byron-sharp/) stood on in 2010 [5].
+
+**From psychology.** Robert Zajonc showed in 1968 that exposure alone produces liking [6]. Kahneman and Tversky published prospect theory in 1979 [7]. Antonio Damasio argued in 1994 that emotion is part of the machinery of deciding [8]. Reber, Schwarz and Winkielman set out processing fluency in 2004 [9]. McClure and colleagues scanned people drinking cola in the same year [10].
+
+Nobody in the third group was writing about brands. Everybody in the first two groups now cites them.
+
+## What the evidence shows
+
+The question a canon page can answer with data is which works the field actually leans on, as opposed to which it says it admires.
+
+Citation counts from OpenAlex, fetched 7 October 2026, for the core works in this section [11]. The order is instructive. Kahneman and Tversky's 1979 prospect theory paper has over 48,000 citations, more than every marketing work on the list combined. Keller 1993 is the most cited marketing paper here at roughly 10,500. Zajonc 1968 sits at 6,800, Reber 2004 at 2,900. The marketing frameworks that practitioners quote most, Ries and Trout, Aaker, Sharp, are books, which OpenAlex indexes less reliably, so their counts are not shown and their influence is understated by this measure. Levitt 1960 is excluded because OpenAlex returns a 2010 reprint rather than the original.
+
+Two things to take from the chart. First, the psychology is where the weight is. The marketing literature borrows its mechanisms from a body of work that is an order of magnitude larger and better replicated than itself. Second, within marketing, the measurable models, Keller's especially, are cited far more than the practitioner frameworks, because academics cite what they can test.
+
+The timeline puts the works in order and shows the two traditions forming. The positioning line runs 1961, 1972, 1981, 1991, 1993. The empirical line runs from Ehrenberg's early panel papers through the Dirichlet in 1984 to Sharp in 2010 and Romaniuk in 2018. The psychology runs underneath both, 1968, 1979, 1994, 2004, and is picked up by marketing writers mostly after Kahneman's [Thinking, Fast and Slow](/readings/thinking-fast-and-slow-kahneman/) made it legible in 2011.
+
+## The challenge
+
+The argument between the two marketing traditions is the live one, and this section's entries take it up one piece at a time. Stated whole:
+
+**The positioning tradition** says a brand is a meaningful difference held in the buyer's mind, that the contest is for a position a competitor has left open, and that equity is built by making the difference clear and keeping it [1][3][4].
+
+**The Ehrenberg-Bass tradition** says buyers of most brands cannot name a point of difference, that loyalty follows size rather than leading it, that brands grow through penetration, and that the job is to be recognised and easy to buy for as many category buyers as possible [5].
+
+They are not reconcilable at the level of slogan. They are partly reconcilable at the level of scope. The Ehrenberg-Bass evidence is strongest in frequently bought categories with low involvement. The positioning tradition's claims are strongest in considered, infrequent, high-value purchases where a buyer builds a shortlist and compares. Most B2B sits closer to the second, and the entries in this section say so where it matters.
+
+The challenge to the psychology is different in kind. It is not a rival theory but a replication record. [Mere exposure](/branding/mere-exposure/) has replicated well across hundreds of studies [6]. Loss aversion is contested as a general principle [7]. The [somatic marker hypothesis](/branding/somatic-markers/) has had its central experiment challenged on method [8]. The dual-process framing that Kahneman popularised is treated by some cognitive scientists as a useful fiction rather than an architecture. Each entry in this section says where its mechanism stands, and a reader should not take the chart above as a ranking of truth. Citation measures use, not correctness.
+
+## Where I see this go wrong
+
+**The field is read in the wrong order.** People read Sharp first, because it is recent and combative, and then read Ries and Trout as the thing Sharp refuted. That misses that Ries and Trout were solving a real problem in 1972, an advertising industry drowning in sameness, and that the position they described is still what a shortlist is made of. Read them in the order they were written and the argument makes sense as an argument.
+
+**The psychology is quoted, not read.** Kahneman is cited in nearly every brand deck I see and the citation is almost always to a popularisation. The 1979 paper is twenty-eight pages and most of the claims attached to it in marketing are not in it. The same is true of Zajonc. Read the paper. It is shorter than the book about the paper.
+
+**One tradition is adopted as a religion.** An agency decides it is Ehrenberg-Bass or it is positioning, and then every client gets the same answer. The data does not support a single answer across categories. It supports knowing which category you are in.
+
+I came to this literature after eight years in television, media and investment, and the thing that struck me was how much of it was already settled in those industries under other names. Television knew about reach and frequency before Sharp wrote it down. Investment knew about loss aversion before Kahneman named it. The marketing canon is partly a translation.
+
+## What to do with it
+
+1. Read in this order. Levitt 1960 for the question. Ries and Trout 1981 for the first answer. Aaker 1991 and Keller 1993 for the structure. Sharp 2010 for the objection. Romaniuk 2018 for the resolution that works in practice. Binet and Field 2013 for what it costs. 2. Then read the psychology, in the original. Zajonc 1968, Kahneman and Tversky 1979, Reber 2004. Each is a journal paper of under thirty pages. Skip the books about them until you have. 3. For every mechanism you plan to rely on, check its replication record first. This section gives it for each. A mechanism with a contested record is a hypothesis, not a plan. 4. Decide which tradition your category sits closer to, on evidence. Purchase frequency, involvement, shortlist behaviour. Then borrow from the other where it fits. 5. When you quote a work, quote the work. Author, year, the claim as made. A deck that says "Kahneman says" without a page is a deck that has not read Kahneman. 6. Treat this page as a reading list, not a syllabus. The entries in this section are the syllabus. This is the order to take them in.
+
+## If you run the company rather than the marketing
+
+You do not need to read all of this. You need to know that it exists, that it disagrees with itself, and that the disagreement has a shape.
+
+When a marketing team or an agency proposes a brand strategy, ask which tradition it comes from. If the answer is positioning, ask how they know buyers perceive the difference they are proposing to build. If the answer is Ehrenberg-Bass, ask how they know your category behaves like a frequently bought one. If the answer is "we use the best of both", ask them to name which part comes from where. A team that cannot has not read either.
+
+The psychology is simpler to handle. Any claim about how the brain receives a brand should come with a paper, a year and a replication status. If it comes with a book title and an anecdote, it is a story, and you are being asked to fund a story.
+
+Figure: The psychology marketing borrows from is cited an order of magnitude more than marketing itself. One psychology paper outweighs every indexed marketing paper on the list combined. Books, including Ries and Trout, Aaker and Sharp, are not reliably indexed by OpenAlex and are not shown.. Source: OpenAlex citation counts, fetched 7 October 2026. Brave New Media.. Unit: citations.
+
+| Work | Field | Citations, OpenAlex, 7 Oct 2026 |
+|---|---|---|
+| Kahneman and Tversky, 1979, Prospect theory | psychology | 48,508 |
+| Keller, 1993, Customer-based brand equity | marketing | 10,495 |
+| Zajonc, 1968, Mere exposure | psychology | 6,795 |
+| Reber, Schwarz and Winkielman, 2004, Processing fluency | psychology | 2,946 |
+| Aaker and Keller, 1990, Brand extensions | marketing | 2,473 |
+| Keller and Lehmann, 2006, Brands and branding | marketing | 2,337 |
+| McClure et al, 2004, Coke and Pepsi | neuroscience | 1,373 |
+
+Figure: Two traditions and the psychology underneath both. The positioning line runs 1961, 1972, 1981, 1991, 1993. The empirical line runs from Ehrenberg's panel papers through the Dirichlet in 1984 to Sharp in 2010 and Romaniuk in 2018. The psychology sits underneath, 1968, 1979, 1994, 2004, and is picked up by marketing writers mostly after 2011.. Source: Illustrative. Publication years from the Sources list. Brave New Media, 2026..
+
+|  |
+||
+
+Sources:
+
+1. Ries, A. and Trout, J. (1981). Positioning: The Battle for Your Mind. New York: McGraw-Hill. First published as a three-part series in Advertising Age, 1972.
+2. Levitt, T. (1960). Marketing Myopia. Harvard Business Review, July to August 1960.
+3. Aaker, D. A. (1991). Managing Brand Equity: Capitalizing on the Value of a Brand Name. New York: Free Press.
+4. Keller, K. L. (1993). Conceptualizing, Measuring, and Managing Customer-Based Brand Equity. Journal of Marketing, 57(1), 1 to 22.
+5. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Oxford: Oxford University Press.
+6. Zajonc, R. B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology, 9(2, part 2), 1 to 27.
+7. Kahneman, D. and Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263 to 291.
+8. Damasio, A. R. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. New York: Putnam.
+9. Reber, R., Schwarz, N. and Winkielman, P. (2004). Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? Personality and Social Psychology Review, 8(4), 364 to 382.
+10. McClure, S. M., Li, J., Tomlin, D., Cypert, K. S., Montague, L. M. and Montague, P. R. (2004). Neural Correlates of Behavioral Preference for Culturally Familiar Drinks. Neuron, 44(2), 379 to 387.
+11. OpenAlex. Citation counts for the works listed, fetched 7 October 2026. Counts drift and the chart carries the fetch date for that reason.
+
 ### Aaker or Keller: which brand equity model answers which question
 
 Source: https://bravenewhive.com/branding/aaker-or-keller/
@@ -3009,7 +3451,7 @@ Neither has a measurement standard. Aaker gives you five categories and no instr
 
 That is a real limitation and it explains the persistent gap between brand equity as a concept and brand equity as a line anyone will defend in a budget meeting. The financial valuation tradition, Interbrand and the ISO 10668 standard, sits outside both models and answers a different question again: what would somebody pay for this name. Do not mix the three and call it measurement.
 
-The Ehrenberg-Bass position goes further. If growth comes mostly from penetration and availability, then much of what these models measure is downstream of brand size rather than a cause of it. That argument is covered in Double Jeopardy and in the Principles paper on [mental and physical availability](/principles/mental-and-physical-availability/). It does not demolish either model. It does mean a high loyalty score is weaker evidence than it looks.
+The Ehrenberg-Bass position goes further. If growth comes mostly from penetration and availability, then much of what these models measure is downstream of brand size rather than a cause of it. That argument is covered in [Double Jeopardy](/branding/double-jeopardy/) and in the Principles paper on [mental and physical availability](/principles/mental-and-physical-availability/). It does not demolish either model. It does mean a high loyalty score is weaker evidence than it looks.
 
 ## Where I see this go wrong
 
@@ -3241,60 +3683,364 @@ Sources:
 4. Field, P. and Morgan, A. (2019). *The Crisis in Creative Effectiveness*.
 5. Hartnett, N., Kennedy, R., Sharp, B. and Greenacre, L. (2021). When Brands Go Dark. *Journal of Advertising Research*, 61(3), 247 to 259.
 
-### The Coke and Pepsi brain study (the Pepsi paradox)
+### The Coke and Pepsi brain study: what McClure found in 2004, and what the result can and cannot carry
 
 Source: https://bravenewhive.com/branding/the-coke-pepsi-study/
-Date: 2026-09-06. Read: 4 min.
+Date: 2026-09-06. Read: 7 min.
 
-McClure and colleagues, Neuron, 2004. Told which cola they were drinking, people's stated preference and their brain activity both changed. The brand did the work the taste did not.
+In 2004 Samuel McClure and colleagues at Baylor College of Medicine scanned people drinking Coke and Pepsi [1]. Blind, preferences were split and brain activity in a reward region tracked the taste. Told the drink was Coke, participants preferred it and a different region, associated with memory and emotion, became active. Told it was Pepsi, the label had no such effect. The study is the most cited piece of neuroscience in marketing and it is one experiment with 67 participants. What it supports is that a brand name can change the experience of a product. What it does not support is most of what has been built on it.
 
-The study, from Read Montague's lab at Baylor College of Medicine, ran blind and labelled taste tests inside an fMRI scanner. In the blind condition preferences split. With the Coke label visible, preference shifted toward Coke and activity changed in regions associated with memory and self-image.
+## Origin
 
-It is the most cited demonstration that a brand is a stored pattern in the buyer, not a property of the product.
+The blind taste test was already old. Pepsi had run the Pepsi Challenge in the 1970s and 1980s, and the recurring result, that people preferred Pepsi without labels and Coke with them, was a marketing puzzle. McClure's group set out to look at what the brain was doing in each condition.
 
-### System 1 and System 2 thinking in marketing
+The paper appeared in Neuron in October 2004 under the title Neural Correlates of Behavioral Preference for Culturally Familiar Drinks [1]. Sixty-seven participants took part across the study's conditions. In the blind condition, people received squirts of Coke or Pepsi without knowing which, and their behavioural preference was roughly even. Activity in the ventromedial prefrontal cortex, a region associated with reward value, correlated with the preference they expressed.
+
+In the labelled condition, participants were told when the drink was Coke. Knowing it was Coke shifted preference toward Coke and recruited the hippocampus, the dorsolateral prefrontal cortex and the midbrain, regions the authors associated with memory and with modifying behaviour on the basis of emotion and affect. Being told the drink was Pepsi produced no comparable shift.
+
+The authors' own summary was restrained. Visual images and marketing messages, they wrote, had worked their way into the nervous systems of the people who drink the colas [1]. The problem they were addressing was a genuine one: how cultural information about a product changes the brain's response to it.
+
+## What the evidence shows
+
+**The behavioural result is solid and not new.** Brand knowledge changes stated preference. This was known from the taste tests, from Allison and Uhl's 1964 beer study [2], and from a long line of work on expectation and perception. McClure replicated it.
+
+**The imaging result is a correlation.** Different brain regions were active in the labelled condition than in the blind one. That is what the scanner showed. It is consistent with the story that brand memory was recruited. It is also consistent with other stories, which is the problem with inferring a mental state from a region, discussed below.
+
+**The sample is small and the design is specific.** Sixty-seven people, two colas, one laboratory. The study was not designed to tell marketers anything about advertising, pricing, packaging or any brand other than the two in the cups. Any claim that extends beyond "a familiar brand name changed the measured response to a drink" is an extension the data do not make.
+
+**The asymmetry is the most interesting finding and the least discussed.** Coke's label moved preference. Pepsi's did not. The authors noted it. Marketing writing about the study almost never does, because it complicates the tidy lesson. One brand had built something in memory that the other had not, and the study cannot say what it was or how.
+
+## The challenge
+
+The challenge is methodological and it applies to a whole genre, not to this paper alone.
+
+**Reverse inference.** Russell Poldrack set it out in 2006 [3]. Forward inference says: when people do task X, region Y activates. Reverse inference says: region Y activated, therefore people were doing X. The second does not follow from the first unless region Y is active only during X, and almost no region is. The hippocampus being active does not establish that participants were retrieving brand memories. It is consistent with that. It is consistent with other things. McClure's paper is reasonably careful about this. The marketing literature built on it is not.
+
+**Replication.** The study has not been replicated at scale in the form that marketing cites. Imaging studies from that period were typically small and the field has since reckoned with the consequences [4]. This does not make the result wrong. It means the result is one data point carrying a weight it was not built for.
+
+**The leap from a region to a strategy.** Even taking the imaging at face value, the study says nothing about what Coke did to earn the response. Decades of advertising, distribution and availability all happened before the scanner was switched on. The paper measured the end state. Marketing has used it as if it measured the method.
+
+The literature on brand effects on perception is strong without the scan. The literature on what the scan adds is thin. That is the honest division.
+
+## Where I see this go wrong
+
+**The study becomes "neuroscience proves brands work".** It does not prove that. It shows that one familiar brand name changed the measured response to one drink in one laboratory. That brands change perception was already established behaviourally. The scan added a picture, and the picture did the persuading.
+
+**The small sample disappears.** Sixty-seven is rarely mentioned. The image of a lit brain is presented as if it were a population finding. In the advisory work, the question "how many people were in that study" has ended more than one argument.
+
+**The asymmetry is dropped.** The lesson becomes "brands change the brain" rather than "one brand did and the other did not, and we do not know why". The second lesson is the useful one, because it points at the work. Something Coke had done over decades had an effect that Pepsi's equivalent efforts had not. That is a question about brand building. The scan cannot answer it, but the study at least poses it.
+
+**Neuromarketing is sold on the back of it.** This paper is the founding citation for an industry that offers to scan your customers. Some of that work is careful. Much of it rests on reverse inference and small samples, and the Coke and Pepsi study is cited as the proof of concept. One study, with the limitations above, is a thin foundation for a procurement decision.
+
+Having come from television, where audience research has been sold on similar scientific dressing for decades, I have learned to ask for the sample size before the finding. It is a reliable test.
+
+## What to do with it
+
+1. Cite the study for what it shows: a brand name changed the measured response to a product. Do not cite it for how brands should be built or for any claim about advertising. 2. When it appears in a deck, ask for the sample size and the year. Sixty-seven and 2004. Then ask what has replicated it. The answer will be short. 3. Read Poldrack 2006 before quoting any imaging result in a marketing context. Reverse inference is the single most common error in the genre and it takes one paper to inoculate against. 4. Take the asymmetry seriously. If one brand's name moves response and another's does not, the difference lies in decades of brand building, not in the scan. Ask what the stronger brand did. That is the useful research question. 5. Rely on behavioural evidence for brand effects on perception. Blind versus labelled tests are cheap, repeatable and tell you what you need. The scanner adds a picture, not a finding. 6. Treat any proposal to scan your own customers as a research procurement. Ask for the sample size, the analysis plan and the inference method before the price. If the vendor leads with the Coke and Pepsi study, that tells you the pitch is twenty years old.
+
+## If you run the company rather than the marketing
+
+Someone will show you a brain scan to prove that brand matters. It will be this study or one built on it.
+
+The point being made is correct. A known name changes how people experience the product, and in a category where buyers cannot easily tell competitors apart, that is where the margin lives. You do not need a scan to accept it. Blind versus labelled tests have shown it for sixty years.
+
+What the scan should not do is move you toward paying for neuroscience of your own. The study it rests on had 67 participants in 2004 and has not been replicated in the way marketing describes. If a vendor proposes to scan your customers, treat it as a research purchase and ask the questions you would ask of any research: how many people, what analysis, how do you get from a brain region to a claim about my buyers. If the answers are thin, the behavioural test will tell you more for a fraction of the cost.
+
+Sources:
+
+1. McClure, S. M., Li, J., Tomlin, D., Cypert, K. S., Montague, L. M. and Montague, P. R. (2004). Neural Correlates of Behavioral Preference for Culturally Familiar Drinks. Neuron, 44(2), 379 to 387.
+2. Allison, R. I. and Uhl, K. P. (1964). Influence of Beer Brand Identification on Taste Perception. Journal of Marketing Research, 1(3), 36 to 39.
+3. Poldrack, R. A. (2006). Can Cognitive Processes Be Inferred from Neuroimaging Data? Trends in Cognitive Sciences, 10(2), 59 to 63.
+4. Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J. and Munafò, M. R. (2013). Power Failure: Why Small Sample Size Undermines the Reliability of Neuroscience. Nature Reviews Neuroscience, 14(5), 365 to 376.
+
+### System 1 and System 2 thinking in marketing: what the two-system model says, and what marketers added to it
 
 Source: https://bravenewhive.com/branding/system-1-and-system-2/
-Date: 2026-09-02. Read: 3 min.
+Date: 2026-09-02. Read: 7 min.
 
-Daniel Kahneman, Thinking, Fast and Slow, 2011. Most decisions, including most purchases, run on the fast, automatic system, and the slow one mostly rationalises afterwards.
+System 1 and System 2 are the names Daniel Kahneman used in Thinking, Fast and Slow for two modes of thought: fast, automatic and effortless on one side, slow, deliberate and effortful on the other [1]. The labels came from Stanovich and West in 2000 [2]. The model is the most used piece of psychology in marketing and the most misused. Kahneman was explicit that the two systems are a convenience of exposition, not two places in the brain. Marketing treated them as two places. The useful version is modest: most buying happens on autopilot, so brands need to be easy to recognise and easy to choose. The grand version, that advertising should bypass reason, is not what the book says.
 
-Kahneman's book summarised decades of research with Amos Tversky. System 1 is fast, associative and effortless. System 2 is slow, deliberate and lazy.
+## Origin
 
-For a brand the implication is blunt. What feels familiar is decided before the argument is heard. The argument arrives later, to justify it.
+The idea that thought runs on two tracks is old. The specific vocabulary is recent. Keith Stanovich and Richard West proposed the terms System 1 and System 2 in a 2000 paper in Behavioral and Brain Sciences, summarising a family of dual-process theories that had been developing in cognitive psychology since the 1970s [2]. They used the numbers deliberately, to avoid committing to any one theory's descriptive labels.
 
-### The somatic marker hypothesis
+Kahneman adopted the terms for [Thinking, Fast and Slow](/readings/thinking-fast-and-slow-kahneman/) in 2011 [1]. The book was a summary of four decades of work with Amos Tversky and others on judgement and decision making, and the two systems were the frame that organised it. System 1 produces impressions, intuitions and feelings quickly and without effort. System 2 allocates attention to effortful operations, including the ones we call reasoning. Most of the time System 2 accepts what System 1 offers.
+
+Kahneman was careful about the status of the terms. He wrote that the two systems are "fictitious characters" [1], useful because the mind finds it easier to follow a story about agents than a description of processes. The caveat is in the book. It did not make it into the marketing version.
+
+The problem the model solved in psychology was explanatory. It gave a common language to findings about heuristics and biases that had been accumulating without one.
+
+## What the evidence shows
+
+**The underlying findings have held up.** The specific effects that Thinking, Fast and Slow describes, anchoring, availability, loss aversion, framing, the planning fallacy, have decades of replication behind most of them. They are the content. The two systems are the frame put around the content. One can accept the findings and treat the frame as the convenience Kahneman said it was.
+
+**The frame is an organising device, not a discovery.** This is the point most often lost. No experiment found System 1. The term labels a cluster of properties, fast, automatic, associative, that tend to go together, and Stanovich himself later moved away from the simple two-system language toward a more layered model [3]. A marketer presenting the two systems as two things the brain contains has gone further than the people who named them.
+
+**The critiques have teeth.** Melnikoff and Bargh argued in 2018 that the properties assigned to each system do not in fact align: automatic processes can be slow, deliberate ones can be fast, and the typology breaks down under inspection [4]. Keren and Schul had made a related case in 2009 [5]. Neither critique disputes the individual findings. Both dispute the tidy division.
+
+**What marketing can legitimately take.** Most purchasing is habitual and low attention. This is well supported from the buying behaviour literature independently of Kahneman [6]. If the fast mode handles most choices, then the work of a brand is to be present and easy at the moment of choice: recognised at a glance, associated with the category, requiring no deliberation. That is a modest claim and a well-founded one. It is also, in substance, what Byron Sharp's work says in different vocabulary.
+
+## The challenge
+
+The challenge to the two-system model inside psychology is about the frame, not the findings, and this entry has set it out. The challenge to the marketing use is different and more pointed.
+
+Marketing took a model of how judgement works and turned it into a model of how advertising should work. The inference was: if System 1 decides, make advertising for System 1. Emotional, implicit, fast. Rational argument is for System 2, and System 2 is asleep.
+
+Three things are wrong with this. First, it is not in the book. Kahneman wrote about judgement under uncertainty, not about advertising. Second, it collapses the distinction between how a choice is made and what information went into making it. A habitual choice can rest on a rational judgement made once, years ago, which is how most people choose their bank. Third, it has produced a genre of marketing that treats the audience as incapable of thought, which the audience notices.
+
+The two-system language has also been used to dress up a much older argument, that emotional advertising outperforms rational advertising, with a neuroscience it does not have. That argument has its own evidence, from campaign effectiveness data, and does not need to borrow.
+
+## Where I see this go wrong
+
+**System 1 becomes a licence.** I have sat in presentations where "it's a System 1 decision" was offered as the reason to drop every claim from the work. The reasoning went: buyers do not think, so give them nothing to think about. In a B2B category where the buyer is a committee with a procurement process, this is not insight, it is an excuse.
+
+**Two systems become two audiences.** The model describes two modes in one mind. It gets applied as if some buyers were System 1 people and others System 2 people, with different messaging for each. There is no such division. Every buyer is both, at different moments, and the same person who recognises your brand in a second will also read your tender response line by line.
+
+**The fictitious characters become anatomy.** Slides that locate System 1 in one part of the brain and System 2 in another are common and wrong. Kahneman said the systems were a story. The slide has turned the story into a diagram of an organ.
+
+Having spent years in television before this, I recognise the move. A broadcaster who wants to defend low-effort programming will tell you the audience is tired and wants nothing demanding. Sometimes true. Often an alibi. System 1 is the same alibi with a Nobel laureate's name on it.
+
+## What to do with it
+
+1. Use the findings, hold the frame loosely. Anchoring, framing and loss aversion are tools you can test. The two systems are a way of talking about them. 2. Accept the modest claim: most choices in your category are fast and habitual, so your brand must be recognisable and easy to pick. Build for that. Distinctive assets, consistent presence, nothing in the way. 3. Reject the grand claim. "Bypass reason" is not a strategy. Your buyer will reason at some point in the journey, and the work must survive that moment too. 4. In B2B especially, map where the fast moments and the slow moments actually fall. Recognition on a shortlist is fast. Reading the proposal is slow. Different work serves each. Both are needed. 5. Never put a brain diagram on a slide about the two systems. If challenged, quote Kahneman on fictitious characters and move on. 6. Read Stanovich and West before Kahneman if you want the model, and read Melnikoff and Bargh after. The book is the popular account. The paper is the source. The critique is the correction. 7. When someone says "this is a System 1 category", ask what they would do differently if it were not. If the answer is nothing, the label is doing no work.
+
+## If you run the company rather than the marketing
+
+You will hear that your buyers make System 1 decisions, and it will be offered as a reason to spend on brand rather than on argument.
+
+Half of that is sound. Most choices, including expensive ones, are made quickly from a short mental list, and getting onto that list is what brand spending does. The other half, that argument therefore does not matter, is not in the research and is not true of any buyer who signs a contract. The committee that approves your supplier will read the proposal. The person who champions you will have to defend the choice. Both are slow, effortful moments and the work has to hold up in them.
+
+The question to ask is where the fast and the slow moments fall in your own sales process, and whether the plan serves both. If the agency can only describe one, you are getting half a strategy.
+
+Sources:
+
+1. Kahneman, D. (2011). Thinking, Fast and Slow. New York: Farrar, Straus and Giroux.
+2. Stanovich, K. E. and West, R. F. (2000). Individual Differences in Reasoning: Implications for the Rationality Debate? Behavioral and Brain Sciences, 23(5), 645 to 726.
+3. Stanovich, K. E. (2011). Rationality and the Reflective Mind. New York: Oxford University Press.
+4. Melnikoff, D. E. and Bargh, J. A. (2018). The Mythical Number Two. Trends in Cognitive Sciences, 22(4), 280 to 293.
+5. Keren, G. and Schul, Y. (2009). Two Is Not Always Better Than One: A Critical Evaluation of Two-System Theories. Perspectives on Psychological Science, 4(6), 533 to 550.
+6. Sharp, B. (2010). How Brands Grow: What Marketers Don't Know. Melbourne: Oxford University Press.
+
+### The somatic marker hypothesis: emotion as the machinery of choosing, and the experiment that was challenged
 
 Source: https://bravenewhive.com/branding/somatic-markers/
-Date: 2026-08-26. Read: 3 min.
+Date: 2026-08-26. Read: 7 min.
 
-Antonio Damasio, Descartes' Error, 1994. Emotion is part of the machinery of choosing, not noise laid over reason. Patients who lost it could not decide.
+Antonio Damasio argued in 1994 that emotion is part of how people decide, not interference with it [1]. Patients with damage to a specific region of the prefrontal cortex kept their reasoning and lost their ability to choose well. His explanation was that bodily emotional signals, somatic markers, tag options as good or bad before deliberation starts, and that without them deliberation has nothing to work with. The hypothesis is influential and the central experiment behind it, the Iowa Gambling Task, has been challenged on method [2][3]. For marketing the claim that feeling precedes reasoning is well supported from other directions. The specific mechanism Damasio proposed is not settled.
 
-Damasio studied patients with damage to the ventromedial prefrontal cortex. Their reasoning was intact and their decision making collapsed. His explanation: the body's emotional signals mark options as good or bad before deliberation starts.
+## Origin
 
-Advertising that produces a feeling is making the argument in the channel the brain uses.
+Damasio, a neurologist then at the University of Iowa, published Descartes' Error in 1994 [1]. The book's starting point was a patient he called Elliot, who had lost part of his ventromedial prefrontal cortex to a tumour. Elliot's intelligence, memory and reasoning tested as normal. His life fell apart. He could analyse a decision indefinitely and could not make one, and the decisions he did make were poor.
 
-### Processing fluency in marketing
+Damasio's reading was that Elliot had lost the emotional signal that normally narrows the field. Without it, every option was weighted the same, and reasoning alone could not break the tie. The hypothesis generalised from there: the body produces emotional responses to anticipated outcomes, those responses are registered as markers on the options, and the markers guide choice below the level of deliberate thought.
+
+The word somatic is doing work. The marker is bodily, a change in heart rate or skin conductance, not a thought.
+
+The problem Damasio was solving was the Cartesian one in his title. Western thought had treated reason and emotion as opposed. His patients suggested they were parts of one system.
+
+## What the evidence shows
+
+**The lesion evidence is real.** Patients with ventromedial prefrontal damage show the pattern Damasio described: intact performance on standard reasoning tests, impaired real-world decision making, and reduced emotional response to outcomes [1][4]. This part of the record is not in dispute.
+
+**The Iowa Gambling Task is the experimental core.** Bechara, Damasio, Damasio and Anderson published the task in 1994 [4]. Participants draw cards from four decks. Two decks pay well per card and carry occasional large losses that make them bad overall. Two pay less per card and are good overall. Healthy participants learn to prefer the good decks. Patients with ventromedial damage keep drawing from the bad ones.
+
+**The 1997 Science paper made the strong claim.** Bechara and colleagues reported that healthy participants began generating anticipatory skin conductance responses before drawing from the bad decks, and began choosing advantageously, before they could articulate why [5]. The title stated it: Deciding Advantageously Before Knowing the Advantageous Strategy. The body knew before the mind did. That finding is the one that travelled into marketing.
+
+**Marketing's use of it rests on that 1997 finding.** The argument runs: if emotional signals guide choice before conscious reasoning, then advertising that produces a feeling is making its case in the channel that decides. Binet and Field's finding that emotionally driven campaigns outperform rational ones over the long term is often attached to Damasio as the mechanism [6]. That attachment is an inference across literatures, and this entry says so.
+
+## The challenge
+
+The challenge here is serious and this entry would be dishonest without it.
+
+**Maia and McClelland, 2004.** They re-ran the Iowa Gambling Task with more detailed questioning and found that participants had much more conscious knowledge of the deck structure, and much earlier, than Bechara's 1997 paper had reported [2]. The participants were not deciding before they knew. They knew, and the original questionnaire had been too coarse to detect it. If that is right, the central claim of the 1997 paper, choice ahead of knowledge, does not stand as stated.
+
+**Dunn, Dalgleish and Lawrence, 2006.** Their critical review of the somatic marker hypothesis went through the evidence line by line and found it equivocal [3]. The lesion findings were solid. The claim that bodily signals cause good decisions, rather than accompany them, was not demonstrated. Alternative accounts, in which the ventromedial cortex does other work that happens to affect both emotion and choice, fit the data as well.
+
+Damasio and colleagues replied, and the exchange continues. The honest state is this. Emotion is involved in decision making, and patients who lose certain prefrontal function lose both emotional response and decision quality. That is established. The specific claim that bodily markers precede and drive choice, which is the claim marketing borrows, has had its best experiment challenged on method and has not been re-established to the same standard.
+
+The literature is split and should be left split. A marketer citing Damasio should cite the challenge in the same breath.
+
+## Where I see this go wrong
+
+**Damasio is cited for a finding that belongs to someone else.** "Emotion drives decisions" gets attributed to Descartes' Error in decks and briefs. The evidence that emotional advertising works over the long term is Binet and Field's, from campaign effectiveness data [6]. The evidence that emotion is involved in choice is broad and comes from many sources. Damasio is one theorist of mechanism, and his mechanism is the contested part. Cite the finding you are actually using.
+
+**The 1997 paper is quoted without the 2004 reply.** Deciding before knowing is a wonderful phrase and it is in a thousand presentations. The paper that undercut it is in almost none. A reference work that promised documented studies has to carry both.
+
+**Neuroscience is used as a seal.** A brain scan in the deck makes the brand strategy feel like science. The somatic marker hypothesis is one of the two or three ideas most used this way, and it is one of the least settled. The scan is not the evidence. The behaviour is, and the behavioural evidence for emotional advertising is good enough on its own without borrowing a disputed mechanism.
+
+Having spent years in media before running an agency, I notice that the industry has always wanted a scientific reason for things it already knew worked. Emotional advertising worked before Damasio and will work if his hypothesis falls. The appetite for the mechanism is about status, not about the work.
+
+## What to do with it
+
+1. When you want to argue that emotion matters in your category, cite Binet and Field and the campaign data, not Damasio. The first is a finding about advertising. The second is a disputed theory about the brain. 2. If you cite Damasio, cite Maia and McClelland and Dunn, Dalgleish and Lawrence beside him. Anyone who reads the first and not the others is quoting half a literature. 3. Do not put a brain scan in a brand deck unless it is your scan, from your study, with your sample size on it. A borrowed image of a lit-up cortex is decoration dressed as proof. 4. Test emotional response in your own category with behavioural measures: recall, preference, choice. Skin conductance is a research instrument and a poor marketing one. 5. Separate the two claims every time. That emotion is involved in choice: well supported. That bodily markers precede and cause choice: contested. Your strategy can rest on the first without needing the second. 6. Read the 1994 book, the 1997 paper and the 2004 reply, in order. Together they are a short course in how a mechanism becomes a slogan and what gets lost on the way.
+
+## If you run the company rather than the marketing
+
+You will be told that buyers decide emotionally and rationalise afterwards, and it will come with a neuroscientist's name attached.
+
+The first half is reasonably well supported by advertising effectiveness data, and it is a good reason to take emotional work seriously in your category. The attached name is where to be careful. The specific brain mechanism usually cited has had its central experiment challenged, and the field has not re-established it. That does not make the advice wrong. It means the advice is standing on the campaign data, not on the brain scan, and anyone who presents the scan as the proof has not read the literature they are quoting.
+
+The useful question is simple. Show me the behavioural evidence for emotional work in a category like ours. If it exists, fund the work. If the only evidence offered is a picture of a brain, ask for the study, the sample and the date, and watch how quickly the conversation returns to the campaign data it should have started with.
+
+Sources:
+
+1. Damasio, A. R. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. New York: Putnam.
+2. Maia, T. V. and McClelland, J. L. (2004). A Reexamination of the Evidence for the Somatic Marker Hypothesis: What Participants Really Know in the Iowa Gambling Task. Proceedings of the National Academy of Sciences, 101(45), 16075 to 16080.
+3. Dunn, B. D., Dalgleish, T. and Lawrence, A. D. (2006). The Somatic Marker Hypothesis: A Critical Evaluation. Neuroscience and Biobehavioral Reviews, 30(2), 239 to 271.
+4. Bechara, A., Damasio, A. R., Damasio, H. and Anderson, S. W. (1994). Insensitivity to Future Consequences Following Damage to Human Prefrontal Cortex. Cognition, 50(1 to 3), 7 to 15.
+5. Bechara, A., Damasio, H., Tranel, D. and Damasio, A. R. (1997). Deciding Advantageously Before Knowing the Advantageous Strategy. Science, 275(5304), 1293 to 1295.
+6. Binet, L. and Field, P. (2013). The Long and the Short of It. London: Institute of Practitioners in Advertising.
+
+### Processing fluency in marketing: what is easy to read feels true
 
 Source: https://bravenewhive.com/branding/processing-fluency-in-marketing/
-Date: 2026-08-15. Read: 3 min.
+Date: 2026-08-15. Read: 7 min.
 
-Things that are easy to read, see and say are judged more true and more likeable. Reber, Schwarz and Winkielman set the effect out in 2004.
+Things that are easy to perceive, read, say and remember are judged more true, more likeable and more familiar than the same things made harder [1]. Reber, Schwarz and Winkielman set the mechanism out in 2004: the brain registers the ease of its own processing and misreads that ease as a property of the thing processed. The core effect replicates well. One popular offshoot, the claim that making things harder to read improves learning, did not [2]. For a brand the implication is the scientific case for consistency and against cleverness: every unit of effort you ask of the reader is charged to the brand's credibility.
 
-The ease with which the brain processes a stimulus is itself read as a signal. Clear names, legible type, repeated shapes and short claims feel more true than the same content made harder. The brain is grading the effort, not the content.
+## Origin
 
-It is the scientific case for consistency, and against cleverness that costs the reader effort.
+The idea has a long tail in psychology, but the 2004 paper by Rolf Reber, Norbert Schwarz and Piotr Winkielman gave it a name and a theory [1]. Their title asked whether beauty is in the perceiver's processing experience, and their answer was that a good part of it is. Stimuli that are processed more fluently, because they are symmetrical, familiar, high in contrast, or have been seen before, are experienced as more pleasant.
 
-### Loss aversion in marketing
+The problem they addressed was that several separate findings looked like one thing. [Mere exposure](/branding/mere-exposure/), where repetition produces liking. The illusory truth effect, where repetition produces belief. Preferences for symmetry and prototypicality. Their proposal was that all of these ran through a single mechanism: fluency feels good, and the feeling is attributed to the object.
+
+Their statement of it: "the more fluently perceivers can process an object, the more positive their aesthetic response" [1].
+
+## What the evidence shows
+
+**Fluency raises judgements of truth.** Statements printed in high-contrast, easily read type are rated more likely to be true than identical statements in low-contrast type [3]. Rhyming aphorisms are judged more accurate than non-rhyming versions with the same meaning [4]. Neither the colour contrast nor the rhyme carries any information about truth. The ease does the work.
+
+**Fluency raises liking and familiarity.** Repeated stimuli are processed more easily and liked more, which is the mere exposure finding reinterpreted [5]. Prototypical faces and shapes, which are processed easily because they match a stored average, are preferred.
+
+**Fluency lowers perceived effort and risk.** Song and Schwarz showed in 2008 that a recipe printed in a hard-to-read font was judged to take longer and require more skill than the same recipe in a clear font [6]. Alter and Oppenheimer found in 2006 that stocks with pronounceable ticker symbols outperformed those with unpronounceable ones in the period after listing, a result they attributed to fluency making the company feel safer [7].
+
+**The effect sits under most of this section.** Mere exposure is fluency from repetition. The distinctive assets argument is fluency from consistency. The System 1 account is, in part, a description of fluent processing. This is the mechanism the others borrow, and it is the one with the best evidence.
+
+## The challenge
+
+Two challenges, one to interpretation and one to an offshoot.
+
+**Interpretation.** Alter and Oppenheimer's 2009 review, Uniting the Tribes of Fluency, argued that fluency is not one thing but several, perceptual, conceptual, linguistic, memory-based, which happen to produce similar downstream effects [8]. If that is right, then "fluency" is a family of mechanisms rather than a single one, and findings from one kind do not automatically transfer to another. A brand that is visually fluent is not thereby conceptually fluent. This is a refinement rather than a refutation, and the practical advice survives it.
+
+**The offshoot that failed.** In 2011 Diemand-Yauman, Oppenheimer and Vaughan reported that students learned material better when it was printed in a harder-to-read font, on the theory that disfluency triggered deeper processing [9]. The result was widely reported and widely applied. It did not replicate. Meyer and colleagues ran a pre-registered replication in 2015 across several studies and found no benefit from disfluent fonts, and a subsequent meta-analysis agreed [2]. The core fluency finding is intact. The claim that disfluency helps is not.
+
+This matters for the section because it is the clearest case of a popular marketing idea, "make them work for it", resting on a finding that fell over when tested properly. The honest record is: fluency helps, disfluency does not help, and the second is not the mirror image of the first.
+
+## Where I see this go wrong
+
+**Cleverness is mistaken for quality.** A headline that takes two readings to parse, a logo that needs explaining, a name that needs spelling out on the phone. Each is a small tax on fluency, and each is paid in credibility rather than in attention. The creative team experiences the difficulty as sophistication. The buyer experiences it as effort and attributes the effort to the brand.
+
+**Consistency is treated as a design preference.** The fluency evidence is the reason consistency works: the same asset, seen again, is processed more easily, and the ease is read as trust. Every variation resets the processing. Teams that redesign for freshness are, in fluency terms, choosing to be harder to process. See [Distinctive brand assets](/branding/distinctive-brand-assets/).
+
+**The disfluency idea is still quoted.** I still see "make the reader slow down" as a creative principle, with the 2011 study behind it. The study did not replicate. The principle should go with it.
+
+Teaching [AI marketing](/ai-marketing/what-is-ai-marketing/) at the Bucharest University of Economic Studies, the fluency literature is the one I find students resist most, because it says that effort spent making the work interesting can be effort spent making it worse. That is an uncomfortable lesson for anyone who got into the field because they liked the clever work. It is still the lesson.
+
+## What to do with it
+
+1. Audit every brand touchpoint for processing cost. Can the name be said, spelled and remembered on one hearing. Can the logo be recognised at a glance. Can the headline be understood on one reading. Each failure is a fluency tax. 2. Keep the assets fixed. Fluency from familiarity requires the thing to be familiar, which requires it to be the same thing. See Distinctive brand assets for the test. 3. Prefer high contrast, legible type, short sentences and plain names in anything a buyer has to process quickly. The evidence is that these are read as more trustworthy, and not only as more accessible. 4. Stop asking buyers to work for it. If a creative route depends on the reader slowing down, the finding it relies on failed to replicate, and the route is spending credibility to buy attention. 5. Test fluency directly. Show the asset or the claim briefly and ask for a liking or truth rating. Compare against a less fluent version of the same thing. The effect is large enough to see in a small sample. 6. Treat fluency as a family, not a switch. Visual fluency, verbal fluency and conceptual fluency are different jobs. A brand can be easy to see and hard to understand. Check each.
+
+## If you run the company rather than the marketing
+
+The finding here is simple enough to apply from the top. Anything that is hard to read, say, spell or recognise is costing you trust, and the cost is paid by the brand rather than noticed by the reader.
+
+When you are shown a new name, a new mark, a new line, ask the dull question. Can I say it, spell it and remember it after hearing it once. Can a buyer recognise the mark in the time it takes to scroll past it. If the answer is no, the creative team will tell you the difficulty is distinctive. The evidence says the difficulty is read as untrustworthiness and attributed to you.
+
+One more. If anyone proposes making the work harder to process on purpose, to make people slow down and engage, know that the study behind that idea failed to replicate in 2015 and the field has moved on. It is still quoted. It should not be funded.
+
+Figure: The same recipe in a hard-to-read font was judged to take 13 minutes longer to cook. Twenty-seven students read an identical Japanese roll recipe in Arial or in Mistral and estimated the preparation time. The hard font raised the estimate from 22.7 to 36.2 minutes, and in a companion study raised the skill a cook would need from 4.1 to 5.2 on a seven-point scale.. Source: Song and Schwarz, 2008, Psychological Science 19(10), Table 1, Study 2. Brave New Media.. Unit: minutes.
+
+| Condition | Font | Expected minutes needed, mean |
+|---|---|---|
+| Easy to read | Arial, 12 point | 22.71 |
+| Hard to read | Mistral, 12 point | 36.15 |
+
+Sources:
+
+1. Reber, R., Schwarz, N. and Winkielman, P. (2004). Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? Personality and Social Psychology Review, 8(4), 364 to 382.
+2. Meyer, A., Frederick, S., Burnham, T. C., Guevara Pinto, J. D., Boyer, T. W., Ball, L. J., Pennycook, G., Ackerman, R., Thompson, V. A. and Schuldt, J. P. (2015). Disfluent Fonts Don't Help People Solve Math Problems. Journal of Experimental Psychology: General, 144(2), e16 to e30.
+3. Reber, R. and Schwarz, N. (1999). Effects of Perceptual Fluency on Judgments of Truth. Consciousness and Cognition, 8(3), 338 to 342.
+4. McGlone, M. S. and Tofighbakhsh, J. (2000). Birds of a Feather Flock Conjointly (?): Rhyme as Reason in Aphorisms. Psychological Science, 11(5), 424 to 428.
+5. Zajonc, R. B. (1968). Attitudinal Effects of Mere Exposure. Journal of Personality and Social Psychology, 9(2, part 2), 1 to 27.
+6. Song, H. and Schwarz, N. (2008). If It's Hard to Read, It's Hard to Do: Processing Fluency Affects Effort Prediction and Motivation. Psychological Science, 19(10), 986 to 988.
+7. Alter, A. L. and Oppenheimer, D. M. (2006). Predicting Short-Term Stock Price Movements Using Processing Fluency. Proceedings of the National Academy of Sciences, 103(24), 9369 to 9372.
+8. Alter, A. L. and Oppenheimer, D. M. (2009). Uniting the Tribes of Fluency to Form a Metacognitive Nation. Personality and Social Psychology Review, 13(3), 219 to 235.
+9. Diemand-Yauman, C., Oppenheimer, D. M. and Vaughan, E. B. (2011). Fortune Favors the Bold (and the Italicized): Effects of Disfluency on Educational Outcomes. Cognition, 118(1), 111 to 115.
+
+### Loss aversion in marketing: the asymmetry that sells urgency, and the fight over whether it exists
 
 Source: https://bravenewhive.com/branding/loss-aversion-in-marketing/
-Date: 2026-08-10. Read: 3 min.
+Date: 2026-08-10. Read: 7 min.
 
-Kahneman and Tversky's prospect theory, 1979. Losses weigh roughly twice as much as gains of the same size. Most urgency in marketing borrows from this.
+Kahneman and Tversky's prospect theory, published in 1979, holds that losses weigh more heavily than gains of the same size [1]. The usual figure is about twice as heavily, from their 1992 estimate [2]. Most urgency in marketing borrows from this: deadlines, expiring trials, framing what the buyer stands to lose. The effect is real in many settings and it is not the general law it is sold as. Gal and Rucker argued in 2018 that the evidence for loss aversion as a broad principle is weaker than its reputation, and the dispute is live [3]. Use the framing where the stakes are real. Stop using it where they are not, because buyers learn.
 
-Prospect Theory: An Analysis of Decision under Risk was published in Econometrica in 1979. The asymmetry it describes underlies deadlines, free trials that expire and the framing of what a buyer stands to lose by not acting.
+## Origin
 
-Used honestly it clarifies stakes. Used carelessly it trains people to distrust the brand.
+Daniel Kahneman and Amos Tversky published Prospect Theory: An Analysis of Decision under Risk in Econometrica in 1979 [1]. The problem they were solving was that expected utility theory, the standard account of rational choice, did not describe how people actually chose between risky options. People were not consistently risk-averse or risk-seeking. They were risk-averse for gains and risk-seeking for losses, and they treated a loss as worse than a gain of the same magnitude.
+
+The paper's value function is S-shaped: concave for gains, convex for losses, and steeper for losses than for gains. The steepness is loss aversion. Their phrasing: "losses loom larger than gains" [1].
+
+The 1979 paper did not put a number on it. Tversky and Kahneman's 1992 paper on cumulative prospect theory estimated the loss aversion coefficient at around 2.25 from their experimental data, which is where the "losses hurt twice as much" shorthand comes from [2]. The shorthand drops the context the estimate came from, which was monetary gambles in a laboratory.
+
+## What the evidence shows
+
+**The asymmetry holds up in gambles.** Across many replications of the original paradigm, people do demand more to accept a risky bet than expected value would predict, and the asymmetry between gains and losses recurs [1][2].
+
+**The endowment effect follows from it.** Thaler coined the term in 1980 for the observation that people value things more once they own them [4]. Kahneman, Knetsch and Thaler's 1990 experiments gave participants mugs and found they demanded roughly twice as much to sell a mug as others would pay to buy it [5]. The gap is loss aversion applied to ownership: giving up the mug is a loss, acquiring it is a gain.
+
+**Framing effects are large and replicable.** The same outcome described as a loss or as a gain produces different choices. Tversky and Kahneman's Asian disease problem is the canonical demonstration, and framing has replicated in medical, financial and consumer contexts [6].
+
+**The marketing applications are documented but mostly correlational.** Hardie, Johnson and Fader found loss aversion in consumer brand choice data in 1993 [7]. Price increases hurt more than equivalent decreases help, in field data, which is consistent with the theory and also with several other explanations.
+
+The evidence is strong that people respond asymmetrically to losses and gains in many situations. It is weaker on whether this is one mechanism with one coefficient, and that is where the challenge comes in.
+
+## The challenge
+
+Gal and Rucker's 2018 paper, The Loss of Loss Aversion, argued that the evidence for loss aversion as a general principle has been overstated [3]. Their case: many of the findings attributed to loss aversion have alternative explanations, the effect does not appear reliably when stakes are small, and in some conditions gains are weighted more than losses. They did not argue that the asymmetry never occurs. They argued it is a contextual effect dressed as a law.
+
+The reply came quickly. Mrkva and colleagues in 2020 and others defended the broader reading, pointing to the breadth of settings in which the asymmetry appears and arguing that Gal and Rucker's alternative explanations do not cover the full record [8]. The field has not settled this and a marketer should not pretend it has.
+
+A second challenge is about the coefficient. The 2.25 figure came from one set of monetary gambles. Estimates in other domains range widely, and treating any single number as the exchange rate between loss and gain is a precision the data does not support.
+
+The honest position for this section: the asymmetry is real and common. The claim that it is universal, or that it has a fixed size, is contested by serious people and the contest is ongoing. That is how the entry should read and how a marketer should use it.
+
+## Where I see this go wrong
+
+**Every offer is framed as a loss.** The deadline, the expiring discount, the "only three left". Used once, with a real constraint behind it, this works. Used on every email, buyers learn that the constraint is fictional and the brand that cried wolf has spent its credibility on urgency. The mechanism depends on the loss being believed.
+
+**The coefficient is quoted as a law.** "Losses hurt twice as much as gains" goes into the deck as if it were a physical constant. It was one estimate from one paradigm and the field is arguing about whether it generalises. A number that precise, in a dispute that live, is not a number to build a strategy on.
+
+**Loss framing is applied to things nobody owns.** The endowment effect works because the buyer already has the thing. Telling a prospect they will "lose" a discount they never had is not loss aversion. It is a sentence with the word loss in it.
+
+I spent years around investment before I ran an agency, and loss aversion is the one finding from this section that trading floors had already priced in. Nobody there needed Kahneman to know that a loss felt worse than a gain. What they needed, and what marketing needs, is the second half: that the asymmetry is unreliable, that it shrinks when people are experienced, and that a strategy built on it is a strategy built on buyers staying naive.
+
+## What to do with it
+
+1. Use loss framing only where the loss is real. A trial that actually expires, a price that actually rises, a capacity that is actually limited. The mechanism is powerful when believed and destructive when discovered to be theatre. 2. Count how many of your communications in a quarter use urgency. If the answer is most of them, the mechanism has stopped working on your list and started costing you. 3. Prefer endowment to threat. Let the buyer own something, a trial, a configured demo, a draft plan with their name on it, before asking them to give it up. That is the documented version of the effect. 4. Do not quote 2.25, or "twice as much", to a board as a law. Say that losses are weighted more heavily than gains in most studies, that the size varies, and that serious researchers dispute how general it is. That is the accurate sentence. 5. Test the framing in your own category before relying on it. Gal and Rucker's point is that the effect is contextual. Your context is the one that matters and nobody has measured it for you. 6. Read the 1979 paper and the 2018 critique together. Twenty-eight pages and thirty. Most of what is said about loss aversion in marketing is said by people who have read neither.
+
+## If you run the company rather than the marketing
+
+You will see loss aversion in two places. In your marketing, as urgency: deadlines, expiring offers, scarcity. And in your own decisions, as reluctance to cut a project that has already consumed money, which is the same asymmetry pointed inward.
+
+On the marketing. Ask how often the urgency is real. If every campaign has a deadline, the deadline has stopped being information and started being a tic, and the buyers who have noticed are the experienced ones you most want. One real constraint a quarter does more than twelve fictional ones.
+
+On the number. If anyone tells you losses hurt exactly twice as much as gains, know that the figure comes from one laboratory estimate in 1992 and that the field has spent the years since 2018 arguing about whether the effect is even general. It is a tendency, not a constant, and a strategy that treats it as a constant is overfitting to a disputed decimal.
+
+Figure: The value function is steeper for losses than for gains. The S-shape is the model: concave for gains, convex for losses, and steeper below the reference point. No loss-aversion coefficient is drawn, because the size of the asymmetry is the contested part and varies by setting.. Source: Illustrative. After Kahneman and Tversky, Prospect Theory, 1979. Brave New Media, 2026..
+
+|  |
+||
+
+Sources:
+
+1. Kahneman, D. and Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263 to 291.
+2. Tversky, A. and Kahneman, D. (1992). Advances in Prospect Theory: Cumulative Representation of Uncertainty. Journal of Risk and Uncertainty, 5(4), 297 to 323.
+3. Gal, D. and Rucker, D. D. (2018). The Loss of Loss Aversion: Will It Loom Larger Than Its Gain? Journal of Consumer Psychology, 28(3), 497 to 516.
+4. Thaler, R. (1980). Toward a Positive Theory of Consumer Choice. Journal of Economic Behavior and Organization, 1(1), 39 to 60.
+5. Kahneman, D., Knetsch, J. L. and Thaler, R. H. (1990). Experimental Tests of the Endowment Effect and the Coase Theorem. Journal of Political Economy, 98(6), 1325 to 1348.
+6. Tversky, A. and Kahneman, D. (1981). The Framing of Decisions and the Psychology of Choice. Science, 211(4481), 453 to 458.
+7. Hardie, B. G. S., Johnson, E. J. and Fader, P. S. (1993). Modeling Loss Aversion and Reference Dependence Effects on Brand Choice. Marketing Science, 12(4), 378 to 394.
+8. Mrkva, K., Johnson, E. J., Gaechter, S. and Herrmann, A. (2020). Moderating Loss Aversion: Loss Aversion Has Moderators, But Reports of Its Death Are Greatly Exaggerated. Journal of Consumer Psychology, 30(3), 407 to 428.
 
 ## 04 AI marketing
 
@@ -4228,7 +4974,7 @@ Three claims, in order of how much trouble each causes.
 
 **Growth comes from penetration.** Brands get bigger by being bought occasionally by many more people, not by being bought more often by the people already buying. When a brand grows, penetration moves first and loyalty follows slightly. Not the other way round.
 
-**Double Jeopardy.** Smaller brands are punished twice, with fewer buyers and slightly lower loyalty from them. This is a regularity across categories and decades, which means your loyalty metrics are largely a function of your size.
+**[Double Jeopardy](/branding/double-jeopardy/).** Smaller brands are punished twice, with fewer buyers and slightly lower loyalty from them. This is a regularity across categories and decades, which means your loyalty metrics are largely a function of your size.
 
 **Distinctiveness beats differentiation.** Buyers do not perceive much meaningful difference between brands and do not look for it. What they do is recognise. So the job is to be noticeable and easy to retrieve, not to be meaningfully distinct on an attribute.
 
